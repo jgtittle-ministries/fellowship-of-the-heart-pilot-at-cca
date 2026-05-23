@@ -1,70 +1,59 @@
 # Fellowship of the Heart — CCA Pilot
 
-*Three series, walked across a year of Tuesday evenings.*
+*The operational expression of the Intentional Journey of the Heart (IJH) framework, prepared for the first Covenant Christian Academy cohort.*
 
-The pilot edition of **Fellowship of the Heart**, the operational expression of the *Intentional Journeys of the Heart* (IJH) framework, prepared for the first **Covenant Christian Academy** cohort beginning Fall 2026.
+**By John G. Tittle**
 
-The pilot is organized as three sequential series the cohort walks together, with shared participant materials supporting all three:
+📖 **Read the site:** **[jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca](https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/)**
 
-| # | Series | Length | Focus |
-|---|---|---|---|
-| 1 | [**Getting Started**](getting-started/README.md) | 10 weeks | The Four Connects — Self, Others, God, Mission |
-| 2 | [**Going Deeper**](going-deeper/README.md) | 12 weeks | Diagnostic, therapeutic, developmental work of IJH Volume 2 |
-| 3 | [**Going Out**](going-out/README.md) | 12 weeks | The body sent — discerning and equipping leaders for new groups |
-
-Read the series in order — each builds on what the cohort has already lived. A cohort that completes only Getting Started has done real work; the deeper series are for those the Spirit prepares to keep walking.
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
-## Shared participant materials
+## What's here
 
-The [`shared/`](shared/README.md) folder holds the participant-facing artifacts used across all three series:
+Three sequential series walked across a year of Tuesday evenings:
 
-- [Personal Heart Journal](shared/personal-heart-journal.md) — the daily companion for the whole journey
-- [Family Conversation Cards](shared/family-conversation-cards.md) — forty cards organized around the Four Connects
-- [Rhythm Card](shared/rhythm-card.md) — the daily/weekly/monthly practice card
-- [Reading List](shared/reading-list.md) — annotated guide for parents, teens, and the curious
+1. **Getting Started** — 10 weeks introducing the Four Connects.
+2. **Going Deeper** — 12 weeks of the diagnostic, therapeutic, and developmental work of IJH Vol 2.
+3. **Going Out** — 12 weeks discerning and equipping leaders to start formation groups of their own.
 
----
+Plus the shared participant materials (Personal Heart Journal, Family Conversation Cards, Rhythm Card, Reading List).
 
-## What each series contains
-
-Every series follows the same shape:
-
-- A **README** opening the series and laying out the weeks.
-- A **Handbook** for the Companion team — the long-form context, the theology, the protocols.
-- **Weekly Companion Lesson Plans** — Quick Reference Card, WATCH FOR, Session at a Glance, Pre-Work, Materials, Detailed Run Sheet, Block-by-Block Scripts, Between-session practice, and the IJH source pointer for each session.
-- A **CHANGELOG** tracking what has shifted between versions.
-
-The lesson plans are written for the Companion team. They are detailed on purpose. A new Companion preparing for a heavy session should not be guessing at what to do when the room goes quiet, when a teen weeps, when a parent tries to fix what they should be receiving. The page is a floor under your feet, not a script you read from.
+The full reading experience is the site, not the repo. Open the [live site](https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/) for the rendered content with navigation, search, and dark/light mode.
 
 ---
 
-## Cadence and logistics
+## Repo layout
 
-- **Series length.** Getting Started is 10 weeks; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across a year.
-- **Session length.** Standard sessions are 90 minutes. Specific commissioning and family-night sessions extend to 120 minutes — flagged in each lesson plan.
-- **Companion team.** A Lead Companion plus a Co-Companion team. Most working weeks use a split-and-merge structure — shared opening and teaching, SPLIT into cohort circles (junior, senior, parent) for the experiential center, MERGE for closing.
-- **Participants.** Parent–teen pairs, individuals, and households. See each series README for the specific fit of that series.
+```
+docs/                          # MkDocs source — the site content
+├── index.md                   # site home
+├── getting-started/           # Series 1: 10 weeks + handbook + pre-cohort guide
+├── going-deeper/              # Series 2: 12 weeks + handbook
+├── going-out/                 # Series 3: 12 weeks + 2 handbooks
+└── shared/                    # participant materials used across all 3 series
+mkdocs.yml                     # site config
+requirements.txt               # build dependencies
+.github/workflows/deploy.yml   # GitHub Actions build + Pages deploy
+```
 
 ---
 
-## Status
+## Build locally
 
-**Curriculum draft, May 2026.** Pilot edition for the first Covenant Christian Academy cycle (Fall 2026 onward). These materials will change as the cohort teaches us where they are right, where they bend, and where they break. Each series has its own CHANGELOG.
+```bash
+pip install -r requirements.txt
+mkdocs serve          # live-reload preview at http://127.0.0.1:8000
+mkdocs build --strict # build to site/, fail on broken links
+```
 
 ---
 
 ## License
 
-Released under [**Creative Commons Attribution-ShareAlike 4.0 International**](https://creativecommons.org/licenses/by-sa/4.0/). Adapt it for your tradition, walk it with your people, keep the resulting work open in the same spirit.
-
-A note on participant content: this license covers the curriculum only. It does not and cannot cover any participant content, journal entries, Discernment Conversation notes, or other cohort material arising from walking the curriculum. Such material remains the property of the participants and is not included in this repository under any license.
+Curriculum content released under [**Creative Commons Attribution-ShareAlike 4.0 International**](https://creativecommons.org/licenses/by-sa/4.0/). See [docs/index.md](docs/index.md) for the full license note (including the carve-out for participant content).
 
 ---
 
-## Contact
-
 John G. Tittle, jgtittle-ministries.
-
-*Further up and further in.*

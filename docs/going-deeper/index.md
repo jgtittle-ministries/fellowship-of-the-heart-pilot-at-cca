@@ -4,7 +4,7 @@
 
 The second of the three Fellowship of the Heart series. Twelve ninety-minute sessions for the cohort the Spirit has prepared to keep walking after Getting Started. The work shifts from introducing the Four Connects to the deeper labor those Connects make possible — naming the heart's knots, learning to confess and co-process inside a Safe-Present-Clear-Intentional container, hearing God together as a body, and beginning to read the cohort's own shadow and gift.
 
-These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards — live in [`../shared/`](../shared/) and continue from Getting Started.
+These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards — live in [`../shared/`](../shared/index.md) and continue from Getting Started.
 
 ---
 
@@ -61,6 +61,6 @@ Going Deeper sessions hold more weight than Getting Started. Read the handbook (
 
 - [Handbook](handbook.md) — the long-form Companion handbook for Going Deeper.
 - [Changelog](CHANGELOG.md) — what has shifted between versions.
-- [Top-level README](../README.md) — the three-series overview.
-- [Getting Started](../getting-started/README.md) — the preceding series.
-- [Going Out](../going-out/README.md) — the series that follows.
+- [Top-level README](../index.md) — the three-series overview.
+- [Getting Started](../getting-started/index.md) — the preceding series.
+- [Going Out](../going-out/index.md) — the series that follows.

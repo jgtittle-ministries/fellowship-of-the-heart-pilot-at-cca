@@ -68,6 +68,6 @@ Same shape as the other two series:
 - [Handbook](handbook.md) — the long-form Going Out Companion handbook.
 - [Inviting Others Handbook](inviting-others-handbook.md) — the follow-on equipping for sent leaders.
 - [Changelog](CHANGELOG.md) — what has shifted between versions.
-- [Top-level README](../README.md) — the three-series overview.
-- [Going Deeper](../going-deeper/README.md) — the preceding series.
-- [Getting Started](../getting-started/README.md) — the foundational series.
+- [Top-level README](../index.md) — the three-series overview.
+- [Going Deeper](../going-deeper/index.md) — the preceding series.
+- [Getting Started](../getting-started/index.md) — the foundational series.

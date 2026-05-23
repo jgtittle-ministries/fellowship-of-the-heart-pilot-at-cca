@@ -31,7 +31,7 @@ A cohort can complete Getting Started using only the Personal Heart Journal and 
 
 ## See also
 
-- [Top-level README](../README.md) — the three-series overview.
-- [Getting Started](../getting-started/README.md) — where these materials are first introduced.
-- [Going Deeper](../going-deeper/README.md) — where the shared rhythm becomes a sustained practice.
-- [Going Out](../going-out/README.md) — where the materials carry into a sent posture.
+- [Top-level README](../index.md) — the three-series overview.
+- [Getting Started](../getting-started/index.md) — where these materials are first introduced.
+- [Going Deeper](../going-deeper/index.md) — where the shared rhythm becomes a sustained practice.
+- [Going Out](../going-out/index.md) — where the materials carry into a sent posture.

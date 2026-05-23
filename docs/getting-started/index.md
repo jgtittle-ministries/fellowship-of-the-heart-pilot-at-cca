@@ -6,7 +6,7 @@ The first of the three Fellowship of the Heart series. Ten ninety-minute session
 
 A cohort that completes Getting Started can stop here and not go further. That ending is honored. *Going Deeper* and *Sent* are for those the Spirit prepares to keep walking.
 
-These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards, and the PROAPT card — live in [`../shared/`](../shared/).
+These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards, and the PROAPT card — live in [`../shared/`](../shared/index.md).
 
 ---
 
@@ -67,7 +67,7 @@ By Week 10 you will not need the page. By the end of *Sent* you may be writing y
 - **Length.** Weeks 1–9 are 90 minutes. Week 10 is 120 minutes (family commissioning night).
 - **Companion team.** A Lead Companion plus a Co-Companion team. Weeks 2–9 use a split-and-merge structure — shared opening and teaching, then SPLIT into cohort circles (junior, senior, parent) for the experiential center, MERGE for closing. Week 1 and Week 10 stay in the shared circle the entire session.
 - **Cohort size.** Sized to support cohort circles of 4–5 in the split weeks.
-- **Participants.** Parent-teen pairs, individuals, and households (see [`../README.md`](../README.md) for the wider fit).
+- **Participants.** Parent-teen pairs, individuals, and households (see [`../index.md`](../index.md) for the wider fit).
 
 ---
 

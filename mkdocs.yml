@@ -1,0 +1,131 @@
+site_name: "Fellowship of the Heart — CCA Pilot"
+site_description: "The pilot edition of Fellowship of the Heart, the operational expression of the Intentional Journeys of the Heart (IJH) framework, prepared for Covenant Christian Academy."
+site_author: John G. Tittle
+site_url: https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/
+repo_url: https://github.com/jgtittle-ministries/fellowship-of-the-heart-pilot-at-cca
+repo_name: jgtittle-ministries/fellowship-of-the-heart-pilot-at-cca
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Source Serif Pro
+    code: Roboto Mono
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - pymdownx.keys
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+
+validation:
+  nav:
+    omitted_files: ignore
+    not_found: warn
+  links:
+    not_found: warn
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - getting-started/index.md
+    - Companion Handbook: getting-started/handbook.md
+    - Pre-Cohort Discernment Guide: getting-started/precohort-discernment-guide.md
+    - "Week 1 — Welcome to the Journey": getting-started/week-01-welcome.md
+    - "Week 2 — The Soil of Your Heart": getting-started/week-02-soil.md
+    - "Week 3 — Telling Your Story": getting-started/week-03-story.md
+    - "Week 4 — Knowing and Being Known": getting-started/week-04-known.md
+    - "Week 5 — Safe and Brave Together": getting-started/week-05-brave.md
+    - "Week 6 — Hearing God in Scripture": getting-started/week-06-proapt.md
+    - "Week 7 — The Garden of Your Heart": getting-started/week-07-garden.md
+    - "Week 8 — Any Doubts?": getting-started/week-08-doubts.md
+    - "Week 9 — What Was Prepared for You": getting-started/week-09-mission.md
+    - "Week 10 — Sending and Blessing": getting-started/week-10-sending.md
+    - Changelog: getting-started/CHANGELOG.md
+  - Going Deeper:
+    - going-deeper/index.md
+    - Companion Handbook: going-deeper/handbook.md
+    - "Week 1 — Welcome Back": going-deeper/week-01-welcome-back.md
+    - "Week 2 — Soils, Returned": going-deeper/week-02-soils.md
+    - "Week 3 — Knots": going-deeper/week-03-knots.md
+    - "Week 4 — Co-Processing": going-deeper/week-04-co-processing.md
+    - "Week 5 — Confession": going-deeper/week-05-confession.md
+    - "Week 6 — PROAPT, Deepened": going-deeper/week-06-proapt.md
+    - "Week 7 — Corporate Listening": going-deeper/week-07-corporate-listening.md
+    - "Week 8 — The Group Hears Itself": going-deeper/week-08-group-hears-itself.md
+    - "Week 9 — Shadow Mission": going-deeper/week-09-shadow-mission.md
+    - "Week 10 — Calling Discernment": going-deeper/week-10-calling-discernment.md
+    - "Week 11 — Where Is Our Cohort": going-deeper/week-11-where-is-our-cohort.md
+    - "Week 12 — Sending and Bridge": going-deeper/week-12-sending-and-bridge.md
+    - Changelog: going-deeper/CHANGELOG.md
+  - Going Out:
+    - going-out/index.md
+    - Companion Handbook: going-out/handbook.md
+    - Inviting Others Handbook: going-out/inviting-others-handbook.md
+    - "Week 1 — Welcome Back / Returning to the Sent Body": going-out/week-01-welcome-back.md
+    - "Week 2 — The Body Sent": going-out/week-02-body-sent.md
+    - "Week 3 — Where Sent": going-out/week-03-where-sent.md
+    - "Week 4 — Daily Tells": going-out/week-04-daily-tells.md
+    - "Week 5 — Household": going-out/week-05-household.md
+    - "Week 6 — Vocational": going-out/week-06-vocational.md
+    - "Week 7 — Third Place": going-out/week-07-third-place.md
+    - "Week 8 — Discernment": going-out/week-08-discernment.md
+    - "Week 9 — The Body Sent Beyond": going-out/week-09-body-sent-beyond.md
+    - "Week 10 — What Going Out Produced": going-out/week-10-what-going-out-produced.md
+    - "Week 11 — Cohort Lands": going-out/week-11-cohort-lands.md
+    - "Week 12 — Long Obedience": going-out/week-12-long-obedience.md
+    - Changelog: going-out/CHANGELOG.md
+  - Shared materials:
+    - shared/index.md
+    - Personal Heart Journal: shared/personal-heart-journal.md
+    - Family Conversation Cards: shared/family-conversation-cards.md
+    - Rhythm Card: shared/rhythm-card.md
+    - Reading List: shared/reading-list.md
+
+copyright: Copyright &copy; John G. Tittle — Licensed under CC BY-SA 4.0
