@@ -73,7 +73,7 @@ By Week 10 you will not need the page. By the end of *Sent* you may be writing y
 
 ## Status
 
-**Curriculum draft v1, May 2026.** Pilot edition for the first Covenant Christian Academy cycle (Fall 2026). These materials will change as the cohort teaches us where they are right, where they bend, and where they break. See [`../CHANGELOG.md`](../CHANGELOG.md) for what shifts between versions, and [`../CONTRIBUTING.md`](../CONTRIBUTING.md) for how to send back what your cohort taught you.
+**Curriculum draft v1, May 2026.** Pilot edition for the first Covenant Christian Academy cycle (Fall 2026). These materials will change as the cohort teaches us where they are right, where they bend, and where they break. See [`CHANGELOG.md`](CHANGELOG.md) for what shifts between versions.
 
 ---
 
