@@ -694,6 +694,8 @@ The Rhythm Card practices continue across the interlude. Standing pairs that cho
 
 *— Hebrews 12:1–2 (ESV)*
 
+*The central interpretive move below — **weight** (laid aside) vs. **sin** (confessed), mapped here to diagnostic work in Wks 2–3 vs. confession in Wk 5 — is grounded in IJH Vol 2 Exp 2 (Emotional Knots), where the weight/sin distinction is named, and extended in Vol 2 Exp 4 (Confession and Restoration), where its tool-selection implication is drawn out. The verse-by-verse extension into the other clauses (Looking to Jesus, the joy set before, etc.) is FotH operational architecture built on that V2.Exp2 + V2.Exp4 foundation.*
+
 | **Clause** | **Wks** | **Practice** |
 | --- | --- | --- |
 | Cloud of witnesses | 1, 4, 11 | The cohort itself — onboarding, co-processing, honest assessment. |
