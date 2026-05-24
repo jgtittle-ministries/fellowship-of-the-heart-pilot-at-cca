@@ -18,7 +18,24 @@ You are at the front door of *Fellowship of the Heart*. This page is the short a
 
 Plus the [shared participant materials](shared/index.md) — the Personal Heart Journal, the Family Conversation Cards, the Rhythm Card, the Reading List — that walk alongside all three series.
 
-The *Intentional Journey of the Heart* (IJH) sits behind FotH. IJH is the six-volume record of how God's love actually works in a human heart — the operative laws, the diagnostics for where you are, the practices that move you forward. FotH is what those volumes look like when a cohort actually walks them. IJH is the *what* and the *why*; FotH is the *how* and the *with whom*. The IJH site is at [jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/).
+The *Intentional Journey of the Heart* (IJH) sits behind FotH. IJH is the six-volume record of how God's love actually works in a human heart — the operative laws, the diagnostics for where you are, the practices that move you forward. FotH is what those volumes look like when a cohort actually walks them. IJH is the *what* and the *why*; FotH is the *how* and the *with whom*.
+
+The six volumes:
+
+- **Volume 1: Laws of the Spirit** — the 38 Foundational Laws of wide consent (cause-and-effect relationships affirmed across mainstream Christian tradition), plus eight personal Explorations of less-mapped territory. The structural and operational laws underneath the spiritual life.
+- **Volume 2: Knowing to Doing** — the diagnostic, therapeutic, and developmental work — the Heart Soil, the Emotional Knots, the Container, the Tool Map, PROAPT, the Four Connects, the Training Plan. FotH is the cohort-walked operational form of Vol 2 most directly.
+- **Volume 3: Spiritual Dynamics** — the most speculative of the volumes; attempts to translate Vol 1's structural laws into more formal mathematical and dynamical language. Skippable on a first pass unless you enjoy that frame.
+- **Volume 4: Testing Framework** — how to test all of this in real life, at individual, small-group, and larger-study scales.
+- **Volume 5: References** — annotated bibliography, the Periodic Table of Spiritual Laws (the catalog organizer), the Formation Documents (the academic-register companion papers, including MSFIG), and the operational tool protocols Companions deploy in sessions.
+- **Volume 6: Governance** — the framework under which the work is stewarded, extended, and corrected by others beyond the original author. The institutional layer that helps the work outlast its author.
+
+Every claim in IJH carries one of three confidence tiers, named explicitly so you can read with the right posture:
+
+- **Clearly Taught** — multi-author, multi-Testament scriptural support; broadly accepted across mainstream Christian traditions. High-confidence claims you can operate in.
+- **Reasonably Inferred** — derivable from scripture by sound reasoning and consistent with experience, but not stated explicitly or widely enough to clear the top tier. Held loosely; needs community testing.
+- **Speculative** — interesting enough to pursue, not yet solid enough to build on.
+
+The IJH site is at [jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/); the [*Read Me First*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/read-me-first/) is the substantive front door.
 
 ---
 
