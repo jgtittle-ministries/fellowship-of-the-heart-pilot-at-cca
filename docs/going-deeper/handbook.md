@@ -44,7 +44,7 @@ Version 1.1
 
 **Appendix B — The Knot Map (Vol 2 Exp 2)**
 
-**Appendix C — The Five-Level Group Taxonomy (Vol 2 Exp 10)**
+**Appendix C — The Five-Level Group Taxonomy (MSFIG — IJH Vol 5 Formation Document)**
 
 **Appendix D — Pilot-Edition Referral List**
 
@@ -726,7 +726,7 @@ Going Deeper Wk 3 names the knot. The release is the Spirit’s work; the cohort
 
 What Going Deeper does: the participant carries the named knot across the rest of Going Deeper, brings it to the standing pair for ongoing reference, brings it to confession in Wk 5 if applicable, listens for the lie at the root in Wk 6’s extended PROAPT, and engages it in Wk 9’s shadow conversation if relevant.
 
-**Appendix C — The Five-Level Group Taxonomy (Vol 2 Exp 10)**
+**Appendix C — The Five-Level Group Taxonomy (MSFIG — IJH Vol 5 Formation Document)**
 
 A note on the three Level taxonomies in the IJH corpus.
 
@@ -734,7 +734,7 @@ Three different five-level frameworks operate in the FotH curriculum, and they s
 
 Affective Taxonomy (educational psychology; Vol 2 Exp 7). Tracks an individual participant’s maturity of engagement: Receiving → Responding → Valuing → Organization → Characterization. Used in Getting Started to set per-cohort outcomes and across Going Deeper to read individual development.
 
-Group Level taxonomy (Vol 2 Exp 10) — this appendix. Tracks a cohort’s culture as a body: Level 1 co-presence → Level 2 information-sharing → Level 3 real work → Level 4 body that hears together → Level 5 apostolic team sent together. Used in GD Wk 11 (honest cohort assessment) and Going Out Wk 11.
+Group Level taxonomy (MSFIG; cf. Vol 2 Exp 8 + Exp 9) — this appendix. Tracks a cohort’s culture as a body: Level 1 co-presence → Level 2 information-sharing → Level 3 real work → Level 4 body that hears together → Level 5 apostolic team sent together. Used in GD Wk 11 (honest cohort assessment) and Going Out Wk 11.
 
 Leader Level taxonomy (Going Out Handbook Section 4). Tracks a facilitator’s development across the years following first being sent to lead: from Receiving the Call through to multi-generational, self-replicating leadership. Used only in Going Out.
 

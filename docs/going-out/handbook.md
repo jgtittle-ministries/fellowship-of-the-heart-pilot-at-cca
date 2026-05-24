@@ -40,7 +40,7 @@ Three different five-level frameworks operate in the FotH curriculum, and they s
 
 Affective Taxonomy (educational psychology; Vol 2 Exp 7). Tracks an individual participant’s maturity of engagement: Receiving → Responding → Valuing → Organization → Characterization. Used in Getting Started to set per-cohort outcomes and across Going Deeper to read individual development.
 
-Group Level taxonomy (Vol 2 Exp 10). Tracks a cohort’s culture as a body: Level 1 co-presence → Level 2 information-sharing → Level 3 real work → Level 4 body that hears together → Level 5 apostolic team sent together. Used in Going Deeper Wk 11 (honest cohort assessment) and Going Out Wk 11.
+Group Level taxonomy (MSFIG; cf. Vol 2 Exp 8 + Exp 9). Tracks a cohort’s culture as a body: Level 1 co-presence → Level 2 information-sharing → Level 3 real work → Level 4 body that hears together → Level 5 apostolic team sent together. Used in Going Deeper Wk 11 (honest cohort assessment) and Going Out Wk 11.
 
 Leader Level taxonomy (this handbook, Section 4). Applies the same five-stage frame to the LEADER — the developmental progression by which a Going Deeper graduate becomes a mature, multi-generational Companion. Used throughout Going Out: the discernment phase reads incoming Leader Level; the equipping phase prepares for movement; the launch phase sends at Leader Level 2 with conditions in place for movement toward Level 3.
 
@@ -54,7 +54,7 @@ When a session document says “Level 3,” it is naming one of these three. In 
 
 ## The big idea
 
-From Vol 2 Exp 10 of IJH: “Group Level 5: Former members lead new groups that exhibit the same hearing culture, not by following a manual but by having been formed by it. The Level 5 culture is portable. It replicates itself through the people it has formed.”
+From MSFIG of IJH: “Group Level 5: Former members lead new groups that exhibit the same hearing culture, not by following a manual but by having been formed by it. The Level 5 culture is portable. It replicates itself through the people it has formed.”
 
 Going Out is the operationalization of this claim. The series equips people who have been formed by Getting Started + Going Deeper to start formation groups of their own, in their own rooms, shaped by the Spirit for those specific rooms. The architecture is Acts 13: the Spirit speaks in a worshiping, fasting, submitted community; the community confirms what the Spirit said; the community lays hands and sends.
 
@@ -206,7 +206,7 @@ The handbook does not assume CCA has confirmed support for teen-led peer formati
 
 # Section 4 — The Affective Taxonomy Applied to Leadership
 
-Vol 2 Exp 7 of IJH names a five-stage Affective Taxonomy for the individual hearing faculty: Receiving, Responding, Valuing, Organization, Characterization. Vol 2 Exp 10 applies the same five-stage frame to the GROUP as a collective. This section applies the same five-stage frame to the LEADER — the specific developmental progression by which a Going Deeper graduate becomes a mature, multi-generational Companion who reproduces formation culture.
+Vol 2 Exp 7 of IJH names a five-stage Affective Taxonomy for the individual hearing faculty: Receiving, Responding, Valuing, Organization, Characterization. MSFIG applies the same five-stage frame to the GROUP as a collective. This section applies the same five-stage frame to the LEADER — the specific developmental progression by which a Going Deeper graduate becomes a mature, multi-generational Companion who reproduces formation culture.
 
 This is new theological work for the IJH project. The five Leader Levels are extrapolated from the Affective Taxonomy as it is established in Vol 2 and Vol 5. They are presented here as a working frame; the Council and the broader IJH community should test the frame across the next several Going Out cycles.
 
@@ -280,7 +280,7 @@ This is new theological work for the IJH project. The five Leader Levels are ext
 
 **Critical mark: their groups now produce people who are themselves being called to start groups. The Antioch pattern in second-generation form. They have stewarded the discernment-and-sending of called leaders from within their own group, in the way the CCA team is doing for them now.**
 
-**This is the level at which Vol 2 Exp 10’s self-replicating culture becomes operationally visible — not just in the leader’s first group, but in the second-generation groups their first group has produced.**
+**This is the level at which MSFIG’s self-replicating culture becomes operationally visible — not just in the leader’s first group, but in the second-generation groups their first group has produced.**
 
 **State of mature, multi-generation leaders — typically 7+ years of leading and at least one full cycle of having sent their own leaders out. Some leaders never reach this level; that is honest.**
 

@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Between-session practice.** The Daily / Weekly / Monthly Rhythm Card resumes. New this week: each participant picks ONE of the four Connects to attend more carefully across the next 11 weeks.
 
-**IJH source.** Vol 2 Exp 8 (Container conditions, re-installed); Vol 2 Exp 10 (group taxonomy as the working frame for the series); Hebrews 12:1–2 as the formation arc; Vol 1 Exp 1 (the hearing chain reaffirmed).
+**IJH source.** Vol 2 Exp 8 (Container conditions, re-installed); MSFIG (group taxonomy as the working frame for the series); Hebrews 12:1–2 as the formation arc; Vol 1 Exp 1 (the hearing chain reaffirmed).
 
 ## WATCH FOR (Week 1 specific risks)
 

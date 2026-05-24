@@ -34,7 +34,7 @@ Week 12
 
 **Between-session practice (the interlude).** The Rhythm Card continues across the the interlude before Going Out begins. The standing pair continues; pairs may evolve into the Going Out series or release at the close of Going Deeper. Each member brings the question from H11.3 into the Going Out series; Going Out Wk 1 will engage it.
 
-**IJH source.** Vol 6 (sending and bridge architecture); Hebrews 12:1–2 closing (the verse that opened Going Deeper now closes it); Vol 2 Exp 10 (the cohort sent at whatever level it actually reached).
+**IJH source.** Vol 6 (sending and bridge architecture); Hebrews 12:1–2 closing (the verse that opened Going Deeper now closes it); MSFIG (the cohort sent at whatever level it actually reached).
 
 ## WATCH FOR (Week 12 specific risks — read twice)
 

@@ -34,7 +34,7 @@ Week 8
 
 **Between-session practice.** Whatever the cohort discerned tonight is integrated through the week. If a specific shared engagement was named: each member sits with it; the standing pair walks the cost of yes; the body re-engages at Wk 9. If no shared engagement: each member returns to individual sent-context, with the cohort’s honest discernment as the foundation. Daily noticing question: ‘What is the body of cohort-witnesses asking of me this week?’ Standing-pair check-in: ‘Where do you land on what the cohort named?’
 
-**IJH source.** Acts 13:1–3 (Antioch sending); 1 Cor 14:29 (community testing of what is heard); Vol 5 Barnabas (the body that worshipped, fasted, and was sent — the architectural anchor); Vol 2 Exp 9 (Community as Amplifier); Vol 2 Exp 10 (the five-level group taxonomy — tonight is a Level 4 attempt, the body hearing for the body); Going Deeper Wk 10 (the Acts 13 discernment for one Discerner, scaled tonight to the cohort itself).
+**IJH source.** Acts 13:1–3 (Antioch sending); 1 Cor 14:29 (community testing of what is heard); Vol 5 Barnabas (the body that worshipped, fasted, and was sent — the architectural anchor); Vol 2 Exp 9 (Community as Amplifier); MSFIG (the five-level group taxonomy — tonight is a Level 4 attempt, the body hearing for the body); Going Deeper Wk 10 (the Acts 13 discernment for one Discerner, scaled tonight to the cohort itself).
 
 ## WATCH FOR (Week 8 specific risks — read twice)
 

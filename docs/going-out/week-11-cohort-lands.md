@@ -34,7 +34,7 @@ Week 11
 
 **Between-session practice.** Daily noticing question: ‘What does the cohort’s honest landing free in me, and what does it ask of me, in the long obedience after the formal series ends?’ Standing-pair check-in this week: ‘What blessing do I want to speak over my pair partner at Wk 12, given what we have walked together?’ (Wk 12 prep — each member arrives ready to bless their pair partner.) The team will distribute the H12.1 sending card during the week as part of pastoral 1:1s.
 
-**IJH source.** Vol 2 Exp 10 (the five-level group taxonomy: Social Fellowship; Information Sharing; Genuine Care; Hearing as Body; Sent as Body); 1 Cor 12 (the body); Acts 2:42–47 (the body’s concrete shared life); Going Deeper Wk 11 (the architectural template tonight scales).
+**IJH source.** MSFIG (the five-level group taxonomy: Social Fellowship; Information Sharing; Genuine Care; Hearing as Body; Sent as Body); 1 Cor 12 (the body); Acts 2:42–47 (the body’s concrete shared life); Going Deeper Wk 11 (the architectural template tonight scales).
 
 ## WATCH FOR (Week 11 specific risks — read twice)
 
@@ -82,7 +82,7 @@ Week 11
 
 **Why this session, this week**
 
-Vol 2 Exp 10 names a five-level taxonomy for groups: Social Fellowship (Level 1); Information Sharing (Level 2); Genuine Care (Level 3); Hearing as Body (Level 4); Sent as Body (Level 5). Most groups never move beyond Level 2; Level 3 is significant; Level 4 is rare and requires sustained corporate practice; Level 5 is exceptional and usually emerges from Level 4 over time. The taxonomy is the working frame for tonight’s honest cohort assessment.
+MSFIG names a five-level taxonomy for groups: Social Fellowship (Level 1); Information Sharing (Level 2); Genuine Care (Level 3); Hearing as Body (Level 4); Sent as Body (Level 5). Most groups never move beyond Level 2; Level 3 is significant; Level 4 is rare and requires sustained corporate practice; Level 5 is exceptional and usually emerges from Level 4 over time. The taxonomy is the working frame for tonight’s honest cohort assessment.
 
 Going Deeper Wk 11 walked the cohort through the taxonomy honestly at the close of Going Deeper. The honest assessment then was the foundation for Going Out’s spring — the cohort started where it actually landed, not where it imagined itself to be. Tonight repeats the architecture, this time across the full formation arc (Going Deeper plus Going Out). Same structure, deeper engagement: how did the body of cohort members actually develop across two formal series, plus the interlude practice between?
 
@@ -104,7 +104,7 @@ Wk 12 next Tuesday closes the formal series with sending. Tonight’s honest lan
 
 **•** Wk 10 individual integration; the body of integrations is the substrate for tonight’s body-level reading.
 
-**•** Vol 2 Exp 10’s five-level taxonomy as the working frame.
+**•** MSFIG’s five-level taxonomy as the working frame.
 
 **•** All Rhythm Card practices.
 
@@ -118,7 +118,7 @@ First — your own honest cohort assessment. Where do you sense the cohort actua
 
 Second — review Going Deeper Wk 11’s honest assessment from Going Deeper. Going Deeper reading was [X]; Going Out will refine, confirm, or reveal that Going Deeper was generous or harsh. Hold both readings together.
 
-Third — sit with Vol 2 Exp 10’s five-level taxonomy. The Level 3 / Level 4 distinction is where most cohort assessments land; review the criteria honestly.
+Third — sit with MSFIG’s five-level taxonomy. The Level 3 / Level 4 distinction is where most cohort assessments land; review the criteria honestly.
 
 **Team pre-work**
 
@@ -126,7 +126,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **1.** Each Companion shares their honest cohort assessment. The team holds the range; the team does NOT pre-decide. (20 min)
 
-**2.** Walk Vol 2 Exp 10’s taxonomy together. Read aloud; discuss criteria for each level. (15 min)
+**2.** Walk MSFIG’s taxonomy together. Read aloud; discuss criteria for each level. (15 min)
 
 **3.** Cohort review. Each Cohort Companion reports their cohort’s likely reading; the team discusses likely cross-cohort divergence. (20 min)
 
@@ -224,7 +224,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **•** Notice what 1 Cor 12 establishes. The body is one (singular). The members are many. The body has agency — ‘if one member suffers, ALL suffer together.’ The body has corporate experience that is not reducible to individual experience. Tonight’s assessment honors that the body has a level, not just a collection of individuals at varying levels.
 
-**•** Vol 2 Exp 10 names five levels groups can occupy. The taxonomy is empirically grounded — most groups never move beyond Level 2; Level 3 is significant; Level 4 is rare; Level 5 emerges from Level 4 over time.
+**•** MSFIG names five levels groups can occupy. The taxonomy is empirically grounded — most groups never move beyond Level 2; Level 3 is significant; Level 4 is rare; Level 5 emerges from Level 4 over time.
 
 **•** The body’s level is the LOWEST STABLE COMMON PRACTICE, not the average. A cohort with most members at Level 3 and a few at Level 4 is a Level 3 body. The Level 4 members are gifts to the body; the body’s shared culture is what the body actually IS.
 
@@ -498,7 +498,7 @@ Going Deeper landing was: \_\_\_\_\_\_\_\_\_\_\_ Spring extends fall how: confir
 
 **Handout H11.2 — Vol 2 Five-Level Taxonomy Reference**
 
-*The detailed criteria for each level. From IJH Vol 2 Exp 10.*
+*The detailed criteria for each level. From IJH MSFIG.*
 
 **Level 1 — Social Fellowship**
 

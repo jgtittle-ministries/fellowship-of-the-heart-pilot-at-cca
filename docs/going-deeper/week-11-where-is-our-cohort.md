@@ -34,7 +34,7 @@ Week 11
 
 **Between-session practice.** Each member writes a 1-page personal reflection: where I have moved, where I have not, what was the surprise, what is the question I am carrying into Going Out. Bring it to Wk 12’s re-commissioning.
 
-**IJH source.** Vol 2 Exp 10 (5-level group taxonomy as the assessment frame); Vol 1 Exp 1 (Word→Hearing→Faith chain as the test — has the chain operated in this cohort?); Hebrews 12:1–2 returning.
+**IJH source.** MSFIG (5-level group taxonomy as the assessment frame); Vol 1 Exp 1 (Word→Hearing→Faith chain as the test — has the chain operated in this cohort?); Hebrews 12:1–2 returning.
 
 ## WATCH FOR (Week 11 specific risks — read twice)
 
@@ -78,7 +78,7 @@ Week 11
 
 **Why this session, this week**
 
-From Vol 2 Exp 10 of IJH: ‘Most groups never reach Level 4. Most that do reach it briefly and slip back. The honest assessment of where a cohort actually landed is the precondition for the next leg of the journey — cohorts that pretend to be at Level 5 when they are at Level 3 will collapse the moment the next stretch demands what Level 5 capacity supports.’
+From MSFIG of IJH: ‘Most groups never reach Level 4. Most that do reach it briefly and slip back. The honest assessment of where a cohort actually landed is the precondition for the next leg of the journey — cohorts that pretend to be at Level 5 when they are at Level 3 will collapse the moment the next stretch demands what Level 5 capacity supports.’
 
 Going Deeper has run eleven weeks. Each week attempted specific work; each week landed somewhere on the spectrum between what was hoped and what was possible given the cohort’s actual capacity in that moment. Some weeks produced more than expected; some less; both happen in formation. The integration question tonight is not which weeks succeeded, but where the cohort itself is now — what capacity it has built, what is still emerging, what is still missing.
 
@@ -533,7 +533,7 @@ Four handouts for Wk 11.
 
 **Handout H11.1 — Five-Level Taxonomy Reference**
 
-*From IJH Vol 2 Exp 10. The same content as Wk 8’s H8.1, returning here for the assessment.*
+*From IJH MSFIG. The same content as Wk 8’s H8.1, returning here for the assessment.*
 
 **The five levels**
 

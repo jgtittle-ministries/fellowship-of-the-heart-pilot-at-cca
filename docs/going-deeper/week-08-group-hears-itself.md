@@ -34,7 +34,7 @@ Week 8
 
 **Between-session practice.** Each member journals what was heard about the cohort and what they themselves received from being part of what was heard. Standing-pair check-in this week explicitly: ‘What did the cohort hear about itself, and how does that land in me?’
 
-**IJH source.** Vol 2 Exp 10 (the 5-level group taxonomy — Level 4 is hearing-as-a-body, 75% confidence as a developmental ceiling for most cohorts); Vol 1 Exp 1 (Word→Hearing→Faith chain in corporate frame); Vol 2 Exp 9 (Community as Amplifier — the danger named here is most acute).
+**IJH source.** MSFIG (the 5-level group taxonomy — Level 4 is hearing-as-a-body, 75% confidence as a developmental ceiling for most cohorts); Vol 1 Exp 1 (Word→Hearing→Faith chain in corporate frame); Vol 2 Exp 9 (Community as Amplifier — the danger named here is most acute).
 
 ## WATCH FOR (Week 8 specific risks — read twice)
 
@@ -82,9 +82,9 @@ Week 8
 
 **Why this session, this week**
 
-Vol 2 Exp 10 of IJH names a five-level taxonomy for groups: Level 1 — people in the same room. Level 2 — people who know each other and share information. Level 3 — people who do real work together (the cohort circle level, where most of Going Deeper has operated). Level 4 — a body that hears together; the group has agency, and the Spirit speaks to it as a unit. Level 5 — an apostolic team that is sent together (the Acts 13 reality, which Wk 10 will engage).
+MSFIG of IJH names a five-level taxonomy for groups: Level 1 — people in the same room. Level 2 — people who know each other and share information. Level 3 — people who do real work together (the cohort circle level, where most of Going Deeper has operated). Level 4 — a body that hears together; the group has agency, and the Spirit speaks to it as a unit. Level 5 — an apostolic team that is sent together (the Acts 13 reality, which Wk 10 will engage).
 
-From Vol 2 Exp 10: ‘Most groups never reach Level 4. Most that do reach it briefly and slip back. Level 4 is not a permanent state; it is a developmental capacity that becomes more frequent and easier to enter as a body matures. The diagnostic is whether the group can hear something specific, weigh it together, and act on it without dissolving into individual reactions.’ The 75% confidence rating reflects strong New Testament grounding (Acts 13:1–3, Acts 15, Revelation 2–3) plus consistent observation in formation communities, with the caveat that Level 4 is hard to test from outside and easy to confuse with Level 3 plus enthusiasm.
+From MSFIG: ‘Most groups never reach Level 4. Most that do reach it briefly and slip back. Level 4 is not a permanent state; it is a developmental capacity that becomes more frequent and easier to enter as a body matures. The diagnostic is whether the group can hear something specific, weigh it together, and act on it without dissolving into individual reactions.’ The 75% confidence rating reflects strong New Testament grounding (Acts 13:1–3, Acts 15, Revelation 2–3) plus consistent observation in formation communities, with the caveat that Level 4 is hard to test from outside and easy to confuse with Level 3 plus enthusiasm.
 
 Tonight is the cohort’s explicit attempt at Level 4. The architecture is Revelation 2–3. In each of the seven letters, the Spirit addresses a specific body — the church at Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea — with a specific structure: I know (the Spirit knows the body’s real condition); a specific commendation (what is true and good); a specific critique (where the body has drifted); a specific call (what needs to change); a specific promise (what overcoming looks like). Tonight’s cohort listening uses this frame as a working format — not because we expect a chapter of Revelation to materialize, but because the structure of the Spirit’s address to a body has been given to us, and the cohort can listen for an analogue.
 
@@ -102,7 +102,7 @@ Wk 6 was individual hearing; Wk 7 was corporate hearing for one Bringer; Wk 8 is
 
 **•** Wk 7 (Corporate listening prayer) — the cohort listened together for the Bringer’s question. Tonight uses the same architecture for the cohort itself.
 
-**•** Vol 2 Exp 10 (group taxonomy). Tonight is the explicit Level 4 attempt referenced briefly in Wk 1’s teaching about ‘what going deeper actually means.’
+**•** MSFIG (group taxonomy). Tonight is the explicit Level 4 attempt referenced briefly in Wk 1’s teaching about ‘what going deeper actually means.’
 
 **•** Hebrews 12:1–2 — ‘looking to Jesus.’ Wks 6, 7, 8 are the practical work of the looking-to-Jesus clause; tonight closes the block.
 
@@ -130,7 +130,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **2.** Walk Revelation 2–3 structure together. Read one letter aloud (Ephesus or Laodicea is most useful). Identify the five elements. Make sure the team has the same vocabulary the cohort will use. (15 min)
 
-**3.** Walk Vol 2 Exp 10 (the 5-level taxonomy). Each Companion names where they think the cohort currently sits and what they are watching for tonight. (10 min)
+**3.** Walk MSFIG (the 5-level taxonomy). Each Companion names where they think the cohort currently sits and what they are watching for tonight. (10 min)
 
 **4.** Walk the run sheet, especially Block 5 (surfacing) and Block 6 (integration). The Lead Companion’s discernment role in Block 6 is the team’s critical concern; team rehearses how the lead might reflect patterns and how the cohort weighs. (15 min)
 
@@ -260,7 +260,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **•** This is the architecture for what we are attempting tonight. We do not expect a chapter of Revelation to materialize in the room. We expect that the Spirit, who has spoken to bodies in the New Testament with this structure, may speak to our cohort tonight in something that resembles parts of this structure. Maybe the I-know clause comes clear; maybe a commendation surfaces; maybe a critique. Whatever surfaces, we listen, contribute, weigh.
 
-## The five-level group taxonomy (Vol 2 Exp 10)
+## The five-level group taxonomy (MSFIG)
 
 **LEVEL 1 — People in the same room. Co-presence without acknowledgment.**
 
@@ -530,7 +530,7 @@ Four handouts for Wk 8.
 
 **Handout H8.1 — Group Level Taxonomy + Architecture**
 
-*From IJH Vol 2 Exp 10. Carry this card; the taxonomy is the working frame for Wk 11’s honest cohort assessment.*
+*From IJH MSFIG. Carry this card; the taxonomy is the working frame for Wk 11’s honest cohort assessment.*
 
 **The five levels of group formation**
 

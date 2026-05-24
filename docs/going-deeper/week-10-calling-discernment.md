@@ -34,7 +34,7 @@ Week 10
 
 **Between-session practice.** Each member journals what came to them for the Discerner that they did not speak aloud. The Discerner journals daily across a longer integration window — typically 4–6 weeks — because callings are walked into, not decided in 90 minutes. Standing-pair check-in this week is explicit: ‘What did the cohort hear for the Discerner, and what is it teaching us about our own calling?’
 
-**IJH source.** Vol 4 (calling and mission); Vol 2 Exp 10 (5-level taxonomy — Level 5 is apostolic team that sends, the architectural target tonight, 70% confidence); Vol 1 Exp 1 (corporate hearing for a specific member); Acts 13 as the central New Testament case.
+**IJH source.** Vol 4 (calling and mission); MSFIG (5-level taxonomy — Level 5 is apostolic team that sends, the architectural target tonight, 70% confidence); Vol 1 Exp 1 (corporate hearing for a specific member); Acts 13 as the central New Testament case.
 
 ## WATCH FOR (Week 10 specific risks — read twice)
 
@@ -84,7 +84,7 @@ Week 10
 
 Acts 13:1–3 names what is, structurally, the most significant moment in the establishment of the Gentile mission. The church at Antioch had a small group of prophets and teachers — Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (a member of the court of Herod the tetrarch), and Saul. Five named people. They were worshiping and fasting; the Spirit said ‘set apart for me Barnabas and Saul for the work to which I have called them’; the body fasted and prayed; they laid hands on them and sent them off.
 
-From Vol 4 (and the Vol 2 Exp 10 group taxonomy): this is Level 5 group formation. A body that hears the Spirit speak about specific members of the body, weighs what was heard, and acts on it. Acts 13 is the New Testament archetype of corporate calling discernment. Acts 15 (the Jerusalem Council) is the related case where the body discerns a doctrinal question through the same architecture — they listened to what God had been doing, weighed scripture, and concluded ‘it has seemed good to the Holy Spirit and to us.’ Both texts assume the body has the capacity to discern together.
+From Vol 4 (and the MSFIG group taxonomy): this is Level 5 group formation. A body that hears the Spirit speak about specific members of the body, weighs what was heard, and acts on it. Acts 13 is the New Testament archetype of corporate calling discernment. Acts 15 (the Jerusalem Council) is the related case where the body discerns a doctrinal question through the same architecture — they listened to what God had been doing, weighed scripture, and concluded ‘it has seemed good to the Holy Spirit and to us.’ Both texts assume the body has the capacity to discern together.
 
 Wk 10 attempts the Antioch architecture for ONE cohort member — the Discerner — whose emerging calling is at a discernment point. The pilot cohort is unlikely to be at Level 5 sustainably; we are attempting it tonight for one specific moment. The honest aim is to enact the architecture, with humility about what we can produce — and to give the Discerner a real corporate moment of discernment that will inform their integration over the following weeks.
 
