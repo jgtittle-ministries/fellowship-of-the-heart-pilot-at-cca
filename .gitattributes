@@ -1,0 +1,16 @@
+# Line-ending policy: LF in the repository, native on checkout.
+# Eliminates CRLF/LF mixed-state issues that otherwise produce phantom
+# diffs between Windows clones (especially the dev/prod mirror audit).
+* text=auto
+
+# Binary content: no line-ending or diff transformations
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.woff binary
+*.woff2 binary
