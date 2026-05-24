@@ -42,7 +42,7 @@ Version 1.1
 
 **Appendix A — Hebrews 12 Architecture Across the Twelve Weeks**
 
-**Appendix B — The Knot Map (Vol 2 Exp 2)**
+**Appendix B — The Knot Map (Vol 2 Exp 2: Emotional Knots)**
 
 **Appendix C — The Five-Level Group Taxonomy (MSFIG — IJH Vol 5 Formation Document)**
 
@@ -706,7 +706,7 @@ The Rhythm Card practices continue across the interlude. Standing pairs that cho
 | The right hand of God | (eschatological frame) | The end the work points toward — not now; the trajectory. |
 | Finishing well | 11, 12 | Honest cohort assessment, sending, bridge to the Going Out series. |
 
-**Appendix B — The Knot Map (Vol 2 Exp 2)**
+**Appendix B — The Knot Map (Vol 2 Exp 2: Emotional Knots)**
 
 *The four kinds of emotional knot the cohort engages in Wk 3 and continues to walk across the rest of Going Deeper. Each knot has a characteristic entry point; no tool releases a knot apart from Spirit-delivered truth.*
 

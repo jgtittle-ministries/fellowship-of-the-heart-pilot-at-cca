@@ -14,7 +14,7 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 |---|---|---|
 | 1 | [Welcome Back](week-01-welcome-back.md) | Re-establish the container; Hebrews 12 as the series anchor |
 | 2 | [Soils, Returned](week-02-soils.md) | The Mark 4 soils, deeper: what the year revealed |
-| 3 | [Knots](week-03-knots.md) | The Knot Map (Vol 2 Exp 2) — naming what binds |
+| 3 | [Knots](week-03-knots.md) | The Knot Map (Vol 2 Exp 2: Emotional Knots) — naming what binds |
 | 4 | [Co-Processing](week-04-co-processing.md) | The container as therapeutic space; the working partner |
 | 5 | [Confession](week-05-confession.md) | James 5; the rhythm of confession and restoration |
 | 6 | [PROAPT, Deepened](week-06-proapt.md) | Hearing God in scripture as a sustained practice |
