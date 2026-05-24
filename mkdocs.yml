@@ -73,6 +73,7 @@ validation:
 
 nav:
   - Home: index.md
+  - "Start here": start-here.md
   - Getting Started:
     - getting-started/index.md
     - Companion Handbook: getting-started/handbook.md
