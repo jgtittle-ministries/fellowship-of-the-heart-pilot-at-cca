@@ -19,7 +19,7 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 | 5 | [Confession](week-05-confession.md) | James 5; the rhythm of confession and restoration |
 | 6 | [PROAPT, Deepened](week-06-proapt.md) | Hearing God in scripture as a sustained practice |
 | 7 | [Corporate Listening](week-07-corporate-listening.md) | The cohort hearing God together |
-| 8 | [The Group Hears Itself](week-08-group-hears-itself.md) | The Five-Level Group Taxonomy (Vol 2 Exp 10) |
+| 8 | [The Group Hears Itself](week-08-group-hears-itself.md) | The Five-Level Group Taxonomy — the cohort assessed as a body |
 | 9 | [Shadow Mission](week-09-shadow-mission.md) | What the cohort is avoiding; the work of facing it |
 | 10 | [Calling Discernment](week-10-calling-discernment.md) | What is being formed in each member |
 | 11 | [Where Is Our Cohort](week-11-where-is-our-cohort.md) | Honest cohort assessment at the Group Level |
@@ -51,7 +51,7 @@ The format is the same as Getting Started:
 - **Detailed Run Sheet** — minute-by-minute flow for the session.
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them.
 - **Between-session practice** — the daily and weekly rhythm participants carry.
-- **IJH source** — where the material lives in *Intentional Journeys of the Heart*.
+- **IJH source** — where the material lives in *Intentional Journey of the Heart*.
 
 Going Deeper sessions hold more weight than Getting Started. Read the handbook (especially Sections 3, 5, and 6) before the series begins. Re-read the **WATCH FOR** and **Crisis Contingencies** sections of each week before walking into the room.
 

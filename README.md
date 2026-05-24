@@ -1,6 +1,6 @@
 # Fellowship of the Heart — CCA Pilot
 
-*The operational expression of the Intentional Journey of the Heart (IJH) framework, prepared for the first Covenant Christian Academy cohort.*
+*The operational expression of the Intentional Journey of the Heart (IJH) framework, prepared for the first Covenant Christian Academy of Warrenton cohort.*
 
 **By John G. Tittle**
 

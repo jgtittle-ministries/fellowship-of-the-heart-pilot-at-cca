@@ -59,7 +59,7 @@ Same shape as the other two series:
 - **Detailed Run Sheet** — minute-by-minute flow.
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them.
 - **Between-session practice** — the daily and weekly rhythm.
-- **IJH source** — where the material lives in *Intentional Journeys of the Heart*.
+- **IJH source** — where the material lives in *Intentional Journey of the Heart*.
 
 ---
 

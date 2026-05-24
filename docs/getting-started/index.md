@@ -4,7 +4,7 @@
 
 The first of the three Fellowship of the Heart series. Ten ninety-minute sessions — Week 10 runs to two hours — that introduce the **Four Connects** (connecting with **Self**, with **Others**, with **God**, and with **Mission**) and settle them into a daily rhythm a cohort can sustain on its own.
 
-A cohort that completes Getting Started can stop here and not go further. That ending is honored. *Going Deeper* and *Sent* are for those the Spirit prepares to keep walking.
+A cohort that completes Getting Started can stop here and not go further. That ending is honored. *Going Deeper* and *Going Out* are for those the Spirit prepares to keep walking.
 
 These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards, and the PROAPT card — live in [`../shared/`](../shared/index.md).
 
@@ -54,11 +54,11 @@ Every file follows the same structure:
 - **Detailed Run Sheet** — minute-by-minute flow for the 90 minutes (120 for Week 10).
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them, knowing the live room will ask for something slightly different than the page.
 - **Between-session practice** — the daily and weekly rhythm participants carry into the week.
-- **IJH source** — where the material lives in *Intentional Journeys of the Heart*, for the Companion who wants to read further.
+- **IJH source** — where the material lives in *Intentional Journey of the Heart*, for the Companion who wants to read further.
 
 The lesson plans are written for the Companion team. They are detailed on purpose. A new Companion preparing for Week 3 or Week 5 should not be guessing at what to do when the room goes quiet, when a teen weeps, when a parent tries to fix what they should be receiving. The page is a floor under your feet, not a script you read from.
 
-By Week 10 you will not need the page. By the end of *Sent* you may be writing your own.
+By Week 10 you will not need the page. By the end of *Going Out* you may be writing your own.
 
 ---
 

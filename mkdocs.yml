@@ -1,5 +1,5 @@
 site_name: "Fellowship of the Heart — CCA Pilot"
-site_description: "The pilot edition of Fellowship of the Heart, the operational expression of the Intentional Journeys of the Heart (IJH) framework, prepared for Covenant Christian Academy."
+site_description: "The pilot edition of Fellowship of the Heart, the operational expression of the Intentional Journey of the Heart (IJH) framework, prepared for Covenant Christian Academy."
 site_author: John G. Tittle
 site_url: https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/
 repo_url: https://github.com/jgtittle-ministries/fellowship-of-the-heart-pilot-at-cca
@@ -127,6 +127,7 @@ nav:
     - Personal Heart Journal: shared/personal-heart-journal.md
     - Family Conversation Cards: shared/family-conversation-cards.md
     - Rhythm Card: shared/rhythm-card.md
+    - PROAPT Card: shared/proapt-card.md
     - Reading List: shared/reading-list.md
 
 copyright: Copyright &copy; John G. Tittle — Licensed under CC BY-SA 4.0
