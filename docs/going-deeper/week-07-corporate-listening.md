@@ -34,7 +34,7 @@ Week 7
 
 **Between-session practice.** Each cohort member journals what came to them for the Bringer that they did NOT speak aloud. The Bringer journals across the week the daily noticing of what landed. Standing pair carries the work; cohort-wide silent prayer for the Bringer’s situation continues across the week.
 
-**IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith chain in corporate context); Vol 1 Exp 4 (PROAPT extended to corporate listening); Vol 2 Exp 9 (Community as Amplifier — the Law and the Danger, 80% confidence) — the discernment requirement in 1 Cor 14:29 IS the Danger named in IJH.
+**IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith chain in corporate context); Vol 2 Exp 7 (PROAPT extended to corporate listening); Vol 2 Exp 9 (Community as Amplifier — the Law and the Danger, 80% confidence) — the discernment requirement in 1 Cor 14:29 IS the Danger named in IJH.
 
 ## WATCH FOR (Week 7 specific risks — read twice)
 

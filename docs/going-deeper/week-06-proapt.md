@@ -34,7 +34,7 @@ Week 6
 
 **Between-session practice.** Daily PROAPT on a longer passage (30 min, not 10). One Tell each weekday with someone OUTSIDE the cohort. Standing-pair check-in continues; this week’s pair check-in includes ‘what did you hear; who did you tell?’
 
-**IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith chain — the foundational hearing law of the entire IJH project, 95% confidence). Vol 1 Exp 4 (PROAPT as the practical method). Vol 2 Exp 8 (Container for hearing). Romans 10:17 as the underlying mechanism.
+**IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith chain — the foundational hearing law of the entire IJH project, 95% confidence). Vol 2 Exp 7 (PROAPT as the practical method — canonical six-step definition). Vol 2 Exp 8 (Container for hearing). Romans 10:17 as the underlying mechanism.
 
 ## WATCH FOR (Week 6 specific risks — read twice)
 
@@ -122,7 +122,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **1.** Each Companion names what they heard from extended PROAPT this week and who they told. Specificity is the discipline; the team learns the practice by hearing each other do it. (20 min)
 
-**2.** Walk Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 1 Exp 4 (PROAPT) together. Make sure the team has the same vocabulary the cohort circles will use. (10 min)
+**2.** Walk Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 2 Exp 7 (PROAPT) together. Make sure the team has the same vocabulary the cohort circles will use. (10 min)
 
 **3.** Walk the passage choices. Romans 12 vs. Psalm 32. Decide together: do all three cohorts work the same passage, or does junior get one and senior/parent another? Most pilots default to: juniors and new participants get Psalm 32; senior teens and parents who completed summer get Romans 12. Confirm. (10 min)
 
@@ -570,7 +570,7 @@ Four handouts for Wk 6.
 
 **Handout H6.1 — PROAPT Extended Reference**
 
-*From IJH Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 1 Exp 4 (PROAPT). Carry this card; extended PROAPT is the daily practice across the rest of Going Deeper.*
+*From IJH Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 2 Exp 7 (PROAPT). Carry this card; extended PROAPT is the daily practice across the rest of Going Deeper.*
 
 *So faith comes from hearing, and hearing through the word of Christ.*
 
