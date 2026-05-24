@@ -34,7 +34,7 @@ Week 1
 
 **Between-session practice.** Daily Rhythm Card practices continue (carried across the interlude). The question carried from H11.3 prompt 4 is brought to the standing pair this week for renewed processing in light of Wk 1’s framing. Each member sits with: ‘Where might I already be sent, that I had not noticed?’
 
-**IJH source.** Acts 1:1–8 (the architectural anchor); Vol 5 Barnabas case study (the body that worshipped, fasted, and was sent); Vol 2 Exp 9 (Community as Amplifier — community structurally required for full spiritual operation, including for genuine outward witness); Hebrews 12:1–2 returning (‘the joy set before him’ read as missional rather than merely eschatological).
+**IJH source.** Acts 1:1–8 (the architectural anchor); Acts 13:1–3 (the body that worshipped, fasted, and was sent); Vol 2 Exp 9 (Community as Amplifier — community structurally required for full spiritual operation, including for genuine outward witness); Hebrews 12:1–2 returning (‘the joy set before him’ read as missional rather than merely eschatological).
 
 ## WATCH FOR (Week 1 specific risks — read twice)
 

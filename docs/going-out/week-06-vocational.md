@@ -34,7 +34,7 @@ Week 6
 
 **Between-session practice.** Wk 7 begins mission far. The weekly outside-cohort Tell shifts to a third-place or wider-context domain (neighbours, hobby groups, community contacts, fellow believers in different contexts). Daily noticing question shifts: ‘Where outside my immediate world is the Spirit moving me toward someone?’ Standing pair check-in this week: ‘What does mission far ask of you that mission close-to-home has prepared you for?’
 
-**IJH source.** Vol 2 Exp 9 (Community as Amplifier applied to vocational presence over years); Vol 5 Daniel and Joseph case studies (vocational integrity in alien contexts); Vol 1 proposed Thick Practice Transmission Law (how embodied practices transmit formation across long contexts — the workplace IS a long context for many).
+**IJH source.** Vol 2 Exp 9 (Community as Amplifier applied to vocational presence over years); Daniel 1–6 and Genesis 39–50 (vocational integrity in alien contexts); Vol 1 FL.XXVII Thick Practice Transmission Law (how embodied practices transmit formation across long contexts — the workplace IS a long context for many).
 
 ## WATCH FOR (Week 6 specific risks — read twice)
 

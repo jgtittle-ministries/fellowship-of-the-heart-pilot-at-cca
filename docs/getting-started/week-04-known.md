@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Between-session practice.** Pick one friendship in your life. This week, practice one of the four conditions in that friendship more intentionally than usual. Journal what happens.
 
-**IJH source.** Vol 2 Eighth Exploration (the four container conditions); Vol 2 Ninth Exploration (community as amplifier); Vol 1 hearing channel law as the backbone.
+**IJH source.** Vol 2 Eighth Exploration (the four container conditions); Vol 2 Ninth Exploration (community as amplifier); Vol 1 First Exploration (the Word→Hearing→Faith chain) as the backbone.
 
 ## WATCH FOR (Week 4 specific risks)
 

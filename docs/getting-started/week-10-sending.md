@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Between-session practice.** The Daily / Weekly / Monthly Rhythm Card is now the long-term practice. Sustain through the interlude until Going Deeper begins.
 
-**IJH source.** Vol 2 weekly practice closing (specific witnessed blessing over each man); Vol 1 Acts 13 communal sending paradigm; Vol 5 Barnabas case study (community commissioning).
+**IJH source.** Vol 2 weekly practice closing (specific witnessed blessing over each man); Acts 13:1–3 communal sending paradigm; A24 Blessing Receiving Protocol (Vol 5) for the commissioning shape.
 
 ## WATCH FOR (Week 10 specific risks)
 

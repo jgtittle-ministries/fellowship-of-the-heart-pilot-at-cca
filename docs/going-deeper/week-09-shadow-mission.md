@@ -34,7 +34,7 @@ Week 9
 
 **Between-session practice.** Daily noticing of the shadow when it surfaces — not to fight it, to name it. ‘There it is again’ is the practice. Standing-pair check-in this week is explicit: ‘Where did the shadow show up; what did you name when it did?’
 
-**IJH source.** Vol 4 (the gifts framework, mission and discipleship); Vol 1 Exp 1 on hearing as the discriminator between gift and shadow; the Pharisee analysis from Matt 23 as the central case of gift used wrongly.
+**IJH source.** Vol 5 Mission-Arc Family (A30 Shadow Mission Protocol — the disowned alternative trajectory brought into the light); Vol 1 Exp 1 on hearing as the discriminator between gift and shadow; the Pharisee analysis from Matt 23 as the central case of gift used wrongly.
 
 ## WATCH FOR (Week 9 specific risks — read twice)
 

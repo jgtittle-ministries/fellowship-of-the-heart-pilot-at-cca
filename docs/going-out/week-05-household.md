@@ -34,7 +34,7 @@ Week 5
 
 **Between-session practice.** This week’s outside-cohort Tell shifts to the VOCATIONAL domain (workplace, school, professional context). Daily noticing question shifts again: ‘Where in my work today is my witness being shaped, refined, or tested?’ Standing pair check-in this week: ‘What is the vocational witness asking of you that the household witness made visible?’
 
-**IJH source.** Vol 1 proposed Household Formation Law (the Shema’s formation mechanism); Vol 1 proposed corporate-nesting refinement (the personal nested structure extended to household and people); Vol 2 Exp 9 (Community as Amplifier applied to outward witness).
+**IJH source.** Vol 1 FL.XXI Household Formation Law (the Shema’s formation mechanism); Vol 1 FL.XXVIII Generational Nested Structure Law (the personal nested structure extended to household and people); Vol 2 Exp 9 (Community as Amplifier applied to outward witness).
 
 ## WATCH FOR (Week 5 specific risks — read twice)
 

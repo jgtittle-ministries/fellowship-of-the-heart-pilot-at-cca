@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Between-session practice.** Mid-Series Pulse instrument distributed. PLUS: the Five-Minute Examen each evening for the next week.
 
-**IJH source.** Vol 2 Sixth Exploration on Sin Knots and confession; Vol 2 Eighth Exploration on container; Vol 2 Ninth Exploration on community amplification.
+**IJH source.** Vol 2 Second Exploration (Emotional Knots, including the Sin Knot type) and Vol 2 Fourth Exploration (Confession and Restoration); Vol 2 Eighth Exploration on container; Vol 2 Ninth Exploration on community amplification.
 
 ## WATCH FOR (Week 5 specific risks)
 

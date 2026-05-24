@@ -34,7 +34,7 @@ Week 9
 
 **Between-session practice.** The body has now been sent. Whatever was discerned and confirmed enters integration across the week. Daily noticing question: ‘Where is the sending now showing up in concrete obedience?’ Standing-pair check-in: ‘What is the first specific obedience asked of you this week?’ Wk 10 begins the closing block of Going Out — sending and re-formation — with honest assessment of what Going Out produced.
 
-**IJH source.** Acts 13:3–4 (the body sends with hands laid on); Acts 14 (the apostolic pattern of sending plus continued strengthening); Hebrews 12:1–2 (the long-obedience anchor that has carried the whole IJH arc — Going Deeper opened with it; Going Out closes its mission-far work referring back to it); Vol 5 Barnabas (the body that worshiped, fasted, AND was sent); Vol 2 Exp 9 (Community as Amplifier through the sending; the body together produces what individual sending cannot).
+**IJH source.** Acts 13:3–4 (the body sends with hands laid on); Acts 14 (the apostolic pattern of sending plus continued strengthening); Hebrews 12:1–2 (the long-obedience anchor that has carried the whole IJH arc — Going Deeper opened with it; Going Out closes its mission-far work referring back to it); Vol 2 Exp 9 (Community as Amplifier through the sending; the body together produces what individual sending cannot).
 
 ## WATCH FOR (Week 9 specific risks — read twice)
 

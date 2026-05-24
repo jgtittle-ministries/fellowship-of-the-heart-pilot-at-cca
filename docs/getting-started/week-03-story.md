@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Between-session practice.** The Joint Footprints exercise: each parent and teen pair sits together once this week and walks each other through the footprints question. Twenty minutes total.
 
-**IJH source.** Vol 2, Second Exploration (telling your story); Vol 1 Section 4 on the unfolding life narrative; Vol 4 Section 3 on facilitating self-disclosure.
+**IJH source.** Vol 2 Fifth Exploration (Connect with Self — telling your story); A26 Tell Your Story Protocol (Vol 5); Vol 4 Section 3 on facilitating self-disclosure.
 
 ## WATCH FOR (Week 3 specific risks)
 

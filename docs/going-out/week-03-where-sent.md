@@ -34,7 +34,7 @@ Week 3
 
 **Between-session practice.** Daily noticing question shifts: ‘Lord, am I in the place you are sending me, or am I avoiding it?’ Continue the weekly Tell outside the cohort — ideally now from within the named sent-context. Standing pair check-in this week: ‘What is one specific obstacle the Spirit is showing you in your sent-context?’ Wk 4 begins mission close-to-home.
 
-**IJH source.** Acts 13:1–3 (Antioch sending); Vol 5 Barnabas (the body discerns specific sending); Going Deeper Wk 9 (gift and shadow as the substrate of witness); Going Deeper Wk 10 (Acts 13 calling discernment for one Discerner becomes the architectural template here for everyone).
+**IJH source.** Acts 13:1–3 (Antioch sending — the body discerns specific sending); Going Deeper Wk 9 (gift and shadow as the substrate of witness); Going Deeper Wk 10 (Acts 13 calling discernment for one Discerner becomes the architectural template here for everyone).
 
 ## WATCH FOR (Week 3 specific risks — read twice)
 

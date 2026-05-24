@@ -34,7 +34,7 @@ Week 2
 
 **Between-session practice.** Daily noticing question intensifies: ‘Where this week am I already a witness, even unintentionally?’ Continue the weekly Tell outside the cohort. Standing pair check-in this week: ‘What is the kind of sent-body you sense the Spirit is making YOU specifically? Not where you are sent yet — what kind of witness?’
 
-**IJH source.** Acts 2 (Pentecost as the body-empowerment paradigm); 1 Peter 2:9–10 (the corporate identity of the sent body); Vol 1 Exp 9 (proposed: baptism in the Holy Spirit as empowerment for witness, distinct from regeneration); Vol 2 Exp 9 (Community as Amplifier — the body sent together amplifies witness, just as it amplifies hearing).
+**IJH source.** Acts 2 (Pentecost as the body-empowerment paradigm); 1 Peter 2:9–10 (the corporate identity of the sent body); proposed Vol 1 Exploration on baptism in the Holy Spirit as empowerment for witness (distinct from regeneration); Vol 2 Exp 9 (Community as Amplifier — the body sent together amplifies witness, just as it amplifies hearing).
 
 ## WATCH FOR (Week 2 specific risks — read twice)
 

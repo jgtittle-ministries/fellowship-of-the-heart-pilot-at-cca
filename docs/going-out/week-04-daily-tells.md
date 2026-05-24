@@ -34,7 +34,7 @@ Week 4
 
 **Between-session practice.** The weekly outside-cohort Tell continues, with a specific differentiation: this week’s Tell is in the HOUSEHOLD context (family-of-origin, present household, immediate domestic relationships). Daily noticing question shifts: ‘Where in my house am I a witness already, and where am I avoiding being one?’ Standing pair check-in this week: ‘What is the household witness asking of you specifically?’
 
-**IJH source.** Vol 1 proposed Household Formation Law (the Shema’s formation mechanism); Vol 2 Exp 9 (Community as Amplifier extended to outward witness); the ordinary-life witness reading of John 13:35 and 1 Peter 3:15.
+**IJH source.** Vol 1 FL.XXI Household Formation Law (the Shema’s formation mechanism); Vol 2 Exp 9 (Community as Amplifier extended to outward witness); the ordinary-life witness reading of John 13:35 and 1 Peter 3:15.
 
 ## WATCH FOR (Week 4 specific risks — read twice)
 

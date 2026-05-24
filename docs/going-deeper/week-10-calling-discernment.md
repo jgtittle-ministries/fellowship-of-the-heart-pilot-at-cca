@@ -34,7 +34,7 @@ Week 10
 
 **Between-session practice.** Each member journals what came to them for the Discerner that they did not speak aloud. The Discerner journals daily across a longer integration window — typically 4–6 weeks — because callings are walked into, not decided in 90 minutes. Standing-pair check-in this week is explicit: ‘What did the cohort hear for the Discerner, and what is it teaching us about our own calling?’
 
-**IJH source.** Vol 4 (calling and mission); MSFIG (5-level taxonomy — Level 5 is apostolic team that sends, the architectural target tonight, 70% confidence); Vol 1 Exp 1 (corporate hearing for a specific member); Acts 13 as the central New Testament case.
+**IJH source.** Vol 2 Exp 5 (Connecting with Mission — the four Connects); Vol 5 Mission-Arc Family (A27 Identity Discovery + A31 Mission Stretch Clarity); MSFIG (5-level taxonomy — Level 5 is apostolic team that sends, the architectural target tonight, 70% confidence); Vol 1 Exp 1 (corporate hearing for a specific member); Acts 13 as the central New Testament case.
 
 ## WATCH FOR (Week 10 specific risks — read twice)
 

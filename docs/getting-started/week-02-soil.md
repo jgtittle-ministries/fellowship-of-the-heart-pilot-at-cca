@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Between-session practice.** Three times this week, journal: where did each kind of soil show up today? No fixing. Just noticing.
 
-**IJH source.** Vol 2 Sixth Exploration (Heart Soil); Vol 4 Section 3 on adapted self-assessment instruments.
+**IJH source.** Vol 2 First Exploration (Heart Soil); Vol 4 Section 3 on adapted self-assessment instruments.
 
 ## WATCH FOR (Week 2 specific risks)
 

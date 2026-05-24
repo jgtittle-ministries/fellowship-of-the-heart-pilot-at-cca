@@ -34,7 +34,7 @@ Week 12
 
 **Between-session practice.** There is no between-session practice for Wk 12 — the formal series ends tonight. The continued practices (Rhythm Card, weekly Tells, standing-pair check-ins, the H12.1 sending card’s practices) carry into the long obedience without the formal series’ weekly cohort meeting. Members continuing to Going Deeper round 2 (when offered) re-engage at that point. Members not continuing carry the year’s formation into their individual contexts. The cohort’s ongoing connection to one another, beyond the formal series, is whatever each pair and each set of relationships can honestly hold.
 
-**IJH source.** Numbers 6:24–26 (Aaronic); Hebrews 12:1–2 (long-obedience anchor across the formation arc); Vol 5 Paul case study (Acts 20 farewell architecture); Vol 2 Exp 9 (Community as Amplifier extending into the long obedience after the formal series); Vol 6 Council material on welcoming and releasing (the closing as releasing the body to continued formation, not to dissolution).
+**IJH source.** Numbers 6:24–26 (Aaronic); Hebrews 12:1–2 (long-obedience anchor across the formation arc); Acts 20:17–38 (Paul’s Miletus farewell as architectural template for the closing); Vol 2 Exp 9 (Community as Amplifier extending into the long obedience after the formal series); Vol 6 Council material on welcoming and releasing (the closing as releasing the body to continued formation, not to dissolution).
 
 ## WATCH FOR (Week 12 specific risks — read twice)
 

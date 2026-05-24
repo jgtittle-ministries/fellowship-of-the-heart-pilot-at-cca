@@ -34,7 +34,7 @@ Week 7
 
 **Between-session practice.** The weekly outside-cohort Tell continues, but with a specific question added: ‘Where in my third-place network might the Spirit be inviting more sustained engagement — not a single Tell, but a longer arc?’ Daily noticing question shifts: ‘Lord, what good work have you prepared, that I have been walking past?’ Standing pair check-in this week: ‘What might the Spirit be inviting our COHORT into beyond what each of us is doing alone?’ (Wk 8 prep.)
 
-**IJH source.** Acts 8 (Philip and the Spirit’s direction); Eph 2:10 (good works prepared beforehand — Vol 2’s Mission Connect anchor); Vol 5 Philip case study; Vol 2 Exp 9 (Community as Amplifier extended to mission engagements); Vol 3’s downhill mission language (the witness that flows from who you are when you are most yourself).
+**IJH source.** Acts 8 (Philip and the Spirit’s direction); Eph 2:10 (good works prepared beforehand — Vol 2’s Mission Connect anchor); Vol 2 Exp 9 (Community as Amplifier extended to mission engagements); Vol 2 Exp 5’s downhill mission language (the witness that flows from who you are when you are most yourself).
 
 ## WATCH FOR (Week 7 specific risks — read twice)
 
