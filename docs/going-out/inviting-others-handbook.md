@@ -198,6 +198,8 @@ Vol 2 Exp 7 of IJH names a five-stage Affective Taxonomy for the individual hear
 
 This is new theological work for the IJH project. The five Leader Levels are extrapolated from the Affective Taxonomy as it is established in Vol 2 and Vol 5. They are presented here as a working frame; the Council and the broader IJH community should test the frame across the next several Inviting Others cycles.
 
+**Read these levels as integration, not replacement.** The five Leader Levels below name what each level adds to the leader's capacity, in the order in which the capacities first become accessible. They do not name what would happen if a leader collapsed into one level while losing the openness of earlier ones. The IJH integration reading (V2.Exp7 pastoral home; Vol 4 §2 construct-level home) is that mature formation is the *integration of all five levels* — a Level 4 or 5 leader still genuinely receives the cohort's surprises (Level 1's openness), still responds actively to challenge (Level 2's engagement), still pays personal cost for what they value (Level 3's commitment) — not the replacement of earlier levels by later ones. The closing "Integration check" sub-section after Level 5 names what each level looks like when it has collapsed into the Leader-Pharisee version of itself. Hold the Levels below as adding capacities, not as states the leader passes through and leaves behind.
+
 ## The five Leader Levels
 
 ### Leader Level 1 — Receiving the Call
@@ -275,6 +277,18 @@ This is new theological work for the IJH project. The five Leader Levels are ext
 **Sower parallel: 100-fold harvest.**
 
 **What they need: communities of Level 4–5 peers across institutional boundaries, sustained personal formation work that has now matured into character, and the humility to recognize that the work multiplying through them is not their work.**
+
+## Integration check across the levels — the Leader-Pharisee pattern
+
+The five Leader Levels above name what each level *adds* to the role; they do not name what happens when a leader has collapsed into a rigid version of the level. The IJH integration reading (V2.Exp7 pastoral home; Vol 4 §2 construct-level home; Vol 4 §4e closed-facilitator caveat) makes this explicit: a Level 4 or Level 5 leader whose Level 1 Receiving has died — who has stopped being genuinely open to surprise from cohort members or peer leaders, who no longer hears a hard question they did not see coming — is not at Level 4 or 5. They have collapsed into the Leader form of the Pharisee. The pattern shows up with leadership-specific shape at each level:
+
+- **Leader Pharisee-Receiving collapse.** Dismissing what a cohort member or peer leader brings — "I don't need to hear that." The leader has stopped being genuinely open to surprise from below.
+- **Leader Pharisee-Responding collapse.** Debate culture in the leadership role. Every engagement returns to defending the leader's framework rather than working the substance of what was raised.
+- **Leader Pharisee-Valuing collapse.** Leadership-as-status. Visible leader-discipline that establishes status with the formation community rather than serving it; the leader has become the one others must defer to.
+- **Leader Pharisee-Organization collapse.** Leadership-as-system. Curriculum-running where leadership-from-formation should be happening. The "real leader vs. curriculum-runner" distinction the Level 3 description above already names is precisely this Pharisee pattern showing up at the Organization level — the leader is running the framework rather than leading from formation.
+- **Leader Pharisee-Characterization collapse.** Settled leadership rigidity. The leader's identity-as-leader has stopped surprising anyone, including the leader themselves; their groups become closed because the leader has, and the closure travels into the next generation through the leaders those groups send out.
+
+Each is the same pathology — collapse of the dynamic tension between openness and integration — at a different level of the leadership role. The pattern is detected primarily through the leader's own supervision relationship (spiritual director, peer-elder, peer cohort) and through honest feedback from the leader's own cohort. As the IJH Vol 4 §4e integration caveat puts it for facilitators generally: the supervision relationship is the primary place where collapse of earlier-level openness should be detected before it propagates into the cohort's culture. The Level 5 leader's groups produce *people called to start groups* because the leader's openness has stayed alive at every level; a closed Level 5 leader's groups do not produce that fruit, and the second-generation pattern is the empirical test of which one is actually present.
 
 ## What Inviting Others is realistically aiming at
 

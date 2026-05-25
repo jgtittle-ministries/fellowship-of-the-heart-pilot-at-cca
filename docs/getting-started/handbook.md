@@ -92,6 +92,8 @@ Drawing on the five-stage taxonomy in Vol 2 Exp 7 (Receiving → Responding → 
 
 **Parents:** Wherever they begin (and there will be a wide range), move at least one full level. For parents already at Level 3, surface the specific Connect that is weakest and let the summer be the unblocking.
 
+The goal at every cohort is *integrated* attainment of the target level, not just touching it — a participant who reaches Level 2 (Responding) with genuine Level 1 Receiving still alive is sturdier than one who has skipped past Level 1's openness in order to perform Level 2's engagement. (The integration framing is developed pastorally in V2.Exp7 and operationalized for the testing protocol in IJH Vol 4 §2; it applies here as the realistic shape of what "stable at Level 2" means.)
+
 ## Session map
 
 The full ten-session map. Detailed lesson plans live in a separate document; this is the architectural view.
