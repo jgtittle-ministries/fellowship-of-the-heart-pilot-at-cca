@@ -925,7 +925,7 @@ This summer, [date range], CCA is hosting a new club for teens and their parents
 
 This is not a youth group with parent permission. It is a family formation series. Each week, your teen will do real work alongside you — sometimes in the same circle, sometimes in their own circle while you are in your own — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when summer ends.
 
-The series is based on the Intentional Journey of the Heart project (IJH), a body of work I have been developing with practitioners over more than twenty years. The kitchen-table version is this: Jesus invited his disciples into a life with God that most of us experience only in flashes — hearing God clearly, walking in real love, doing the works he prepared for us. There is a discoverable structure underneath that life. The Four Connects are the spine.
+The series is based on the Intentional Journey of the Heart project (IJH), a body of work I have been developing with practitioners over more than twenty years. The kitchen-table version is this: Jesus invited his disciples into a life with God that most of us experience only in flashes — hearing God clearly, walking in real love, doing the works He prepared for us. There is a discoverable structure underneath that life. The Four Connects are the spine.
 
 Specifically, this summer:
 

@@ -24,7 +24,7 @@ Week 1
 
 **Aim.** Reopen the cohort after the interlude. Surface what the interlude revealed in each member. Frame Going Out’s posture: Going Out is not a sequel to Going Deeper but a different kind of work — the body sent, oriented outward, with formation now feeding mission rather than the other way around. Re-establish container conditions; re-engage standing pairs (continuing Going Deeper pairs + new pairs for new continuers if any); set practices for Going Out.
 
-**Anchor scripture.** Acts 1:8 (you shall receive power when the Holy Spirit has come upon you, and you shall be my witnesses); Hebrews 12:1–2 returning (the joy set before him; the body running with endurance toward the joy).
+**Anchor scripture.** Acts 1:8 (you shall receive power when the Holy Spirit has come upon you, and you shall be my witnesses); Hebrews 12:1–2 returning (the joy set before Him; the body running with endurance toward the joy).
 
 **Connect focus.** Sent. The body together discerning what it has been formed for and how the Spirit is leading it outward.
 
@@ -76,7 +76,7 @@ Week 1
 
 The gap between Going Deeper Wk 12 and Going Out Wk 1 is structural, not accidental. The cohort that closed at Going Deeper’s end is not the cohort that opens Going Out — even when only weeks have elapsed. Some have moved; some have stayed; some have fallen back into old patterns; some have been quietly forming across the interlude in ways the cohort cannot yet see. Wk 1 surfaces all of this honestly so that Going Out builds from the actual cohort, not the imagined one.
 
-The deeper architectural shift is from interior formation to outward witness. Going Deeper engaged the diagnostic and therapeutic work of Vol 2 — soils, knots, lies, confession, hearing, gifts, shadow, calling, cohort assessment. Going Out engages the missional outworking of what was formed. Acts 1:8 names the architecture explicitly: the Spirit’s power, given to those who have already received him, is for witness — in Jerusalem (the immediate context), in Judea and Samaria (the close-to-home context), and to the ends of the earth (the far context). The four-block architecture of Going Out maps roughly onto this geography.
+The deeper architectural shift is from interior formation to outward witness. Going Deeper engaged the diagnostic and therapeutic work of Vol 2 — soils, knots, lies, confession, hearing, gifts, shadow, calling, cohort assessment. Going Out engages the missional outworking of what was formed. Acts 1:8 names the architecture explicitly: the Spirit’s power, given to those who have already received Him, is for witness — in Jerusalem (the immediate context), in Judea and Samaria (the close-to-home context), and to the ends of the earth (the far context). The four-block architecture of Going Out maps roughly onto this geography.
 
 Tonight is the reopening. The cohort needs three things. First, honest gap-landing — each member named, what surfaced across the weeks, what is alive now. Second, Going Out’s framing — what Going Out is, how it differs from Going Deeper, what the four blocks engage. Third, re-engaged practical structures — standing pairs (continuing fall partnerships and new ones), Rhythm Card refreshed, between-session practices clear.
 
@@ -110,7 +110,7 @@ Each Companion does three things this week.
 
 First — reread your own H11.3 prompt 4 from Going Deeper Wk 11. The question you named at the close of Going Deeper has now had the interlude to settle. What has shifted? What has stayed? What might you need to bring into Going Out differently than you carried into the interlude?
 
-Second — sit for 30 minutes with Acts 1:1–8 slowly. Notice the architecture: the Spirit’s power, given to those who have already received him, FOR witness. The witnessing is not an add-on; it is the purpose of the empowerment. Notice also what Jesus refuses to give them — the timing of the kingdom’s restoration. The disciples want strategic clarity; Jesus gives them empowerment for the next obedience instead. The same dynamic operates tonight.
+Second — sit for 30 minutes with Acts 1:1–8 slowly. Notice the architecture: the Spirit’s power, given to those who have already received Him, FOR witness. The witnessing is not an add-on; it is the purpose of the empowerment. Notice also what Jesus refuses to give them — the timing of the kingdom’s restoration. The disciples want strategic clarity; Jesus gives them empowerment for the next obedience instead. The same dynamic operates tonight.
 
 Third — sit with the question of your own continuation as a Companion into Going Out. Some Companions continue cleanly; some shift roles; some step out for a season. Bring your honest answer to the team meeting; the team’s spring composition is named at the pre-meet.
 
@@ -252,7 +252,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **•** Notice the geography. Jerusalem (the immediate context, where they already are). Judea and Samaria (the close-to-home context, the surrounding world). The end of the earth (the far context, places they have not yet been). Going Out’s four-block architecture tracks roughly to this geography.
 
-**•** Notice that the witnessing is not added to the empowerment. The witnessing IS the empowerment’s purpose. The Spirit’s power is given to those who have already received him FOR witness. We have been formed across Getting Started and fall; spring is what the formation is for.
+**•** Notice that the witnessing is not added to the empowerment. The witnessing IS the empowerment’s purpose. The Spirit’s power is given to those who have already received Him FOR witness. We have been formed across Getting Started and fall; spring is what the formation is for.
 
 ## The four-block Going Out architecture
 
