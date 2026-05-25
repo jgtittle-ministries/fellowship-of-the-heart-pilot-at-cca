@@ -585,7 +585,7 @@ Five handouts for Wk 10.
 
 **Handout H10.1 — Acts 13 Antioch Reference**
 
-*From IJH Vol 4. The architectural anchor for the apex of Going Deeper.*
+*From the IJH A16 Group Mission of Service Protocol (Vol 5 Part VI); the Acts 13 Antioch pattern is the protocol's scriptural shape. The architectural anchor for the apex of Going Deeper.*
 
 *Now there were in the church at Antioch prophets and teachers, Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen a member of the court of Herod the tetrarch, and Saul. While they were worshiping the Lord and fasting, the Holy Spirit said, ‘Set apart for me Barnabas and Saul for the work to which I have called them.’ Then after fasting and praying they laid their hands on them and sent them off.*
 

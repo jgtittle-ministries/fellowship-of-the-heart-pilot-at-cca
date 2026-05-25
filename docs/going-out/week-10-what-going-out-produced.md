@@ -34,7 +34,7 @@ Week 10
 
 **Between-session practice.** Daily noticing question for Wk 10–11 transition: ‘What Going Out formed in me, that no other season could have formed?’ Standing-pair check-in this week: ‘Where do I sense the cohort as a whole landed, looking back across the Going Out series?’ (Wk 11 prep — each member arrives Wk 11 with a working assessment of where the cohort landed, so the cohort can weigh together.)
 
-**IJH source.** Philippians 1:6 (the work in process); Hebrews 12:1–2 (the long-obedience anchor); Acts 14:21–22 and Acts 15:36 (the apostolic pattern of return-and-strengthen, applied to each member returning to their Going Out journey to articulate what was formed); the Affective Taxonomy (Vol 4) as the implicit assessment frame for individual integration; Going Deeper Wk 11 (cohort-level assessment template that Wk 11 of the Going Out series scales).
+**IJH source.** Philippians 1:6 (the work in process); Hebrews 12:1–2 (the long-obedience anchor); Acts 14:21–22 and Acts 15:36 (the apostolic pattern of return-and-strengthen, applied to each member returning to their Going Out journey to articulate what was formed); the Affective Taxonomy (Vol 2 Exp 7) as the implicit assessment frame for individual integration; Going Deeper Wk 11 (cohort-level assessment template that Wk 11 of the Going Out series scales).
 
 ## WATCH FOR (Week 10 specific risks — read twice)
 

@@ -494,7 +494,7 @@ The Getting Started series is the first step of a longer journey, not a stand-al
 
 ## What we measure
 
-Adapted from the four assessment instruments in Volume 4 Section 3, simplified for this audience and timeframe:
+Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with optional research-grade extensions documented in the Vol 4 Appendix), simplified for this audience and timeframe:
 
 | **Instrument** | **What it measures** | **When** |
 | --- | --- | --- |

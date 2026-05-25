@@ -78,7 +78,7 @@ Week 2 begins the work of Connecting with Self. The Heart Soil diagnostic is the
 Vol 2 sources for tonight:
 
 1. Vol 2 Sixth Exploration — the Heart Soil practice as a recurring self-assessment for adult small groups.
-2. Vol 4 Section 3 — the six self-assessment instruments and the adaptation logic for younger participants.
+2. Vol 4 Section 3 — the Pilot Ready core testing instruments and the adaptation logic for younger participants.
 
 **Dependencies.** Week 2 depends on the container having formed in Week 1. If it didn’t, slow down at the open. Spend a full extra five minutes re-establishing the four conditions before moving into Mark 4. The split for the diagnostic will not be safe if the container is not real.
 

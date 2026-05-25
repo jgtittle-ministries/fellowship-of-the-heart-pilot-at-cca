@@ -128,7 +128,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 **1.** Each Companion names their gift, their shadow direction in this season, and the specific discipline they are practicing. Optional disclosure of content; required disclosure of process. (20 min)
 
-**2.** Walk the gifts framework together. The IJH approach (Vol 4) reads gift broadly — not only the seven Romans 12 categories or the 1 Cor 12 list, but the specific way each person comes most alive when serving. Some people’s gift is in 1 Cor 12 categories cleanly; some is in mixed combinations; some is hard to name. Allow range. (15 min)
+**2.** Walk the gifts framework together. The IJH approach (Mission-Arc Family — IJH Vol 5) reads gift broadly — not only the seven Romans 12 categories or the 1 Cor 12 list, but the specific way each person comes most alive when serving. Some people’s gift is in 1 Cor 12 categories cleanly; some is in mixed combinations; some is hard to name. Allow range. (15 min)
 
 **3.** Walk the shadow patterns by gift. Use H9.1 — the four-by-four reference of major gift types and their characteristic shadow directions. The Cohort Companions rehearse coaching language for a participant who can’t find their shadow. (15 min)
 
@@ -526,7 +526,7 @@ Four handouts for Wk 9.
 
 **Handout H9.1 — Gifts and Shadow Reference**
 
-*From IJH Vol 4. Carry this card; the gift-and-shadow language is the working frame for Wk 10’s calling discernment and beyond.*
+*From the IJH Mission-Arc Family (Vol 5 — see A30 Shadow Mission Protocol for the shadow piece). Carry this card; the gift-and-shadow language is the working frame for Wk 10’s calling discernment and beyond.*
 
 **The four major gift archetypes**
 
