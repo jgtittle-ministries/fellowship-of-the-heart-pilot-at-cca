@@ -8,6 +8,8 @@ Week 12
 
 *The formal series closes — standing pair blessings spoken aloud; cohort Aaronic spoken together; sending card given; bridge to whatever continues*
 
+![The long road on, at dusk.](images/wk12-road.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

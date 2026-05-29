@@ -8,6 +8,8 @@ Week 10
 
 *Family commissioning, the integration of the four Connects, and the bridge to fall*
 
+![Dawn over the hills.](images/wk10-sending.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

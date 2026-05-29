@@ -6,6 +6,8 @@ title: "Home"
 
 *Three series, walked across a year of Tuesday evenings.*
 
+![Light through autumn woods.](images/home-path.jpg)
+
 The pilot edition of **Fellowship of the Heart**, the operational expression of the *Intentional Journey of the Heart* (IJH) framework, prepared for the first **Covenant Christian Academy of Warrenton** cohort beginning Fall 2026.
 
 The pilot is organized as three sequential series the cohort walks together, with shared participant materials supporting all three:

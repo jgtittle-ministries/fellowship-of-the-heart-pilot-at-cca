@@ -2,6 +2,8 @@
 
 *Twelve Tuesdays. The body sent — discerning, equipping, and sending leaders to start formation groups in their own rooms.*
 
+![An open gate onto the field.](images/landing-out.jpg)
+
 The third of the three Fellowship of the Heart series. Twelve ninety-minute sessions for the cohort that has walked Getting Started and Going Deeper and is now being prepared, individually and as a body, for what comes next.
 
 Going Out is **not curriculum**. It is the recognition of what the Spirit has already been doing across two prior series, and the communal sending of those He has formed and is now calling to start formation groups of their own.

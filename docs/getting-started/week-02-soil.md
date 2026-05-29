@@ -8,6 +8,8 @@ Week 2
 
 *The Heart Soil diagnostic from Mark 4; beginning Connecting with Self*
 
+![New growth breaking through the soil.](images/wk02-soil.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

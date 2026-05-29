@@ -8,6 +8,8 @@ Week 5
 
 *James 5:16 in standing pairs — confession as architecture, not disclosure*
 
+![Clear water moving over stone.](images/wk05-water.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

@@ -8,6 +8,8 @@ Week 1
 
 *Establishing the container; introducing the four Connects*
 
+![An open door onto a sunlit path.](images/wk01-welcome.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

@@ -2,6 +2,8 @@
 
 *Twelve Tuesdays, walking the diagnostic, therapeutic, and developmental work of IJH Volume 2.*
 
+![Still water, where what lies deep can be seen.](images/landing-depth.jpg)
+
 The second of the three Fellowship of the Heart series. Twelve ninety-minute sessions for the cohort the Spirit has prepared to keep walking after Getting Started. The work shifts from introducing the Four Connects to the deeper labor those Connects make possible — naming the heart's knots, learning to confess and co-process inside a Safe-Present-Clear-Intentional container, hearing God together as a body, and beginning to read the cohort's own shadow and gift.
 
 These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards — live in [`../shared/`](../shared/index.md) and continue from Getting Started.
