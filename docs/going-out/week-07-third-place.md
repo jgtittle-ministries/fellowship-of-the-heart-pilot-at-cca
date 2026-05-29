@@ -8,6 +8,8 @@ Week 7
 
 *Mission far opens — neighbours, hobby groups, fellow believers in different contexts; the geography opens beyond the immediate*
 
+![A table in the third place.](images/wk07-third-place.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

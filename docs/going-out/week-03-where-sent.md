@@ -8,6 +8,8 @@ Week 3
 
 *Cohort-split discernment — each member articulates a specific sent-context using the language of gift, shadow, calling, and witness*
 
+![Which way am I being sent?](images/wk03-where-sent.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

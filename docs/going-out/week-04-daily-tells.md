@@ -8,6 +8,8 @@ Week 4
 
 *Mission close to home opens — the body looks at what is actually happening in the past three weeks of witness practice*
 
+![The daily rhythm, close to home.](images/wk04-daily-tells.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

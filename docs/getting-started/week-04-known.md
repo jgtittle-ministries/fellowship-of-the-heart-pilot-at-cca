@@ -8,6 +8,8 @@ Week 4
 
 *The four conditions of a container, applied to your real friendships*
 
+![Two cups, set for a real conversation.](images/wk04-known.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

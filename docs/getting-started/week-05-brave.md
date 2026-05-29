@@ -8,6 +8,8 @@ Week 5
 
 *Confession and restoration in an age-appropriate community*
 
+![Standing through the weather.](images/wk05-brave.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

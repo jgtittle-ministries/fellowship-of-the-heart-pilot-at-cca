@@ -8,6 +8,8 @@ Week 8
 
 *Bringing the real question, and bringing it to God*
 
+![Light, breaking through.](images/wk08-doubts.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

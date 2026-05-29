@@ -8,6 +8,8 @@ Week 2
 
 *Acts 2 and 1 Peter 2 — the empowered body becomes outward witness*
 
+![Sent out, under sail.](images/wk02-body-sent.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

@@ -8,6 +8,8 @@ Week 3
 
 *Four questions, one circle, and the practice of being known*
 
+![An open page, waiting for your story.](images/wk03-story.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

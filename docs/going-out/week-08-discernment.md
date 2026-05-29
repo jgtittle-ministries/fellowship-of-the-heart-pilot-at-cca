@@ -8,6 +8,8 @@ Week 8
 
 *Cohort-level discernment — the body listens for what the Spirit is inviting US into, beyond what each of us is doing alone (Acts 13 architecture)*
 
+![The way, marked together.](images/wk08-discernment.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

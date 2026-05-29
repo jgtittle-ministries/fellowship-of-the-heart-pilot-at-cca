@@ -8,6 +8,8 @@ Week 7
 
 *An experiential encounter with Jesus in your interior space*
 
+![A green path through the trees.](images/wk07-garden.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

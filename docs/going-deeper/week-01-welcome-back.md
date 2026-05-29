@@ -8,6 +8,8 @@ Week 1
 
 *Re-establishing the room for the deeper twelve weeks*
 
+![The hearth, lit again.](images/wk01-welcome-back.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

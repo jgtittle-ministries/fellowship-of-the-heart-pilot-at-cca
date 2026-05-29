@@ -8,6 +8,8 @@ Week 8
 
 *Group Level 4 work — the Spirit addresses the body as a body*
 
+![The body, moving as one.](images/wk08-group-hears-itself.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

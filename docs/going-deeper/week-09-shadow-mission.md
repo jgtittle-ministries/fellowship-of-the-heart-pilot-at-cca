@@ -8,6 +8,8 @@ Week 9
 
 *Every gift has a shadow direction — naming it as discipline, not failure*
 
+![Every gift casts a shadow.](images/wk09-shadow-mission.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

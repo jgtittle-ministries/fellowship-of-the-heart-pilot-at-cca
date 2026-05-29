@@ -8,6 +8,8 @@ Week 1
 
 *The cohort returns. The gap is named. Going Out opens with a different posture.*
 
+![Light finding the room again.](images/wk01-welcome-back.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

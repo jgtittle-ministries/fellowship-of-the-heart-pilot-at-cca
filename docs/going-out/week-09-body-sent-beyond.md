@@ -8,6 +8,8 @@ Week 9
 
 *Mission far closes — walking the cost of what was discerned in Wk 8; the body lays hands on the sending; preparation for the long obedience beyond Going Out*
 
+![The far horizon.](images/wk09-body-sent-beyond.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

@@ -8,6 +8,8 @@ Week 6
 
 *PROAPT — the systematic practice of hearing*
 
+![Scripture, open on the table.](images/wk06-proapt.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

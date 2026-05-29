@@ -8,6 +8,8 @@ Week 4
 
 *Making the corporate mechanism visible — and using it on purpose*
 
+![Threads worked together on the loom.](images/wk04-co-processing.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

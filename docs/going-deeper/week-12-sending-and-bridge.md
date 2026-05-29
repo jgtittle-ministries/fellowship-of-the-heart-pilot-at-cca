@@ -8,6 +8,8 @@ Week 12
 
 *Re-commission the cohort. Bridge to the Going Out series.*
 
+![A bridge to what comes next.](images/wk12-sending-and-bridge.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

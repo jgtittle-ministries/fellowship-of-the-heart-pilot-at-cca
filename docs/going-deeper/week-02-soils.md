@@ -8,6 +8,8 @@ Week 2
 
 *The four soils as four regions of one heart — a working diagnostic*
 
+![The soil, turned and read again.](images/wk02-soils.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

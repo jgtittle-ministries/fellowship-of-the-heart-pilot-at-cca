@@ -8,6 +8,8 @@ Week 6
 
 *Longer passages, real-time hearing, and the Tell step done in the room*
 
+![Long study, by lamplight.](images/wk06-proapt.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

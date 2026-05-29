@@ -8,6 +8,8 @@ Week 5
 
 *The costliest close-to-home context — family-of-origin and present household witness; standing pairs do harder work*
 
+![The household, lit from within.](images/wk05-household.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

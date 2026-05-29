@@ -8,6 +8,8 @@ Week 10
 
 *Individual integration — each member articulates what Going Out formed; standing pair walks each member’s trajectory; the body holds what each one carries forward*
 
+![Grain, ripened.](images/wk10-what-going-out-produced.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

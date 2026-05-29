@@ -8,6 +8,8 @@ Week 11
 
 *Honest assessment on the five-level group taxonomy*
 
+![Looking back at the steps climbed.](images/wk11-where-is-our-cohort.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

@@ -8,6 +8,8 @@ Week 10
 
 *The Antioch paradigm — the body that fasted, listened, and sent*
 
+![The bearing, sought together.](images/wk10-calling-discernment.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

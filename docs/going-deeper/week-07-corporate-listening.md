@@ -8,6 +8,8 @@ Week 7
 
 *The cohort listens together for one member's real present question*
 
+![Candles in the prayer tray.](images/wk07-corporate-listening.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

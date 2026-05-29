@@ -8,6 +8,8 @@ Week 9
 
 *Connecting with Mission — uphill, downhill, and the works prepared beforehand*
 
+![The way ahead, already laid.](images/wk09-mission.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

@@ -8,6 +8,8 @@ Week 6
 
 *Workplace, school, daily-rhythm contexts — where most members spend the bulk of their hours and where the three modes of witness are most visibly tested*
 
+![The tools of the daily work.](images/wk06-vocational.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

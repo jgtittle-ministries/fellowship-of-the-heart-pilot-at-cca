@@ -8,6 +8,8 @@ Week 11
 
 *Cohort-level honest assessment using Vol 2’s five-level group taxonomy — where did the body of cohort members actually arrive, across both Going Deeper and Going Out*
 
+![Where the body arrived, looking out.](images/wk11-cohort-lands.jpg)
+
 **COMPANION LESSON PLAN**
 
 *Pilot edition — Covenant Christian Academy of Warrenton*

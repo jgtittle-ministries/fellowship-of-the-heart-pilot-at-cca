@@ -8,6 +8,8 @@ Week 3
 
 *The four knot types and the lie at the root — diagnostic, not therapeutic*
 
+![A knot, wound tight around the post.](images/wk03-knots.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton
