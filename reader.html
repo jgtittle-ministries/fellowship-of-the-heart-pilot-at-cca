@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Reader — Fellowship of the Heart</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400;1,8..60,500&family=JetBrains+Mono:wght@400;500;600&family=Inter+Tight:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<script>(function(){try{var k='foth-theme',s=localStorage.getItem(k),d=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches;document.documentElement.setAttribute('data-theme',s||(d?'dark':'light'));}catch(e){}})();</script>
+<style>
+  /* Reader-specific tweaks */
+  .reader-prose h1 {
+    font-family: var(--display);
+    font-weight: 500;
+    font-size: clamp(38px, 5vw, 60px);
+    line-height: 1.05;
+    letter-spacing: -0.015em;
+    margin: 0 0 36px;
+    color: var(--text);
+  }
+  .reader-prose h1 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .reader-prose h2 {
+    font-family: var(--display);
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.15;
+    letter-spacing: -0.012em;
+    margin: 56px 0 20px;
+    color: var(--text);
+  }
+  .reader-prose h2 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .reader-prose h3 {
+    font-family: var(--display);
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.2;
+    margin: 44px 0 16px;
+    color: var(--text);
+    letter-spacing: -0.008em;
+  }
+  .reader-prose h4 {
+    font-family: var(--display);
+    font-weight: 500;
+    font-style: italic;
+    font-size: 21px;
+    margin: 36px 0 14px;
+    color: var(--text);
+    letter-spacing: -0.004em;
+  }
+  .reader-prose h5, .reader-prose h6 {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 32px 0 12px;
+    font-weight: 500;
+  }
+  .reader-prose p {
+    margin: 0 0 1.1em;
+    color: var(--text);
+    font-size: 17px;
+    line-height: 1.65;
+  }
+  .reader-prose p strong { color: var(--text); font-weight: 600; }
+  .reader-prose p em { font-style: italic; }
+  .reader-prose a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-color: var(--accent-dim);
+    text-underline-offset: 3px;
+  }
+  .reader-prose a:hover { color: var(--accent-2); }
+  .reader-prose ul, .reader-prose ol {
+    margin: 0 0 1.2em;
+    padding-left: 1.4em;
+  }
+  .reader-prose ul { list-style: none; padding-left: 0; }
+  .reader-prose ul > li {
+    position: relative;
+    padding-left: 22px;
+    margin-bottom: 0.55em;
+    line-height: 1.6;
+  }
+  .reader-prose ul > li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.7em;
+    width: 8px;
+    height: 1px;
+    background: var(--accent);
+  }
+  .reader-prose ol > li {
+    margin-bottom: 0.55em;
+    line-height: 1.6;
+  }
+  .reader-prose ol > li::marker {
+    color: var(--accent);
+    font-family: var(--mono);
+    font-size: 0.9em;
+  }
+  .reader-prose ul ul, .reader-prose ol ol, .reader-prose ul ol, .reader-prose ol ul {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+  .reader-prose blockquote {
+    margin: 32px 0;
+    padding: 20px 28px;
+    border-left: 3px solid var(--accent);
+    background: var(--bg-2);
+    font-family: var(--display);
+    font-style: italic;
+    font-size: 19px;
+    color: var(--text);
+    line-height: 1.45;
+  }
+  .reader-prose blockquote p { margin: 0 0 0.7em; }
+  .reader-prose blockquote p:last-child { margin-bottom: 0; }
+  .reader-prose pre {
+    background: var(--bg-2);
+    border: 1px solid var(--rule-soft);
+    border-radius: 3px;
+    padding: 16px 20px;
+    overflow-x: auto;
+    font-family: var(--mono);
+    font-size: 13px;
+    line-height: 1.55;
+    color: var(--text-mid);
+    margin: 24px 0;
+  }
+  .reader-prose code:not(pre code) {
+    font-family: var(--mono);
+    font-size: 0.88em;
+    background: var(--bg-2);
+    padding: 1px 6px;
+    border-radius: 2px;
+    color: var(--accent-2);
+    border: 1px solid var(--rule-soft);
+  }
+  .reader-prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 32px 0;
+    font-size: 14.5px;
+  }
+  .reader-prose table th {
+    text-align: left;
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    padding: 12px 14px 12px 0;
+    border-bottom: 1px solid var(--rule);
+    font-weight: 500;
+  }
+  .reader-prose table td {
+    padding: 14px 14px 14px 0;
+    border-bottom: 1px solid var(--rule-soft);
+    color: var(--text-mid);
+    vertical-align: top;
+    line-height: 1.55;
+  }
+  .reader-prose table td:first-child { color: var(--text); font-weight: 500; }
+  .reader-prose hr {
+    border: 0;
+    border-top: 1px solid var(--rule-soft);
+    margin: 48px 0;
+  }
+  .reader-prose .admonition {
+    margin: 28px 0;
+    padding: 20px 24px;
+    background: var(--bg-2);
+    border-left: 3px solid var(--cool);
+    border-radius: 3px;
+  }
+  .reader-prose .admonition.danger,
+  .reader-prose .admonition.warning { border-left-color: var(--rose); }
+  .reader-prose .admonition.tip,
+  .reader-prose .admonition.note,
+  .reader-prose .admonition.info { border-left-color: var(--cool); }
+  .reader-prose .admonition.success { border-left-color: var(--leaf); }
+  .reader-prose .admonition.quote { border-left-color: var(--accent); font-style: italic; font-family: var(--display); font-size: 18px; }
+  .reader-prose .admonition-title {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+  .reader-prose .admonition.danger .admonition-title,
+  .reader-prose .admonition.warning .admonition-title { color: var(--rose); }
+  .reader-prose .admonition p { margin: 0 0 0.7em; font-size: 15px; color: var(--text-mid); line-height: 1.6; }
+  .reader-prose .admonition p:last-child { margin-bottom: 0; }
+
+  .reader-prose .md-figure {
+    margin: 40px -16px;
+    padding: 0;
+  }
+  .reader-prose .md-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    border: 1px solid var(--rule-soft);
+    background: var(--bg-2);
+  }
+  .reader-prose .md-figure figcaption {
+    margin-top: 12px;
+    padding: 0 8px;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+    line-height: 1.55;
+    text-align: center;
+  }
+  .reader-prose .img-placeholder {
+    display: block;
+    margin: 32px 0;
+    padding: 56px 32px;
+    background: repeating-linear-gradient(135deg, var(--bg-2), var(--bg-2) 8px, var(--bg-3) 8px, var(--bg-3) 16px);
+    border: 1px solid var(--rule-soft);
+    border-radius: 3px;
+    text-align: center;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+    word-break: break-all;
+  }
+  .reader-prose .img-placeholder .lbl {
+    color: var(--accent);
+    display: block;
+    margin-bottom: 6px;
+    font-size: 10px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+  }
+
+  /* sidebar nav uses existing .toc-sidebar but with chapter list */
+  .ch-list { list-style: none; padding: 0; margin: 0; }
+  .ch-list a {
+    display: block;
+    padding: 8px 0 8px 14px;
+    border-left: 2px solid transparent;
+    margin-left: -2px;
+    color: var(--text-mid);
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 1.4;
+    transition: color .15s, border-color .15s;
+  }
+  .ch-list a:hover { color: var(--text); }
+  .ch-list a.current {
+    color: var(--accent-2);
+    border-left-color: var(--accent);
+  }
+  .ch-list .ch-section {
+    font-family: var(--mono);
+    font-size: 9.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    padding: 18px 0 8px;
+    border-top: 1px solid var(--rule-soft);
+    margin-top: 14px;
+  }
+  .ch-list li:first-child .ch-section { border-top: 0; margin-top: 0; padding-top: 6px; }
+
+  .reader-loading {
+    padding: 80px 0;
+    text-align: center;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+  }
+  .reader-error {
+    margin: 48px 0;
+    padding: 32px;
+    border: 1px solid var(--rose);
+    border-radius: 3px;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 13px;
+    line-height: 1.6;
+  }
+
+  .chapter-meta {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 18px;
+    display: flex;
+    gap: 18px;
+    align-items: center;
+  }
+  .chapter-meta a {
+    color: var(--text-dim);
+    text-decoration: none;
+  }
+  .chapter-meta a:hover { color: var(--accent); }
+
+  .chapter-foot {
+    margin-top: 80px;
+    padding-top: 32px;
+    border-top: 1px solid var(--rule-soft);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+  }
+  @media (max-width: 720px) { .chapter-foot { grid-template-columns: 1fr; } }
+  .chapter-foot a {
+    display: block;
+    padding: 20px 24px;
+    border: 1px solid var(--rule-soft);
+    border-radius: 3px;
+    background: var(--bg-2);
+    color: var(--text);
+    text-decoration: none;
+    transition: background .15s, border-color .15s;
+  }
+  .chapter-foot a:hover { background: var(--bg-3); border-color: var(--accent-dim); }
+  .chapter-foot .ar-lbl {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 6px;
+    display: block;
+  }
+  .chapter-foot .next { text-align: right; }
+  .chapter-foot .ar-name {
+    font-family: var(--display);
+    font-size: 19px;
+    color: var(--text);
+    line-height: 1.25;
+  }
+
+  /* In-chapter outline (long-chapter mode) */
+  .chapter-outline {
+    margin-top: 8px;
+  }
+  .chapter-outline a {
+    display: block;
+    padding: 6px 0 6px 12px;
+    border-left: 2px solid transparent;
+    margin-left: -2px;
+    color: var(--text-mid);
+    text-decoration: none;
+    font-family: var(--serif);
+    font-size: 12.5px;
+    line-height: 1.35;
+    transition: color .15s, border-color .15s;
+  }
+  .chapter-outline a.h3 {
+    padding-left: 26px;
+    font-size: 11.5px;
+    color: var(--text-dim);
+  }
+  .chapter-outline a:hover { color: var(--text); }
+  .chapter-outline a.active {
+    color: var(--accent-2);
+    border-left-color: var(--accent);
+  }
+
+  /* Periodic Table & long-chapter h2 dividers */
+  .reader-prose.long-chapter h2 {
+    margin-top: 72px;
+    padding-top: 28px;
+    border-top: 1px solid var(--rule-soft);
+    font-size: 36px;
+    line-height: 1.1;
+  }
+  .reader-prose.long-chapter h2::before {
+    content: "";
+    display: block;
+    width: 28px;
+    height: 2px;
+    background: var(--accent);
+    margin-bottom: 18px;
+  }
+  .reader-prose.long-chapter h3 {
+    margin-top: 44px;
+  }
+
+  /* Chapter banner for long chapters */
+  .chapter-banner {
+    margin: 28px 0 40px;
+    padding: 22px 26px;
+    background: linear-gradient(90deg, oklch(0.90 0.06 60 / 0.5), var(--bg-2));
+    border: 1px solid var(--rule-soft);
+    border-left: 3px solid var(--accent);
+    border-radius: 3px;
+    font-family: var(--mono);
+    font-size: 11.5px;
+    letter-spacing: 0.06em;
+    color: var(--text-mid);
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    flex-wrap: wrap;
+  }
+  .chapter-banner .cb-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .chapter-banner .cb-lbl {
+    font-size: 9.5px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+  .chapter-banner .cb-val { color: var(--text); }
+  .chapter-banner .cb-val.accent { color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="progress" id="progress"></div>
+
+<header class="topnav-wrap">
+  <nav class="topnav">
+    <a class="crest" href="reader.html#docs/index.md">
+      <span class="dot"></span>
+      <span class="crest-stack">
+        <span class="work" id="crest-work">Fellowship of the Heart</span>
+        <span class="crest-sub" id="crest-sub">CCA Pilot</span>
+      </span>
+    </a>
+    <div class="topnav-vols" id="topnav-vols"></div>
+    <div class="topnav-tools">
+      <button type="button" class="nav-btn" id="search-toggle" aria-label="Search"><span class="ico">⌕</span><span class="btn-label">Search</span></button>
+      <button type="button" class="nav-btn icon-only" id="theme-toggle" aria-label="Toggle theme"><span class="ico">☀</span></button>
+      <a class="nav-btn" id="license-link" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener"><span class="btn-label">CC BY-SA 4.0</span></a>
+    </div>
+  </nav>
+</header>
+
+<div class="search-overlay" id="search-overlay">
+  <div class="search-panel">
+    <div class="search-field">
+      <span class="s-ico">⌕</span>
+      <input type="text" class="search-input" id="search-input" placeholder="Search the curriculum…" autocomplete="off" />
+      <span class="search-hint">Esc</span>
+    </div>
+    <div class="search-results" id="search-results"></div>
+  </div>
+</div>
+
+<div class="shell">
+  <aside class="toc-sidebar">
+    <p class="toc-title" id="sidebar-title">Chapters</p>
+    <nav id="chapter-nav">
+      <ul class="ch-list" id="ch-list"></ul>
+    </nav>
+  </aside>
+
+  <main id="content">
+    <div class="prose-wide reader-prose" id="reader-body">
+      <div class="reader-loading">Loading…</div>
+    </div>
+    <div class="chapter-foot" id="chapter-foot"></div>
+  </main>
+
+  <aside class="right-rail">
+    <div class="rail-block">
+      <div class="rail-label">Series</div>
+      <div class="rail-value" id="rail-vol">—</div>
+    </div>
+    <div class="rail-block">
+      <div class="rail-label">Edition</div>
+      <div class="rail-value" id="rail-edition">—</div>
+    </div>
+    <div class="rail-block">
+      <div class="rail-label">Source</div>
+      <div class="rail-value" id="rail-source" style="word-break: break-all;">—</div>
+    </div>
+  </aside>
+</div>
+
+<script src="manifest.js"></script>
+<script src="reader.js"></script>
+</body>
+</html>
