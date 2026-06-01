@@ -45,6 +45,8 @@ Going Out has three structural phases:
 
 The handbook is explicit: **not everyone is sent to start a group.** Acts 13 sent two of the five named at Antioch; the other three were doing real work, just not the work of being apostles in that moment. The Going Out discernment phase (Weeks 1–4 and the gate at Week 8) is a real gate. Some participants will be confirmed to lead; some to support; some will be counseled toward further formation before any sending. All three are honest outcomes, and the team must be willing to name the third option in front of the cohort.
 
+The formation theology behind this — the upper levels of internalization, where the hundredfold becomes fruit that reproduces, and reproduction is discerned rather than assumed — is developed in the IJH Hearing-God Paper [BFP — Bearing Fruit with Patience](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fbearing-fruit-with-patience-upper-levels.md).
+
 A separate follow-on — **Inviting Others** — equips those whose Going Out Wk 10 calling surfaces in the group-starting direction. It is not a fourth series in the arc; it is the equipping that meets a specific calling when the Spirit confirms one. See [the Inviting Others handbook](inviting-others-handbook.md).
 
 ---

@@ -26,7 +26,7 @@ The six volumes:
 - **Volume 2: Knowing to Doing** — the diagnostic, therapeutic, and developmental work — the Heart Soil, the Emotional Knots, the Container, the Tool Map, PROAPT, the Four Connects, the Training Plan. FotH is the cohort-walked operational form of Vol 2 most directly.
 - **Volume 3: Spiritual Dynamics** — the most speculative of the volumes; attempts to translate Vol 1's structural laws into more formal mathematical and dynamical language. Skippable on a first pass unless you enjoy that frame.
 - **Volume 4: Testing Framework** — how to test all of this in real life, at individual, small-group, and larger-study scales.
-- **Volume 5: References** — annotated bibliography, the Periodic Table of Spiritual Laws (the catalog organizer), the Formation Documents (the academic-register companion papers, including MSFIG), and the operational tool protocols Companions deploy in sessions.
+- **Volume 5: References** — annotated bibliography, the Periodic Table of Spiritual Laws (the catalog organizer), the [Formation Documents](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/Volume%205.html) (the academic-register companion papers — including MSFIG and the four-part **Hearing-God Papers**, which measure spiritual maturity in hearing God, prescribe its cultivation, and form the heart through the lower and upper levels of internalization), and the operational tool protocols Companions deploy in sessions.
 - **Volume 6: Governance** — the framework under which the work is stewarded, extended, and corrected by others beyond the original author. The institutional layer that helps the work outlast its author.
 
 Every claim in IJH carries one of three confidence tiers, named explicitly so you can read with the right posture:
