@@ -11,57 +11,76 @@
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   }[c]));
 
+  // Inline formatting: code, bold, italic, links, images
   function inline(text) {
     let s = escapeHtml(text);
+    // Inline code
     s = s.replace(/`([^`]+)`/g, (_, code) => '<code>' + code + '</code>');
-    // Images ![alt](src)
-    s = s.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_, alt, src) => {
+    // Shared: resolve a relative path against the current chapter's docs/ dir.
+    function resolvePath(u) {
+      if (/^https?:|^data:|^\//.test(u)) return u;
+      const ctx = window.__current_md_path || '';
+      const parts = ctx.substring(0, ctx.lastIndexOf('/')).split('/');
+      let t = u;
+      if (t.startsWith('./')) t = t.slice(2);
+      while (t.startsWith('../')) { parts.pop(); t = t.slice(3); }
+      return (parts.length ? parts.join('/') + '/' : '') + t;
+    }
+    // Images ![alt](src) with an optional {: …} attr-list. Any .classes in
+    // the attr-list are added to the figure (e.g. {: .inset-left} for a small
+    // float-left figure); default with no attr-list is the full-width figure.
+    s = s.replace(/!\[([^\]]*)\]\(([^)]+)\)(?:\{:\s*([^}]*?)\s*\})?/g, (_, alt, src, attrs) => {
       const safeAlt = alt.replace(/"/g, '&quot;');
-      let resolved = src;
-      if (!/^https?:|^data:|^\//.test(src)) {
-        const ctx = window.__current_md_path || '';
-        const ctxDir = ctx.substring(0, ctx.lastIndexOf('/'));
-        if (src.startsWith('./')) src = src.slice(2);
-        resolved = ctxDir + '/' + src;
-      }
-      return '<figure class="md-figure"><img src="' + resolved + '" alt="' + safeAlt + '" loading="lazy"/>' +
-             (alt ? '<figcaption>' + escapeHtml(alt) + '</figcaption>' : '') +
+      const resolved = resolvePath(src);
+      let cls = 'md-figure';
+      if (attrs) { const m = attrs.match(/\.[A-Za-z0-9_-]+/g); if (m) cls += ' ' + m.map(c => c.slice(1)).join(' '); }
+      // `alt` is already HTML-escaped (inline() escapes the whole string up
+      // front), so it is safe to drop straight into the figcaption — escaping
+      // again here would double-encode apostrophes/ampersands in captions.
+      return '<figure class="' + cls + '"><img src="' + resolved + '" alt="' + safeAlt + '" loading="lazy"/>' +
+             (alt ? '<figcaption>' + alt + '</figcaption>' : '') +
              '</figure>';
     });
-    // Links [text](url) — local .md links become hash routes into the reader
-    s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, txt, url) => {
+    // Links [text](url) with an optional {: …} attr-list (MkDocs attr_list,
+    // used by the PDF-popup links). .md links open in the reader; PDFs and
+    // other files get their relative path resolved and any classes/
+    // data-pdf-label carried through so the popup handler can pick them up.
+    s = s.replace(/\[([^\]]+)\]\(([^)]+)\)(?:\{:\s*([^}]*?)\s*\})?/g, (_, txt, url, attrs) => {
       const safeUrl = url.replace(/"/g, '%22');
-      let href = safeUrl;
-      // In-page anchor link [text](#slug): tag it so the delegated handler can
-      // scroll to the matching heading (id "h-"+slug) without reloading.
+      // In-page anchor link [text](#slug): keep it as a bare fragment (do NOT
+      // resolve it against the current directory) so the delegated handler can
+      // scroll to the matching heading, whose id is "h-"+slug.
       if (safeUrl.startsWith('#')) {
         return '<a class="anchor-link" href="' + safeUrl + '">' + txt + '</a>';
       }
       if (/\.md(#|$)/.test(safeUrl) && !/^https?:/.test(safeUrl)) {
-        const ctx = window.__current_md_path || '';
-        const ctxDir = ctx.substring(0, ctx.lastIndexOf('/'));
-        let target = safeUrl;
-        if (target.startsWith('../')) {
-          const parts = ctxDir.split('/');
-          while (target.startsWith('../')) { parts.pop(); target = target.slice(3); }
-          target = parts.join('/') + '/' + target;
-        } else if (!target.startsWith('/')) {
-          target = (ctxDir ? ctxDir + '/' : '') + target.replace(/^\.\//, '');
-        }
-        href = 'reader.html#' + encodeURIComponent(target);
-        return '<a href="' + href + '">' + txt + '</a>';
+        return '<a href="reader.html#' + encodeURIComponent(resolvePath(safeUrl)) + '">' + txt + '</a>';
       }
+      let cls = [], label = '';
+      if (attrs) {
+        (attrs.match(/\.[A-Za-z0-9_-]+/g) || []).forEach(c => cls.push(c.slice(1)));
+        // escapeHtml has already run, so the quotes are &quot; here.
+        const m = attrs.match(/data-pdf-label\s*=\s*(?:"|&quot;)([\s\S]*?)(?:"|&quot;)/);
+        if (m) label = m[1];
+      }
+      const resolved = resolvePath(safeUrl);
+      let attrStr = '';
+      if (cls.length) attrStr += ' class="' + cls.join(' ') + '"';
+      if (label) attrStr += ' data-pdf-label="' + label.replace(/"/g, '&quot;') + '"';
       const ext = /^https?:/.test(safeUrl) ? ' target="_blank" rel="noopener"' : '';
-      return '<a href="' + safeUrl + '"' + ext + '>' + txt + '</a>';
+      return '<a href="' + resolved + '"' + attrStr + ext + '>' + txt + '</a>';
     });
+    // Bold **text** and __text__
     s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
     s = s.replace(/__([^_]+)__/g, '<strong>$1</strong>');
+    // Italic *text* and _text_ (single, not surrounded by other *)
     s = s.replace(/(?<![*\w])\*([^*\n]+?)\*(?!\*)/g, '<em>$1</em>');
     s = s.replace(/(?<![_\w])_([^_\n]+?)_(?!_)/g, '<em>$1</em>');
     return s;
   }
 
   function parseTable(lines, start) {
+    // lines[start] is header row, lines[start+1] is separator
     if (start + 1 >= lines.length) return null;
     if (!/^\s*\|?[\s\-:|]+\|?\s*$/.test(lines[start + 1])) return null;
     const splitRow = (row) => row.replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map(c => c.trim());
@@ -94,9 +113,14 @@
     while (i < lines.length) {
       const ln = lines[i];
       if (ln.trim() === '') { inner.push(''); i++; continue; }
-      if (/^    /.test(ln) || /^\t/.test(ln)) { inner.push(ln.replace(/^(    |\t)/, '')); i++; }
-      else break;
+      if (/^    /.test(ln) || /^\t/.test(ln)) {
+        inner.push(ln.replace(/^(    |\t)/, ''));
+        i++;
+      } else {
+        break;
+      }
     }
+    // trim trailing blanks
     while (inner.length && inner[inner.length-1] === '') inner.pop();
     const inside = parseBlocks(inner);
     const html = `<div class="admonition ${kind}"><div class="admonition-title">${escapeHtml(title)}</div>${inside}</div>`;
@@ -118,26 +142,44 @@
         i++;
         while (i < lines.length) {
           if (lines[i].trim() === '') {
+            // could be paragraph continuation; peek ahead
             const next = lines[i + 1];
-            if (next && /^\s{2,}/.test(next) && !next.match(marker)) { itemLines.push(''); i++; continue; }
+            if (next && /^\s{2,}/.test(next) && !next.match(marker)) {
+              itemLines.push('');
+              i++;
+              continue;
+            }
             break;
           }
           if (lines[i].match(marker) && (lines[i].match(/^(\s*)/)[1].length === baseIndent)) break;
-          if (/^\s+/.test(lines[i])) { itemLines.push(lines[i].replace(new RegExp('^\\s{' + (baseIndent + 2) + '}'), '')); i++; }
-          else if (/^\s*[-*+]\s/.test(lines[i]) || /^\s*\d+\.\s/.test(lines[i])) { itemLines.push(lines[i]); i++; }
-          else break;
+          if (/^\s+/.test(lines[i])) {
+            itemLines.push(lines[i].replace(new RegExp('^\\s{' + (baseIndent + 2) + '}'), ''));
+            i++;
+          } else if (/^\s*[-*+]\s/.test(lines[i]) || /^\s*\d+\.\s/.test(lines[i])) {
+            itemLines.push(lines[i]);
+            i++;
+          } else {
+            break;
+          }
         }
         items.push(itemLines);
-      } else if (lines[i].trim() === '' && i + 1 < lines.length && lines[i + 1].match(marker)) { i++; }
-      else break;
+      } else if (lines[i].trim() === '' && i + 1 < lines.length && lines[i + 1].match(marker)) {
+        i++;
+      } else {
+        break;
+      }
     }
     if (!items.length) return null;
     const tag = ordered ? 'ol' : 'ul';
     let html = '<' + tag + '>';
     items.forEach(itemLines => {
+      // If item has multiple paragraphs (blanks inside), parse as blocks; otherwise inline
       const hasBlock = itemLines.some(l => l === '') || itemLines.some(l => /^[-*+\d]/.test(l));
-      if (hasBlock) html += '<li>' + parseBlocks(itemLines) + '</li>';
-      else html += '<li>' + inline(itemLines.join(' ')) + '</li>';
+      if (hasBlock) {
+        html += '<li>' + parseBlocks(itemLines) + '</li>';
+      } else {
+        html += '<li>' + inline(itemLines.join(' ')) + '</li>';
+      }
     });
     html += '</' + tag + '>';
     return { html, consumed: i - start };
@@ -149,43 +191,94 @@
     while (i < lines.length) {
       const line = lines[i];
       const trimmed = line.trim();
+
+      // Blank line
       if (trimmed === '') { i++; continue; }
-      if (/^(\s*)(-{3,}|\*{3,}|_{3,})\s*$/.test(line)) { out += '<hr/>'; i++; continue; }
+
+      // HR
+      if (/^(\s*)(-{3,}|\*{3,}|_{3,})\s*$/.test(line)) {
+        out += '<hr/>';
+        i++; continue;
+      }
+
+      // Heading
       const hm = line.match(/^(#{1,6})\s+(.+?)\s*#*\s*$/);
-      if (hm) { const level = hm[1].length; out += '<h' + level + '>' + inline(hm[2]) + '</h' + level + '>'; i++; continue; }
+      if (hm) {
+        const level = hm[1].length;
+        out += '<h' + level + '>' + inline(hm[2]) + '</h' + level + '>';
+        i++; continue;
+      }
+
+      // Code block
       if (/^```/.test(trimmed)) {
         const fence = trimmed.match(/^(`{3,})/)[1];
         i++;
         const code = [];
-        while (i < lines.length && !lines[i].startsWith(fence)) { code.push(lines[i]); i++; }
+        while (i < lines.length && !lines[i].startsWith(fence)) {
+          code.push(lines[i]);
+          i++;
+        }
         out += '<pre><code>' + escapeHtml(code.join('\n')) + '</code></pre>';
         i++; continue;
       }
-      if (/^!!!\s+\w+/.test(line)) { const r = parseAdmonition(lines, i); if (r) { out += r.html; i += r.consumed; continue; } }
+
+      // Admonition !!! kind "title"
+      if (/^!!!\s+\w+/.test(line)) {
+        const r = parseAdmonition(lines, i);
+        if (r) { out += r.html; i += r.consumed; continue; }
+      }
+
+      // Blockquote
       if (/^>\s?/.test(trimmed)) {
         const quoteLines = [];
         while (i < lines.length && (/^>/.test(lines[i].trim()) || lines[i].trim() === '')) {
           if (lines[i].trim() === '') {
-            if (i + 1 < lines.length && /^>/.test(lines[i+1].trim())) { quoteLines.push(''); i++; continue; }
+            if (i + 1 < lines.length && /^>/.test(lines[i+1].trim())) {
+              quoteLines.push('');
+              i++;
+              continue;
+            }
             break;
           }
-          quoteLines.push(lines[i].replace(/^\s*>\s?/, '')); i++;
+          quoteLines.push(lines[i].replace(/^\s*>\s?/, ''));
+          i++;
         }
         out += '<blockquote>' + parseBlocks(quoteLines) + '</blockquote>';
         continue;
       }
+
+      // Table
       if (line.includes('|') && i + 1 < lines.length && /^\s*\|?[\s\-:|]+\|?\s*$/.test(lines[i + 1])) {
-        const r = parseTable(lines, i); if (r) { out += r.html; i += r.consumed; continue; }
+        const r = parseTable(lines, i);
+        if (r) { out += r.html; i += r.consumed; continue; }
       }
-      if (/^\s*[-*+]\s/.test(line)) { const r = parseList(lines, i, false); if (r) { out += r.html; i += r.consumed; continue; } }
-      if (/^\s*\d+\.\s/.test(line)) { const r = parseList(lines, i, true); if (r) { out += r.html; i += r.consumed; continue; } }
+
+      // Lists
+      if (/^\s*[-*+]\s/.test(line)) {
+        const r = parseList(lines, i, false);
+        if (r) { out += r.html; i += r.consumed; continue; }
+      }
+      if (/^\s*\d+\.\s/.test(line)) {
+        const r = parseList(lines, i, true);
+        if (r) { out += r.html; i += r.consumed; continue; }
+      }
+
+      // Paragraph
       const pLines = [];
       while (i < lines.length && lines[i].trim() !== '' &&
-             !/^#{1,6}\s/.test(lines[i]) && !/^>\s?/.test(lines[i].trim()) &&
-             !/^!!!/.test(lines[i]) && !/^```/.test(lines[i].trim()) &&
-             !/^\s*[-*+]\s/.test(lines[i]) && !/^\s*\d+\.\s/.test(lines[i]) &&
-             !/^(\s*)(-{3,}|\*{3,}|_{3,})\s*$/.test(lines[i])) { pLines.push(lines[i]); i++; }
-      if (pLines.length) out += '<p>' + inline(pLines.join(' ').trim()) + '</p>';
+             !/^#{1,6}\s/.test(lines[i]) &&
+             !/^>\s?/.test(lines[i].trim()) &&
+             !/^!!!/.test(lines[i]) &&
+             !/^```/.test(lines[i].trim()) &&
+             !/^\s*[-*+]\s/.test(lines[i]) &&
+             !/^\s*\d+\.\s/.test(lines[i]) &&
+             !/^(\s*)(-{3,}|\*{3,}|_{3,})\s*$/.test(lines[i])) {
+        pLines.push(lines[i]);
+        i++;
+      }
+      if (pLines.length) {
+        out += '<p>' + inline(pLines.join(' ').trim()) + '</p>';
+      }
     }
     return out;
   }
@@ -198,10 +291,11 @@
   }
 
   function renderMarkdown(text) {
-    // Normalize CRLF/CR → LF first. The FotH docs come from a Windows
-    // docx→md pipeline and use CRLF; several block regexes end in `(.*)$`,
-    // which a trailing \r defeats (`.` won't eat \r, `$` won't match before
-    // it) — that made list markers fail to parse and the block loop spin.
+    // Normalize CRLF/CR → LF first. IJH's docs/*.md are currently LF, but a
+    // future docx→md import on Windows would use CRLF; several block regexes
+    // end in `(.*)$`, which a trailing \r defeats (`.` won't eat \r, `$` won't
+    // match before it) — that makes list markers fail to parse and the block
+    // dispatch loop spin without advancing (an infinite "Loading…" hang).
     const norm = stripFrontmatter(text).replace(/\r\n?/g, '\n');
     return parseBlocks(norm.split('\n'));
   }
@@ -473,5 +567,60 @@
     if ((e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) && overlay && !overlay.classList.contains('open')) {
       e.preventDefault(); openSearch();
     } else if (e.key === 'Escape') { closeSearch(); }
+  });
+
+  // ── PDF popup modal ────────────────────────────────────────────────
+  // Links rendered with class `pdf-popup` open the PDF in an overlay
+  // iframe (the browser's native viewer). Close via ×, backdrop, or Esc.
+  // Click handling is delegated, so it survives chapter re-renders.
+  function pdfEnsureModal() {
+    if (document.getElementById('pdf-popup-modal')) return;
+    const modal = document.createElement('div');
+    modal.id = 'pdf-popup-modal';
+    modal.setAttribute('aria-hidden', 'true');
+    modal.innerHTML =
+      '<div class="pdf-popup-backdrop" title="Click to close"></div>' +
+      '<div class="pdf-popup-window" role="dialog" aria-modal="true" aria-label="PDF document">' +
+        '<div class="pdf-popup-bar">' +
+          '<span class="pdf-popup-title"></span>' +
+          '<span class="pdf-popup-hint">Click outside or press Esc to close</span>' +
+          '<a class="pdf-popup-open" href="#" target="_blank" rel="noopener">Open in new tab ↗</a>' +
+          '<button class="pdf-popup-close" aria-label="Close" type="button">×</button>' +
+        '</div>' +
+        '<iframe class="pdf-popup-frame" src="" title="PDF document"></iframe>' +
+      '</div>';
+    document.body.appendChild(modal);
+    modal.querySelector('.pdf-popup-close').addEventListener('click', pdfCloseModal);
+    modal.querySelector('.pdf-popup-backdrop').addEventListener('click', pdfCloseModal);
+  }
+  function pdfOpenModal(href, label) {
+    pdfEnsureModal();
+    const modal = document.getElementById('pdf-popup-modal');
+    // Open at 100% zoom — browsers default to a too-small "fit width".
+    const sep = href.includes('#') ? '&' : '#';
+    modal.querySelector('.pdf-popup-frame').src = href + sep + 'zoom=100';
+    modal.querySelector('.pdf-popup-open').href = href;
+    modal.querySelector('.pdf-popup-title').textContent = label || '';
+    modal.classList.add('is-open');
+    modal.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+  }
+  function pdfCloseModal() {
+    const modal = document.getElementById('pdf-popup-modal');
+    if (!modal) return;
+    modal.classList.remove('is-open');
+    modal.setAttribute('aria-hidden', 'true');
+    modal.querySelector('.pdf-popup-frame').src = '';
+    document.body.style.overflow = '';
+  }
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest && e.target.closest('a.pdf-popup');
+    if (!link) return;
+    e.preventDefault();
+    pdfOpenModal(link.href, link.getAttribute('data-pdf-label') || '');
+  });
+  document.addEventListener('keydown', (e) => {
+    const modal = document.getElementById('pdf-popup-modal');
+    if (e.key === 'Escape' && modal && modal.classList.contains('is-open')) pdfCloseModal();
   });
 })();
