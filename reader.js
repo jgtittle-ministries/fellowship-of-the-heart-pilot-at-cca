@@ -32,6 +32,11 @@
     s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, txt, url) => {
       const safeUrl = url.replace(/"/g, '%22');
       let href = safeUrl;
+      // In-page anchor link [text](#slug): tag it so the delegated handler can
+      // scroll to the matching heading (id "h-"+slug) without reloading.
+      if (safeUrl.startsWith('#')) {
+        return '<a class="anchor-link" href="' + safeUrl + '">' + txt + '</a>';
+      }
       if (/\.md(#|$)/.test(safeUrl) && !/^https?:/.test(safeUrl)) {
         const ctx = window.__current_md_path || '';
         const ctxDir = ctx.substring(0, ctx.lastIndexOf('/'));
@@ -237,6 +242,17 @@
   let path = params.get('path');
   if (!path && window.location.hash) path = decodeURIComponent(window.location.hash.replace(/^#/, ''));
   if (!path) path = 'docs/index.md';
+
+  // A cross-chapter link may carry an in-content anchor as "docs/…/file.md#slug".
+  // Split it off so the manifest lookup and fetch use the bare path; the anchor
+  // is used after render to scroll to the target heading.
+  let targetAnchor = '';
+  const anchorPos = path.indexOf('#');
+  if (anchorPos !== -1) {
+    targetAnchor = path.slice(anchorPos + 1);
+    path = path.slice(0, anchorPos);
+  }
+
   window.__current_md_path = path;
 
   const SITE = window.SITE || {};
@@ -310,6 +326,14 @@
         `</div>`;
       body.innerHTML = meta + window.renderMarkdown(text);
 
+      // ---- Assign ids to headings so in-content anchor links can target them ----
+      body.querySelectorAll('h1, h2, h3, h4').forEach((h, i) => {
+        if (!h.id) {
+          const slug = (h.textContent || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+          h.id = 'h-' + (slug || ('section-' + i));
+        }
+      });
+
       // ---- Make every table horizontally scrollable (the make-or-break) ----
       body.querySelectorAll('table').forEach(t => {
         if (t.parentElement && t.parentElement.classList.contains('table-scroll')) return;
@@ -347,7 +371,18 @@
         : '<div></div>';
       foot.innerHTML = prevHTML + nextHTML;
 
-      window.scrollTo(0, 0);
+      // Scroll to the target heading if a cross-chapter anchor was supplied,
+      // otherwise to the top. Heading ids are "h-"+slug; anchors carry the slug.
+      let scrolledToAnchor = false;
+      if (targetAnchor) {
+        const el = document.getElementById('h-' + targetAnchor) || document.getElementById(targetAnchor);
+        if (el) {
+          const top = el.getBoundingClientRect().top + window.scrollY - 70;
+          window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
+          scrolledToAnchor = true;
+        }
+      }
+      if (!scrolledToAnchor) window.scrollTo(0, 0);
     })
     .catch(err => {
       body.innerHTML = '<div class="reader-error">Failed to load <code>' + escapeHTML(path) + '</code><br/><br/>Error: ' +
@@ -365,6 +400,20 @@
   onScroll();
 
   window.addEventListener('hashchange', () => window.location.reload());
+
+  // In-page anchor links ([text](#slug)) scroll to the matching heading without
+  // changing the hash (which holds the chapter path) or triggering the reload.
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest && e.target.closest('a.anchor-link[href^="#"]');
+    if (!a) return;
+    const slug = a.getAttribute('href').slice(1);
+    const el = document.getElementById('h-' + slug) || document.getElementById(slug);
+    if (el) {
+      e.preventDefault();
+      const top = el.getBoundingClientRect().top + window.scrollY - 70;
+      window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
+    }
+  });
 
   // ---- Theme toggle button ----
   const tt = document.getElementById('theme-toggle');
