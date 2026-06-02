@@ -250,6 +250,10 @@ window.SERIES = [
         "title": "Family Conversation Cards"
       },
       {
+        "path": "docs/shared/interrogating-reality-card.md",
+        "title": "Interrogating Reality Card"
+      },
+      {
         "path": "docs/shared/personal-heart-journal.md",
         "title": "Personal Heart Journal"
       },
@@ -694,6 +698,14 @@ window.PATH_TO_INFO = {
     "title": "Family Conversation Cards",
     "indexPath": "docs/shared/index.md",
     "prev": "docs/shared/index.md",
+    "next": "docs/shared/interrogating-reality-card.md"
+  },
+  "docs/shared/interrogating-reality-card.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Interrogating Reality Card",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/family-conversation-cards.md",
     "next": "docs/shared/personal-heart-journal.md"
   },
   "docs/shared/personal-heart-journal.md": {
@@ -701,7 +713,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Personal Heart Journal",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/family-conversation-cards.md",
+    "prev": "docs/shared/interrogating-reality-card.md",
     "next": "docs/shared/proapt-card.md"
   },
   "docs/shared/proapt-card.md": {

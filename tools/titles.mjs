@@ -31,7 +31,8 @@ export const TITLE_OVERRIDES = {
   'shared/personal-heart-journal.md': 'Personal Heart Journal',
   'shared/proapt-card.md': 'PROAPT Card',
   'shared/reading-list.md': 'Reading List',
-  'shared/rhythm-card.md': 'Rhythm Card'
+  'shared/rhythm-card.md': 'Rhythm Card',
+  'shared/interrogating-reality-card.md': 'Interrogating Reality Card'
 };
 
 const SMALL = new Set(['a','an','and','the','of','to','in','on','for','at','by','or','as','is','it']);
