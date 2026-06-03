@@ -4,6 +4,16 @@
 
 *Editorial pass — superseding the prior round's GO/Inviting Others changelog*
 
+# June 2026 — Architectural conflict resolved (Design B chosen for Going Out)
+
+The Design A vs Design B conflict described below under 'Architectural status' is now **resolved**, via the "both, clearly distinguished" path:
+
+- **Going Out = Design B** (body sent / outward witness). `handbook.md` has been rewritten from scratch to match the twelve GO weekly session plans — the Acts 1:8 four-block arc (Body Sent / Mission Close-to-Home / Mission Far / Sending & Re-formation), the Week-8 corporate discernment with its three honest landings, the four sent-contexts, and the daily Tells. It is no longer the Design-A leadership-equipping content.
+- **Inviting Others = Design A** (leadership equipping). The prior Design-A handbook content remains intact in `inviting-others-handbook.md` as the follow-on for those whose Week-8 discernment confirms a calling to gather a new formation group. It is not a fourth series in the arc; it is the equipping that meets that specific calling.
+- **`going-out/index.md`** was aligned to the Design-B handbook: the subtitle, intro, the four-block arc, the Week-8 label, and the "where the body is sent" section were all reframed off the old equip-and-send-leaders language.
+
+The sections below ('Architectural status', 'Known follow-ups') are retained as the historical record of the conflict and the options that were on the table; the chosen resolution is the Design-B path described here.
+
 # What changed in this delivery
 
 In a prior round, the original FotH\_GoingOut\_Handbook\_v1.docx was repurposed into FotH\_InvitingOthers\_Handbook\_v1.docx because its content matched the Inviting Others architecture (Discernment / Equipping / Launch). The user has now provided a cleaner, vocabulary-corrected version of that handbook (IJH\_GoingOut\_Handbook\_v1.docx) and asked for it to be treated as the Going Out Handbook. This round adds that file to the bundle with its own editorial pass.
@@ -50,6 +60,8 @@ The handbook (Design A) and the weekly sessions (Design B) describe different vo
 
 This bundle does not resolve the conflict; it presents both architectures and lets the user decide. The prior round's Inviting Others Handbook (which carries Design A's content with Inviting Others naming) is retained in the bundle as the alternative framing.
 
+**Resolved (June 2026):** the Design-B path was chosen — `handbook.md` rewritten to match the Design-B sessions, the Design-A content retained as `inviting-others-handbook.md`, and the index aligned. See the top of this changelog.
+
 # Three Taxonomies card — note on placement
 
 The Three Taxonomies disambiguation card has now been added to both the GD handbook (Appendix C opener) and the new Going Out Handbook (between the Letter and Section 1). The card content is identical across the two locations, adapted only to point readers to the correct local section for the Leader Level taxonomy.
@@ -58,10 +70,7 @@ The GS handbook did not receive this card per the prior round's decision (GS rea
 
 # Known follow-ups
 
-- Reconcile Design A (handbook) vs Design B (sessions) for Going Out — see 'Architectural status' above.
-- If Design A wins: the GO weekly sessions (Wks 1–12) need to be rewritten to match the Discernment / Equipping / Launch architecture, and the Inviting Others Handbook becomes redundant and can be removed.
-- If Design B wins: a new handbook needs to be written from scratch matching Body Sent / Mission Close-to-Home / Mission Far / Sending. The current Going Out Handbook content stays as the Inviting Others Handbook (the prior round's framing).
-- If both: clearly distinguish the two as 'Going Out' (the spring volume) and 'Inviting Others' (a follow-on for those whose Wk 10 calling surfaces in the group-starting direction). This was the prior round's working assumption.
+- ~~Reconcile Design A (handbook) vs Design B (sessions) for Going Out~~ — **RESOLVED June 2026 (Design B path; see top of changelog).** The resolution took the "if both" option below: Going Out (the Design-B spring volume) and Inviting Others (the Design-A follow-on) are now clearly distinguished, with a Design-B `handbook.md` written from scratch to match the sessions.
 - Tracked changes in IJH\_GoingOut\_Handbook\_v1.docx are attributed to 'Claude'. Review with Word's Review tab; accept or reject.
 
 # How to review
