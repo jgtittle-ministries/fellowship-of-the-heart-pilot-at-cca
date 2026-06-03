@@ -1,12 +1,12 @@
 # Going Out
 
-*Twelve Tuesdays. The body sent — discerning, equipping, and sending leaders to start formation groups in their own rooms.*
+*Twelve Tuesdays. The body sent — witness as the missional outworking of formation, in the household, the workplace, the third place, and beyond.*
 
 ![An open gate onto the field.](images/landing-out.jpg)
 
 The third of the three Fellowship of the Heart series. Twelve ninety-minute sessions for the cohort that has walked Getting Started and Going Deeper and is now being prepared, individually and as a body, for what comes next.
 
-Going Out is **not curriculum**. It is the recognition of what the Spirit has already been doing across two prior series, and the communal sending of those He has formed and is now calling to start formation groups of their own.
+Going Out is **not curriculum**. It is the missional outworking of what the Spirit has already formed across two prior series — the body sent into ordinary witness in the rooms it already occupies, discerning together, at Week 8, where each member is being sent.
 
 These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session.
 
@@ -23,7 +23,7 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 | 5 | [Household](week-05-household.md) | Sent into the household |
 | 6 | [Vocational](week-06-vocational.md) | Sent into the vocational context |
 | 7 | [Third Place](week-07-third-place.md) | Sent into the third place |
-| 8 | [Discernment](week-08-discernment.md) | The mid-series discernment gate |
+| 8 | [Discernment](week-08-discernment.md) | The cohort discerns together where each member is sent |
 | 9 | [The Body Sent Beyond](week-09-body-sent-beyond.md) | The cohort beyond its own life |
 | 10 | [What Going Out Produced](week-10-what-going-out-produced.md) | What was formed; what is being sent |
 | 11 | [Cohort Lands](week-11-cohort-lands.md) | The cohort's own landing at the Group Level |
@@ -33,19 +33,20 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 
 ## The arc
 
-Going Out has three structural phases:
+Going Out has four blocks of three weeks each, tracing the Acts 1:8 geography of witness — from the immediate context outward.
 
-- **Weeks 1–4 — Re-opening and orientation.** The cohort returns from the interlude, names the gap, and turns from inward formation work toward outward sending. The posture shifts.
-- **Weeks 5–8 — The four contexts and the discernment gate.** Sessions on the household, vocational, third place, and a mid-series discernment that names where each member is being sent. Not everyone who finished Going Deeper will be sent in Going Out — the discernment is real.
-- **Weeks 9–12 — Producing, landing, and the long road.** What Going Out has produced is named honestly; the cohort takes its own measure; the series closes with a sending into a long obedience the team will walk with for six to twelve months.
+- **Body Sent (Weeks 1–3).** The cohort returns from the interlude, names the shift from interior formation to outward witness, and each member articulates one specific sentence naming where their witness is being directed this season.
+- **Mission Close-to-Home (Weeks 4–6).** The witness in the daily relational world: the data of the weekly Tells, the household, and the vocational context.
+- **Mission Far (Weeks 7–9).** The broader geography: third places, the cohort's corporate discernment at Week 8, and the sending with hands laid on.
+- **Sending & Re-formation (Weeks 10–12).** What was produced is named honestly — individually, then as a body — and the series closes with a sending into a long obedience the team walks alongside for six to twelve months.
 
 ---
 
-## On who is sent — and who is not
+## On where the body is sent
 
-The handbook is explicit: **not everyone is sent to start a group.** Acts 13 sent two of the five named at Antioch; the other three were doing real work, just not the work of being apostles in that moment. The Going Out discernment phase (Weeks 1–4 and the gate at Week 8) is a real gate. Some participants will be confirmed to lead; some to support; some will be counseled toward further formation before any sending. All three are honest outcomes, and the team must be willing to name the third option in front of the cohort.
+The handbook is explicit: **everyone is sent — but not everyone is sent to start a group.** When the cohort discerns together at Week 8, the honest landings are several, and held as equal: a specific shared engagement the cohort takes on as a body; differentiated individual callings — a deeper household season, a vocational long obedience, a sustained third-place arc, a one-to-one accompaniment, a contemplative and largely hidden shape, or a calling to gather a new formation group; or a clarifying question the body carries forward for further work. Acts 13 sent two of the five named at Antioch; the other three were doing real work, just not that work in that moment. The team's discipline is to name a quieter sending as honestly — and as honorably — as a louder one.
 
-The formation theology behind this — the upper levels of internalization, where the hundredfold becomes fruit that reproduces, and reproduction is discerned rather than assumed — is developed in the IJH Hearing-God Paper [BFP — Bearing Fruit with Patience](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fbearing-fruit-with-patience-upper-levels.md).
+The formation theology behind this — the upper levels of internalization, where the hundredfold becomes fruit that reproduces, and reproduction is discerned rather than assumed — is developed in the IJH Hearing-God Paper [BFP — Bearing Fruit with Patience](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/reader.html#docs%2Fvolume-5-references%2Fbearing-fruit-with-patience-upper-levels.md).
 
 A separate follow-on — **Inviting Others** — equips those whose Going Out Wk 10 calling surfaces in the group-starting direction. It is not a fourth series in the arc; it is the equipping that meets a specific calling when the Spirit confirms one. See [the Inviting Others handbook](inviting-others-handbook.md).
 

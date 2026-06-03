@@ -4,7 +4,7 @@
 
 **Going Out**
 
-*Discerning, equipping, and sending leaders to start formation groups in their own rooms*
+*The body sent — witness as the missional outworking of formation*
 
 **FORMATION COMPANION HANDBOOK**
 
@@ -12,878 +12,321 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, May 2026*
+*John G. Tittle • Curriculum draft v1, June 2026*
 
 # A Letter to the Companion
 
 Welcome to the third movement.
 
-This handbook is for the team carrying the Going Out series at Covenant Christian Academy of Warrenton. Most of you have walked Getting Started and Going Deeper with these families. Some of you are coming in fresh because the work has grown and we need depth on the team — Companions whose own walk and pastoral capacity match the demands of Going Out, regardless of chronological age. The handbook uses the role names Lead Companion, Cohort Companion, Co-Companion, and pastoral support throughout, drawing on Vol 5’s formation-companion architecture rather than congregational-elder language. The handbook is written for both of you.
+This handbook is for the team carrying the Going Out series at Covenant Christian Academy of Warrenton. Most of you have walked Getting Started and Going Deeper with these families. Some of you are coming in fresh because the work has grown and we need depth on the team — Companions whose own walk and pastoral capacity match the demands of Going Out, regardless of chronological age. The handbook uses the role names Lead Companion, Cohort Companion, Co-Companion, and pastoral support throughout, drawing on Vol 5's formation-companion architecture rather than congregational-elder language. The handbook is written for both of you.
 
-Going Out is not curriculum. It is the recognition of what the Spirit has already been doing across two prior series, and the communal sending of those He has formed and is now calling to start formation groups of their own.
+Going Out is not curriculum. It is the missional outworking of what the Spirit has already been forming across two prior series. Getting Started introduced the vocabulary and the four Connects. Going Deeper did the diagnostic and therapeutic work of Vol 2 — soils, knots, lies, confession, hearing, gifts, shadow, calling. Going Out engages what all of that was *for*: a body sent into the world to bear witness. The same Spirit who formed the cohort inwardly now sends it outward.
 
 Three things you should know before you read further.
 
-First: not everyone who finished Going Deeper will be sent in Going Out. The discernment phase (Wks 1–4) is a real gate. Some participants will be confirmed to lead; some will be confirmed in supporting roles; some will be counseled toward further formation before any sending. All three are honest outcomes, and the team must be willing to name the third option in front of the cohort. Acts 13 only sent two of the five named in the Antioch passage; the other three were doing real work, just not the work of being apostles in that moment.
+First: Going Out is about being sent into your *actual life* — your household, your work, your third places, and wherever else the Spirit has prepared good works for you to walk in. It is not, primarily, about starting something new. Most of this cohort will be sent more deeply into the rooms they already occupy. The witness is ordinary before it is ever extraordinary, and the ordinary is the point.
 
-Second: every sent leader is sent under spiritual authority that is not CCA. Each calling-confirmed leader has individual spiritual direction with someone outside CCA, and each new group has a “home” — a church or other spiritual hierarchy that recognizes the group, holds it accountable, and provides ongoing pastoral covering. CCA is the soil that grew the leader; CCA is not the institutional parent of the group. Section 3 of this handbook is explicit about why this matters and what it requires.
+Second: not every calling looks the same, and the series is built to honor that honestly. When the cohort discerns together at Week 8 where each member is being sent, the honest landings are several — a deepening in the household, a vocational long obedience, a sustained third-place arc, a one-to-one accompaniment, a contemplative and largely hidden shape, and yes, sometimes a calling to gather a new formation group. These are not a hierarchy. The body that hears "stay and go deeper where you are" has heard just as truly as the body that hears "go and gather." The team's discipline is to hold all of these as equally real.
 
-Third: the goal of Going Out is to produce Level 2 leaders — not Level 5. The Affective Taxonomy applied to leadership (Section 4) names five levels of Companion development. Level 5 is multi-generational, self-replicating leadership; it takes years and the support of a leader’s own ongoing formation to reach. Going Out aims at Level 2 with the conditions in place for movement toward Level 3 across the leader’s first 6–12 months of leading. We are not graduating Companion-mature leaders; we are setting them honestly on a long road and walking with them for the first six months of it.
+Third: the specific calling to *start a new formation group* has its own follow-on. Going Out discerns and confirms that calling where it is present; it does not, by itself, equip it. The equipping — the spiritual-authority architecture, the leadership taxonomy, the first-session work — lives in the companion handbook **Inviting Others**, which runs after Going Out for those whose Week 8 discernment surfaced the group-starting direction. Keep the two distinct in your own mind and in the cohort's: Going Out is the spring volume every graduate walks; Inviting Others is the follow-on a few are called into.
 
-Walk gently. The leaders being sent in Going Out are people the team has known across two series of formation work; they are also people who are about to bear weight they have not borne before. Honor what they have given you across these months by naming honestly what they are and are not ready for. The work itself is the Spirit’s; we are the room He is using to confirm what He has already started.
+Walk gently. The people in this room have given you two series of honest formation work. Going Out asks them to carry that work out the door into the rooms where they are most known and least able to perform — and that is harder, not easier, than the interior work was. Honor what they have given you by sending them honestly into what is actually theirs. The work itself is the Spirit's; we are the room He is using to confirm and send what He has already begun.
 
 *— John*
 
-A note on the three Level taxonomies in the IJH corpus.
+---
 
-Three different five-level frameworks operate in the FotH curriculum, and they share the surface vocabulary “Level 1 … Level 5.” On first reading they can be confusing. Each is theologically distinct and addresses a different unit of formation.
+**A note on the three Level taxonomies in the IJH corpus.**
 
-Affective Taxonomy (educational psychology; Vol 2 Exp 7). Tracks an individual participant’s maturity of engagement: Receiving → Responding → Valuing → Organization → Characterization. Used in Getting Started to set per-cohort outcomes and across Going Deeper to read individual development.
+Three different five-level frameworks operate in the FotH curriculum, and they share the surface vocabulary "Level 1 … Level 5." On first reading they can be confusing. Each is theologically distinct and addresses a different unit of formation.
 
-Group Level taxonomy (MSFIG; cf. Vol 2 Exp 8 + Exp 9). Tracks a cohort’s culture as a body: Level 1 co-presence → Level 2 information-sharing → Level 3 real work → Level 4 body that hears together → Level 5 apostolic team sent together. Used in Going Deeper Wk 11 (honest cohort assessment) and Going Out Wk 11.
+- **Affective Taxonomy** (educational psychology; Vol 2 Exp 7). Tracks an *individual* participant's maturity of engagement: Receiving → Responding → Valuing → Organization → Characterization. Used in Getting Started to set per-cohort outcomes and across Going Deeper to read individual development.
+- **Group Level taxonomy** (MSFIG; cf. Vol 2 Exp 8 + Exp 9). Tracks a *cohort's* culture as a body: Social Fellowship (1) → Information Sharing (2) → Genuine Care (3) → Hearing as Body (4) → Sent as Body (5). Used in Going Deeper Wk 11 and again in Going Out Wk 11 for the cohort's honest self-assessment.
+- **Leader Level taxonomy** (the *Inviting Others* handbook, not this one). Applies the same five-stage frame to the *leader* — the developmental progression by which a graduate becomes a mature Companion who can gather and form a new group. Because Going Out itself does not equip leaders, this taxonomy belongs to the Inviting Others follow-on; it is named here only so the team knows which framework a session means.
 
-Leader Level taxonomy (this handbook, Section 4). Applies the same five-stage frame to the LEADER — the developmental progression by which a Going Deeper graduate becomes a mature, multi-generational Companion. Used throughout Going Out: the discernment phase reads incoming Leader Level; the equipping phase prepares for movement; the launch phase sends at Leader Level 2 with conditions in place for movement toward Level 3.
-
-When a session document says “Level 3,” it is naming one of these three. In ambiguous moments, the team writes out which: “the cohort is at Group Level 3” or “the leader is at Leader Level 2.” Affective Taxonomy levels are usually named in full because the section header sets the context.
+When a session document says "Level 3," it is naming one of these three. In ambiguous moments, the team writes out which: "the cohort is at Group Level 3." Affective Taxonomy levels are usually named in full because the context sets them.
 
 # Section 1 — The Series at a Glance
 
 ## Title and theme
 
-“Going Out.” The title is purposefully active. The Getting Started was an introduction; Going Deeper went deeper; Going Out is movement — from the room that formed you to the room you are being sent into.
+"Going Out." The title is purposefully active and purposefully ordinary. Getting Started was an introduction; Going Deeper went inward; Going Out is movement — the formed body carried out of the room that formed it and into the world it was always for. The theme is *witness*: not primarily an activity the cohort adds to its week, but an identity the cohort already carries and now learns to inhabit on purpose.
 
 ## The big idea
 
-From MSFIG of IJH: “Group Level 5: Former members lead new groups that exhibit the same hearing culture, not by following a manual but by having been formed by it. The Level 5 culture is portable. It replicates itself through the people it has formed.”
-
-Going Out is the operationalization of this claim. The series equips people who have been formed by Getting Started + Going Deeper to start formation groups of their own, in their own rooms, shaped by the Spirit for those specific rooms. The architecture is Acts 13: the Spirit speaks in a worshiping, fasting, submitted community; the community confirms what the Spirit said; the community lays hands and sends.
+Acts 1:8 names the architecture: *"You will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth."* The Spirit's power, given to those who have already received Him, is *for witness* — and the witness moves outward in widening geography: the immediate context (Jerusalem), the close-to-home context (Judea and Samaria), and the far context (the ends of the earth). Going Out's four blocks map onto this geography. The body learns to be a witness where it already stands before it discerns whether it is being sent anywhere new.
 
 ## Series outcomes
 
-By the end of Going Out, a calling-confirmed participant should be able to:
+By the end of Going Out, a cohort member should be able to:
 
-- Name the specific room and the specific people the Spirit is calling them to gather — with the cohort’s communal confirmation, not just personal conviction.
-- Hold the four container conditions (Safe, Present, Clear, Intentional) as a Companion’s ongoing discipline, not just a concept.
-- Adapt the four-Connects work to the specific shape their room needs — not running the Getting Started curriculum as a manual, but carrying the culture as a lineage.
-- Recognize the four knot types from Vol 2 Exp 2 in their group members’ lives at a diagnostic level, with the discipline of NEVER attempting therapeutic work in their own room. They know their referral pathways.
-- Operate under the spiritual authority structure that Going Out makes a precondition: individual spiritual direction outside CCA, and a group home in a recognized church or spiritual hierarchy.
-- Self-assess where they are on the Affective Taxonomy of leadership, and articulate what the next level requires of them.
+- Articulate, in one specific sentence, where the Spirit is sending their witness this season — naming the actual context, the actual people, and the actual shape of the witness.
+- Practice the weekly outside-cohort Tell as an ordinary rhythm, and read honestly what their Tells reveal about who they are becoming as a sent person.
+- Locate their witness across the four sent-contexts (household, vocational, third place, beyond) and name which is their downhill calling this season.
+- Participate honestly in the cohort's corporate discernment (Week 8), including holding open the possibility that the body hears differently than the individual hoped.
+- Receive the body's sending — and, where the discernment landed there, count the cost of a yes before giving it.
+- Read the cohort's honest Group Level, and carry the practices of the long obedience after the formal series ends.
 
 ## Session map
 
-Twelve Tuesdays, divided into three phases of four weeks each.
+Twelve Tuesdays, in four blocks of three weeks each, tracing the Acts 1:8 geography.
 
-| **Phase** | **Wk** | **Title** | **What happens** |
+| **Block** | **Wk** | **Title** | **What happens** |
 | --- | --- | --- | --- |
-| Discernment | 1 | Welcome to the Sending | Re-establish the room as a discerning body. Name the three honest outcomes (leader / supporter / further-formation). |
-| Discernment | 2 | The Three Openness Conditions and the Leadership Taxonomy | Submission to scripture, openness to external correction, observable fruit. Teach the Affective Taxonomy applied to leadership (Levels 1–5). |
-| Discernment | 3 | Discernment Round 1 (about half the cohort) | Acts 13 protocol for first half of cohort. Each focal participant ~20 min. |
-| Discernment | 4 | Discernment Round 2 + Synthesis + Spiritual Authority Requirements | Complete discernment. Name spiritual-direction and group-home requirements before any equipping begins. |
-| Equipping | 5 | Holding the Four Conditions as Discipline | Each calling-confirmed participant names the specific challenge in their target room; cohort works the question. |
-| Equipping | 6 | The Four Connects in a New Room | Adapt the work, do not replicate the curriculum. Each leader maps their first six weeks for THEIR specific room. |
-| Equipping | 7 | What the Companion Cannot Do (Referral Pathways) | Boundary discipline. Each leader builds a referral list — pastoral, inner-healing, clinical — for their target geography. |
-| Equipping | 8 | Recognizing Knots in Others (Without Becoming a Therapist) | Diagnostic recognition only; the discipline of never doing the therapeutic work in their own room. |
-| Launch | 9 | Naming Your First Three to Five (and Confirming Spiritual Authority) | Specific people. Specific scheduled invitations. Spiritual director identified; group home identified. |
-| Launch | 10 | First-Session Simulation | Each leader walks a first-session opening (15 min) in front of the cohort. Cohort feedback (10 min). |
-| Launch | 11 | Final Preparations + Six-Month Support Structure | Logistics finalized. Support structure confirmed. Spiritual authority infrastructure verified. |
-| Launch | 12 | The Antioch Sending | Public commissioning. Cohort + family + spiritual director + group-home representative + external witnesses lay hands and send. |
+| Body Sent | 1 | Welcome Back | Reopen the cohort after the interlude; land the gap honestly; frame the four-block architecture; re-engage standing pairs and the Rhythm Card. |
+| Body Sent | 2 | The Body Sent | Acts 2 + 1 Peter 2:9–10. The corporate sent identity; witness distinguished from evangelism, program, and performance. First witness data from the outside-cohort Tell. |
+| Body Sent | 3 | Where Sent | Each member articulates ONE specific working sent-context sentence, integrating gift/shadow, calling, and the question carried from Going Deeper Wk 11. |
+| Mission Close-to-Home | 4 | Daily Tells | The data look. Three weeks of outside-cohort Tells reviewed honestly as a body — corporate soul-clearing in one of its forms. The three modes of witness. |
+| Mission Close-to-Home | 5 | Household | Deut 6 Shema and the Household Formation Law. The costliest close-to-home context; substantive standing-pair work. Household-as-calling vs household-supports-calling. |
+| Mission Close-to-Home | 6 | Vocational | Daniel and Joseph; Col 3:23–24; Matt 5:16. The witness that *is* the daily work, done as for the Lord. |
+| Mission Far | 7 | Third Place | Oldenburg's third place; Acts 8 (Philip and the Ethiopian); Eph 2:10 (prepared works). The downhill/uphill distinction introduced. |
+| Mission Far | 8 | Discernment | The cohort's second Group-Level-4 attempt. Acts 13:1–3; the weighing discipline of 1 Cor 14:29. The three honest landings. |
+| Mission Far | 9 | The Body Sent Beyond | Acts 13:3 — the body confirms and sends with hands laid on. Counting the cost against a premature yes. Hebrews 12:1–2 returns as the long-obedience frame. |
+| Sending & Re-formation | 10 | What Going Out Produced | Individual integration. Phil 1:6 — a work in process, not complete and not undone. Substantive pair work. |
+| Sending & Re-formation | 11 | Cohort Lands | The cohort's honest Group-Level self-assessment across the whole arc (MSFIG five levels). The body's level is its lowest stable common practice, not its average. |
+| Sending & Re-formation | 12 | Long Obedience | The ceremonial close. Acts 20:36–38; standing-pair blessings; the cohort speaks the Aaronic over itself; the H12.1 sending card; an honest bridge to what continues. |
 
-# Section 2 — Audience and the Discernment Gate
+## The four-block arc
+
+- **Body Sent (Wks 1–3) — Jerusalem.** The cohort returns from the interlude, names the shift from interior formation to outward witness, and each member articulates where their witness is being directed this season.
+- **Mission Close-to-Home (Wks 4–6) — Judea and Samaria.** The witness in the daily relational world: the data of the weekly Tells, the household, and the vocational context.
+- **Mission Far (Wks 7–9) — the ends of the earth.** The broader geography: third places, the cohort's corporate discernment, and the sending.
+- **Sending & Re-formation (Wks 10–12).** What was produced is named honestly — individually, then as a body — and the formal series closes with a sending into a long obedience the team walks alongside for six to twelve months.
+
+# Section 2 — Audience and Re-entry
 
 ## Strict admission criterion
 
-Going Out admits only participants who completed both Getting Started + Going Deeper. The discernment work in Wks 1–4 assumes the corporate-listening practices of Going Deeper Wks 7–8 are familiar; without that grounding, the Acts 13 protocol does not work. There is no Going Out onboarding for non-graduates. People who heard about the work and want in are warmly directed to next year’s Getting Started cohort.
+Going Out admits only participants who completed both Getting Started and Going Deeper. The body-sent work assumes the corporate-listening and hearing practices of Going Deeper Wks 7–8 and the gift/shadow and calling work of Wks 9–10 are familiar; without that grounding, the Week 8 discernment does not work. There is no Going Out onboarding for non-graduates. People who hear about the work and want in are warmly directed to next year's Getting Started cohort.
 
-## The Acts 13 reading on the discernment gate
+## The interlude and re-entry
 
-## Acts 13:1–3 (ESV)
+There is a structural interlude (typically 6–10 weeks) between Going Deeper Wk 12 and Going Out Wk 1; see the Going Deeper Handbook, Appendix H. The interlude is intentional, not a gap to be apologized for: the cohort was sent at the end of Going Deeper, and the weeks away are part of the formation. Some members continued their standing pairs informally across the interlude; some released them. Some practiced the Rhythm Card faithfully; some lapsed. Week 1 surfaces all of this honestly so that Going Out builds from the *actual* cohort, not the imagined one.
 
-*Now there were in the church at Antioch prophets and teachers, Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen a member of the court of Herod the tetrarch, and Saul. While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.” Then after fasting and praying they laid their hands on them and sent them off.*
+## Building from the cohort's honest level
 
-Two structural notes from this passage shape how the discernment gate works:
+Going Out builds from where the cohort honestly landed at Going Deeper Wk 11 — the Group Level the body actually reached, not a more flattering one. Each member also carries forward their **H11.3 prompt 4** — the question they took out of Going Deeper into the interlude. That question is Going Out's seed; Wk 1 surfaces it and Wk 3 gives it its first articulation as direction.
 
-- The Spirit named two of the five people in the room. Three were not sent at this moment; that is also data. The discernment is not democratic and it is not equal-opportunity. The Spirit says what the Spirit says.
-- Barnabas and Saul were not strangers — they had served in the Antioch community already. The sending was the recognition of formation that had already happened. We are doing the same thing in Going Out: recognizing whom the Spirit has already formed and where He is sending them.
+## Re-registration
 
-## Three honest outcomes from the discernment phase
-
-## After Wk 4, every cohort member is on one of three tracks
-
-**Calling-confirmed leader. The cohort has heard a clear convergence about this person’s call to start a formation group. Specific room, specific timeframe, specific people surfacing. They move into Phase 2 (Equipping) toward Wk 12 sending.**
-
-**Calling-confirmed supporter. The cohort has heard that this person is being called to walk alongside one of the leaders — sometimes as a co-leader, sometimes as a prayer partner, sometimes as a practical-logistics person. They move into Phase 2 with a different focus, supporting the leader they have been called to.**
-
-**Further-formation. The cohort has heard that this person is not being called to lead in this cycle. The reasons vary: the Spirit may say ‘not yet,’ the cohort may notice unfinished formation work that should precede leading, or the Spirit may simply have not spoken about leadership for this person at this time. They are warmly invited to continue with the cohort through Wk 12 in a learning posture, and to consider next year’s spring cycle.**
-
-## The re-registration form question
-
-The third outcome — further-formation — has to be visible at admission, not invented mid-spring. The re-registration form (Appendix B) includes this question explicitly:
-
-## Required question on the re-registration form
-
-***“Are you open to having your sense of calling tested in the cohort, with the genuine possibility of being counseled toward further formation rather than launching a group in Going Out?”***
-
-*The participant must answer YES, in writing, to be admitted to Going Out. A participant who cannot honestly say yes to this question is not yet ready for the Going Out series; they may be ready next year.*
+Re-registration confirms continued participation and refreshes contact and pastoral information. Going Out's discernment does not function as a filtering gate the way the Inviting Others equipping does — every graduate is welcome to walk the full series. The honesty the re-registration asks for is simpler: a willingness to let the body weigh, at Week 8, where one is being sent, including the possibility that it is a quieter or more hidden direction than one hoped.
 
 ## Cohort size
 
-Going Out cohorts are smaller than Getting Started, Going Deeper, or Going Out because the work is more individuated. Recommended sizes:
+Going Out can hold the full graduating cohort, because most of the work is the body discerning and being sent together rather than individuated leadership preparation. Where the cohort is large, the developmental cohort-split structure (junior teens / senior teens / parents) carries the texture, with the body merging for the shared movements. If a single circle exceeds what the team can hold for the Week 8 corporate discernment, run the discernment in developmental cohorts and bring the landings together as a body.
 
-- 8–12 participants total. This is a single cohort, not three; senior teens, parents, and adult-only graduates work together because the discernment work crosses ages.
-- If demand exceeds 12, the team runs two parallel Going Out cohorts with separate Companion teams — not one cohort of 14+. The Acts 13 work does not scale beyond ~12 in a single circle.
+# Section 3 — The Theological Architecture
 
-# Section 3 — The Spiritual Authority Architecture
+## Acts 1:8 — the geography of witness
 
-This section names a non-negotiable readiness criterion for any leader being sent through Going Out. Read it carefully; it shapes the whole spring.
+The spine of Going Out is Acts 1:8. Witness is the purpose of the Spirit's power; the power is given to those who have already received Him; and the witness moves outward in widening circles. The four blocks trace that geography — the immediate, the close-to-home, the far — and refuse the common reduction of "witness" to a single evangelistic act performed on strangers. The body witnesses where it stands, first and always.
 
-## The two requirements
+## Acts 2 and 1 Peter 2 — the sent body
 
-## Every sent leader operates under two specific spiritual authority structures
+Pentecost (Acts 2) is the watershed: the body that had been gathered, hidden, and waiting became a body in public witness, because the Spirit who had been *with* them was now *in* them. 1 Peter 2:9–10 names the identity in corporate vocabulary — *"a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light."* The witness is corporate before it is individual; each member's witness emerges from within the body's shared identity, not separate from it. This counters the default of witness as a primarily individual evangelistic performance.
 
-**ONE — Individual spiritual direction with a director who is NOT on the CCA team and NOT in any role that creates conflict-of-interest. The relationship is ongoing, predates the launch by some weeks, and continues indefinitely after the six-month CCA support window ends.**
+## Witness distinguished
 
-**TWO — A group home: a church or recognized spiritual hierarchy that knows the new group exists, recognizes the leader, holds the group accountable, and provides ongoing pastoral covering. CCA is NOT the group home for any group sent through Going Out, even if the leader meets the group on CCA premises.**
+Going Out teaches three distinctions early (Wk 2) and holds them throughout:
 
-## Why both are required
+- **Witness from evangelism.** Evangelism is one form of witness; witness is broader — it includes the body's lived presence in the world, not only its verbal proclamation.
+- **Witness from program.** Programs are tools; witness is identity. A body can run programs and bear no witness; a body can bear deep witness with no program at all.
+- **Witness from performance.** Performance tries to *demonstrate* something. Witness simply *is* what the body has become. The household and vocational contexts (Wks 5–6) expose performance immediately, because the receivers have watched the witness for years.
 
-The two requirements protect against four specific failure modes that have appeared in church history when small groups multiply without authority structure:
+## Hebrews 12 — the long-obedience frame
 
-- Unaccountable leaders running spiritual groups in isolation. Without ongoing direction, a leader’s blind spots compound. Vol 2 Exp 9 names the gnostic-community failure mode at the group level; the same dynamic operates at the leader level.
-- Theological drift. A group whose leader has no scripturally-mature relationship with someone outside the group can quietly drift into idiosyncrasy that no one inside the group will name.
-- Spiritual abuse possibilities. Leaders who carry weight without any accountability structure are not protected from themselves — and group members are not protected from them. The two-structure requirement places friction in the system that protects both.
-- The CCA-becomes-everyone’s-mother-church failure. If groups sent through Going Out remain spiritually under CCA, CCA is operating as a denomination it does not have polity for, and the leaders are operating without the diversity-of-traditions that the broader body of Christ provides.
+Hebrews 12:1–2 opened Going Deeper Wk 1 and has anchored the formation arc since. In Going Out it returns at Wk 9 specifically as the long-obedience frame: *"let us run with endurance the race that is set before us, looking to Jesus."* The race is what the body is now sent into; the endurance is the long obedience after the sending; the looking-to-Jesus is the orientation that holds across it. The team should let the verse carry its accumulated weight rather than reintroducing it as new material.
 
-## Individual spiritual direction — what counts and what doesn’t
+# Section 4 — The Four Sent-Contexts
 
-Spiritual direction is a specific historical and clinical practice; it is not the same as friendship, mentorship, or pastoral care. From Vol 2: “Spiritual direction is a lost art in the Protestant community,” which is why we name what counts and what doesn’t carefully here.
+The close-to-home and far blocks work the contexts in which the cohort's witness actually lives. Each context has a scriptural paradigm and a characteristic difficulty.
 
-## Counts as spiritual direction for Going Out purposes
+## Household (Deut 6)
 
-- A trained spiritual director, formal or informal, with whom the leader meets regularly (monthly or more often) for the explicit purpose of attending to the leader’s relationship with God.
-- A pastor or seasoned older Christian (not the leader’s own pastor in some configurations — see below) who is in the spiritual-director role explicitly, with regular meetings and a posture of discernment, not problem-solving.
-- A relationship that has been pre-built; the leader was not assigned to a director by the program; they brought the relationship with them or established it during the interlude.
+The household is the unit the Shema addresses: *"teach them diligently to your children … when you sit in your house, and when you walk by the way, and when you lie down, and when you rise"* (Deut 6:7). Vol 1 names this as the **Household Formation Law** — a high-priority open unknown describing how heart formation transmits (and deforms) in a household context. It is the costliest close-to-home context for most members, because the receivers know the witness's history; performance is impossible; the witness has to be honest about its own formation. Acts 16 (the jailer's household), 1 Peter 3 (marriage), and 1 Timothy 5 (household provision) together establish the household as a structural unit of witness, not an aggregation of individual believers.
 
-## Does NOT count
+## Vocational (Daniel and Joseph)
 
-- Friendship, however close, that does not have the explicit spiritual-direction frame.
-- Pastoral counseling for a specific issue (grief, marriage, etc.) without ongoing direction beyond the issue.
-- The leader’s standing pair partner from Going Deeper. (That partnership is excellent for peer formation, but it is not direction.)
-- The CCA team. We are too entangled with the leader’s formation to be their director.
-- In some configurations, the leader’s own pastor at their group home church. If the pastor IS providing spiritual direction in addition to pastoral oversight, this is acceptable; if the relationship is purely pastoral oversight without explicit direction posture, the leader needs a separate director.
+The vocational context is where most members spend the bulk of their hours. Daniel's integrity (*"no error or fault was found in him"*) and Joseph's administrative faithfulness are paradigmatic: neither is preaching; both are bearing the daily-rhythm vocational witness. Colossians 3:23–24 (*"work heartily, as for the Lord"*), 1 Thessalonians 4:11–12, and Matthew 5:16 establish a vocational-witness theology that is unhurried, ordinary, and integrated. The witness is not interruptive of the work; it *is* the work, done as for the Lord.
 
-## Group home — what counts and what doesn’t
+## Third place (Oldenburg; Acts 8)
 
-The group home is the spiritual hierarchy that recognizes the new group, holds it accountable, and provides ongoing pastoral covering. Two questions test whether something genuinely counts as a group home:
+The "third place" — sociologist Ray Oldenburg's term for the social settings beyond home (first place) and work (second place): cafes, neighborhood gatherings, hobby groups, civic associations, communities engaged outside formal worship. Much New Testament witness happens in some form of third place — the temple courts, the marketplaces, the road where Philip meets the Ethiopian (Acts 8:26–40). Acts 8 also shows the mixed pattern: persecution-driven scattering produces general witness, while specific Spirit-direction produces particular encounters. Both modes are paradigmatic.
 
-## The two tests for recognition of a group home
+## Beyond, and the prepared works
 
-**Recognition test. Does the spiritual authority over the leadership of the proposed group home know the group exists, know who is leading it, know roughly what it is doing, and have a clear posture of recognition (not just neutrality)? ‘My pastor doesn’t object’ is not recognition; ‘my pastor knows about the group, has met me about it, and supports it’ is recognition.**
+Ephesians 2:10 grounds the far context: *"we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."* The works are prepared; the cohort's task is not to *invent* missional engagements but to *discover* what the Spirit has already prepared. The "beyond" is not necessarily geographically distant — it is whatever lies past the household and vocational contexts in a given member's life.
 
-**Accountability test. If the group runs into theological drift, leadership concerns, or pastoral needs that exceed what the leader can handle, is there a specific person in the spiritual authority who would intervene — not as a courtesy, but as a matter of their own pastoral responsibility for the group? ‘They’d probably help if I asked’ is not accountability; ‘my pastor has explicitly said they will be available for pastoral consultation about this group and would step in if needed’ is accountability.**
+## Downhill and uphill; household-as-calling vs household-supports-calling
 
-## How this is built before launch
+Two distinctions from Vol 2 run through the contexts. The **downhill/uphill** distinction: the witness that flows from who you are when you are most yourself (downhill) versus the witness you have to push for (uphill). The Spirit's sending tends to run downhill. And within the household specifically: for some members the household *is* the downhill calling — the family that already exists is the unit of witness, and the long obedience is the household work itself; for others the household *supports* a calling that is primarily elsewhere. The team attends to which configuration each member is bringing, and honors both.
 
-Both spiritual-direction relationships and group homes are typically NOT in place when the discernment phase begins. They have to be built across Phases 2 and 3.
+# Section 5 — The Week 8 Discernment and the Three Honest Landings
 
-## The timeline
+This section is the heart of what makes Going Out *Going Out* and not Inviting Others. Read it carefully.
 
-- Wks 1–4 (Discernment): the requirement is named at Wk 4 close. Calling-confirmed leaders begin scoping director and group-home options.
-- Wks 5–8 (Equipping): each leader makes initial contact with a prospective director and a prospective group-home pastor or leader. By end of Wk 8, both relationships should be in active conversation, even if not yet formally established.
-- Wk 9: spiritual director relationship and group home commitment are confirmed. If either is not yet in place, the leader’s launch is delayed; their group does not start in Going Out cycle. (The leader continues with the cohort through Wk 12 in a learning posture and resumes toward launch when the structures are in place.)
-- Wks 11–12: representatives from the spiritual director and group-home roles are invited to the Wk 12 commissioning. Their physical presence at the laying-on-of-hands is not strictly required, but their explicit blessing of the launch is.
+## The cohort's second Group-Level-4 attempt
 
-## Special note on teen leaders
+Vol 2's Group taxonomy (Exp 10) names Level 4 as "a body that hears together" — the cohort develops agency, and the Spirit speaks to it as a unit. Most groups never reach Level 4. Going Deeper Wk 8 was the cohort's *first* Level-4 attempt (listening for what the Spirit was saying *about* the cohort). Going Out Wk 8 is the *second*: listening for what the Spirit is saying *through* the cohort about its engagement in mission far.
 
-The handbook does not assume CCA has confirmed support for teen-led peer formation; that is a discussion the team needs to have institutionally. The criteria below apply IF teen leadership is institutionally supported; if not, this section is informational and senior teen graduates are warmly directed to other formation-engagement options outside the leadership track.
+Acts 13:1–3 is the anchor: the Antioch body, gathered for ordinary worship and fasting, heard specific Spirit-direction, confirmed it with more fasting and prayer, and sent. The pattern is: ordinary corporate practice produces capacity for specific corporate hearing; the body weighs together; the body sends with confirmation.
 
-## If teen leadership is institutionally supported
+## The discipline of weighing
 
-- Every teen-led group has a designated adult ‘spiritual covering’ — typically a parent or specifically-vetted adult mentor — who is present at the group, not just nearby.
-- The group home for a teen-led group is normally the teen’s family’s church, with explicit pastoral recognition.
-- Spiritual direction for a teen leader is typically with a youth pastor, a trusted older mentor in the church, or in some cases the teen’s parent (if the parent has the spiritual-direction posture and the relationship can hold it).
-- Virginia legal review of any teen-led structure is required before any launch. The handbook reserves the specific legal-compliance section for the institutional review the team will conduct; placeholder appears in Appendix E.
-- The discernment gate for teen leaders is more conservative. The team errs toward ‘further-formation’ unless the discernment is unmistakably clear AND the parent/family is unmistakably aligned AND the spiritual-covering structure is unmistakably in place.
+1 Corinthians 14:29 governs the room: *"let two or three prophets speak, and let the others weigh what is said."* The discernment is not a vote; it is weighing. Each contribution is a humble offering tested against Scripture, against the body's formation, and against observable fruit. The Vol 2 gnostic-community danger is the standing risk — a body that closes its feedback loop and treats internal consensus as self-validating ceases to amplify and begins to deceive itself. The team's discipline is openness to honest weighing, including honest divergence.
 
-# Section 4 — The Affective Taxonomy Applied to Leadership
+## The three honest landings
 
-Vol 2 Exp 7 of IJH names a five-stage Affective Taxonomy for the individual hearing faculty: Receiving, Responding, Valuing, Organization, Characterization. MSFIG applies the same five-stage frame to the GROUP as a collective. This section applies the same five-stage frame to the LEADER — the specific developmental progression by which a Going Deeper graduate becomes a mature, multi-generational Companion who reproduces formation culture.
+The range of honest outcomes is wide, and the team must be willing to name all three before the discernment begins:
 
-This is new theological work for the IJH project. The five Leader Levels are extrapolated from the Affective Taxonomy as it is established in Vol 2 and Vol 5. They are presented here as a working frame; the Council and the broader IJH community should test the frame across the next several Going Out cycles.
+1. **A specific shared cohort engagement.** The cohort discerns a corporate mission it is being sent into together. Wk 9 walks the cost; Going Out closes with the body sent into corporate work.
+2. **Differentiated individual callings, honored equally.** The cohort discerns that there is no single shared engagement this season — each member is sent into the direction their own discernment has confirmed: a calling to gather a new formation group, a vocational deepening, a household-formation season, a sustained third-place arc, a one-to-one accompaniment, or a contemplative and largely hidden shape. This is **not** a fallback when no shared engagement emerges; it is the genuine confirmation of differentiated callings the body honors equally.
+3. **A carried clarifying question.** The cohort discerns that the question needs further work — a clarifying question handed to the team's pastoral attention, which Wk 9 may revisit.
 
-## The five Leader Levels
+## Not everyone is sent to start a group — and what that means
 
-### Leader Level 1 — Receiving the Call
+Within Landing 2, the calling to *gather a new formation group* is one honored direction among several. It is not the "success" outcome and the others the consolation prizes. A member sent into a deeper household season, or a vocational long obedience, or a hidden contemplative shape, has heard just as truly. The team's hardest discipline here is its own: to keep its face and its language free of the implication that the group-starters are the real fruit.
 
-## State
+Where the group-starting calling *is* confirmed, Going Out's job is to recognize and bless it — not to equip it. The equipping is the **Inviting Others** follow-on, which runs after Going Out and carries the spiritual-authority architecture (individual spiritual direction outside CCA; a recognized group home), the Leader Level taxonomy, the referral discipline, and the first-session preparation. Point confirmed group-starters toward Inviting Others; do not begin that equipping inside Going Out.
 
-**Aware that the Spirit may be calling them to lead a formation group. Willing to attend to the question. Has not yet acted on it.**
+## The Week 9 sending
 
-**This is the state of a Going Deeper graduate during the the interlude before Going Out begins. Some sense the call clearly; some sense it as a question they cannot ignore; some sense it only as a possibility that the cohort will help them test.**
+Wk 9 completes the Acts 13 architecture: *"they laid their hands on them and sent them off"* (Acts 13:3). The laying-on-of-hands is not symbolic gesture; it is the body confirming the sending in physical presence, and the receiver of it is whatever Wk 8 landed. Before any yes, Wk 9 counts the cost — the architectural discipline against a premature yes. Acts 13 has Barnabas and Saul *already formed* for the work; Acts 14 has them returning with the report that the work was costly and bore fruit. Walking the cost is part of the discernment, not separate from it.
 
-**Sower parallel: seed on the path — the call has been sown but not yet received in the heart.**
+# Section 6 — The Daily Tells and the Outward Practice
 
-**What they need: communal discernment (Going Out Wks 1–4).**
+## The weekly outside-cohort Tell
 
-### Leader Level 2 — Responding to the Call
+The central between-session practice of Going Out is the weekly **outside-cohort Tell** — telling something true, outside the safety of the cohort, to someone in one's actual life. It begins in Wk 1's H1.2 practice (a morning noticing question plus a weekly Tell) and runs through the series. The Tells are where the abstract theology of being sent becomes concrete data: who the member spoke to, what happened, what the member did and did not understand about the receiver's response.
 
-## State
+## The three modes
 
-**Has accepted the call (cohort confirmed; the leader said yes). Doing the work of leading: showing up, holding the room, running the four-Connects in the framework as taught.**
+The Wk 4 teaching distinguishes three modes of witness the Tells fall into — the lived-presence mode, the spoken mode, and the responsive mode (responding when asked). The point of naming them is not to grade Tells but to help members see the range of what witness already includes, so that the quiet members do not conclude they have "done nothing" and the verbal members do not conclude that only words count.
 
-**Motivation is largely external: the cohort confirmed me; the team is supporting me; I am following what I was equipped to do. Running the framework somewhat mechanically — checking whether the four conditions were named, running the four Connects in roughly the order I learned them, asking the questions I was equipped to ask.**
+## The Week 4 data look as corporate soul-clearing
 
-**This is the state most Going Out graduates are in for the first 6–12 months of leading their first group. It is not failure; it is the proper developmental stage for the entry of leadership.**
+Wk 4 reviews three weeks of Tells *as a body*. Vol 2 proposes (in its open unknowns) a **Community Soul Clearing Law** — the corporate analog of inner healing. The data look is one shape of that work: the body looks honestly at its own daily life, names what it sees, weighs what is happening, and refines what it asks of itself. The Lead Companion captures *observations*, not interpretations, on the flip chart in real time ("Receivers: 7 colleagues, 4 family members, 3 classmates, 2 neighbors"; "Tells that produced response: 4; silence: 6"). The data is what it is; the cohort weighs its meaning together. Honest data over polished narrative is the discipline.
 
-**Sower parallel: rocky soil — initial response, shallow roots in the leadership role.**
+## The Rhythm Card, sent edition
 
-**What they need: the six-month support structure, ongoing spiritual direction, sustained personal formation work, time. Pushing a Level 2 leader to perform Level 3+ behaviors prematurely produces strain, not growth.**
+The Rhythm Card carries the daily / weekly / monthly practices that are the architecture of endurance. Going Out refreshes it for the sent season: the daily anchor gains the morning noticing question; the weekly anchor gains the outside-cohort Tell; the monthly anchor holds the standing-pair rhythm. See Appendix B.
 
-### Leader Level 3 — Valuing the Role (THE THRESHOLD)
+# Section 7 — The Companion Team for Going Out
 
-## State
+## Team composition
 
-**Has internalized the value of leading from formation, not from technique. Pursues their own Companion development without external prompting. Reads, prays, reflects on their leadership because they want to, not because the team is checking.**
+Going Out's team carries the same Lead Companion / Cohort Companion / Co-Companion roles as Going Deeper, with pastoral support available. The developmental cohort-split (junior teens / senior teens / parents) means each cohort needs a Companion who can hold its developmental texture — junior teens hold the discernment differently than senior teens, who hold it differently than parents. Where the cohort merges for shared movements, the Lead Companion holds the body.
 
-**Adjusts the four-Connects framework intuitively for their specific room. Begins to discern in real time which mode (Spiritual Direction, TPM-adjacent listening, Band of Brothers structure, Stephen Ministry posture) the moment is calling for — though not yet at full Companion competence.**
+## Required competencies
 
-**Critical shift: extrinsic to intrinsic motivation in the leadership role itself. The leader leads because they have come to value leading-from-formation as part of who they are.**
+Beyond the Getting Started and Going Deeper team requirements, Going Out Companions need: the capacity to facilitate corporate discernment without steering it (the Wk 8 weighing); the pastoral steadiness to name a quieter landing as honestly as a louder one; and the discipline to refer the group-starting calling to Inviting Others rather than beginning leadership equipping inside Going Out. The team's own formation should be far enough along that it is not seeking its validation in the cohort's outcomes.
 
-**This is the threshold of being a real leader as opposed to a curriculum-runner. It is also the level at which a leader becomes durable across difficulty — a Level 2 leader leaves the role when it becomes hard; a Level 3 leader stays.**
+# Section 8 — Safety, Confidentiality, and Crisis Protocols
 
-**State of leaders typically in years 1–3 of leading, with sustained formation work.**
+## Getting Started and Going Deeper protocols carry forward
 
-**Sower parallel: thorny soil — real growth, but distractions still compete.**
+All safety, confidentiality, two-adult, and mandatory-reporting protocols from Getting Started and Going Deeper carry forward unchanged. The single source of truth for crisis contingencies and pastoral protocols is the **Going Deeper Handbook, Section 6**; Going Out does not maintain a separate version. The referral list is the **Going Deeper Handbook, Appendix D** (pilot-edition referral list); Going Out uses it and does not maintain its own.
 
-**What they need: continued spiritual direction, peer leadership consultation (with other leaders in the same season), continued personal formation work, exposure to leaders one stage ahead of them (Level 4).**
+## Going-Out-specific risks
 
-### Leader Level 4 — Organization
+- **Household disclosures.** The Wk 5 household work can surface a live family crisis (a marriage, a child, an extended-family situation) that the interior series did not. Hold the same boundary: the cohort is not a therapy room; specific situations route to the referral pathways and pastoral support, not to cohort processing.
+- **Gnostic drift in the corporate discernment.** The Wk 8 Level-4 work is exactly where a body can begin treating its internal consensus as self-validating. Watch for it; name it; keep the feedback loop open with Scripture, formation history, and observable fruit.
+- **The premature yes.** The Wk 9 cost-counting exists because a body's enthusiasm can manufacture a sending the Spirit did not give. The team protects against the premature yes as carefully as against the withheld yes.
 
-## State
+# Section 9 — Integration, Cohort Assessment, and the Close
 
-**Leadership is integrated into a coherent identity-and-life system. Leadership is no longer something they do; it is something they are.**
+## Week 10 — individual integration
 
-**Faith, family, vocation, and leadership inform each other; conflicts between them are resolved with discernment, not avoidance. The leader has stewarded multiple iterations of their group, possibly seeded a second group, and seen patterns across them.**
+Wk 10 engages what Going Out produced for each member specifically. The discipline is specificity over summary: what was the Wk 3 sent-context sentence, and where did it land by Wk 9? What did the household work surface, and what did the member do with it? Where is the member now sent that they were not sent in January? Philippians 1:6 frames the work as in process — *"he who began a good work in you will bring it to completion at the day of Jesus Christ"* — refusing both errors: pretending the work is complete, and pretending it did not happen. The integration honors whichever direction the cohort's discernment confirmed for each member; the prompt is the same, the substance differs by direction.
 
-**Develops their own variations and adaptations on the four-Connects framework, tested against scripture and observable fruit. May begin to mentor other leaders in their community in informal ways.**
+## Week 11 — the cohort lands
 
-**State of mature leaders, typically 3–7 years into leading. The honest assessment: most CCA-sent leaders will not reach this level until a second multi-year cycle of leading.**
+Wk 11 is the body's honest Group-Level self-assessment across the whole arc, using the MSFIG five levels: Social Fellowship (1), Information Sharing (2), Genuine Care (3), Hearing as Body (4), Sent as Body (5). The discipline is the same as Going Deeper Wk 11, deepened: **the body's level is its lowest stable common practice, not its average.** A cohort with three Level-4 members and twenty Level-2 members is a Level-2 body; the advanced members are gifts, but the shared culture is what the body actually is. The developmental cohorts assess within their own peer groups first, then merge into one honest body-level reading.
 
-**Sower parallel: good soil yielding 30-fold and 60-fold harvest.**
+## Week 12 — the long obedience
 
-**What they need: peer relationships with other Level 4+ leaders, opportunities to mentor others without being required to systematize what they are doing, ongoing spiritual direction with someone they may now be approaching as a peer-elder rather than a guide.**
+Wk 12 closes the formal series. Acts 20:36–38 (Paul's farewell at Miletus) is the anchor: ceremonial *and* honest — specific postures and words, and open grief that the parting is real. The close has three movements that carry weight:
 
-### Leader Level 5 — Characterization (Self-Replicating Leadership)
+- **Standing-pair blessings.** Each pair partner speaks ~60 seconds aloud over the other — specific, witnessed, true. Vol 2's Band of Brothers material names this as the most powerful ordinary function in Christian community: specific witnessed transformation spoken aloud by someone who watched the work.
+- **The cohort Aaronic.** Across the arc the Lead Companion spoke the Aaronic blessing at the open and close of every session; tonight the cohort speaks it together over itself, putting the Lord's name on each other (Num 6:27) as the body that has been formed and is being sent.
+- **The H12.1 sending card.** Going Out's closing artifact: the body's working sentence (whatever Wk 8 landed), each member's individual sent-context, the long-obedience practices (Rhythm Card adapted), and the standing-pair contact rhythm. It is concrete; members carry it forward.
 
-## State
-
-**The hearing-and-obeying culture is so characteristic of the leader that they reproduce it without conscious effort. Their leadership culture is portable: wherever they go, what they form looks similar in essence, even when the specifics vary widely.**
-
-**Critical mark: their groups now produce people who are themselves being called to start groups. The Antioch pattern in second-generation form. They have stewarded the discernment-and-sending of called leaders from within their own group, in the way the CCA team is doing for them now.**
-
-**This is the level at which MSFIG’s self-replicating culture becomes operationally visible — not just in the leader’s first group, but in the second-generation groups their first group has produced.**
-
-**State of mature, multi-generation leaders — typically 7+ years of leading and at least one full cycle of having sent their own leaders out. Some leaders never reach this level; that is honest.**
-
-**Sower parallel: 100-fold harvest.**
-
-**What they need: communities of Level 4–5 peers across institutional boundaries, sustained personal formation work that has now matured into character, and the humility to recognize that the work multiplying through them is not their work.**
-
-## What Going Out is realistically aiming at
-
-## The honest scope
-
-**Going Out aims at producing Level 2 leaders — leaders who have accepted the call, are doing the work of leading their first group, and have the floor of competence to start a Level 1–2 group well.**
-
-**Going Out also aims at putting in place the conditions for movement toward Level 3 across the first 6–12 months of leading: the spiritual director relationship, the group home, the six-month CCA support structure, the peer cohort of other Going Out leaders the leader will continue to know.**
-
-**Going Out does NOT produce Level 3+ leaders directly. Level 3 develops over years of leading with sustained formation. Level 4–5 are even longer horizons.**
-
-**This honest scope shapes everything in the Going Out series. The team is not graduating Companion-mature leaders; the team is honestly setting people on a long road and walking with them for the first six months of it.**
-
-## How leaders develop across the levels
-
-Three principles from Vol 2 Exp 7 carry into the leadership progression:
-
-- Progress is spiral, not linear. A leader at Level 3 in their primary group may be at Level 1–2 when they encounter a different kind of room. Returning to earlier levels under new conditions is normal.
-- Stage progression takes time and cannot be forced. Pushing a Level 2 leader to perform Level 3+ behaviors prematurely produces brittleness, not growth. The team’s six-month support structure is calibrated to where each leader actually is.
-- Suffering is a potential engine of depth, not just an obstacle. The leader who walks through difficulty in their first group — a member who flames out, a marriage strain that surfaces in the cohort, an unexpected gnostic drift that has to be corrected — grows toward Level 3 faster than a leader whose first cycle was uneventful. The team does not engineer suffering, but it does not protect leaders from it either.
-
-## Self-assessment for sent leaders
-
-The Field Card for Group Leaders (Appendix C) includes a self-assessment matrix that calibrates a leader’s self-perception of their level against specific behavioral markers. The self-assessment is run quarterly by the leader, with their spiritual director if possible. The team also informally assesses each leader’s level during the six-month support structure 1:1s, and shares the assessment back with the leader at the three-month and six-month milestones.
-
-# Section 5 — The Companion Team for Going Out
-
-## Team composition shifts from Going Deeper
-
-Going Out’s Companion team requires sturdier formation in two specific ways beyond what Going Deeper required (see the standalone Vol 5 Vocabulary Insert artifact — IJH\_Vol5\_Vocabulary\_Insert\_for\_Master\_Handbook.docx — for the canonical Companion level definitions and level-to-role mapping that Going Out’s team composition assumes):
-
-- Each team member has experience leading at least one formation group themselves — not necessarily a four-Connects group, but enough genuine facilitation experience to recognize Level 2 leadership when they see it (and to recognize what isn’t Level 2).
-- Each team member has been at Leader Level 3 or higher in their own work for at least one full cycle. From Vol 2: ‘a leader cannot help a group grow to Level 3+ unless the leader has been to at least Level 3 first.’ The same principle applies to leader-of-leaders work.
-
-## Team formation rhythm — spring-specific
-
-The standard pre-meet rhythm (48 hours before each Tuesday) holds. Going Out adds:
-
-- Fortnightly leadership-supervision pairs. Each team member pairs with one other team member for 30 minutes every two weeks across Going Out — not to discuss session content, but to attend to the team member’s own leadership development as a leader-of-leaders. This is itself Level 3+ formation work and should not be skipped.
-- A pre-spring intensive. Two days before Wk 1, the team gathers for an extended (4–6 hour) intensive that walks the entire spring arc, the leadership taxonomy, and each cohort member by name. The intensive includes prayer, fasting if appropriate, and explicit invitation of the Spirit to surface what the team is missing about the cohort or the work.
-
-## Required competencies for Going Out Companions
-
-## Beyond Getting Started + Going Deeper team requirements
-
-- Comfort holding the discernment gate honestly — willingness to name ‘further-formation’ in front of a cohort member who hoped for ‘leader.’
-- Familiarity with at least one tradition of small-group leader supervision (Stephen Ministry consultation model, Spiritual Directors International peer supervision norms, MSFIG Companion supervision structures, Band of Brothers Weapons Master role).
-- Working knowledge of the spiritual-direction posture as distinct from pastoral counseling and friendship. Team members are NOT acting as spiritual directors in this role, but they need to recognize the posture in order to vet leaders’ director arrangements.
-- Ability to coach a leader through a rocky first session without solving the leader’s problem for them. The temptation in the launch phase is to step in and run the new group from a distance through the leader; resisting that temptation is the discipline.
-
-# Section 6 — The Three Phases
-
-Twelve weeks divided 4 / 4 / 4. Each phase has a distinct primary practice, a distinct Connect emphasis, and a distinct end state.
-
-## Phase 1 — DISCERNMENT (Wks 1–4)
-
-**Connect emphasis: God + Mission integrated.**
-
-**Primary practice: Acts 13 corporate listening, run for each cohort member in turn.**
-
-**End state: Each participant has heard the cohort’s discernment and is on one of three tracks (calling-confirmed leader, calling-confirmed supporter, further-formation). Each calling-confirmed leader has named their target room and the specific people surfacing.**
-
-## Phase 2 — EQUIPPING (Wks 5–8)
-
-**Connect emphasis: Self + Others (the formation work the new leaders will be facilitating).**
-
-**Primary practice: Companion-formation work — holding the four conditions, running the four Connects in a new room, recognizing knot types in others, knowing when to refer.**
-
-**End state: Each calling-confirmed leader has the floor of competence to start a Level 1–2 group. They have practiced facilitating in the cohort. They know their referral pathways. They know what they cannot do. Spiritual director and group home conversations are in active progress.**
-
-## Phase 3 — LAUNCH (Wks 9–12)
-
-**Connect emphasis: Mission, primary; all four integrated.**
-
-**Primary practice: each calling-confirmed leader pre-launches their group — names first 3–5 people, schedules the first session, walks a first-session simulation in front of the cohort, receives feedback, is commissioned at Wk 12.**
-
-**End state: Each new group has a planned start date, a named first cohort, an active spiritual director relationship for the leader, a confirmed group home, and the six-month CCA support structure in place. The Antioch sending is real.**
-
-# Section 7 — Safety, Confidentiality, and Crisis Protocols
-
-## Getting Started + Going Deeper protocols carry forward
-
-All prior protocols apply: confidentiality covenant, Virginia mandatory reporting, two-adult rule for any 1:1 with a minor, pastoral / clinical backup on call, the Crisis Quick-Reference Card. Going Out adds three Going-Out-specific risk categories.
-
-## New risk: leader-failure scenarios
-
-The most likely Going-Out-specific crisis is a calling-confirmed leader who falls apart between Wk 4 (discernment confirmation) and Wk 12 (sending). Causes: an unexpected family crisis surfaces; the equipping phase reveals the leader is not where they thought they were; spiritual warfare intensifies as the launch approaches; mental health symptoms appear that were not present in Going Deeper.
-
-## Protocol
-
-- If a leader’s readiness becomes uncertain, the team meets within 72 hours to discuss. The leader is included in the conversation; this is not a private team adjudication.
-- Three options: continue toward launch on schedule, delay the leader’s launch (the leader continues with the cohort through Wk 12 in a learning posture and resumes toward launch when ready), or move the leader to the further-formation track.
-- All three options are honest. None is failure. The cohort holds the leader without ranking the outcome.
-- If the cause is mental health symptoms or emerging clinical concern — Section 6 of the Going Deeper handbook protocol applies, including pastoral / clinical referral.
-
-## New risk: the leader’s target group surfaces in the equipping phase
-
-In Wks 5–8, leaders are working out their target room and target people. Sometimes a leader will surface that one of their first-3-to-5 people is in active crisis (substance abuse, marriage breakdown, mental health crisis). Sometimes the leader will discover that their target room cannot meet all four conditions within a reasonable timeframe.
-
-## Protocol
-
-- Receive the surfacing without panic. Many leaders’ first three to five lists shift over the equipping phase; that is normal.
-- If a target person is in active crisis, the leader’s job is to care for that person pastorally, not to recruit them into a formation group. The team helps the leader distinguish.
-- If the target room itself cannot meet the four conditions (a workplace too hostile, a family too volatile), the leader pivots to a different target room. This is not a failure of discernment; it is the discernment continuing into the specifics.
-
-## New risk: gnostic drift in the Going Out cohort itself
-
-The Going Out cohort is the highest-forming cohort CCA runs. By Wk 4, the cohort has a strong shared culture and significant internal trust. This is exactly the condition under which Vol 2 Exp 9 names the gnostic-community failure mode: a closed feedback loop that begins to amplify error as readily as truth.
-
-## Protocol
-
-- The three openness conditions (taught in Wk 2) are revisited at every cohort milestone — end of Wk 4, end of Wk 8, before each individual launch. The cohort tests itself, not just individual discernments.
-- Each calling-confirmed leader names one external Christian relationship (their spiritual director counts) who can speak honestly to them about whether the cohort’s discernment seems off.
-- If a corporate-discernment outcome is not fruitful in the months after launch, the cohort revisits the discernment honestly. Apparent unanimity in Going Out that does not produce fruit by autumn is a signal.
-- The team itself maintains relationships with at least one trusted older Christian outside the program who can name when the team has gone off.
-
-# Section 8 — The Six-Month Support Structure
-
-## The shape of the support
-
-Each calling-confirmed leader receives six months of CCA support after their launch. The structure is intentionally light — enough to walk with the leader through the first cycle of leading, not so much that CCA becomes the institutional parent of the new group.
-
-The shape is intentionally light — enough to walk with the leader through the first cycle of leading, not so much that CCA becomes the institutional parent of the new group. The architecture is flexible: the Spirit guides what each leader actually needs, and the schedule below is a starting point, not a rigid protocol.
-
-## The four components
-
-### 1. Monthly 1:1 with a CCA team member
-
-## Form
-
-**60 minutes, monthly, for six months. In person or by video. The team member is assigned in pairs (one primary, one backup) at Wk 11 of the Going Out series.**
-
-**Format: open. The leader brings whatever is alive in their leadership work — a difficult cohort member, a discernment question, a piece of facilitation that did not go as expected, a celebration. The team member’s job is to listen and to occasionally name what they are noticing.**
-
-**The team member is NOT the leader’s spiritual director; the conversation is calibrated to leadership development and CCA-specific support, not to the leader’s relationship with God broadly.**
-
-### 2. Quarterly new-leader debrief gatherings
-
-## Form
-
-**All Going Out graduates from the most recent cycle gather quarterly for a 2-hour evening with the team. The first gathering is at month 2; the second at month 5.**
-
-**Format: each leader briefly names what is working, what is hard, and what they need. The cohort listens and offers. The team facilitates without dominating.**
-
-**Purpose: peer support that doesn’t depend on the team’s individual capacity, and recognition that other leaders are walking the same road.**
-
-### 3. Access to the referral list
-
-## Form
-
-**The leader’s personal referral list (built in Wk 7 of the Going Out series) is supplemented by ongoing access to the CCA team’s broader referral network — pastoral, inner-healing, clinical — for as long as the leader is active.**
-
-**Practical: the leader knows they can call the CCA team’s designated point of contact within 24 hours of any group-member crisis, and the team will help them route to the right resource.**
-
-### 4. The Spirit-led extension question
-
-## Form
-
-**Six months is the floor, not the ceiling. The Spirit guides what each leader needs.**
-
-**At month 5, the team and the leader together discern: is the leader ready to step out of CCA support? Is there a specific extended need (a difficult cohort member still in process, a leader-level crisis still unresolved, a unique room that needs longer scaffolding)? Honest answers either way.**
-
-**Most leaders will end CCA support at month 6 and continue with their own spiritual director and group home. Some will need a brief extension. A few may need a longer relationship; the team’s capacity is the constraint, but not the only consideration. The Spirit’s guidance about specific leaders takes precedence over a fixed schedule.**
-
-## What the support is NOT
-
-## Three things this is not
-
-- Not pastoral oversight of the leader’s spiritual life. That is the spiritual director’s role.
-- Not pastoral oversight of the new group. That is the group home’s role.
-- Not ongoing supervision or accountability for the leader’s decisions about their group. The leader is the leader; the CCA team is not running the group from a distance.
-
-# Section 9 — Session-by-Session Sketch
-
-Twelve sessions in summary. Each session has its own full lesson plan; this section is the architectural overview for the team.
-
-## PHASE 1 — DISCERNMENT
-
-### Wk 1 — Welcome to the Sending
-
-Aim. Re-establish the room as a discerning body. Frame Going Out honestly: this is the Acts 13 protocol, run for each of you in turn. Some will be sent to lead; some to support; some to deepen further. All three are honest outcomes.
-
-Anchor scripture. Acts 13:1–3 (the full Antioch passage). 1 Cor 14:29 (“let two or three prophets speak, and let the others weigh”).
-
-Mode. Shared circle the whole session.
-
-Center. Each participant briefly names what they wrote in the re-registration form and what they bring into the discernment. The team explicitly names that the cohort is the discerning body and the discernment is genuine, not foregone. The three honest outcomes are written on the whiteboard and named aloud.
-
-### Wk 2 — The Three Openness Conditions and the Leadership Taxonomy
-
-Aim. Teach and install the three openness conditions before any individual discernment happens. Submission to scripture. Genuine openness to external correction. Observable fruit as the test. Then teach the Affective Taxonomy applied to leadership (Section 4) so the cohort has a shared frame for what they are about to discern.
-
-Anchor scripture. Acts 17:11 (“noble Bereans”). Matt 7:15–20 (fruit). 1 Thess 5:21 (“test everything”).
-
-Mode. Shared teaching the whole session.
-
-Center. The gnostic risk named explicitly. The cohort agrees in writing to the three openness conditions. The five Leader Levels walked carefully. Each cohort member identifies one external trusted older Christian relationship who will be their external-correction relationship across Going Out — this is the seed of what will become their spiritual director arrangement.
-
-### Wk 3 — Discernment Round 1 (about half the cohort)
-
-Aim. Run the Acts 13 protocol for the first half of the cohort. Each named participant brings their sense of calling; the cohort prays, listens, and shares what they hear; convergences and divergences are named.
-
-Anchor scripture. Acts 13:1–3 again. James 1:5 (“if any of you lacks wisdom...”).
-
-Mode. Shared circle the whole session.
-
-Center. The protocol from Going Deeper Wk 7 / Wk 10, now applied to leadership-calling specifically. Each focal participant gets ~20 minutes. Three to four participants in this session depending on cohort size.
-
-### Wk 4 — Discernment Round 2 + Synthesis + Spiritual Authority Requirements
-
-Aim. Complete the discernment for the second half of the cohort. Synthesize: what did we hear about each cohort member? Who is the Spirit confirming, in what configuration? Then — critically — name the spiritual authority requirements (individual direction + group home) that any sent leader must establish before launch.
-
-Anchor scripture. Acts 13:2–3 (the laying on of hands). Eph 4:11–16 (the diversity of gifts in the body). Heb 13:17 (submission to those who keep watch over your souls).
-
-Mode. Shared circle. Closes with a written summary by the Lead Companion: who is being confirmed for what role; for confirmed leaders, what the spiritual authority requirements are.
-
-## PHASE 2 — EQUIPPING
-
-### Wk 5 — Holding the Four Conditions as Discipline
-
-Aim. Equip the calling-confirmed participants in the four container conditions — not as concepts (they know them) but as a Companion’s discipline. What does it actually require, week to week, to hold Safe, Present, Clear, Intentional in a room you are responsible for?
-
-Anchor scripture. 1 Cor 14:26–33 (orderly, edifying community). 1 Pet 5:1–4 (shepherding).
-
-Mode. Shared teaching; each calling-confirmed participant in turn names the specific challenge in their target room (“my workplace cannot be Safe” / “my family-of-origin cannot be Clear”) and the cohort works the question.
-
-### Wk 6 — The Four Connects in a New Room
-
-Aim. Teach the difference between running CCA’s Getting Started curriculum and starting a four-Connects formation group in a new room. The graduates will not run our manual; they will adapt the work to their specific people.
-
-Anchor scripture. 1 Cor 9:19–23 (Paul becoming all things to all people). Acts 17:22–31 (Paul in Athens, adapting).
-
-Mode. Shared teaching, then each calling-confirmed participant maps what their first six weeks would look like — specific people, specific sessions, specific entry points for THEIR room.
-
-### Wk 7 — What the Companion Cannot Do (Referral Pathways)
-
-Aim. Boundary discipline for new leaders. They will encounter what we encountered in Going Deeper Wk 3 — trauma, marriage material, clinical-threshold disclosure. They are not equipped to do that work and will not be after Going Out.
-
-Anchor scripture. Mark 5:25–34 (Jesus discerning the woman with the issue of blood); Matt 18:15–18 (the body process).
-
-Mode. Shared teaching; each calling-confirmed participant builds their own referral list — pastoral, inner-healing, clinical — for their target geography. Appendix D of the Going Deeper handbook is the template.
-
-### Wk 8 — Recognizing Knots in Others (Without Becoming a Therapist)
-
-Aim. Teach calling-confirmed participants to recognize the four knot types in their future group members at the diagnostic level, with the discipline of NEVER doing the therapeutic work in their own room. They learn to refer well.
-
-Anchor scripture. 1 Thess 5:14 (“admonish the unruly, comfort the fainthearted, help the weak” — different responses to different needs). Heb 5:12–14 (the trained vs. untrained capacity).
-
-Mode. Shared teaching, then standing pairs from Going Deeper practice diagnostic recognition with each other (a low-stakes setting). Closes with confirmation: where each leader stands on spiritual director and group home conversations.
-
-## PHASE 3 — LAUNCH
-
-### Wk 9 — Naming Your First Three to Five (and Confirming Spiritual Authority)
-
-Aim. Each calling-confirmed participant names the actual people they are inviting to their first group. Specific names. Specific scheduled invitations. AND confirms their spiritual director relationship is in place AND their group home commitment is in place.
-
-Anchor scripture. John 1:35–42 (Andrew finds Peter; the early disciples bring people specifically by name).
-
-Mode. Shared circle. Each participant brings their proposed list; the cohort listens, prays, and tests — are these the right people? The Spirit may add a name, may take a name off, may surface a different person entirely. Leaders who have not yet established director or group home are gently moved to delayed-launch track.
-
-### Wk 10 — First-Session Simulation
-
-Aim. Each calling-confirmed participant walks a first-session opening (the first 30 minutes) in front of the cohort. The cohort plays the participant’s target room. Specific feedback follows.
-
-Anchor scripture. 2 Tim 2:2 (“what you have heard from me... entrust to faithful men” — the multiplication chain). 1 Tim 4:14–15 (practice and progress).
-
-Mode. Shared circle. Each simulation is 15 minutes plus 10 minutes of cohort feedback. With 4–6 calling-confirmed participants in a typical cohort, this fills the 90 minutes. Larger cohorts split this across Wk 10 and the first part of Wk 11.
-
-### Wk 11 — Final Preparations + Six-Month Support Structure
-
-Aim. Finalize logistics for each new group. Establish the six-month support structure. Confirm the spiritual authority infrastructure for each leader. Identify external witnesses for the Wk 12 commissioning.
-
-Anchor scripture. Acts 14:21–23 (Paul and Barnabas appointing elders and “committing them to the Lord”).
-
-Mode. Mostly logistics; significant; necessary. Each leader is paired with their primary and backup CCA team support contact for the six months. Each leader confirms their spiritual director and group home, and identifies the external witnesses who will be invited to Wk 12.
-
-### Wk 12 — The Antioch Sending
-
-Aim. Commission. The whole cohort — calling-confirmed leaders, supporters, and those continuing in formation — stands in the center. The team and the cohort lay hands on each calling-confirmed leader. Each is sent specifically, by name, to their named room and people.
-
-Anchor scripture. Acts 13:3 (“then after fasting and praying they laid their hands on them and sent them off”). Matt 28:18–20 (the Great Commission).
-
-Mode. Shared circle, expanded format. Family members, weekly partners, spiritual directors, group home representatives, and external witnesses (workplace mentors, pastors at other churches, etc.) are invited. The sending is public; the witness is the body.
-
-Closing: a meal. The Antioch church almost certainly ate together after laying hands on Barnabas and Saul. So do we.
+The bridge is honest: some members continue to Going Deeper round 2 or to Inviting Others; some pairs keep meeting, most not weekly; some stay in close connection, many remain warmly connected without close contact. The architecture honors all of these as honest continuations.
 
 # Section 10 — Beyond Going Out
 
-## The horizon
+## The long obedience and the support structure
 
-Going Out is the third movement of the three-series arc, but it is not the end of the journey. The leaders sent in Going Out are at Leader Level 2; their development continues across years. The groups they start are at Group Level 1; those groups’ development is its own journey.
+Going Out sends the cohort into a long obedience the team walks alongside for the first six to twelve months — a rhythm of periodic check-ins and access to the pastoral and referral support already established. The support is not surveillance and not a new program; it is the recognition that the most fragile season is the one just after a sending.
 
-Several questions sit beyond what this handbook can fully address:
+## Inviting Others — the follow-on
 
-### When does a sent leader return to CCA?
+For those whose Wk 8 discernment confirmed a calling to gather a new formation group, **Inviting Others** is the follow-on. It carries everything Going Out deliberately leaves out of the spring: the spiritual-authority architecture (individual spiritual direction outside CCA; a recognized group home), the Leader Level taxonomy, the referral discipline for a leader's own room, the first-session simulation, and the Antioch sending of new leaders. See the [Inviting Others handbook](inviting-others-handbook.md). It is not a fourth series in the arc; it is the equipping that meets a specific calling when the Spirit confirms one.
 
-Some Going Out graduates may circle back to CCA in later years — not as participants, but as elders. A leader at Level 3+ in their own work, with a few years of leading behind them, may be exactly the right team member for a future Going Out cohort. The Antioch-Antioch pattern: communities that send leaders out also receive elders back. The team should hold this possibility open, with the same discernment posture that confirmed the original sending.
+## Continuations
 
-### What about second-generation groups?
+The other honored landings continue in their own shapes: the household season, the vocational long obedience, the third-place arc, the one-to-one accompaniment, the contemplative life. Going Deeper round 2 is offered to those for whom another pass of the interior work is the next thing. The formation does not end at Wk 12; the weekly rhythm does.
 
-If a Going Out leader’s group, after 2–3 years, begins to produce its own called leaders, that is the operational signature of Group Level 5 self-replication — not in the leader’s own work, but in the work that has multiplied through them. The leader at that point has the discernment-and-sending question CCA is doing now. They will probably draw on their Going Out experience; their group home will probably be the primary supporter; CCA may or may not have a role. The team’s posture: available if asked, not presumptuous.
+# Section 11 — Session-by-Session Sketch
 
-### What about leaders whose first cycle does not bear fruit?
+**Wk 1 — Welcome Back.** Reopen after the interlude. Three movements: honest gap-landing (each member named; what surfaced; what is alive now); Going Out's framing (what it is, how it differs from Going Deeper, the four blocks and the Acts 1:8 geography); re-engaged structures (standing pairs, refreshed Rhythm Card, the H1.2 practice begun). The team's discipline is restraint — land the cohort honestly; do not teach the whole spring tonight.
 
-Some Going Out leaders’ first groups will not flourish. Causes vary: target room’s readiness was not what the leader thought; specific people surfaced material that exceeded the group’s scope; the leader’s own formation revealed unfinished work that the leadership exposed. Fruit-bearing is the test (Matt 7:15–20), but the timeline of fruit is not always twelve months.
+**Wk 2 — The Body Sent.** Acts 2 and 1 Peter 2:9–10. Teach the corporate sent identity and the three distinctions (witness from evangelism / program / performance). The witness exercise makes it concrete: each member names one instance from the week's Tell where they were a witness, even if they did not name it as such at the time. The practice becomes data that informs Wk 3.
 
-The team’s posture: hold the leader without ranking. A leader whose first cycle did not flourish has data the next cycle can use. Some will be re-sent (with the cohort’s renewed discernment); some will move to a supporting role; some will return to formation work themselves. All three are honest.
+**Wk 3 — Where Sent.** Integrate gift/shadow (GD Wk 9), calling (GD Wk 10), the H11.3 question (GD Wk 11), and two weeks of Tell data into ONE specific working sent-context sentence per member. The discipline is specificity — "I am sent to be a better Christian" is not a sentence; "I am sent to my workplace, specifically to my colleague J. and to how our team handles the May deadline, with the witness being the way I hold honesty under pressure" is. Cohort split for texture; merge to receive the named contexts as a body.
 
-### What about CCA’s role across decades?
+**Wk 4 — Daily Tells.** The data look. Review three weeks of Tells honestly as a body (corporate soul-clearing). Teach the three modes. Cross-cohort visibility is intentional — the diversity of contexts is itself formation. Observations over interpretations; honest data over polished narrative.
 
-If the Going Out pattern works as designed, CCA is one Antioch among the Antiochs that the work seeds across years. The school is the soil that grew specific leaders; those leaders’ groups are the soil that grows further leaders; over time, what CCA started becomes a small part of a much larger lineage that no single institution owns. This is the apostolic pattern. CCA’s long-term posture is humility: we are stewards of one moment in a much longer work, and the work itself belongs to the Spirit.
+**Wk 5 — Household.** Deut 6 Shema and the Household Formation Law; Acts 16, 1 Peter 3, 1 Timothy 5. The costliest context. Substantive standing-pair work (≈15 min per direction) carries most of the formation. Attend to household-as-calling vs household-supports-calling for each member. Watch for live family crises routing to referral, not cohort processing.
 
-# Appendix A — The Five Leader Levels (Reference)
+**Wk 6 — Vocational.** Daniel and Joseph; Col 3:23–24, 1 Thess 4:11–12, Matt 5:16. The witness that is the daily work, done as for the Lord. Whole-room architecture — vocational contexts cross cohort lines (a parent's workplace and a senior's school share the structure of long-term daily presence). For some, the vocational direction is the downhill calling itself.
 
-Self-assessment matrix and behavioral markers for each level. Use this with sent leaders during the six-month support structure 1:1s. Leaders self-assess quarterly; the team also informally assesses.
+**Wk 7 — Third Place.** Oldenburg's third place; Acts 8 (Philip and the Ethiopian); Eph 2:10 (prepared works). Open the broader geography. Introduce the downhill/uphill distinction, which Wk 8 will use directly. The works are prepared; the task is discovery, not invention.
 
-## Self-assessment questions for each level
+**Wk 8 — Discernment.** The cohort's second Group-Level-4 attempt. Acts 13:1–3; the 1 Cor 14:29 weighing discipline. Walk the cohort's corporate discernment toward one of the three honest landings (shared engagement / differentiated callings honored equally / carried clarifying question). Hold the gnostic-drift risk. Name all three landings as honest before beginning.
 
-### Level 1 — Receiving the Call
+**Wk 9 — The Body Sent Beyond.** Complete the Acts 13 architecture: the body confirms and sends with hands laid on (Acts 13:3). Count the cost against a premature yes. Hebrews 12:1–2 returns as the long-obedience frame. The sending adapts to whatever Wk 8 landed.
 
-- Am I aware that the Spirit may be calling me to lead a formation group?
-- Am I willing to attend to that question, even if the answer might be ‘no’ or ‘not yet’?
-- Am I open to communal discernment about this, including the possibility that the cohort may hear something different from what I have heard?
+**Wk 10 — What Going Out Produced.** Individual integration; Phil 1:6. Specificity over summary. The longest pair work in the series after Wk 5 (≈16 min per direction); the pair partner walks each member's Going Out trajectory in detail and gives back a specific witness sentence ("What I heard you saying about what Going Out produced in you is ___").
 
-Markers: pre-launch state. The honest ‘yes’ to all three is the threshold for entering Going Out.
+**Wk 11 — Cohort Lands.** The body's honest Group-Level self-assessment across the whole arc (MSFIG five levels). The body's level is its lowest stable common practice. Cohorts assess within peer groups, then merge. Tonight's honest landing is the foundation for next week's sending.
 
-### Level 2 — Responding
+**Wk 12 — Long Obedience.** The ceremonial close. Acts 20:36–38. Standing-pair blessings (~60 sec each); the cohort speaks the Aaronic together (Num 6:27); the H12.1 sending card distributed via pastoral 1:1s in the prior week and carried in tonight. An honest bridge to what continues.
 
-- Am I doing the work of leading consistently — showing up, holding the room, running what I was equipped to run?
-- Am I motivated by what the cohort and team are asking of me, more than by an internal pull?
-- Do I notice myself running the framework somewhat mechanically — checking off the four conditions, going through the four Connects in sequence?
+# Appendix A — Field Card: The Four Sent-Contexts and the Daily Tell
 
-Markers: typical first 6–12 months of leading. Yes to all three is normal and is not a problem.
+*Print on cardstock; carry it through the spring.*
 
-### Level 3 — Valuing (the threshold)
+**The geography (Acts 1:8).** Immediate → close-to-home → far. The body witnesses where it stands first.
 
-- Am I pursuing my own Companion development without external prompting?
-- Am I adjusting the four-Connects work intuitively for my specific room, rather than running a remembered sequence?
-- Do I find myself motivated by the work because it has come to matter to me, not because the team is checking?
-- Am I durable across difficulty in my group? Would I keep leading even if the cohort and team were not watching?
+**The four contexts.**
 
-Markers: leaders typically 1–3 years in. The threshold is when intrinsic motivation becomes the dominant fuel.
+- **Household** — the costliest; performance is impossible; honesty about your own formation is the witness.
+- **Vocational** — where most of your hours are; the witness is the work done as for the Lord.
+- **Third place** — cafes, gatherings, hobby and civic groups; the Spirit prepares particular encounters.
+- **Beyond** — whatever lies past the household and vocational in your life this season.
 
-### Level 4 — Organization
+**The weekly Tell.** One true thing, told outside the cohort, to someone in your actual life. Notice: who, what happened, what you did and didn't understand about their response.
 
-- Has leadership integrated into who I am, rather than being something I do?
-- Am I resolving conflicts between leadership, family, vocation, and faith with active discernment, rather than avoidance?
-- Have I seen patterns across multiple iterations of my group? Have I begun to develop my own variations on the framework?
-- Am I beginning to mentor other leaders informally, even when they are not formally assigned to me?
+**The distinctions.** Witness is not evangelism only, not a program, not a performance. Downhill before uphill — the Spirit's sending tends to run through who you are when you are most yourself.
 
-Markers: leaders typically 3–7 years in. Most CCA-sent leaders will not reach Level 4 in their first multi-year cycle.
+# Appendix B — The Rhythm Card (Sent Edition)
 
-### Level 5 — Characterization
+**Daily.** (1) Scripture and prayer in your ordinary rhythm. (2) The morning noticing question — *"Where might I be a witness today, in the room I'm already in?"* (3) An evening examen of the day's encounters.
 
-- Has my group produced people who are now being called to start their own formation groups?
-- Have I stewarded the discernment-and-sending of called leaders from within my own group?
-- Does the culture I carry replicate without conscious effort — do new groups my graduates start look similar in essence to mine, even when the specifics vary widely?
-- Am I held in peer-elder relationships with other Level 4–5 leaders across institutional boundaries?
+**Weekly.** (1) The outside-cohort Tell. (2) The standing-pair check-in (this week's prompt; see the session). (3) Sabbath rest.
 
-Markers: leaders typically 7+ years in, with at least one full multi-generation cycle. Some leaders never reach Level 5; that is honest, and the work is no less real.
+**Monthly.** (1) A longer standing-pair conversation. (2) A review of the Wk 3 sent-context sentence — is it still true, or has the Spirit refined it?
 
-# Appendix B — The Going Out Re-Registration Form
+# Appendix C — Crisis and Referral
 
-Sent to Going Deeper graduates in the interlude between Going Deeper and Going Out.
+Going Out adds no separate crisis architecture. Use:
 
-## Section 1 — Identification
+- **Going Deeper Handbook, Section 6** — Crisis Contingencies and Pastoral Protocols (the single source of truth).
+- **Going Deeper Handbook, Appendix D** — the pilot-edition referral list (pastoral / inner-healing / clinical). Going Out maintains no separate list.
 
-Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+The two-adult rule and mandatory-reporting framing carry forward from Getting Started and Going Deeper unchanged. When a household or vocational disclosure exceeds what the cohort can hold, route it to the referral pathways and pastoral support — do not process it in the cohort.
 
-Age (if minor): \_\_\_\_\_ Grade (if applicable): \_\_\_\_\_
+---
 
-Phone: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## Section 2 — Your sense of the call
-
-1. Do you have a sense the Spirit may be calling you to start a formation group?
-
-□ Yes, clearly □ Yes, but I want to test it □ Not sure □ No, but I want to walk this season with the cohort
-
-2. If yes or not sure: where, and with whom, do you sense the calling?
-
-3. What would it mean for this to matter — what fruit would you want to see across the next year of your life?
-
-## Section 3 — The discernment posture
-
-## The required question
-
-***Are you open to having your sense of calling tested in the cohort, with the genuine possibility of being counseled toward further formation rather than launching a group in Going Out?***
-
-**□ Yes — I am open to either outcome, including being counseled toward further formation.**
-
-**□ No, or I’m not sure I could honestly say yes to that.**
-
-*If you marked the second box, that is honest data; you are not yet ready for Going Out, and that is fine. Talk to the team about what would help you get there — it may be next year’s spring, or it may be a different next step. If you marked the first box, you may be admitted to Going Out; the team will confirm with you in the team’s pre-spring review.*
-
-## Section 4 — Spiritual authority
-
-4. Do you currently have a relationship with someone outside the CCA team who could become your spiritual director (in the sense Section 3 of the handbook describes) for the season ahead?
-
-□ Yes, in active relationship □ Yes, I have someone in mind □ No, I will need help finding someone
-
-5. If you sense a calling to start a group, do you have a church or spiritual hierarchy that could be the group’s home (in the sense Section 3 of the handbook describes)?
-
-□ Yes, my church will recognize and support □ Yes, I have a sense of where this could be □ No, this is open
-
-## Section 5 — For all participants
-
-Confidentiality covenant: I understand that what is shared in cohort circles stays in cohort circles, with the standard exceptions named in prior handbooks (mandatory reporting; safety thresholds; the team’s right to seek pastoral / clinical consultation when material exceeds session scope).
-
-Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_
-
-Parent signature (if minor): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_
-
-# Appendix C — Field Card for Group Leaders
-
-This is the multi-page reference card sent leaders carry into their new groups. It is NOT a curriculum. It is a reminder of what was formed in them. Print on cardstock, fold to fit a notebook.
-
-## The four container conditions
-
-## Hold these every session
-
-**SAFE — What in this room makes it possible for someone to say a true thing without fear of being judged, exposed, or fixed? What in this room is currently undermining that?**
-
-**PRESENT — Are people actually here, or are they elsewhere (past, future, phone, anxiety)? What does it take this week to bring the room into the present?**
-
-**CLEAR — What unspoken judgment is in the room and is degrading the work? What needs to be named to clear it?**
-
-**INTENTIONAL — Is the room willing to obey what it hears, in advance? Or is it negotiating?**
-
-## The four Connects, in any sequence the room needs
-
-## Self / Others / God / Mission
-
-**SELF — The soil of my heart, my story, my knots, the lies I have accepted. Where am I, honestly?**
-
-**OTHERS — Who knows me, and how? Where am I in relationships of real witness, not just acquaintance?**
-
-**GOD — How is the hearing going? Where am I genuinely encountering Him, and where am I performing or avoiding?**
-
-**MISSION — What was prepared for me to walk in? Where am I walking in it, and where have I drifted into uphill-only or shadow?**
-
-## The diagnostic categories — you recognize them; you do not treat them
-
-## The four knot types and the discipline
-
-**GRIEF — unresolved loss. SHAME — a verdict installed about the self. FEAR — the nervous system in threat-response. ANGER — an injustice not honestly named. (And SIN — the cling, distinct from the weight, requiring confession.)**
-
-**Your job: recognize the type when it surfaces. Hold the participant in the cohort with care.**
-
-**Your job: refer to the right resource when the work exceeds your room. Use your referral list.**
-
-**Your job: NEVER attempt the therapeutic protocols (TPM, GRH, inner-healing prayer, psychodrama) in your own group. You are not credentialed; the room is not the right container.**
-
-## The three openness conditions — test the cohort’s discernment
-
-## Tested at every milestone
-
-**ONE — Submission to the written Word. If a corporate-discernment outcome is inconsistent with scripture, it is wrong, regardless of how unanimously it was heard.**
-
-**TWO — Genuine openness to external correction. You and your group maintain ongoing relationships with at least one trusted older Christian outside the group who can name when you have gone off.**
-
-**THREE — Observable fruit as the final test. Discernment is tested across multiple sessions and over months, not within one session. Apparent unanimity that does not produce fruit by month six is a signal.**
-
-## The Affective Taxonomy — know where you are
-
-## Self-assess quarterly
-
-**Level 1: Receiving the call. Pre-launch state.**
-
-**Level 2: Responding. Doing the work, motivated externally, running the framework somewhat mechanically. Most first-cycle leaders are here; that is fine.**
-
-**Level 3: Valuing the role. Intrinsic motivation, intuitive adaptation, durable across difficulty. The threshold of being a real leader.**
-
-**Level 4: Organization. Leadership integrated into identity. Multiple cycles. Some mentoring of other leaders.**
-
-**Level 5: Characterization. Self-replicating leadership. Your groups produce their own called leaders. Multi-generation.**
-
-## Your spiritual authority structure
-
-## Required, ongoing
-
-**ONE — Your individual spiritual director (someone outside the CCA team). Ongoing relationship; meets monthly or more often.**
-
-**TWO — Your group home (a church or recognized spiritual hierarchy). The group is recognized, accountable, and pastorally covered there. NOT CCA.**
-
-**THREE — Your CCA support contact (for the first six months only). Monthly 1:1s, quarterly debriefs, access to the referral network. After six months, you continue with your director and group home only.**
-
-## Five practices for your own ongoing formation
-
-## From the Daily / Weekly / Monthly Rhythm Card, leader edition
-
-- Daily — the morning question and the evening note. Even more important now that you are leading.
-- Weekly — your spiritual director or your weekly partner from Going Deeper. The rhythm continues.
-- Monthly — a clearing time. PROAPT, Garden, Any Doubts? on something specific. Not optional.
-- Quarterly — self-assessment on the five Leader Levels. With your spiritual director.
-- Annually — a personal retreat. 24 hours minimum. Extended formation work. The leaders who skip this are the leaders who burn out by year three.
-
-# Appendix D — Spiritual Direction Referral Standards
-
-How to vet whether a proposed spiritual director relationship counts for Going Out purposes.
-
-## The vetting questions
-
-## The team uses these questions to vet each leader’s proposed director
-
-**1. Is this person a trained spiritual director (formal credential or substantial informal training in the historical practice), or are they explicitly stepping into the spiritual-director role with appropriate posture?**
-
-**2. Does the relationship have an explicit spiritual-direction frame — the relationship is not friendship, mentorship, or pastoral counseling, but specifically attending to the leader’s relationship with God?**
-
-**3. Will the relationship be ongoing — monthly meetings or more often, sustained beyond the first cycle of the leader’s group?**
-
-**4. Is the director outside CCA and outside any role that creates conflict-of-interest with CCA or the leader’s group?**
-
-**5. Has the leader brought this relationship to the table, or did the team have to find one for them? (The first is preferable; if the team had to help, the leader should have a stronger introduction process.)**
-
-## If the leader does not have a director by Wk 8
-
-Possible responses, in order of preference:
-
-- Help the leader identify a candidate from the CCA referral network of trusted directors. (The team should maintain a regional list; this list is the practical infrastructure of Going Out.)
-- Connect the leader with a director through Spiritual Directors International or a similar credentialing body. Vet the candidate carefully.
-- If no director is in active relationship by Wk 9, delay the leader’s launch. The leader continues with the cohort through Wk 12 in a learning posture, and resumes toward launch when the relationship is established.
-
-# Appendix E — Group Home Vetting Checklist
-
-How to vet whether a proposed group home counts for Going Out purposes.
-
-## The two tests, in checklist form
-
-## Recognition test
-
-- Does the leadership of the proposed group home know the group exists?
-- Do they know who is leading it?
-- Do they know roughly what the group is doing?
-- Have they expressed an explicit posture of recognition (not just neutrality)?
-- Has the leader met specifically with the group home pastor or leader about the group?
-
-## Accountability test
-
-- Is there a specific person at the group home who would intervene if the group ran into theological drift?
-- Is there a specific person at the group home who would intervene in a leadership concern?
-- Is there a specific person at the group home who would intervene in a pastoral need that exceeds the leader?
-- Has that person’s availability been explicitly confirmed?
-- Does the group home view the leader as a peer-leader within their broader community, not just a member who happens to have a side group?
-
-## Special note for teen-led groups
-
-If teen leadership is institutionally supported by CCA (this is an open question per the user’s decision in the design phase), the group home for a teen-led group is normally the teen’s family’s church, and the recognition and accountability tests above apply with additional rigor.
-
-## Additional teen-specific tests
-
-- Has the teen’s parent or family signed off on the group home arrangement explicitly?
-- Is the spiritual covering structure (designated adult present at the group, not just nearby) in place AT the group home, with that person’s explicit consent?
-- Has Virginia legal review been completed for any compliance considerations? (See Section 3 — placeholder for the institutional review CCA will conduct.)
-
-## Virginia legal review — placeholder
-
-The team will need to complete a Virginia-specific legal review for any teen-led structure before launch. The user has indicated that legal references exist but are not currently available; this section will be supplemented before any teen-led launch occurs. The handbook reserves space here intentionally; do not interpret the absence of specifics as an absence of legal constraints.
-
-# Appendix F — Six-Month Support Structure Template
-
-Use this template to scaffold each leader’s six-month support relationship with the team. The template is a starting point; the Spirit guides what each leader actually needs.
-
-## The schedule
-
-| **When** | **What** | **Form** |
-| --- | --- | --- |
-| Wk 12 of Going Out | Antioch sending. Six-month support begins. | Public commissioning + private follow-up |
-| Month 1 | First 1:1 with primary CCA team contact. | 60 min, in person if possible |
-| Month 2 | First quarterly new-leader debrief gathering. | 2-hour evening, all Going Out graduates + team |
-| Month 2 | Second 1:1. | 60 min |
-| Month 3 | Three-month check-in: leader and team formal review of progress. | 60–90 min, includes Leader Level self-assessment |
-| Month 4 | 1:1. | 60 min |
-| Month 5 | Second quarterly new-leader debrief gathering. | 2-hour evening |
-| Month 5 | 1:1 + Spirit-led extension question discernment. | 60–90 min |
-| Month 6 | Closing 1:1 + transition to spiritual director and group home only. | 60 min, possibly with the spiritual director joining |
-
-## What gets discussed in the 1:1s
-
-## Open agenda; the leader brings what is alive
-
-- Specific cohort members — difficult dynamics, surprises, growth moments.
-- Discernment questions — about specific people, about the group’s direction, about the leader’s next steps.
-- Facilitation questions — a piece of practice that did not go as expected, a moment the leader is not sure they handled well.
-- The leader’s own formation — briefly. (Deeper formation work belongs with the spiritual director, not the CCA team.)
-- Logistical questions — referrals, scheduling, group-home navigation.
-- Celebrations — specific moments of fruit. Name them out loud.
-
-## What does NOT get discussed in the 1:1s
-
-## Boundaries
-
-- Therapeutic work on the leader’s knots, lies, or interior material. That is the spiritual director’s territory or a clinical referral.
-- Marriage, family-of-origin, or other personal-life matters that do not directly bear on leadership. Refer.
-- Detailed pastoral counseling for individual cohort members. The leader’s job is to refer those members, not to import them into the 1:1.
-- Strategy for the new group beyond the leader’s own discernment. The team is not running the group; the leader is.
-
-*— End of handbook —*
+*Draft v1 (Design B), June 2026. This handbook matches the twelve Going Out session plans (the body-sent / outward-witness architecture). The leadership-equipping material for those called to gather a new group lives in the companion [Inviting Others handbook](inviting-others-handbook.md).*
