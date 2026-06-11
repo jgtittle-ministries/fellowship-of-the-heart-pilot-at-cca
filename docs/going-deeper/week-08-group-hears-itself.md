@@ -390,6 +390,8 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 *“What happened tonight is the formation step most groups never take. Whether we landed at Level 4 or attempted it and stayed at Level 3, we are a body that listened together. The attempt itself is part of the formation.”*
 
+*“One word before we turn ahead. If something you heard tonight did not make it into what the cohort named, you are not overruled. The body’s weighing is not the only place the Spirit speaks; what you heard may be His word for you to walk in personally. Hold it, bring it to your standing pair, and do not throw it away because it did not converge with the rest.”*
+
 *“The God-deepened block closes tonight. Wk 9 turns toward Mission — the shadow mission. Where the God block has deepened our hearing, the Mission block tests where each of us comes most alive and where the same energy turns wrong under stress. The cohort’s hearing tonight will inform what each of us brings to Wk 9.”*
 
 *“If anything that surfaced tonight feels heavier than the week can hold, your standing pair is the first stop; Cohort Companions are next; pastoral / clinical referrals are available.”*
@@ -609,6 +611,8 @@ Each of the seven bodies in Rev 2–3 received a different address. No two are i
 **How the case study informs tonight**
 
 ## Whatever the cohort heard about itself tonight may resemble parts of one or more letters — maybe an I-know clause came clear; maybe a commendation surfaced; maybe a critique. We do not need all five elements; even one or two specific clauses, if they cohere across multiple members’ hearing, is meaningful.
+
+**The canon is closed. What surfaced tonight is not Scripture and never rises to it — it is a humble, fallible hearing that must be weighed against the written Word (1 Cor. 14:29; Acts 17:11) and may simply be wrong. We are not adding to the Bible; we are asking the Spirit to apply it to us.**
 
 **The Spirit’s critiques in Rev 2–3 are conditional, not coercive. ‘Repent’ is invitation, not threat-disguised-as-command. The promises are for those who overcome. The architecture is invitation-with-stakes, not coercion.**
 

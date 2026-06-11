@@ -229,6 +229,8 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **•** Notice what Acts 13 establishes. The body is gathered for ORDINARY work (worship and fasting) when the Spirit speaks specifically. The Spirit’s direction is specific (named individuals, named work). The body confirms (more fasting and praying) before sending. Direction, confirmation, sending. Tonight’s discernment follows the same shape.
 
+**•** And a word on how we read this. Acts 13 is narrative before it is template — Luke records what the Spirit did once at Antioch, not a formula that compels the same result when we copy the steps. We hold it as a paradigm to listen toward, weighed against the written Word, never as a lever that obligates God to speak tonight on our timetable. He may name a specific sending; He may not; both are faithful outcomes of real listening.
+
 **•** Notice what 1 Cor 14 establishes. Corporate hearing requires corporate weighing. Two or three prophets speak (not one); the others weigh (not vote). The body together tests what was heard. The discipline is humble offering and corporate testing, not declaration and assent.
 
 **•** In Going Deeper Wk 10, ONE Discerner walked the Acts 13 architecture for an emerging individual calling. Tonight, the COHORT walks the architecture. The discerner-receiver tonight is the cohort itself; each member contributes what surfaced in pair conversation; the body weighs together; the body lands honestly.
@@ -566,6 +568,8 @@ That is itself a contribution. ‘My pair conversation surfaced no specific shar
 **LANDING 3 — Clarifying question. The discernment is incomplete; the body carries a question rather than a direction.**
 
 *All three are honest outcomes from real corporate listening. Going Out does not require landing 1.*
+
+*A word on how we read Acts 13: it is narrative before it is template — Luke records what the Spirit did once at Antioch, not a formula that compels the same result when we follow the steps. We hold it as a paradigm to listen toward, weighed against the written Word (1 Cor. 14:29), never as a lever that obligates God.*
 
 **Handout H8.3 — Discernment Disciplines Card**
 

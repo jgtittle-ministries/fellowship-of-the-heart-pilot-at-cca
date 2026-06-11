@@ -612,7 +612,7 @@ Four handouts for Wk 12.
 
 **Lead Companion: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Pastoral / clinical backup: see Appendix D of the handbook (or the pilot Referral List).**
+**Pastoral / clinical backup: see Appendix D of the handbook — the Pilot-Edition Referral List (the Lead Companion’s working copy is the current version).**
 
 **Crisis line: 988 (Suicide and Crisis Lifeline) for immediate need.**
 

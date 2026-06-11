@@ -228,6 +228,8 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **•** Notice what Acts 14 establishes for the long obedience. Barnabas and Saul return to strengthen the disciples in the cities they had reached; they continue across years; they appoint elders and commit communities to the Lord. The sending in Acts 13 is the beginning of a pattern that extends across decades. Tonight’s sending is similarly the beginning, not the end.
 
+**•** And a word on a cost beyond your calendar. When the body is genuinely sent, it should expect to be opposed. Jesus said plainly that the world which pushed against Him would push against those He sends (John 15:18–20), and Paul named that an open door for real work and many adversaries arrive together (1 Cor. 16:9). Some of that resistance is ordinary — busyness, weariness, discouragement; some of it is the accuser, who would rather the witness stay home. We do not dramatize this, and we do not deny it either. The same Spirit who sends goes with you, and the One who sends has already overcome (John 16:33; 1 John 4:4). Count this too when you count the cost — not with fear, but with eyes open.
+
 **•** The architecture tonight has three pieces. ONE — cost-counting honestly. TWO — laying-on-of-hands, with the body’s touch making the sending physical. THREE — Hebrews 12 returning; the sending continues into the long obedience. We are not closing the work tonight; we are confirming it and preparing for what comes next.
 
 ## Tonight’s sending shape (adapts to Wk 8 landing)

@@ -26,7 +26,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Aim.** Introduce the four knot types from Vol 2 Exp 2 (grief, shame, fear, anger) and the lie-at-the-root mechanism from Vol 2 Exp 3. Each participant identifies at least one specific knot operating in them right now. The session is diagnostic; release work begins next week (corporate mechanism via co-processing) and continues across the rest of the series.
 
-**Anchor scripture.** Hebrews 12:1–2 (“lay aside every weight, and the sin which clings so closely”); John 8:32 (“the truth will set you free”); John 8:44 (the lie about lies).
+**Anchor scripture.** Hebrews 12:1–2 (“lay aside every weight, and the sin which clings so closely”); John 8:32 (“the truth will set you free”), with John 8:44 in the background (the liar behind the lie).
 
 **Connect focus.** Self (diagnostic, deepened). The capstone of the diagnostic block; companion to Wk 2’s soil work.
 
@@ -239,7 +239,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 **SHAME KNOTS**
 
-*Mechanism: a verdict installed about the self. Eldredge calls it the wound and the false self. The wound delivered an answer to the question every heart asks: ‘am I enough?’ The answer was ‘no.’ The false self organized around managing that verdict.*
+*Mechanism: a verdict installed about the self — over a truer word already spoken. Before any wound spoke, the Father named His delight over the beloved at the Jordan (‘You are my beloved Son; with you I am well pleased’ — Mark 1:11), and for everyone joined to that beloved Son the Spirit Himself testifies that we are God’s children (Rom. 8:15–16; 1 John 3:1). The shame knot forms when a later voice answers the question every heart asks — ‘am I enough?’ — with a ‘no’ that buries that first word. Eldredge calls it the wound and the false self. The false self organized around managing the verdict.*
 
 *Entry point: gold and shadow recovery. The shadow is the part of yourself you hid because you believed it was unacceptable. The gold is the God-given strength that got buried with it. The work names both. The Spirit speaks specific truth into the lie at the root — the original ‘no’ — and the gold is recovered.*
 
@@ -279,7 +279,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 ### **Teaching points**
 
-• Vol 2 Exp 3 of IJH names what is sometimes called the lie-at-the-root mechanism. Every emotional knot has a cognitive root — a specific lie about God, about yourself, or about others, accepted in a moment of vulnerability.
+• Vol 2 Exp 3 of IJH names what is sometimes called the lie-at-the-root mechanism — and names it as a working hypothesis (about 80% confidence), a way of describing how knots come undone, not a doctrine read straight off these verses. Held that way: every emotional knot tends to have a cognitive root — a specific lie about God, about yourself, or about others, accepted in a moment of vulnerability.
 
 • The lie is usually small and specific. Not ‘God is dead’ but ‘God will not come through for me on this one.’ Not ‘I am worthless’ but ‘I am not the kind of person people stay for.’ Not ‘people are evil’ but ‘my dad will not protect me from this.’ Specific.
 
@@ -516,7 +516,7 @@ Four handouts for Wk 3.
 
 ## Mechanism and entry point
 
-**MECHANISM: a verdict installed about the self — ‘there is something wrong with me, and if people knew, they would leave.’ The wound delivered an answer to the heart’s question (‘am I enough?’), and the answer was no. The false self organized around managing the verdict.**
+**MECHANISM: a verdict installed about the self — ‘there is something wrong with me, and if people knew, they would leave’ — laid over a truer word: that we are God’s beloved children (Mark 1:11; Rom. 8:15–16; 1 John 3:1). The wound delivered an answer to the heart’s question (‘am I enough?’), and the answer was no. The false self organized around managing the verdict.**
 
 **ENTRY POINT: gold and shadow recovery. The shadow is the part you hid because you believed it was unacceptable. The gold is the God-given strength that got buried with it.**
 

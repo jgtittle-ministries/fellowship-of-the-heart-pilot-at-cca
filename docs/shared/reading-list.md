@@ -190,6 +190,14 @@ Lewis’s short epistolary novel — letters from a senior demon to a junior dem
 
 The seventh and final Narnia book. Read for its specific ending: the moment Lewis describes as “further up and further in,” and the description of Aslan’s country as “the real Narnia.” Vol 5 of IJH cites Lewis on the eschatological orientation that makes the journey meaningful. Senior teens who grew up with Narnia often read this book differently as adults; the second reading is part of the work.
 
+**Generous Justice: How God's Grace Makes Us Just**
+
+*Timothy Keller* • 2010
+
+**Audience:** Both. **Use for:** After Week 9 (mission), and for any reader whose heart is waking up to the poor, the stranger, and the oppressed. The book to hand the teen asking how the gospel connects to injustice.
+
+Keller’s argument — that doing justice for the vulnerable is not a political add-on to the gospel but flows directly from grace received — recovers the social-justice stream that Foster’s *Streams of Living Water* names but that a relationally-focused formation can quietly let drop. Grounded in the Hebrew prophets (Micah 6:8), Jesus’ parable of the Good Samaritan, and the care for the poor, the stranger, and the oppressed that runs through scripture (Matthew 25:31–40). Short, accessible, and gospel-first; it keeps justice from collapsing into either guilt-driven activism or a partisan cause. A good companion to the Going Out series’ work on where the body is sent.
+
 # Integration and rhythm — the long view
 
 Books for the long-term shaping of a life of formation, beyond any single Connect.

@@ -82,7 +82,7 @@ Week 5
 
 **Why this session, this week**
 
-Vol 2 Exp 4 of IJH names confession-and-restoration as the highest-confidence law in the entire project: 90%. The scriptural grounding is explicit and bidirectional — positive and negative cases stated in James 5:16, 1 John 1:9, Psalm 32, Psalm 51, Matthew 18:15–18. The mechanism named: unconfessed sin functions as load on the spiritual circuit, increasing resistance in the hearing channel and suppressing the effectiveness of prayer. Genuine confession — specific, owned, without self-justification, releasing rather than acknowledging — clears this load and restores the channel.
+At the center of tonight is a gospel promise, not a technique: ‘If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness’ (1 John 1:9). God forgives because of what Christ has done; the freedom that follows is His gift, not the payoff of a procedure. Vol 2 Exp 4 of IJH names confession-and-restoration as the highest-confidence law in the entire project (90%), grounded bidirectionally in James 5:16, 1 John 1:9, Psalm 32, Psalm 51, Matthew 18:15–18. The model it uses to describe the dynamic: unconfessed sin functions as load on the spiritual circuit, increasing resistance in the hearing channel and suppressing the effectiveness of prayer; genuine confession — specific, owned, without self-justification, releasing rather than acknowledging — clears this load and restores the channel. The model describes; the forgiving is God’s doing.
 
 The Getting Started’s Wk 5 introduced confession in the cohort circle at the level of ‘name a place where you want to walk in greater honesty.’ That practice was foundational and lightly held. Tonight is the deepening: confession to one trusted pair partner, in the dyadic privacy that James 5:16 actually describes, with restoration spoken specifically over what was confessed.
 
@@ -228,7 +228,7 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 *(60-second silent settling. ‘Holy Spirit, you are welcome to do whatever you want to do here tonight. We are submitted.’)*
 
-*“Tonight is Wk 5. I want to be honest with you about what tonight is. From the IJH framework that has been the foundation of all this work, this session is the highest-confidence formation work in the entire project. Vol 2 names it as the most reliable mechanism by which the spiritual circuit gets cleared. James 5:16, 1 John 1:9, Psalm 32 — the scripture is explicit and bidirectional.”*
+*“Tonight is Wk 5. I want to be honest with you about what tonight is. At the center of it is a promise as old as the gospel: when we confess our sin, God forgives — fully and faithfully, because of what Jesus has done (1 John 1:9). From the IJH framework that has been the foundation of all this work, this confession-and-restoration is the highest-confidence formation work in the entire project; the scripture behind it is explicit and bidirectional — James 5:16, 1 John 1:9, Psalm 32. What the framework describes is how honest confession clears what sin had clogged in us — but the forgiving and the clearing are God’s doing, not the procedure’s.”*
 
 *“We are going to practice confession-and-restoration in our standing pairs tonight. The architecture is going to feel different from anything most of us have practiced before. The framing matters; the pair work is the practice; the restoration is the gift.”*
 
@@ -656,7 +656,7 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 ## Five movements, one minute each
 
-**ONE — Awareness. Become quiet. Notice that God has been with you across the day. Settle.**
+**ONE — Awareness. Become quiet. Notice that God has been with you across the day. Gratitude — not self-scrutiny — is the engine of this whole practice; let His goodness, not your performance, set the tone before anything else. Settle.**
 
 **TWO — Gratitude. Name three specific gifts from the day. Concrete. Not ‘I am grateful for my family’ — ‘I am grateful for the way my daughter laughed at the dinner table.’**
 
@@ -664,7 +664,7 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 **FOUR — Confession and gratitude for restoration. Where the pattern operated, briefly: ‘I see this; I bring it to you; I lay it down again.’ Where the restoration was visible, briefly: ‘Thank you; I see your work in me.’**
 
-**FIVE — Looking forward. One sentence about tomorrow. ‘Tomorrow I want to walk in the restoration in this specific situation: \_\_\_\_\_\_\_\_\_\_\_\_.’**
+**FIVE — Looking forward. One sentence of desire for tomorrow, offered to God — it may name the restoration in a specific situation, or simply where you want to walk with Him: ‘Tomorrow, with You, I want \_\_\_\_\_\_\_\_\_\_\_\_.’**
 
 **Notes**
 
@@ -675,6 +675,8 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 **Across the week, you will likely notice the pattern operating less and the restoration showing more. This is the Spirit’s work; you are the noticer, not the engineer.**
 
 **If the pattern shows up heavily mid-week and you cannot keep walking in restoration alone, mid-week check-in with your pair partner.**
+
+**For the youngest (12–14): default to the simpler gratitude-led three-beat used in Getting Started and on the Rhythm Card — Awareness, Gratitude (three specific gifts), and one forward sentence with God — and let the named-pattern movements be optional. Gratitude leads; the pattern noticing is never the point of the prayer.**
 
 **Handout H5.4 — Between-Session Practice (Wk 5)**
 

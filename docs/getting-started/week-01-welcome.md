@@ -270,6 +270,8 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “Here is what I want you to hear. The thief comes for one purpose — to steal and kill and destroy. Jesus came for one purpose — that you may have life, and have it abundantly.
 
+“And hear how He gave it: the life Jesus came to bring, He bought with His own — laid down at the cross, so the thief’s work of death would not have the last word (John 10:11). We won’t unpack all of that tonight; we simply receive that the ‘more’ is real, and that it cost Him everything to offer it to you.
+
 “That word, abundantly, is the word that hangs the whole of Getting Started. Most of us are not living abundantly. We are getting by. We are holding it together. We are surviving. And every once in a while, we get a glimpse — a moment in worship, a sunset, a conversation that goes deeper than usual — and we know there is more. Jesus is saying: there is more. I came for the more.
 
 “Here is the question I want you to take home with you tonight. Not to answer right now. To carry. ‘Where in my life am I living abundantly, and where am I living some thinner version of life that Jesus did not come to give me?’

@@ -711,7 +711,7 @@ Going Out is the Going Out series. It will engage missional discernment, vocatio
 
 **Cohort Companion next. If something specific in last night’s assessment opened material in you that the pair cannot hold.**
 
-**Pastoral / clinical referrals are available. Appendix D of the handbook (or the pilot Referral List).**
+**Pastoral / clinical referrals are available. See Appendix D of the handbook — the Pilot-Edition Referral List (the Lead Companion’s working copy is the current version).**
 
 **If you are reconsidering whether to continue into Going Out**
 
