@@ -368,6 +368,28 @@ For the junior cohort and any 12-year-old: the container is identical in structu
 
 ## Read this section before Week 1. Walk through every protocol with the pastoral / clinical backup person and with CCA leadership. The protocols below are starting templates and must be reviewed by CCA’s legal and pastoral leadership and adapted to current Virginia law and CCA policy before use.
 
+## Launch-blocking safety checklist — sign before Week 1
+
+This one-page gate must be completed and **signed by the Lead Companion and the CCA head of school before Week 1**. The first list is *blocking* — the cohort does not begin until every item is true. The second is *maintenance* — verified at the start and re-checked annually. *(Scaffold: the bracketed items are operational facts for the team / CCA to supply.)*
+
+**Must be true before Week 1 — blocking:**
+
+- [ ] Pastoral / clinical backup **named and on-call for every Tuesday**. Name: **[fill in]** · Phone: **[fill in]** · After-hours protocol: **[fill in]**
+- [ ] The **Crisis Quick-Reference Card** and the **referral list, Categories 1–5** (crisis / reporting rows) are populated with **verified local Warrenton numbers**. (Categories 6–7 may fill in progressively.) Verified by: **[fill in]** · Date: **[fill in]**
+- [ ] **Every Companion** has worked through Section 6 with the backup person and has **signed CCA’s child-protection policy**. Confirmed by: **[fill in]**
+- [ ] **Virginia mandatory-reporting review closed** — Section 6 reviewed against current Virginia law and CCA policy by qualified counsel / CCA leadership. Reviewer: **[fill in]** · Date: **[fill in]**
+- [ ] The participant safety footer’s **“Your Cohort Companion: ____”** line is filled with a real name + number on every printed copy. Filled by: **[fill in]**
+
+*Tuesday-by-Tuesday rule:* the pastoral / clinical backup is re-confirmed at the team pre-meet **48 hours before each Tuesday**. If a Tuesday’s backup is **not** confirmed, that week’s deep-work block runs in its lighter, diagnostic-only form or is postponed — it does not run unbacked. (No clinician is required physically in the room.)
+
+**Verify at start, re-check annually — maintenance:**
+
+- [ ] Two-adult rule documented and understood by every Companion.
+- [ ] Confidentiality covenant + parent consent forms on file for every participant.
+- [ ] Referral list reviewed and all numbers re-verified.
+
+Signed — Lead Companion: **[fill in]** · Date: **[fill in]**   ·   CCA Head of School: **[fill in]** · Date: **[fill in]**
+
 ## Confidentiality covenant
 
 Every participant — teen and parent — signs a confidentiality covenant at orientation. The full text is in Appendix B. The covenant has three parts:

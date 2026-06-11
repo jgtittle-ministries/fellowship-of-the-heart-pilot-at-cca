@@ -124,6 +124,17 @@ Inviting Others cohorts are smaller than Getting Started, Going Deeper, or Going
 
 This section names a non-negotiable readiness criterion for any leader being sent through Inviting Others. Read it carefully; it shapes the whole spring.
 
+## ⛔ Launch-blocking gate — no group launches until all of the following are true
+
+This is a hard gate, not a guideline. *(Scaffold: the bracketed items are the legal / institutional facts for JD, counsel, and CCA to supply.)*
+
+- [ ] **Virginia legal review complete** for a teen leading a formation group that includes other minors — reviewed by qualified counsel; **institutional confirmation on file** with CCA. Reviewer: **[fill in]** · Date: **[fill in]**
+- [ ] **No participant under 18 leads over other minors** in any session until that legal review is closed and CCA has confirmed in writing. An under-18 may *co-lead only* with a confirmed adult Companion **present in the room — not merely nearby**.
+- [ ] **Two-adult covering verified and present** (not “nearby”) for any session a sent leader runs that includes minors. Confirmed by: **[fill in]**
+- [ ] Both spiritual-authority requirements below (individual spiritual direction + a recognized group home) **confirmed and predating the launch**.
+
+*Until every box is checked, a calling-confirmed leader remains in Phase 2 (Equipping); the launch does not proceed.*
+
 ## The two requirements
 
 ## Every sent leader operates under two specific spiritual authority structures
