@@ -188,7 +188,7 @@ Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor i
 
 After reading, walk the cohort through the four soils. Aim for 10 minutes maximum after the reading. Hit these points in your own words:
 
-**· The path soil.** Hard, packed earth. The seed lands but never penetrates. Birds eat it before it has a chance. The interior is too compacted to receive what God is offering. Jesus says: when this happens, Satan immediately comes and takes the word away. (We don’t need to dramatize the spiritual warfare. We simply note that hardness has a cost.)
+**· The path soil.** Hard, packed earth. The seed lands but never penetrates. Birds eat it before it has a chance. The interior is too compacted to receive what God is offering. Jesus says: when this happens, Satan immediately comes and takes the word away. (We don’t dramatize the spiritual warfare here — and we don’t deny it either. Jesus names a real enemy who takes the word away; we note it plainly and move on.)
 
 **· The rocky soil.** Thin layer of dirt over rock. Seed sprouts fast. Looks alive. But there is no depth. Jesus says: when tribulation or persecution comes — in other words, when there is a real cost — the plant withers because there were never any roots. This is the soil where we mistake initial enthusiasm for actual formation.
 

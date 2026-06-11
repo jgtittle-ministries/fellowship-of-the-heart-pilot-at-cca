@@ -73,7 +73,7 @@ The frame is critical. We are not asking teens or parents to disclose specific s
 
 ## Theological framing
 
-The session sits squarely in mainstream evangelical practice. James 5:16 is the operational verse; 1 John 1:9 is the assurance verse. We are not introducing Catholic confession, sacramental absolution, or anything contested at CCA. We are introducing the simple, scriptural practice of being honest about our patterns in front of trusted people who pray for us.
+The session sits squarely in mainstream evangelical practice. James 5:16 is the operational verse; 1 John 1:9 is the assurance verse. We are not introducing Catholic confession, sacramental absolution, or anything contested at CCA. We are introducing the simple, scriptural practice of being honest about our patterns in front of trusted people who pray for us. And the assurance of 1 John 1:9 rests on something prior — the cross: God is “faithful and just to forgive” because “the blood of Jesus his Son cleanses us from all sin” (1 John 1:7). Forgiveness is something Christ already secured, not something our confessing earns.
 
 The IJH framework calls this addressing the Sin Knot — the type of blockage that responds specifically to confession in community (Vol 2 Exp 6). What we hold back is the deeper TPM-style processing that is not appropriate for this audience. What we lean into is the simple practice that scripture commands.
 

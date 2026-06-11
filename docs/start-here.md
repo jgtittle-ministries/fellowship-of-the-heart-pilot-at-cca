@@ -49,6 +49,8 @@ From there the journey moves outward in a specific order, and the order matters.
 
 The last movement is *Going Out*. What was prepared beforehand for each of us to walk in (Ephesians 2:10)? Where am I being sent — into my household, my work, the third place I am already in, and sometimes into starting a new formation group of my own? Not everyone is sent to start groups — Acts 13 sent two of the five at Antioch — and the discernment is honest about that. Most are sent back into the lives they already have, but they now know how to be present in them differently.
 
+A word on how to hold all of this. The “laws” of IJH describe how God characteristically works in a human heart — the way creation describes a Maker — not levers that make Him act. Growth is His gift, received by faith, not a technique we run (John 15:5; 1 Cor. 4:7). The four Connects are the shape that grace takes in a life, not a machine that produces closeness. You are not engineering your formation; you are putting yourself where grace flows, in union with Christ, and letting Him do what only He does.
+
 ---
 
 ## Where to start

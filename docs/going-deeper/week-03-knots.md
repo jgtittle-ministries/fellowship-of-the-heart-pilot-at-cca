@@ -245,9 +245,9 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 **FEAR KNOTS**
 
-*Mechanism: the nervous system is in threat-response. Cognitive and spiritual approaches cannot reach the root until the somatic is calmed.*
+*Mechanism: the nervous system is in threat-response. Often a frightened body needs to settle before cognitive or spiritual work can reach the root — and frequently the Spirit Himself brings that quiet (Phil. 4:7).*
 
-*Entry point: somatic. Breath, body awareness, progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 was a somatic-entry exercise; that is why it worked. Once the somatic is calmed, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted,’ ‘I am alone’ — is named; the Spirit speaks specific truth.*
+*Entry point: somatic. Breath, body awareness, progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism. Once the somatic is calmed, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted,’ ‘I am alone’ — is named; the Spirit speaks specific truth.*
 
 **ANGER KNOTS**
 
@@ -286,6 +286,8 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 • The lie was usually installed by an event, often early, when you had no interpretive framework to evaluate it. A father’s absence becomes ‘I am not worth staying for.’ A friend’s betrayal becomes ‘I cannot trust people.’ A failure becomes ‘I am the one who breaks things.’ The lie organized your sense of yourself around itself.
 
 • The release of the lie is not information transfer. ‘Just remind yourself you are loved’ does not work — most of you have tried it. The release is Spirit-to-spirit revelation. The Holy Spirit speaks specific truth into the exact memory where the lie was accepted, and the lie is replaced. The emotion in the present shifts.
+
+• And notice who John 8:44 names: the lie has an author. Behind some lies is the enemy Jesus calls ‘the father of lies’ — the accuser who whispers them in our most vulnerable moments. We do not dramatize this or go hunting for demons; we name it plainly, because it changes the posture. Jesus came to ransom us from the liar and to tell us the truth (Luke 4:18; John 8:32, 36; 10:10). When a lie surfaces, we do not just argue with it — we resist it in His name and let His truth replace it (Jas. 4:7; 2 Cor. 10:4–5). That authority belongs to every believer in Christ; it is not a special technique.
 
 • We do not do the lie-replacement prayer tonight. That work requires trained practitioners (TPM and inner-healing prayer trained pastors and counselors are the appendix-D-of-the-handbook referrals). What we do tonight is name the lie if you can find it. Naming the lie is itself a piece of work; it is not the same as releasing it, but it is the threshold.
 
@@ -384,6 +386,8 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 *“With your standing pair partner this week: three brief check-ins. Phone or text. ‘What’s alive in your knot work?’ You are not therapizing each other. You are walking together.”*
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you, especially this week.”*
+
+*“And one true thing to carry out: if your knot did not release tonight, or does not this week, that is not a verdict on you. The Spirit gives in His own timing, and a knot that stays is not a sign you have less faith, or are further behind, than anyone else in this room. Keep bringing it to Him.”*
 
 *“Next Tuesday is Wk 4 — Co-Processing in the Room. The corporate mechanism that begins to work on what you named tonight. You will see one volunteer in your cohort circle work a piece, and the rest of you will discover that you have been doing the same work silently. Bring what surfaced this week.”*
 
@@ -521,9 +525,9 @@ Four handouts for Wk 3.
 
 ## Mechanism and entry point
 
-**MECHANISM: the nervous system is in threat-response. The body is on guard against something. Cognitive and spiritual approaches cannot reach the root until the body is calmed.**
+**MECHANISM: the nervous system is in threat-response. The body is on guard against something. Often a frightened body needs to settle before cognitive or spiritual work can reach the root — and frequently the Spirit Himself brings that quiet (Phil. 4:7).**
 
-**ENTRY POINT: somatic. Breath. Body awareness. Progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 was a somatic-entry exercise; that is why it worked.**
+**ENTRY POINT: somatic. Breath. Body awareness. Progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism.**
 
 **SPIRITUAL COMPLETION: after somatic calm, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted with this,’ ‘I am alone’ — is named; the Spirit speaks specific truth.**
 
@@ -597,7 +601,7 @@ Grief: naming and completing. Are you ready to name what was lost and what was u
 
 Shame: gold and shadow. Are you ready to look at the part you have been hiding?
 
-Fear: somatic entry first. Are you ready to begin with breath and body before the cognitive work?
+Fear: the body often needs to settle first. Are you ready to begin with breath and body, trusting the Spirit to bring His quiet (Phil. 4:7)? And if your body will not calm, that is not a failure — He meets the frightened too (Mark 4:39; 2 Tim. 1:7).
 
 Anger: full naming before release. Are you ready to name the injustice fully before trying to forgive? *(Forgiving means releasing the wrong to God — not reconciling or trusting the person again, and never going back to where you are being harmed.)*
 

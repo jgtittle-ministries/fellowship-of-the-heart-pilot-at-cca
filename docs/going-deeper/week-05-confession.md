@@ -346,7 +346,7 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 
 **After the confession, pair partner prays specifically. By name. Names the pattern out loud (if appropriate to the pair’s discernment) or summarizes (if more discreet is right). Asks the Father to restore the place where the pattern has been operating.**
 
-**Pair partner speaks the specific blessing of restoration. Some version of: ‘[Confessor’s name], in Christ, this pattern is forgiven. I am not granting that; I am speaking what 1 John 1:9 already names. The Father restores you in the place this pattern has been operating. The work He is doing in you is real, even when affect does not match. Walk in this freedom.’**
+**Pair partner speaks the specific blessing of restoration. Some version of: ‘[Confessor’s name], in Christ, this pattern is forgiven. I am not granting that; I am speaking what 1 John 1:9 already names, and what the blood of Christ has already secured (1 John 1:7). The Father restores you in the place this pattern has been operating. The work He is doing in you is real, even when affect does not match. Walk in this freedom.’**
 
 **Silence. Five to ten minutes of silence between the two directions. The receiving partner sits in what was just spoken; the confessing partner sits in what was just received.**
 
@@ -594,13 +594,15 @@ Four handouts for Wk 5.
 
 **Pray specifically. By name. Name the pattern (or summarize) out loud. Ask the Father to restore the place where the pattern has been operating.**
 
-**Speak the specific blessing of restoration. ‘[Name], in Christ, this pattern is forgiven. I am not granting that; I am speaking what 1 John 1:9 already names. The Father restores you in the place this pattern has been operating. Walk in this freedom.’**
+**Speak the specific blessing of restoration. ‘[Name], in Christ, this pattern is forgiven. I am not granting that; I am speaking what 1 John 1:9 already names, and what the blood of Christ has already secured (1 John 1:7). The Father restores you in the place this pattern has been operating. Walk in this freedom.’**
 
 **Sit in silence for the rest of the time. Do not chase affect; do not make the moment heavier; do not fix.**
 
 **Three reminders**
 
 ## The blessing of restoration is real because 1 John 1:9 is true. The pair partner is not granting forgiveness; they are speaking what God has already done. This is theological, not ceremonial.
+
+And 1 John 1:9 is true because of what stands around it: *“the blood of Jesus his Son cleanses us from all sin”* (1:7), and *“he is the propitiation for our sins”* (2:2). The faithfulness to forgive rests on the cross of Christ, not on the act of confessing.
 
 **Affect may not match the architecture. The Spirit’s work does not always come with felt experience in the moment. Walk in the restoration; affect may catch up later.**
 

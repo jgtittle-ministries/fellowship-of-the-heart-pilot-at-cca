@@ -230,6 +230,8 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **•** The household is a structural unit of formation, not an aggregation of individuals. Vol 1 names this in its proposed Household Formation Law. The witness in the household is therefore not an individual project; it is the body’s formation lived inside the smallest social unit it has.
 
+**•** A household line transmits both blessing and wound across generations. The same passage that names the cost — “visiting the iniquity of the fathers on the children” — also names the far greater promise: “showing steadfast love to thousands” of those who love Him (Exod. 20:5–6). In Christ, a believer can be the one through whom an old generational pattern is broken and blessing is restored to the line (Gal. 3:13–14; Ezek. 18:14–17). You may be the turn in your family’s story.
+
 ## Why the household is the costliest
 
 **THE RECEIVERS KNOW YOUR HISTORY. A spouse who has watched the believer’s real life cannot be witnessed-to with constructed phrases. A child who has watched the parent’s responses to pressure cannot be witnessed-to without the parent’s own integrity at the centre. A parent who watched the teen’s growing up cannot be witnessed-to as if the past did not exist.**

@@ -262,6 +262,8 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 **•** This is the architecture for what we are attempting tonight. We do not expect a chapter of Revelation to materialize in the room. We expect that the Spirit, who has spoken to bodies in the New Testament with this structure, may speak to our cohort tonight in something that resembles parts of this structure. Maybe the I-know clause comes clear; maybe a commendation surfaces; maybe a critique. Whatever surfaces, we listen, contribute, weigh.
 
+**•** And a clear boundary, because this is holy ground: **the canon is closed.** What we hear tonight is not Scripture and never rises to it. Revelation 2–3 is the inspired, settled Word; what surfaces in our cohort is a humble, fallible hearing that must be weighed against that written Word (1 Cor. 14:29; Acts 17:11) and may simply be wrong. We are not adding to the Bible; we are asking the Spirit to apply it to us.
+
 ## The five-level group taxonomy (MSFIG)
 
 **LEVEL 1 — People in the same room. Co-presence without acknowledgment.**

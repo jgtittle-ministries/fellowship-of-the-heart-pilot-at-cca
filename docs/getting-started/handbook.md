@@ -274,7 +274,7 @@ The Getting Started series intentionally does not include:
 1. Deep wound work or false-self exploration in their adult IJH form. The Eldredge masculine-heart material is foundational in Volume 2 but is written for adult men. We adapt the universal scriptural ground (Ephesians 2:10, Psalm 139) and pull back from depth that does not belong at this age.
 2. TPM-style cognitive blockage work in the room. If a teen surfaces a lie they are believing, we acknowledge, affirm, pray briefly, and follow up offline with parent and qualified care.
 3. Anger-knot or grief-knot processing in the group. Same protocol as above.
-4. Extended fasting, deliverance ministry, or similar high-intensity practices.
+4. Extended fasting, deliverance ministry, or similar high-intensity practices. (This means deliverance *ministry* — casting-out work — which is not for this setting. The believer’s ordinary watchfulness against the enemy’s lies, and the authority every Christian has in Christ, is a different thing and does belong in formation; we name the enemy plainly where Scripture does, without drama.)
 5. Speculation about contested charismatic claims. We teach Romans 10:17 and the simple practice of hearing God in scripture; we do not litigate cessationism in either direction.
 
 ## A note on framing
