@@ -404,7 +404,10 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 ## Adjustments
 
 - The knot taxonomy is presented in simpler language. Grief is “something you lost that hurts.” Shame is “feeling like there is something wrong with you that you have to hide.” Fear is “something your body is on guard against.” Anger is “something that feels unfair that you can’t let go of.”
-- The lie-at-the-root teaching is briefer. “There’s usually a small thing your heart believed in a moment when something hard happened. Often it was about you, or about God, or about whether people are safe. Sometimes you can find what that thing is.”
+- The lie-at-the-root teaching is briefer. “There’s usually a small thing your heart believed in a moment when something hard happened. Often it was about you, or about God, or about whether people are safe. Sometimes you can find what that thing is — and that is good work to do later, with your parents or a Companion, not something we dig into here tonight.”
+- Juniors do the diagnostic naming only — which knot type is loudest, and where in life it shows up — and stop there in the room. The lie-at-the-root *processing* step (following a fear or shame back to an originating memory to find and replace the lie) is **not** done in the junior room; it is adult / Going-Deeper-senior work.
+- Juniors do **not** receive the H3.1 mechanism card (the full lie-at-root take-home). They get the simpler knot-type language only.
+- Sexuality, family secrets, and trauma memories are **not** opened in the junior room. If one surfaces, the Companion receives it gently, does not process it, and follows the pastoral 1:1 / Section 6 steps — including the mandatory-reporting steps if a current harm is named.
 - Pair turns are 10 minutes each, not 15. Junior pair-work runs faster.
 - Watch for: junior teens hypothesizing about their friends’ knots rather than their own. Redirect: ‘We are looking at our own interior tonight. Not our friends’.’
 - Watch for: the junior teen who maps a knot tied to a parent. Receive without interpretation; brief follow-up with the Cohort Companion after the session; pastoral 1:1 within the week.

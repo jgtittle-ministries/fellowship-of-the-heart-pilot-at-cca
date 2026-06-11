@@ -94,6 +94,8 @@ Drawing on the five-stage taxonomy in Vol 2 Exp 7 (Receiving → Responding → 
 
 The goal at every cohort is *integrated* attainment of the target level, not just touching it — a participant who reaches Level 2 (Responding) with genuine Level 1 Receiving still alive is sturdier than one who has skipped past Level 1's openness in order to perform Level 2's engagement. (The integration framing is developed pastorally in V2.Exp7 and operationalized for the testing protocol in IJH Vol 4 §2; it applies here as the realistic shape of what "stable at Level 2" means.)
 
+**How to hold these levels.** These cohort targets are a *Companion's* diagnostic lens for shaping the cohort's care — not a destination a participant must reach, a scorecard, or a measure of anyone's standing with God. A participant's standing in Christ is complete by grace, the same at every stage (1 Cor. 4:7); the one who seems "stuck" at Receiving may be exactly where grace is doing its deepest work, and a dry season is not a lower level. We never rank a person's worth, or their belovedness, by a taxonomy stage. And a participant's stage is **never disclosed to the participant or their parent** — growth is always spoken in the language of story and specific moments, not levels.
+
 ## Session map
 
 The full ten-session map. Detailed lesson plans live in a separate document; this is the architectural view.
@@ -500,10 +502,10 @@ Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with opti
 
 | **Instrument** | **What it measures** | **When** |
 | --- | --- | --- |
-| Pre-Series Survey | Self-reported starting point on Affective Taxonomy stage (lightly framed); current spiritual practice frequency; expectations. | At Family Orientation Night. |
+| Pre-Series Survey | Current spiritual practice frequency; hopes and expectations for the series. (Participants are not asked to self-score an Affective Taxonomy stage.) | At Family Orientation Night. |
 | Personal Heart Journal | Longitudinal narrative reflection. Three weekly questions per session. | Daily / weekly throughout series. |
 | Mid-Series Pulse | Single-page check-in at end of Week 5: what is working, what is not, do you want to keep going. | Week 5 close. |
-| Post-Series Survey + Reflection Circle | Self-reported endpoint on Affective Taxonomy stage; specific moments of formation; commitment to next steps. | Week 10 and the week after. |
+| Post-Series Survey + Reflection Circle | Specific moments of formation; what changed; commitment to next steps. (No participant self-scoring of stage.) | Week 10 and the week after. |
 | Companion Observation Notes | What Companions saw in each participant’s engagement, growth, areas of stuck. | Each week (private to Companion team). |
 
 ## What we do not measure

@@ -367,11 +367,35 @@ From Vol 5’s framework: a body whose lead is at Companion III can hold the mos
 
 *If the team’s composition does not meet these floors, the lead Companion arranges supervision or consultation from a Companion III outside the team. Pastoral / clinical backup is separately confirmed for every Tuesday regardless of team level.*
 
+**The junior-room floor (deep-work weeks).** On the weeks that go to depth with the youngest cohort — Going Deeper Wk 3 (Knots), Wk 5 (Confession), Wk 9 (Shadow / Mission), and Getting Started Wk 7 (Garden) and Wk 8 (Doubts) — the floor attaches to the *person in the junior room*, not to the team average. The adult leading the junior circle on those weeks must be a Companion II with adolescent-development competence, **or** a Companion I paired in the room with a II or III. A Companion I must not lead junior depth-work alone. And the pastoral / clinical backup must be reachable *that evening* — not merely “on call” — whenever a junior deep-work week runs.
+
 **Section 6 — Safety, Confidentiality, and Crisis Protocols**
 
 **The Getting Started protocols carry forward**
 
 All Getting Started protocols apply to Going Deeper: confidentiality covenant, Virginia mandatory reporting, two-adult rule for any 1:1 with a minor, pastoral / clinical backup on call for every session, the Crisis Quick-Reference Card. The Getting Started handbook Section 6 is referenced; this section adds the Going Deeper-specific amplifications.
+
+**The crisis-response steps — carried forward in full**
+
+So this section is *terminal* and no Companion needs a second document in the moment, the crisis-response steps are reproduced here. *(Carried forward verbatim from the Getting Started Handbook Section 6, which remains the canonical origin — if one is updated, update both. The pocket Crisis Quick-Reference Card carries the condensed version for the moment itself.)*
+
+### If a teen discloses suicidal ideation or self-harm
+
+1. In the room: do not panic. Do not make a scene. Do not bring it into the larger circle. Acknowledge: “Thank you for telling me. That took courage. We’re going to talk more about this right after we close.”
+2. Immediately after session close: bring the teen to a private space with the Lead Companion and the teen Co-Companion (two adults present, never one alone).
+3. Listen. Do not interrogate. Do not try to talk them out of it. Ask: “Are you safe right now? Are you having thoughts of hurting yourself today?” Note: do not name specific methods or details — if the teen begins describing methods, gently redirect.
+4. Call the parent. Always. Before the teen leaves the building. If you have any reason to believe the parent’s response will endanger the teen, call CPS first.
+5. Hand off to qualified clinical care. The pastoral / clinical backup person is named on the Crisis Quick-Reference Card, confirmed at the team pre-meet, and has been alerted in advance.
+6. Document what happened, in writing, the same night. Keep the documentation in CCA’s designated secure location, not in personal notes.
+7. If in any doubt about acute risk, call 988 (Suicide and Crisis Lifeline) or 911.
+
+### If a teen discloses abuse
+
+1. In the room: same response — do not make a scene. “Thank you for trusting me with that. Let’s talk more right after.”
+2. Do not promise to keep it secret. Do not investigate. Do not confront the alleged abuser. The Companion’s only job is to report.
+3. Call CPS hotline (1-800-552-7096) within the timeframe required by Virginia law and CCA policy. Notify CCA leadership simultaneously.
+4. Do not call the parent unless explicitly directed by CPS — the alleged abuser may be in the home.
+5. Document, document, document.
 
 **Three new risk categories in Going Deeper**
 

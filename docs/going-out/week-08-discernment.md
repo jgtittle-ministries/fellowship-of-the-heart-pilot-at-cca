@@ -627,7 +627,7 @@ That is itself a contribution. ‘My pair conversation surfaced no specific shar
 
 **Wk 9 next Tuesday closes the mission-far block. The architecture adapts to tonight’s landing.**
 
-**If specific shared engagement: walk the cost of yes; the body lays hands on the engagement and prepares for sending.**
+**If specific shared engagement: walk the cost of yes; the body lays hands on the engagement and prepares for sending. Before the body finally confirms a specific shared engagement — the highest-stakes landing — two external checks apply, because the Vol 2 Exp 9 guard against a closed, self-validating loop requires a voice from outside the room. (1) Name a trusted, mature Christian outside the cohort and ask them to test the landing honestly. (2) The Lead Companion invites a deliberate Co-Companion dissent — someone whose assigned job is to voice the strongest honest case against, so the body is not merely agreeing with itself. And the binding test is not tonight’s consensus but observable fruit over the months that follow (Matt. 7:16–20); the engagement is held as discerned-and-being-confirmed, not settled, until that fruit appears.**
 
 **If individual sending: walk the cost of yes for each member’s personal sent-context with the body present; the body lays hands on individual sendings.**
 
