@@ -45,6 +45,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Self-diagnosis used as identity. ‘I am a shame person.’ The taxonomy is for naming what is operating in this season, not for installing a new label. Each person has all four types operating in different places.
 - The teen who maps trauma. Some teens will surface trauma material disguised as a knot. Receive without interpretation; pastoral / clinical referral within 48 hours. Section 6 of the handbook applies.
 - The parent who maps a knot tied to a specific person in the room. ‘My anger knot is about my husband, who is in the parent cohort.’ Cohort Companion: redirect to the interior reality (the anger is in you), not the relational adjudication. Pastoral 1:1 within the week if welcomed.
+- When a participant names anger at someone who hurt them, never let “release the claim / forgive” be heard as “reconcile” or “go back” — forgiveness is interior; trust and reunion are separate and depend on the other’s change. **If a minor names current or ongoing harm from a parent or caregiver, this is a safety matter, not a forgiveness exercise — follow Section 6 and the mandatory-reporting steps.**
 - The veteran-from-summer who treats this as a recap. Going Deeper is doing what Getting Started didn’t. The Wk 8 (summer) Any Doubts? practice was at most a glimpse of what tonight is naming. Reframe gently if needed.
 - The new participant whose two-evening onboarding didn’t cover the soil-and-knot architecture. Pair them with a veteran for the cohort exercise; the Cohort Companion floats nearby.
 - Tears are normal tonight. Naming a long-held knot for the first time produces tears. The cohort holds the tears; the team does not interpret them; the work continues at the participant’s pace.
@@ -254,6 +255,8 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 *Entry point: full naming before release. ‘What was done. What it cost me. The anger I have at it.’ In safe community, witnessed. Then — and only then — the bringing of the wrong to the Lord and the release of my claim to be the one who settles the score.*
 
+*A word before anyone tries this: releasing your claim to settle the score is forgiveness — an interior letting-go that hands the wrong to God (Rom. 12:19). It is not the same as reconciling, or trusting the person again, or going back. You can forgive someone in your heart and still be right to keep a safe distance. Trust is rebuilt slowly, and only when the other person has truly changed (Luke 17:3). No one is ever asked to forgive their way back into being hurt.*
+
 ## A critical note before we go further
 
 **Each of you has all four types operating in different places in your life. The point of the taxonomy is not to put yourself in one category and stay there. The point is to name what is most active right now, in this season, in the specific place you are aware of.**
@@ -401,6 +404,7 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 - Pair turns are 10 minutes each, not 15. Junior pair-work runs faster.
 - Watch for: junior teens hypothesizing about their friends’ knots rather than their own. Redirect: ‘We are looking at our own interior tonight. Not our friends’.’
 - Watch for: the junior teen who maps a knot tied to a parent. Receive without interpretation; brief follow-up with the Cohort Companion after the session; pastoral 1:1 within the week.
+- If a junior names anger at someone who hurt them, say it plainly: forgiving is letting God carry the wrong so it stops eating at you — it does not mean you have to be close to that person again, and it never means going back somewhere you are not safe. If a junior describes a parent or adult hurting them *now*, that is not knot-work — stay with them, notify the pastoral / clinical backup that night, and follow the reporting steps.
 - Watch for: the junior teen who insists they have no knots. Affirm. ‘Sometimes the noticing happens later. Listen for it this week.’
 - Watch for: the junior teen who is genuinely flooded. Cohort Companion stays with them. Pastoral / clinical backup notified that night, regardless of whether the parent is in another room.
 
@@ -535,6 +539,8 @@ Four handouts for Wk 3.
 
 **SPIRITUAL COMPLETION: only after full naming — bringing the wrong to the Lord and releasing the claim to be the one who settles the score.**
 
+**NOT THE SAME AS RECONCILING:** *Releasing the claim is forgiveness — an interior letting-go before God. It is not reconciling, not trusting the person again, and never returning to where you are being hurt. Trust is rebuilt slowly, and only with real change (Luke 17:3; Rom. 12:19).*
+
 *EXAMPLES: anger at a specific person who wronged you. Anger at God for a specific thing He didn’t prevent. Anger at yourself for a specific failure. Anger at an institution that broke faith.*
 
 ## Caution — from Vol 2 Exp 6 (70% confidence)
@@ -593,7 +599,7 @@ Shame: gold and shadow. Are you ready to look at the part you have been hiding?
 
 Fear: somatic entry first. Are you ready to begin with breath and body before the cognitive work?
 
-Anger: full naming before release. Are you ready to name the injustice fully before trying to forgive?
+Anger: full naming before release. Are you ready to name the injustice fully before trying to forgive? *(Forgiving means releasing the wrong to God — not reconciling or trusting the person again, and never going back to where you are being harmed.)*
 
 Your honest answer about readiness:
 

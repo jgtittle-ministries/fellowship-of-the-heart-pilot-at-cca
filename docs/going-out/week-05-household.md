@@ -238,6 +238,8 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **THE WITNESS HAS TO BE HONEST ABOUT ITS OWN FORMATION. The household witness includes confession of how the witness has fallen short with the household, owned without justification. This is the most consequential confession most cohort members will make.**
 
+**AND THE WITNESS IS NEVER ASKED BACK INTO HARM. Confessing how you have fallen short with your household is owned for your own part only — it is never taking responsibility for what was done to you. Honoring your household (Deut. 6; 1 Tim. 5) never overrides your safety. Forgiving a family member is an interior release before God; it is not the same as restored trust or returning to where you are harmed, and trust is rebuilt only with real change over time (Luke 17:3; Rom. 12:18–19). For some, faithful obedience this season looks like distance, not reunion — estrangement can itself be obedience.**
+
 *“Go to your cohort spaces. Junior teens with [Cohort Companion]. Senior teens with [Cohort Companion]. Parents with [Cohort Companion]. The pair work begins after a brief settling.”*
 
 **Block 3 — Standing Pair Work (7:23–7:53, 30 min, cohort-split)**
@@ -573,6 +575,8 @@ Practically: the household is not a setting in which individual formation happen
 ## Important
 
 **Pastoral 1:1 with your Cohort Companion or Lead Companion this week. Do not carry household material alone.**
+
+**Honoring your household never means returning to, or trusting, someone who is harming you. Forgiveness is an interior release before God; safety and faithful obedience can require distance, and trust is rebuilt only with real change over time (Luke 17:3). If someone in your household is hurting you, tell your Cohort Companion or another trusted adult — that is not disloyalty; it is the brave and faithful thing.**
 
 **Pastoral / clinical referrals are available (Appendix D of the Going Deeper Handbook v1.1). Some household material is best held by trained clinical support; the cohort architecture is not the venue for what crosses into clinical territory.**
 

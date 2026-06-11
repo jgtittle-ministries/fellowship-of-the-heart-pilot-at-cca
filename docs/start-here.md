@@ -22,7 +22,7 @@ The *Intentional Journey of the Heart* (IJH) sits behind FotH. IJH is the six-vo
 
 The six volumes:
 
-- **Volume 1: Laws of the Spirit** — the 38 Foundational Laws of wide consent (cause-and-effect relationships affirmed across mainstream Christian tradition), plus eight personal Explorations of less-mapped territory. The structural and operational laws underneath the spiritual life.
+- **Volume 1: Laws of the Spirit** — the 46 Foundational Laws (38 of wide consent — cause-and-effect relationships affirmed across mainstream Christian tradition — plus eight newer ones still being tested), and eight personal Explorations of less-mapped territory. The structural and operational laws underneath the spiritual life.
 - **Volume 2: Knowing to Doing** — the diagnostic, therapeutic, and developmental work — the Heart Soil, the Emotional Knots, the Container, the Tool Map, PROAPT, the Four Connects, the Training Plan. FotH is the cohort-walked operational form of Vol 2 most directly.
 - **Volume 3: Spiritual Dynamics** — the most speculative of the volumes; attempts to translate Vol 1's structural laws into more formal mathematical and dynamical language. Skippable on a first pass unless you enjoy that frame.
 - **Volume 4: Testing Framework** — how to test all of this in real life, at individual, small-group, and larger-study scales.
@@ -57,6 +57,15 @@ The last movement is *Going Out*. What was prepared beforehand for each of us to
 - **If you are considering joining the CCA cohort** — read this page, then the [Getting Started overview](getting-started/index.md), then the [Pre-Cohort Discernment Guide](getting-started/precohort-discernment-guide.md).
 - **If you are wondering whether you are called to be a Companion** — read the [Getting Started Companion Handbook](getting-started/handbook.md).
 - **If you want to understand the underlying framework first** — read the [IJH *Read Me First*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/read-me-first/), then IJH Volume 1 (the Laws of the Spirit) and Volume 2 (the heart-formation work that FotH is built on).
+
+## If you are not safe — please tell someone
+
+The work in these pages is private, but you were never meant to carry the heavy things alone. If you are in danger, thinking about hurting yourself, or someone is hurting you, tell a trusted adult today — your Cohort Companion, a parent or guardian, a pastor, or a teacher you trust.
+
+- **Your Cohort Companion:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(name and how to reach them)*
+- **Anytime, day or night:** call or text **988** (Suicide & Crisis Lifeline); in an emergency, call **911**.
+
+You will not be in trouble for telling. Reaching out is the brave and faithful thing to do — and you will not be alone in it.
 
 ---
 

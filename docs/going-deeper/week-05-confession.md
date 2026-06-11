@@ -302,6 +302,8 @@ Forty-eight hours before Wk 5, the Companion team meets for sixty minutes.
 
 **Not confession of someone else’s sin. ‘My pattern is reacting to my mother’s pattern.’ The mother’s pattern is hers; the participant’s reaction is theirs. The architecture asks for the participant’s reaction, not the third party’s pattern.**
 
+**First discern harm from grievance.** This redirect assumes an ordinary grievance — being annoyed, resentful, or reactive toward someone whose behavior is *their* sin. It does **not** apply when the participant is being genuinely harmed. If what surfaces is that someone is mistreating or abusing them — especially a minor describing a parent, caregiver, or adult — do **not** redirect them to “confess your own reaction.” Being harmed is not a sin to confess. Receive it, do not assign them responsibility for another’s sin, and follow the Crisis Contingencies / Section 6 and mandatory-reporting steps.
+
 **Block 4 — Bridge to Split + Extended Prayer (7:30–7:35, 5 min)**
 
 ## Script
@@ -427,6 +429,8 @@ Each cohort circle splits into the standing pairs. The Cohort Companion floats; 
 **Pair turns are 15 minutes each, not 25. Junior pair work runs faster; sustained 25-minute confession is too much. Total cohort time is 35 minutes, so the cohort returns to the larger room earlier.**
 
 **Watch for: junior teens whose pattern is about a friend or sibling rather than themselves. Re-frame: ‘What’s YOUR pattern, regardless of what they do?’**
+
+**But first discern: if the “they” is hurting or mistreating the junior (not just annoying them), do NOT re-frame to “your pattern” — being harmed is not the junior’s sin to confess. Receive it and follow the mandatory-reporting / Section 6 steps.**
 
 **Watch for: junior teens whose pattern is generic (‘I sin sometimes’). Help them find specificity: ‘Pick ONE specific thing you did this week that you wish you had not done.’**
 
@@ -579,6 +583,8 @@ Four handouts for Wk 5.
 **Not generic acknowledgment. ‘I am a sinner’ is true and is not specific. The architecture requires the pattern.**
 
 **Not confession of someone else’s sin. ‘My pattern is reacting to my mother’s pattern’ is not confession of my pattern — it is identification of hers. The architecture asks for MINE.**
+
+***One exception:*** *this is about ordinary grievances, not harm. If what you are carrying is that someone is hurting or mistreating you, that is not your sin to confess — it is something to tell your Cohort Companion or a trusted adult. Being wronged is never the thing you confess.*
 
 **How the pair partner receives**
 

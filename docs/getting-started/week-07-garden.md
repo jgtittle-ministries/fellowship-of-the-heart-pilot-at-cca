@@ -283,6 +283,8 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 *“Pick three days this week. Pick a time. Morning before the day starts is often best. Eyes closed or open. Indoors or outdoors. Five to ten minutes.”*
 
+*“One gentle thing before you go: the garden is usually restful, but a return can sometimes surface something heavy you did not expect. If that happens, you can stop, open your eyes, and come back another day — Jesus is not in a hurry. And it is a good and brave thing to tell a trusted adult about it: your Cohort Companion, a parent, or someone you trust. You are not meant to carry the heavy things alone.”*
+
 *“Your Personal Heart Journal has Week 7 pages with daily prompts. Handout H7.2 is a clean Garden Journal page if you prefer to use that.”*
 
 *“One more thing. If you came in tonight skeptical — if the imaginative prayer felt foreign or theologically uneasy — H7.3 is a one-pager for you. Read it. Decide what you want to do with it. The practice is real, and it is also okay if you adapt it or sit it out for now.”*
@@ -481,6 +483,8 @@ Three handouts for Week 7.
 
 **Thank Him. Open your eyes. Write a sentence or two below.**
 
+**If something heavy or upsetting comes up while you are in the garden, you can stop, open your eyes, and come back another time. Tell a trusted adult about it — your Cohort Companion, a parent, or someone you trust. You are not meant to carry it alone.**
+
 ### Visit 1 — date: \_\_\_\_\_\_\_\_\_\_
 
 What was the same as Tuesday? What was different?
@@ -501,7 +505,7 @@ Was there a word? A silence? A question?
 
 What is the garden like now compared to Tuesday?
 
-Is there a place in the garden you keep returning to? A place you have been avoiding?
+Is there a place in the garden you keep returning to? (If there is a place you have been avoiding, you do not have to go there alone — just notice it, and bring it to next Tuesday’s session or to a trusted adult.)
 
 What is one thing you want to bring to next Tuesday’s session?
 

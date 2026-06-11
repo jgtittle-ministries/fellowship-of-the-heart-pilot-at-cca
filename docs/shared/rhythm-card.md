@@ -259,6 +259,15 @@ If the rhythm is genuinely held — not perfectly, but genuinely — you are now
 
 The next year is about deepening, not adding. The same rhythm — lived more honestly, with one or two specific places where you have started to notice things you did not notice before.
 
+# If you are not safe — please tell someone
+
+The work in these pages is private, but you were never meant to carry the heavy things alone. If you are in danger, thinking about hurting yourself, or someone is hurting you, tell a trusted adult today — your Cohort Companion, a parent or guardian, a pastor, or a teacher you trust.
+
+- **Your Cohort Companion:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(name and how to reach them)*
+- **Anytime, day or night:** call or text **988** (Suicide & Crisis Lifeline); in an emergency, call **911**.
+
+You will not be in trouble for telling. Reaching out is the brave and faithful thing to do — and you will not be alone in it.
+
 # A final word
 
 This rhythm is not the goal. The goal is a life in which you know God more deeply, are known by people who can love you well, walk in the work He prepared for you, and finish well. The rhythm is the structure that makes that life more likely.

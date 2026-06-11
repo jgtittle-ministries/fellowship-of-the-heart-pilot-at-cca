@@ -98,4 +98,15 @@ The practice is grounded in **IJH Vol 1 Exploration 1** (the Word → Hearing �
 
 ---
 
+# If you are not safe — please tell someone
+
+The work in these pages is private, but you were never meant to carry the heavy things alone. If you are in danger, thinking about hurting yourself, or someone is hurting you, tell a trusted adult today — your Cohort Companion, a parent or guardian, a pastor, or a teacher you trust.
+
+- **Your Cohort Companion:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(name and how to reach them)*
+- **Anytime, day or night:** call or text **988** (Suicide & Crisis Lifeline); in an emergency, call **911**.
+
+You will not be in trouble for telling. Reaching out is the brave and faithful thing to do — and you will not be alone in it.
+
+---
+
 *Further up and further in.*
