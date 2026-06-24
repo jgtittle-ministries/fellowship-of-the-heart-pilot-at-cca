@@ -360,7 +360,7 @@ Tonight there is no cohort split. The whole room operates as one. Differentiatio
 ## Adjustments
 
 - If a friend brought a friend, or a teen showed up because their sibling is here — welcome warmly. Pair them with a returning Cohort Companion for the entire session.
-- The Lead Companion schedules a 1:1 within 72 hours to run the most critical onboarding content one-on-one (Section 7 protocol).
+- The Lead Companion schedules a 1:1 within 72 hours to run the most critical onboarding content individually, under the two-adult rule (Section 7 protocol).
 - Acknowledge to the room briefly: ‘Welcome to [name]. They are joining us tonight at Week 1 without the onboarding; we are bringing them up to speed.’ The acknowledgment lowers everyone’s anxiety.
 - Send the Personal Heart Journal and Rhythm Card home tonight.
 

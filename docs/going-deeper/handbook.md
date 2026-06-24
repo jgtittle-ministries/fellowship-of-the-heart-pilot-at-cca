@@ -427,7 +427,7 @@ Every Tuesday of Going Deeper has confirmed pastoral and clinical backup. The co
 
 **Two-adult rule**
 
-Any 1:1 with a minor (a teen) is held with the two-adult rule — either two adults present, or the conversation in a public space within sight of another adult. This applies to pastoral 1:1 follow-up between sessions and to any cohort Companion’s individual conversation with a teen cohort member.
+Any 1:1 with a minor (a teen) is held with the two-adult rule — either two adults present, or the conversation in a public space within sight of another adult. This applies to pastoral 1:1 follow-up between sessions and to any cohort Companion’s individual conversation with a teen cohort member. In the language of the Formation Companion role, this is the *never one-on-one* rule: “1:1” here always means individualized care held under the two-adult rule, never a single adult alone with a teen.
 
 **Section 7 — Onboarding Protocol (Evening 1)**
 

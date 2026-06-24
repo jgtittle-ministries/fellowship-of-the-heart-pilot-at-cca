@@ -303,7 +303,7 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 *“See you Tuesday.”*
 
-*Stay accessible after the closing for at least fifteen minutes. Tonight, more than most nights, participants will want to talk one-on-one. Some will need to.*
+*Stay accessible after the closing for at least fifteen minutes. Tonight, more than most nights, participants will want to talk individually — with the two-adult rule held for any teen (never one adult alone). Some will need to.*
 
 # Differentiation by Cohort
 

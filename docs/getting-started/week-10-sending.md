@@ -579,7 +579,7 @@ The Aaronic blessing is the words God specifically gave Aaron and his sons to sp
 
 The Getting Started was an introduction to the four Connects — each one introduced briefly, with one or two practices per week. Going Deeper takes each of the four Connects and works it slowly, with the practices that go deeper than the summer could go.
 
-Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-the-root, and the specific tools that release them. Others deepens into a real Band of Sisters / Band of Brothers structure with adult facilitation. God deepens through extended PROAPT, contemplative practices, and listening prayer in community. Mission deepens through specific gifts inventories, callings work, and one-on-one mentoring.
+Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-the-root, and the specific tools that release them. Others deepens into a real Band of Sisters / Band of Brothers structure with adult facilitation. God deepens through extended PROAPT, contemplative practices, and listening prayer in community. Mission deepens through specific gifts inventories, callings work, and individual mentoring.
 
 ### **Who Going Deeper is for**
 

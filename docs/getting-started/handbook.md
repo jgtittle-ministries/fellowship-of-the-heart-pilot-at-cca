@@ -450,7 +450,7 @@ Examples: a teen who shares a deep loss; a parent who breaks down naming a marri
 
 1. In the room: hold the moment. Don’t rush past it. A simple “thank you for trusting us with that” is often enough.
 2. Do not try to process it in the room. Acknowledge, bless, move on.
-3. After session: the relevant Companion follows up one-on-one (with appropriate adults present for any teen — never alone) and, if needed, refers to pastoral or clinical care.
+3. After session: the relevant Companion follows up individually (two adults present for any teen — never alone) and, if needed, refers to pastoral or clinical care.
 4. If the disclosure has significance for the parent-teen relationship, work with the family on how and when to bring the parent in. Generally, do this within a week.
 
 ## Pastoral and clinical referral list
@@ -470,6 +470,8 @@ The full referral list goes in Appendix C and is updated annually.
 1. Every Companion and adult volunteer has a current background check on file with CCA before Week 1.
 2. No adult is ever alone with a single teen who is not their own child. Always two adults present, or in a location with sight-line to other adults.
 3. Restroom and transportation logistics are planned in advance with this rule in mind.
+
+In the language of the Formation Companion role, this is the *never one-on-one* rule: “pastoral 1:1” and “individual follow-up” throughout this handbook always mean individualized care held under the two-adult rule — never a single adult alone with a teen behind a closed door.
 
 # Section 7 — Recruitment and Orientation
 
@@ -935,7 +937,7 @@ Print on cardstock and laminate. Every Companion carries one in their session ba
 
 1. Hold the moment. Acknowledge briefly: “Thank you for trusting us.”
 2. Do not process in the room. Bless and move on.
-3. Follow up one-on-one (with two adults) within 48 hours.
+3. Follow up individually (two adults present, never alone) within 48 hours.
 4. Refer out as needed.
 5. Loop in parent within a week unless safety concerns dictate otherwise.
 
