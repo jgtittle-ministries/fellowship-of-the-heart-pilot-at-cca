@@ -44,7 +44,7 @@ Week 7
 
 **Inflation. A member treats their third-place network as the missional answer when it is actually the bridging terrain. Re-frame: third-place is the practice ground where the mission-far posture forms; specific missional engagement (Wk 8) is the next layer.**
 
-**Hollow third-place. A member realizes they have almost no third-place network — work and family consume their hours, the rest of life is digital and isolated. Receive cleanly. The realization is itself data; not all spring members will have rich third-place to engage. Pastoral 1:1 if welcomed.**
+**Hollow third-place. A member realizes they have almost no third-place network — work and family consume their hours, the rest of life is digital and isolated. Receive cleanly. The realization is itself data; not all Going Out members will have rich third-place to engage. Pastoral 1:1 if welcomed.**
 
 **Church-as-third-place confusion. A member treats their church community as third-place, when church for them is closer to second-family. Distinguish carefully: third-place is the network that is neither household nor vocational. The architectural significance is that the third-place is the cohort’s structural counter to gnostic-community closedness (Vol 2 Exp 9): it is what holds the cohort’s discernment honest by keeping the body in contact with the broader world; the local church may or may not function as third-place depending on the member’s relationship to it.**
 
@@ -237,7 +237,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 **MOST WITNESS IS DOWNHILL. The morning gentle conversation with the neighbour, the instinctive presence at the hobby-group friend’s hard moment, the quiet integrity that the youth coach has watched for three seasons. These are downhill; they flow from who the body has become.**
 
-**UPHILL IS NEEDED, BUT NOT FIRST. Uphill mission asked for before downhill is sustained becomes performance. Going Deeper’s formation was clearing blockages so the downhill could flow. Spring’s mission far is, in part, learning to recognize and steward the downhill that is already happening.**
+**UPHILL IS NEEDED, BUT NOT FIRST. Uphill mission asked for before downhill is sustained becomes performance. Going Deeper’s formation was clearing blockages so the downhill could flow. Going Out’s mission far is, in part, learning to recognize and steward the downhill that is already happening.**
 
 *“Tonight’s data look will surface what your third-place network is producing. Some will be Spirit-prepared encounters (Acts 8 mode 2); some will be cohort-engineered initiatives. Both are real. We are noticing what is already happening, mostly downhill.”*
 
@@ -563,7 +563,7 @@ Honest data. The obstacle: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **UPHILL DEPLOYS DOWNHILL. The body that has been flowing downhill in the third-place becomes recognizable; relationships develop; specific calls emerge; uphill engagement becomes possible.**
 
-**MOST OF SPRING’S MISSION FAR IS DOWNHILL. The cohort’s ordinary presence in third-place networks is the dominant mission-far work. Uphill engagements (Wk 8’s cohort discernment may surface some) are the exception, not the rule.**
+**MOST OF Going Out’S MISSION FAR IS DOWNHILL. The cohort’s ordinary presence in third-place networks is the dominant mission-far work. Uphill engagements (Wk 8’s cohort discernment may surface some) are the exception, not the rule.**
 
 **Handout H7.4 — Between-Session Practice (Wk 7) + Wk 8 prep**
 

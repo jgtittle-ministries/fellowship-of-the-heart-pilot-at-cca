@@ -8,7 +8,7 @@ The first of the three Fellowship of the Heart series. Ten ninety-minute session
 
 A cohort that completes Getting Started can stop here and not go further. That ending is honored. *Going Deeper* and *Going Out* are for those the Spirit prepares to keep walking.
 
-These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards, and the PROAPT card — live in [`../shared/`](../shared/index.md).
+These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the [Personal Heart Journal](../shared/personal-heart-journal.md), the [Rhythm Card](../shared/rhythm-card.md), the [Family Conversation Cards](../shared/family-conversation-cards.md), and the [PROAPT card](../shared/proapt-card.md) — live in [Shared Materials](../shared/index.md).
 
 Companions who want the academic backbone of this series will find it in the IJH Hearing-God Paper [CTG — Clearing the Ground](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fclearing-the-ground-lower-levels.md), which develops formation through the lower levels — Receiving, Responding, Valuing — and takes this curriculum as its worked example.
 
@@ -77,7 +77,7 @@ By Week 10 you will not need the page. By the end of *Going Out* you may be writ
 
 ## Status
 
-**Curriculum draft v1, May 2026.** Pilot edition for the first Covenant Christian Academy cycle (Fall 2026). These materials will change as the cohort teaches us where they are right, where they bend, and where they break. See [`CHANGELOG.md`](CHANGELOG.md) for what shifts between versions.
+**Curriculum draft v1, May 2026.** Pilot edition for the first Covenant Christian Academy cycle. The starting series is designed to launch in any term — fall, spring, or summer — with Going Deeper and Going Out following on the venue's calendar, back-to-back or after a gap; CCA is the current pilot venue, and the model is not CCA-specific. These materials will change as the cohort teaches us where they are right, where they bend, and where they break. See [`CHANGELOG.md`](CHANGELOG.md) for what shifts between versions.
 
 ---
 

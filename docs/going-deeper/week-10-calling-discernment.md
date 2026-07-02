@@ -148,7 +148,7 @@ Wk 10 needs ONE pre-briefed Discerner. The team uses one of the two protocols be
 
 **Self-nomination has two disadvantages: it can attract a Discerner whose self-volunteering reflects need-for-attention more than calling readiness; it can produce more applications than the team can triage well in 48 hours.**
 
-**Recommended use: pilots with first-time cohorts default to Protocol A; pilots with returning participants from prior fall cohorts may use Protocol B because the team’s familiarity with the cohort is lower at the start of the second cohort’s fall. Adapt by pilot.**
+**Recommended use: pilots with first-time cohorts default to Protocol A; pilots with returning participants from prior cohorts may use Protocol B because the team’s familiarity with the cohort is lower at the start of a second cohort’s run. Adapt by pilot.**
 
 **Team pre-work meeting**
 

@@ -429,7 +429,7 @@ Companion team meets the day after Week 3 for a 45-minute debrief. Week 3 debrie
 - If specificity was the issue, talk in the team debrief about whether the demo modeled it. If not, the Lead Companion owes the cohort a brief acknowledgment in Week 4.
 - If a circle ran out of time, the team must reach out to the participant who did not tell within 24 hours. Offer a 1:1 with the Cohort Companion within the week.
 - If a circle struggled with the listener role, the Lead Companion can briefly re-frame in Week 4 opening: “Something we noticed last week that’s worth saying again — listening to receive is its own discipline.”
-- If a Cohort Companion was struggling, do not change them mid-summer. Pair them more closely with the Lead Companion for Week 4. Reassess at the Week 5 mid-point.
+- If a Cohort Companion was struggling, do not change them mid-series. Pair them more closely with the Lead Companion for Week 4. Reassess at the Week 5 mid-point.
 
 ### People to follow up with this week
 
@@ -622,6 +622,6 @@ If the week gets away from you and you don’t do this, that is data, not failur
 
 ### If it goes well
 
-If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The summer has ten weeks; it doesn’t have to all happen tonight.
+If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series has ten weeks; it doesn’t have to all happen tonight.
 
 *Bring this handout back to Week 4 if you want, or keep it. The questions don’t expire.*

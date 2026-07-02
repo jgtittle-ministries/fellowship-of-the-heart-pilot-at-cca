@@ -18,19 +18,19 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 Welcome to Inviting Others.
 
-This handbook is for the team carrying the Inviting Others series at Covenant Christian Academy of Warrenton. Most of you have walked the summer and the fall with these families. Some of you are coming in fresh because the work has grown and we need elders on the team — elders in the New Testament sense, not the chronological one. The handbook is written for both of you.
+This handbook is for the team carrying the Inviting Others series at Covenant Christian Academy of Warrenton. Most of you have walked Getting Started and Going Deeper with these families. Some of you are coming in fresh because the work has grown and we need elders on the team — elders in the New Testament sense, not the chronological one. The handbook is written for both of you.
 
 Inviting Others is not curriculum. It is the recognition of what the Spirit has already been doing across three prior series, and the communal sending of those He has formed and is now calling to start formation groups of their own.
 
 Three things you should know before you read further.
 
-First: not everyone who finished Going Deeper will be sent in the spring. The discernment phase (Wks 1–4) is a real gate. Some participants will be confirmed to lead; some will be confirmed in supporting roles; some will be counseled toward further formation before any sending. All three are honest outcomes, and the team must be willing to name the third option in front of the cohort. Acts 13 only sent two of the five named in the Antioch passage; the other three were doing real work, just not the work of being apostles in that moment.
+First: not everyone who finished Going Deeper will be sent in the Going Out. The discernment phase (Wks 1–4) is a real gate. Some participants will be confirmed to lead; some will be confirmed in supporting roles; some will be counseled toward further formation before any sending. All three are honest outcomes, and the team must be willing to name the third option in front of the cohort. Acts 13 only sent two of the five named in the Antioch passage; the other three were doing real work, just not the work of being apostles in that moment.
 
 Second: every sent leader is sent under spiritual authority that is not CCA. Each calling-confirmed leader has individual spiritual direction with someone outside CCA, and each new group has a “home” — a church or other spiritual hierarchy that recognizes the group, holds it accountable, and provides ongoing pastoral covering. CCA is the soil that grew the leader; CCA is not the institutional parent of the group. Section 3 of this handbook is explicit about why this matters and what it requires.
 
 Third: the goal of Inviting Others is to produce Level 2 leaders — not Level 5. The Affective Taxonomy applied to leadership (Section 4) names five levels of Companion development. Level 5 is multi-generational, self-replicating leadership; it takes years and the support of a leader’s own ongoing formation to reach. Inviting Others aims at Level 2 with the conditions in place for movement toward Level 3 across the leader’s first 6–12 months of leading. We are not graduating Companion-mature leaders; we are setting them honestly on a long road and walking with them for the first six months of it.
 
-Walk gently. The leaders being sent this spring are people the team has known across three series of formation work; they are also people who are about to bear weight they have not borne before. Honor what they have given you across these months by naming honestly what they are and are not ready for. The work itself is the Spirit’s; we are the room He is using to confirm what He has already started.
+Walk gently. The leaders being sent this Going Out are people the team has known across three series of formation work; they are also people who are about to bear weight they have not borne before. Honor what they have given you across these months by naming honestly what they are and are not ready for. The work itself is the Spirit’s; we are the room He is using to confirm what He has already started.
 
 *— John*
 
@@ -38,7 +38,7 @@ Walk gently. The leaders being sent this spring are people the team has known ac
 
 ## Title and theme
 
-“Inviting Others.” The title is purposefully active. The summer was an introduction; the fall went deeper; the spring is movement — from the room that formed you to the room you are being sent into.
+“Inviting Others.” The title is purposefully active. Getting Started was an introduction; Going Deeper went deeper; Going Out is movement — from the room that formed you to the room you are being sent into.
 
 ## The big idea
 
@@ -91,7 +91,7 @@ Inviting Others admits only participants who completed both Getting Started + Go
 Two structural notes from this passage shape how the discernment gate works:
 
 - The Spirit named two of the five people in the room. Three were not sent at this moment; that is also data. The discernment is not democratic and it is not equal-opportunity. The Spirit says what the Spirit says.
-- Barnabas and Saul were not strangers — they had served in the Antioch community already. The sending was the recognition of formation that had already happened. We are doing the same thing in spring: recognizing whom the Spirit has already formed and where He is sending them.
+- Barnabas and Saul were not strangers — they had served in the Antioch community already. The sending was the recognition of formation that had already happened. We are doing the same thing in Going Out: recognizing whom the Spirit has already formed and where He is sending them.
 
 ## Three honest outcomes from the discernment phase
 
@@ -101,15 +101,15 @@ Two structural notes from this passage shape how the discernment gate works:
 
 **Calling-confirmed supporter. The cohort has heard that this person is being called to walk alongside one of the leaders — sometimes as a co-leader, sometimes as a prayer partner, sometimes as a practical-logistics person. They move into Phase 2 with a different focus, supporting the leader they have been called to.**
 
-**Further-formation. The cohort has heard that this person is not being called to lead in this cycle. The reasons vary: the Spirit may say ‘not yet,’ the cohort may notice unfinished formation work that should precede leading, or the Spirit may simply have not spoken about leadership for this person at this time. They are warmly invited to continue with the cohort through Wk 12 in a learning posture, and to consider next year’s spring cycle.**
+**Further-formation. The cohort has heard that this person is not being called to lead in this cycle. The reasons vary: the Spirit may say ‘not yet,’ the cohort may notice unfinished formation work that should precede leading, or the Spirit may simply have not spoken about leadership for this person at this time. They are warmly invited to continue with the cohort through Wk 12 in a learning posture, and to consider next year’s Going Out cycle.**
 
 ## The re-registration form question
 
-The third outcome — further-formation — has to be visible at admission, not invented mid-spring. The re-registration form (Appendix B) includes this question explicitly:
+The third outcome — further-formation — has to be visible at admission, not invented mid-Going Out. The re-registration form (Appendix B) includes this question explicitly:
 
 ## Required question on the re-registration form
 
-***“Are you open to having your sense of calling tested in the cohort, with the genuine possibility of being counseled toward further formation rather than launching a group this spring?”***
+***“Are you open to having your sense of calling tested in the cohort, with the genuine possibility of being counseled toward further formation rather than launching a group this Going Out?”***
 
 *The participant must answer YES, in writing, to be admitted to Inviting Others. A participant who cannot honestly say yes to this question is not yet ready for the Inviting Others series; they may be ready next year.*
 
@@ -122,7 +122,7 @@ Inviting Others cohorts are smaller than Getting Started, Going Deeper, or Going
 
 # Section 3 — The Spiritual Authority Architecture
 
-This section names a non-negotiable readiness criterion for any leader being sent through Inviting Others. Read it carefully; it shapes the whole spring.
+This section names a non-negotiable readiness criterion for any leader being sent through Inviting Others. Read it carefully; it shapes the whole of Going Out.
 
 ## ⛔ Launch-blocking gate — no group launches until all of the following are true
 
@@ -188,7 +188,7 @@ Both spiritual-direction relationships and group homes are typically NOT in plac
 
 - Wks 1–4 (Discernment): the requirement is named at Wk 4 close. Calling-confirmed leaders begin scoping director and group-home options.
 - Wks 5–8 (Equipping): each leader makes initial contact with a prospective director and a prospective group-home pastor or leader. By end of Wk 8, both relationships should be in active conversation, even if not yet formally established.
-- Wk 9: spiritual director relationship and group home commitment are confirmed. If either is not yet in place, the leader’s launch is delayed; their group does not start in the spring cycle. (The leader continues with the cohort through Wk 12 in a learning posture and resumes toward launch when the structures are in place.)
+- Wk 9: spiritual director relationship and group home commitment are confirmed. If either is not yet in place, the leader’s launch is delayed; their group does not start in the Going Out cycle. (The leader continues with the cohort through Wk 12 in a learning posture and resumes toward launch when the structures are in place.)
 - Wks 11–12: representatives from the spiritual director and group-home roles are invited to the Wk 12 commissioning. Their physical presence at the laying-on-of-hands is not strictly required, but their explicit blessing of the launch is.
 
 ## Special note on teen leaders
@@ -334,12 +334,12 @@ Inviting Others’ Companion team requires sturdier formation in two specific wa
 - Each team member has experience leading at least one formation group themselves — not necessarily a four-Connects group, but enough genuine facilitation experience to recognize Level 2 leadership when they see it (and to recognize what isn’t Level 2).
 - Each team member has been at Leader Level 3 or higher in their own work for at least one full cycle. From Vol 2: ‘a leader cannot help a group grow to Level 3+ unless the leader has been to at least Level 3 first.’ The same principle applies to leader-of-leaders work.
 
-## Team formation rhythm — spring-specific
+## Team formation rhythm — Going Out-specific
 
 The standard pre-meet rhythm (48 hours before each Tuesday) holds. Inviting Others adds:
 
-- Fortnightly leadership-supervision pairs. Each team member pairs with one other team member for 30 minutes every two weeks across the spring — not to discuss session content, but to attend to the team member’s own leadership development as a leader-of-leaders. This is itself Level 3+ formation work and should not be skipped.
-- A pre-spring intensive. Two days before Wk 1, the team gathers for an extended (4–6 hour) intensive that walks the entire spring arc, the leadership taxonomy, and each cohort member by name. The intensive includes prayer, fasting if appropriate, and explicit invitation of the Spirit to surface what the team is missing about the cohort or the work.
+- Fortnightly leadership-supervision pairs. Each team member pairs with one other team member for 30 minutes every two weeks across the Going Out — not to discuss session content, but to attend to the team member’s own leadership development as a leader-of-leaders. This is itself Level 3+ formation work and should not be skipped.
+- A pre-Going Out intensive. Two days before Wk 1, the team gathers for an extended (4–6 hour) intensive that walks the entire Going Out arc, the leadership taxonomy, and each cohort member by name. The intensive includes prayer, fasting if appropriate, and explicit invitation of the Spirit to surface what the team is missing about the cohort or the work.
 
 ## Required competencies for Inviting Others Companions
 
@@ -413,7 +413,7 @@ The Inviting Others cohort is the highest-forming cohort CCA runs. By Wk 4, the 
 
 - The three openness conditions (taught in Wk 2) are revisited at every cohort milestone — end of Wk 4, end of Wk 8, before each individual launch. The cohort tests itself, not just individual discernments.
 - Each calling-confirmed leader names one external Christian relationship (their spiritual director counts) who can speak honestly to them about whether the cohort’s discernment seems off.
-- If a corporate-discernment outcome is not fruitful in the months after launch, the cohort revisits the discernment honestly. Apparent unanimity in spring that does not produce fruit by autumn is a signal.
+- If a corporate-discernment outcome is not fruitful in the months after launch, the cohort revisits the discernment honestly. Apparent unanimity in Going Out that does not produce fruit by autumn is a signal.
 - The team itself maintains relationships with at least one trusted older Christian outside the program who can name when the team has gone off.
 
 # Section 8 — The Six-Month Support Structure
@@ -496,7 +496,7 @@ Anchor scripture. Acts 17:11 (“noble Bereans”). Matt 7:15–20 (fruit). 1 Th
 
 Mode. Shared teaching the whole session.
 
-Center. The gnostic risk named explicitly. The cohort agrees in writing to the three openness conditions. The five Leader Levels walked carefully. Each cohort member identifies one external trusted older Christian relationship who will be their external-correction relationship across the spring — this is the seed of what will become their spiritual director arrangement.
+Center. The gnostic risk named explicitly. The cohort agrees in writing to the three openness conditions. The five Leader Levels walked carefully. Each cohort member identifies one external trusted older Christian relationship who will be their external-correction relationship across the Going Out — this is the seed of what will become their spiritual director arrangement.
 
 ### Wk 3 — Discernment Round 1 (about half the cohort)
 
@@ -590,7 +590,7 @@ Closing: a meal. The Antioch church almost certainly ate together after laying h
 
 ## The horizon
 
-Inviting Others is the standalone follow-on offering after the three-series arc (Getting Started → Going Deeper → Going Out), but it is not the end of the journey. The leaders sent in spring are at Leader Level 2; their development continues across years. The groups they start are at Group Level 1; those groups’ development is its own journey.
+Inviting Others is the standalone follow-on offering after the three-series arc (Getting Started → Going Deeper → Going Out), but it is not the end of the journey. The leaders sent in Going Out are at Leader Level 2; their development continues across years. The groups they start are at Group Level 1; those groups’ development is its own journey.
 
 Several questions sit beyond what this handbook can fully address:
 
@@ -663,7 +663,7 @@ Markers: leaders typically 7+ years in, with at least one full multi-generation 
 
 # Appendix B — The Inviting Others Re-Registration Form
 
-Sent to Going Deeper graduates in the gap weeks between fall and spring.
+Sent to Going Deeper graduates in the gap weeks between Going Deeper and Going Out.
 
 ## Section 1 — Identification
 
@@ -689,13 +689,13 @@ Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## The required question
 
-***Are you open to having your sense of calling tested in the cohort, with the genuine possibility of being counseled toward further formation rather than launching a group this spring?***
+***Are you open to having your sense of calling tested in the cohort, with the genuine possibility of being counseled toward further formation rather than launching a group this Going Out?***
 
 **□ Yes — I am open to either outcome, including being counseled toward further formation.**
 
 **□ No, or I’m not sure I could honestly say yes to that.**
 
-*If you marked the second box, that is honest data; you are not yet ready for Inviting Others, and that is fine. Talk to the team about what would help you get there — it may be next year’s spring, or it may be a different next step. If you marked the first box, you may be admitted to Inviting Others; the team will confirm with you in the team’s pre-spring review.*
+*If you marked the second box, that is honest data; you are not yet ready for Inviting Others, and that is fine. Talk to the team about what would help you get there — it may be next year’s Going Out, or it may be a different next step. If you marked the first box, you may be admitted to Inviting Others; the team will confirm with you in the team’s pre-Going Out review.*
 
 ## Section 4 — Spiritual authority
 
@@ -869,9 +869,9 @@ Use this template to scaffold each leader’s six-month support relationship wit
 
 | **When** | **What** | **Form** |
 | --- | --- | --- |
-| Week 12 of spring | Antioch sending. Six-month support begins. | Public commissioning + private follow-up |
+| Week 12 of Going Out | Antioch sending. Six-month support begins. | Public commissioning + private follow-up |
 | Month 1 | First 1:1 with primary CCA team contact. | 60 min, in person if possible |
-| Month 2 | First quarterly new-leader debrief gathering. | 2-hour evening, all spring graduates + team |
+| Month 2 | First quarterly new-leader debrief gathering. | 2-hour evening, all Going Out graduates + team |
 | Month 2 | Second 1:1. | 60 min |
 | Month 3 | Three-month check-in: leader and team formal review of progress. | 60–90 min, includes Leader Level self-assessment |
 | Month 4 | 1:1. | 60 min |

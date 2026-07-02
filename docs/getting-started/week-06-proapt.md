@@ -102,7 +102,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 ## **Team pre-work**
 
 1. Confirm the worked-example passage.
-2. Each Cohort Companion commits to PROAPT-ing one passage daily for the next eight weeks (the rest of summer plus the interlude). Tonight is not a one-time exercise.
+2. Each Cohort Companion commits to PROAPT-ing one passage daily for the next eight weeks (the rest of the series plus the interlude). Tonight is not a one-time exercise.
 3. Walk through the pair structure for the cohort circles (one Reader, one Listener; switch halfway).
 
 ## **Logistics pre-work**

@@ -44,7 +44,7 @@ Week 4
 
 **Comparison and shame. A junior teen hears a parent’s vocational Tell and feels their school-friend Tell is small. A parent hears another parent’s costly family-of-origin Tell and feels their workplace Tell is shallow. The Lead Companion frames at the start: scale of context is not scale of faithfulness. The daily Tell to a sibling or classmate carries the same weight as a vocational Tell to a colleague.**
 
-**Performative reframing. A member whose Tell did not happen reports it as if it did, or describes a non-Tell encounter as a Tell. The cohort’s honesty discipline has been built across Going Deeper and the first weeks of spring. The Lead Companion gently redirects when needed: ‘Honest data is the work. The cohort can hold a non-Tell.’**
+**Performative reframing. A member whose Tell did not happen reports it as if it did, or describes a non-Tell encounter as a Tell. The cohort’s honesty discipline has been built across Going Deeper and the first weeks of Going Out. The Lead Companion gently redirects when needed: ‘Honest data is the work. The cohort can hold a non-Tell.’**
 
 **The cohort that has lapsed on the practice. If a substantial portion of the cohort has not done the weekly Tell three weeks running, tonight’s data will be thin. Receive this honestly; Going Out re-engages. The team’s discipline is to refuse to manufacture data that did not happen.**
 
@@ -92,7 +92,7 @@ The architectural discipline tonight is honest data over polished narrative. The
 
 **•** The past three weeks of outside-cohort Tells. Every member should arrive having done at least one Tell per week; some will have more, some will have lapsed. The data is the data.
 
-**•** Going Out Wk 1–3 architecture. The four-block spring; the body-sent posture; each member’s working sent-context sentence.
+**•** Going Out Wk 1–3 architecture. The four-block Going Out; the body-sent posture; each member’s working sent-context sentence.
 
 **•** Going Deeper Wk 9 (gift and shadow). The gift each member named is producing characteristic kinds of Tells; the shadow is producing characteristic risks.
 

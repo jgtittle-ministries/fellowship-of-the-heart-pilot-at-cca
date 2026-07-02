@@ -48,11 +48,11 @@ Week 1
 
 **Honest non-continuers from Going Deeper who unexpectedly attended Wk 1. Some non-continuers may show up tonight wanting to reconsider. Welcome without pressure. The decision is theirs; the cohort makes room. If they decide to continue, registration logistics handled briefly outside the session.**
 
-**The cohort whose Wk 11 honest assessment landed at Level 3 with Level 4 ahead, and who now expects spring to magically deliver Level 4. Going Out will not magically deliver anything. The Wk 11 honest data is the foundation; Going Out works the body sent FROM where the cohort actually is.**
+**The cohort whose Wk 11 honest assessment landed at Level 3 with Level 4 ahead, and who now expects Going Out to magically deliver Level 4. Going Out will not magically deliver anything. The Wk 11 honest data is the foundation; Going Out works the body sent FROM where the cohort actually is.**
 
 **The participant whose Wk 10 calling discernment is still in mid-integration. The 30–90 day window from Wk 10 may extend into Going Out. The Discerner is not pressured to have resolution tonight; the cohort holds them in continued integration while the rest of the cohort engages tonight’s reopening.**
 
-**Performance of ‘I am ready for spring.’ The dominant temptation. Members may report that they’re fully integrated, fully ready, fully sent. Receive humbly; Going Out will surface what the gap covered. The architecture is honest engagement, not performed readiness.**
+**Performance of ‘I am ready for Going Out.’ The dominant temptation. Members may report that they’re fully integrated, fully ready, fully sent. Receive humbly; Going Out will surface what the gap covered. The architecture is honest engagement, not performed readiness.**
 
 **New continuers (if any) who feel the cohort already knows itself. The Wk 1 architecture explicitly makes room — brief introductions, interlude substitute story-share for new continuers, deliberate inclusion. Cohort Companions confirm new continuers feel held by Friday.**
 
@@ -80,15 +80,15 @@ The gap between Going Deeper Wk 12 and Going Out Wk 1 is structural, not acciden
 
 The deeper architectural shift is from interior formation to outward witness. Going Deeper engaged the diagnostic and therapeutic work of Vol 2 — soils, knots, lies, confession, hearing, gifts, shadow, calling, cohort assessment. Going Out engages the missional outworking of what was formed. Acts 1:8 names the architecture explicitly: the Spirit’s power, given to those who have already received Him, is for witness — in Jerusalem (the immediate context), in Judea and Samaria (the close-to-home context), and to the ends of the earth (the far context). The four-block architecture of Going Out maps roughly onto this geography.
 
-Tonight is the reopening. The cohort needs three things. First, honest gap-landing — each member named, what surfaced across the weeks, what is alive now. Second, Going Out’s framing — what Going Out is, how it differs from Going Deeper, what the four blocks engage. Third, re-engaged practical structures — standing pairs (continuing fall partnerships and new ones), Rhythm Card refreshed, between-session practices clear.
+Tonight is the reopening. The cohort needs three things. First, honest gap-landing — each member named, what surfaced across the weeks, what is alive now. Second, Going Out’s framing — what Going Out is, how it differs from Going Deeper, what the four blocks engage. Third, re-engaged practical structures — standing pairs (continuing Going Deeper partnerships and new ones), Rhythm Card refreshed, between-session practices clear.
 
-The team’s discipline tonight is restraint. Wk 1 does not need to deliver everything spring will be; it needs to land the cohort honestly and frame what comes next. Resist the temptation to teach the whole spring on opening night. The architecture is twelve weeks; tonight is one of them.
+The team’s discipline tonight is restraint. Wk 1 does not need to deliver everything Going Out will be; it needs to land the cohort honestly and frame what comes next. Resist the temptation to teach the whole of Going Out on opening night. The architecture is twelve weeks; tonight is one of them.
 
 **Dependencies**
 
 ## From Going Deeper
 
-**•** The cohort’s Wk 11 honest assessment of where it landed on the five-level taxonomy. Spring builds from that level, not from a more flattering one.
+**•** The cohort’s Wk 11 honest assessment of where it landed on the five-level taxonomy. Going Out builds from that level, not from a more flattering one.
 
 **•** Each member’s H11.3 page (Personal Reflection Frame for Wk 12), specifically prompt 4 (the question carried into Going Out). Tonight surfaces those questions briefly.
 
@@ -98,7 +98,7 @@ The team’s discipline tonight is restraint. Wk 1 does not need to deliver ever
 
 **•** The Wk 10 Discerner’s ongoing integration. The 30–90 day window may extend into Going Out; the Discerner is held in continued support.
 
-**•** All Rhythm Card practices that continued across the interlude. The practices are the architecture of endurance; spring renews them.
+**•** All Rhythm Card practices that continued across the interlude. The practices are the architecture of endurance; Going Out renews them.
 
 **Connect focus**
 
@@ -114,7 +114,7 @@ First — reread your own H11.3 prompt 4 from Going Deeper Wk 11. The question y
 
 Second — sit for 30 minutes with Acts 1:1–8 slowly. Notice the architecture: the Spirit’s power, given to those who have already received Him, FOR witness. The witnessing is not an add-on; it is the purpose of the empowerment. Notice also what Jesus refuses to give them — the timing of the kingdom’s restoration. The disciples want strategic clarity; Jesus gives them empowerment for the next obedience instead. The same dynamic operates tonight.
 
-Third — sit with the question of your own continuation as a Companion into Going Out. Some Companions continue cleanly; some shift roles; some step out for a season. Bring your honest answer to the team meeting; the team’s spring composition is named at the pre-meet.
+Third — sit with the question of your own continuation as a Companion into Going Out. Some Companions continue cleanly; some shift roles; some step out for a season. Bring your honest answer to the team meeting; the team’s Going Out composition is named at the pre-meet.
 
 **Team pre-work**
 
@@ -140,9 +140,9 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 **•** Print the Going Out Architecture Reference (H1.1) — one per participant. Walks the four-block architecture, what each engages, and the Acts 1:8 anchor.
 
-**•** Print the Refreshed Rhythm Card (H1.2) — one per participant. Going Deeper Rhythm Card adapted slightly for spring; daily / weekly / monthly anchors continue with one or two spring-specific additions.
+**•** Print the Refreshed Rhythm Card (H1.2) — one per participant. Going Deeper Rhythm Card adapted slightly for Going Out; daily / weekly / monthly anchors continue with one or two Going Out-specific additions.
 
-**•** Print the Standing Pair Re-Engagement Form (H1.3) — one per pair. For pairs continuing from fall, this is a renewal; for new pairs, it is the initial formation.
+**•** Print the Standing Pair Re-Engagement Form (H1.3) — one per pair. For pairs continuing from Going Deeper, this is a renewal; for new pairs, it is the initial formation.
 
 **•** Print the Between-Session Practice card (H1.4) — one per participant.
 
@@ -218,7 +218,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 *“Tonight is Wk 1 of Going Out. The Going Out series. We have walked twelve weeks of formation across Going Deeper; we have walked the gap together even though apart. Tonight we reopen.”*
 
-*“Two things to name before we begin. One — spring is not a sequel to fall. Going Deeper engaged interior formation; Going Out engages outward witness. The posture is different. We will frame what that means tonight and across the next two weeks.”*
+*“Two things to name before we begin. One — Going Out is not a sequel to Going Deeper. Going Deeper engaged interior formation; Going Out engages outward witness. The posture is different. We will frame what that means tonight and across the next two weeks.”*
 
 *“Two — tonight is honest landing, not launch energy. We will surface what the interlude revealed; we will name where each of us is coming from; we will set the practical structures for Going Out. The launch — the shift into outward work — happens across Wks 2 and 3. Tonight is the homecoming.”*
 
@@ -238,7 +238,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *“Cohort, welcome our new continuers. The body is the same body returning, with these new members joining us. We hold them as we hold each other.”*
 
-**Block 3 — Acts 1:1–8 + Spring Architecture (7:18–7:28, 10 min)**
+**Block 3 — Acts 1:1–8 + Going Out Architecture (7:18–7:28, 10 min)**
 
 ## Script (the read)
 
@@ -250,11 +250,11 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **Teaching points (do not read this verbatim)**
 
-**•** Notice what the disciples want and what Jesus gives. They want timing — ‘will you at this time restore the kingdom?’. Jesus gives them empowerment for the next obedience instead. The same dynamic operates tonight. Some of us want spring to deliver clarity about every next step. Going Out will deliver empowerment for the next obedience; the rest is held by the Father.
+**•** Notice what the disciples want and what Jesus gives. They want timing — ‘will you at this time restore the kingdom?’. Jesus gives them empowerment for the next obedience instead. The same dynamic operates tonight. Some of us want Going Out to deliver clarity about every next step. Going Out will deliver empowerment for the next obedience; the rest is held by the Father.
 
 **•** Notice the geography. Jerusalem (the immediate context, where they already are). Judea and Samaria (the close-to-home context, the surrounding world). The end of the earth (the far context, places they have not yet been). Going Out’s four-block architecture tracks roughly to this geography.
 
-**•** Notice that the witnessing is not added to the empowerment. The witnessing IS the empowerment’s purpose. The Spirit’s power is given to those who have already received Him FOR witness. We have been formed across Getting Started and fall; spring is what the formation is for.
+**•** Notice that the witnessing is not added to the empowerment. The witnessing IS the empowerment’s purpose. The Spirit’s power is given to those who have already received Him FOR witness. We have been formed across Getting Started and Going Deeper; Going Out is what the formation is for.
 
 ## The four-block Going Out architecture
 
@@ -266,7 +266,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **SENDING AND RE-FORMATION (Wks 10–12). Closing Going Out; the body re-formed for the long obedience beyond the formal series.**
 
-*“Tonight the work is not yet the witness. Tonight is the reopening. The witness builds from Wk 2 forward. What we do tonight is land honestly so spring builds from where we actually are.”*
+*“Tonight the work is not yet the witness. Tonight is the reopening. The witness builds from Wk 2 forward. What we do tonight is land honestly so Going Out builds from where we actually are.”*
 
 **Block 4 — Gap Landings Around the Circle (7:28–8:00, 32 min)**
 
@@ -302,15 +302,15 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 *(Specific. One sentence; drawn from what was actually said. Not a summary; a reflection. Examples: ‘What I heard is that the gap was longer than expected for several of us, and shorter than expected for others, and most of us are landing somewhere honest in between.’ ‘What I heard is that the question carried for some of us shifted across the interlude, and for some of us it intensified.’)*
 
-*“We hold what was named. Spring builds from this honest landing.”*
+*“We hold what was named. Going Out builds from this honest landing.”*
 
 **Block 5 — Standing Pair Re-Engagement (8:00–8:15, 15 min)**
 
 ## Lead Companion script — opening (60 sec)
 
-*“Your standing pair. For pairs that continued across the interlude: this is a re-engagement, not a re-formation. For pairs that released at the close of Going Deeper and have new partners now: this is the initial pair conversation for spring.”*
+*“Your standing pair. For pairs that continued across the interlude: this is a re-engagement, not a re-formation. For pairs that released at the close of Going Deeper and have new partners now: this is the initial pair conversation for Going Out.”*
 
-*“Fifteen minutes. Both partners read H1.3 together; sign or renew the pair commitments for spring. The architecture is the same as Wk 12’s pair work — specific commitments, brief check-ins, pair as the load-bearing relational unit through Going Out.”*
+*“Fifteen minutes. Both partners read H1.3 together; sign or renew the pair commitments for Going Out. The architecture is the same as Wk 12’s pair work — specific commitments, brief check-ins, pair as the load-bearing relational unit through Going Out.”*
 
 *“Continuing pairs: confirm what worked across the interlude; adjust if needed. New pairs: walk the basic Standing Pair Covenant from Going Deeper Wk 3 Appendix E (a copy is on the back of H1.3).”*
 
@@ -318,19 +318,19 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **Watch for pairs that look uncertain whether to continue. Cohort Companion approaches gently: ‘How are you both feeling about continuing the pair through Going Out?’ If one partner is hesitant and the other is committed, pastoral 1:1 with both within the week.**
 
-**Watch for new continuers without an obvious pair partner. Cohort Companions assigned this responsibility before the session pair them with a willing partner from continuing fall members. The pair is provisional for tonight; refined by Wk 2 if needed.**
+**Watch for new continuers without an obvious pair partner. Cohort Companions assigned this responsibility before the session pair them with a willing partner from continuing Going Deeper members. The pair is provisional for tonight; refined by Wk 2 if needed.**
 
 **Watch for any pair where the relationship across the interlude revealed a problem (one partner ghosted; one partner over-extended; one partner crossed a boundary). Cohort Companion stays with the pair briefly; pastoral 1:1 follow-up.**
 
-**Block 6 — Spring Practices and Rhythm Refresh (8:15–8:22, 7 min)**
+**Block 6 — Going Out Practices and Rhythm Refresh (8:15–8:22, 7 min)**
 
 ## Script — Co-Companion (Parent) leads
 
-*“The practice rhythm continues. Going Deeper Rhythm Card is in your hands; spring adds two small adjustments.”*
+*“The practice rhythm continues. Going Deeper Rhythm Card is in your hands; Going Out adds two small adjustments.”*
 
 *“ONE — a daily noticing question for Going Out. Each morning, briefly: ‘Lord, where today might I already be sent that I have not noticed?’ The question is for noticing, not for forcing; the Spirit may surface unexpected places of witness simply because we asked.”*
 
-*“TWO — a weekly Tell to ONE specific person OUTSIDE the cohort. Going Deeper Tells were within the cohort; spring extends Tells beyond. Choose one person you regularly see; tell them briefly something specific that is true and useful (an encouragement, a witness, a hard truth spoken in love). One Tell per week minimum. We will engage what surfaces from this in Wks 4–6.”*
+*“TWO — a weekly Tell to ONE specific person OUTSIDE the cohort. Going Deeper Tells were within the cohort; Going Out extends Tells beyond. Choose one person you regularly see; tell them briefly something specific that is true and useful (an encouragement, a witness, a hard truth spoken in love). One Tell per week minimum. We will engage what surfaces from this in Wks 4–6.”*
 
 *“Rhythm Card practices, named-knot sit, daily PROAPT and weekday Tells, Five-Minute Examen, shadow noticing — all continue. The new additions are noticing-question and weekly outside-cohort Tell.”*
 
@@ -366,7 +366,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 ## Adjustments
 
-**Junior teens often experience the interlude differently than adults — the school-year rhythm dominates; church or formation rhythms can fade quickly without weekly reinforcement. Receive without alarm; spring re-roots quickly.**
+**Junior teens often experience the interlude differently than adults — the school-year rhythm dominates; church or formation rhythms can fade quickly without weekly reinforcement. Receive without alarm; Going Out re-roots quickly.**
 
 **Watch for: junior teens whose gap landing is concrete (‘school was hard’, ‘my friend group changed’). Honour. Concrete is appropriate; the abstracting comes later.**
 
@@ -386,7 +386,7 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **Watch for: the senior whose H11.3 question has been suppressed across the interlude because school or social or family pressure intensified. Receive without analysis; Going Out will surface what is meant to surface.**
 
-**Watch for: the senior who is graduating or moving in Going Out. Going Out’s twelve weeks may not all be accessible; the team holds the senior’s real schedule honestly. Brief planning conversation outside the session about what spring participation looks like.**
+**Watch for: the senior who is graduating or moving in Going Out. Going Out’s twelve weeks may not all be accessible; the team holds the senior’s real schedule honestly. Brief planning conversation outside the session about what Going Out participation looks like.**
 
 **Watch for: the senior whose Wk 10 Discerner role from Going Deeper produced a calling decision. The integration window may still be active; the cohort holds without pressing for resolution.**
 
@@ -396,11 +396,11 @@ This block runs only if there are new continuers — cohort members joining Goin
 
 **Parents often arrive with the longer arc of the work in view. The interlude may have produced significant adjustments — vocational shifts, marital conversations, parenting recalibrations. Receive without rushing.**
 
-**Watch for: the parent whose gap landing involves vocational rupture or transition (a job ending; a calling re-emerging; a sabbatical considered). Receive; spring engages this in Wks 4–9. Pastoral support for the immediate decisions.**
+**Watch for: the parent whose gap landing involves vocational rupture or transition (a job ending; a calling re-emerging; a sabbatical considered). Receive; Going Out engages this in Wks 4–9. Pastoral support for the immediate decisions.**
 
 **Watch for: the parent whose H11.3 question intensified across the interlude rather than resolving. The intensification may itself be data. Going Out will engage what is meant to be engaged.**
 
-**Watch for: the parent whose teen-in-the-cohort had a hard gap. Cross-cohort awareness; the parent does not adjudicate the teen’s spring participation publicly tonight.**
+**Watch for: the parent whose teen-in-the-cohort had a hard gap. Cross-cohort awareness; the parent does not adjudicate the teen’s Going Out participation publicly tonight.**
 
 **Watch for: the parent whose marriage worked or did not work across the interlude. The cohort is not the venue for marital adjudication; pastoral support outside the session.**
 
@@ -414,7 +414,7 @@ Tonight’s closing is short by design. The substantive work is the gap-landing 
 
 ## This week’s practice
 
-**Daily / Weekly / Monthly Rhythm Card practices continue, refreshed for spring per H1.2.**
+**Daily / Weekly / Monthly Rhythm Card practices continue, refreshed for Going Out per H1.2.**
 
 **NEW — Daily noticing question: ‘Lord, where today might I already be sent that I have not noticed?’ Brief; once each morning.**
 
@@ -422,7 +422,7 @@ Tonight’s closing is short by design. The substantive work is the gap-landing 
 
 **Daily PROAPT continues; weekday Tells within the cohort continue; Five-Minute Examen continues; named-knot sit continues; shadow noticing continues.**
 
-**Standing pair check-in this week is explicit: ‘What did the gap land in you? What is alive as we open spring?’**
+**Standing pair check-in this week is explicit: ‘What did the gap land in you? What is alive as we open Going Out?’**
 
 **Companion Team Debrief Prompts**
 
@@ -460,7 +460,7 @@ The team meets the day after Wk 1 for a 60-minute debrief.
 
 **•** If a pair revealed difficulty, pastoral 1:1 with each partner separately before Wk 2.
 
-**•** If multiple members seem disconnected from H11.3 questions, Wk 2 can include a brief refresh exercise: each member writes ONE current question (not necessarily fall’s question) on a card brought to Wk 3.
+**•** If multiple members seem disconnected from H11.3 questions, Wk 2 can include a brief refresh exercise: each member writes ONE current question (not necessarily Going Deeper’s question) on a card brought to Wk 3.
 
 **People to follow up with this week**
 
@@ -482,7 +482,7 @@ Four handouts for Wk 1 of Going Out.
 
 **•** H1.1 — Going Out Architecture Reference
 
-**•** H1.2 — Refreshed Rhythm Card for Spring
+**•** H1.2 — Refreshed Rhythm Card for Going Out
 
 **•** H1.3 — Standing Pair Re-Engagement Form
 
@@ -490,7 +490,7 @@ Four handouts for Wk 1 of Going Out.
 
 **Handout H1.1 — Going Out Architecture Reference**
 
-*From Acts 1:1–8 and the IJH four-Connects framework. Carry this card; the architecture frames the whole spring.*
+*From Acts 1:1–8 and the IJH four-Connects framework. Carry this card; the architecture frames the whole of Going Out.*
 
 *But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.*
 
@@ -510,11 +510,11 @@ Four handouts for Wk 1 of Going Out.
 
 **The posture shift**
 
-## How spring differs from fall
+## How Going Out differs from Going Deeper
 
-**FALL was interior formation. The diagnostic, therapeutic, and developmental work of Vol 2. Soils, knots, lies, confession, hearing, gifts, shadow, calling, cohort assessment.**
+**Going Deeper was interior formation. The diagnostic, therapeutic, and developmental work of Vol 2. Soils, knots, lies, confession, hearing, gifts, shadow, calling, cohort assessment.**
 
-**SPRING is outward witness. What the formation has produced now feeds the body sent. The same Spirit that formed us empowers our witness; the witness is not separate from the formation, it is what the formation was for.**
+**Going Out is outward witness. What the formation has produced now feeds the body sent. The same Spirit that formed us empowers our witness; the witness is not separate from the formation, it is what the formation was for.**
 
 *Practically: the cohort’s Tells move outside; the cohort’s discernment turns toward concrete sent-contexts; the cohort’s prayer turns outward as well as inward. The container conditions still hold; the cohort still meets together; the Companions still hold the architecture. What is different is what the work is for.*
 
@@ -526,7 +526,7 @@ Four handouts for Wk 1 of Going Out.
 
 **The Companions — the same team (with possible role adjustments).**
 
-**The standing pair — continued from Going Deeper or newly formed for spring.**
+**The standing pair — continued from Going Deeper or newly formed for Going Out.**
 
 **The container conditions — Safe, Present, Clear, Intentional.**
 
@@ -534,11 +534,11 @@ Four handouts for Wk 1 of Going Out.
 
 **The Rhythm Card practices — daily PROAPT, weekday Tells, Examen, named-knot sit, shadow noticing.**
 
-**Hebrews 12:1–2 as anchor — spring engages ‘the joy set before’ the body more fully.**
+**Hebrews 12:1–2 as anchor — Going Out engages ‘the joy set before’ the body more fully.**
 
-**Handout H1.2 — Refreshed Rhythm Card for Spring**
+**Handout H1.2 — Refreshed Rhythm Card for Going Out**
 
-*Going Deeper Rhythm Card with two spring-specific additions. Continues across Going Out’s twelve weeks.*
+*Going Deeper Rhythm Card with two Going Out-specific additions. Continues across Going Out’s twelve weeks.*
 
 **Daily anchors (carried over from Going Deeper, plus one new)**
 
@@ -568,9 +568,9 @@ Four handouts for Wk 1 of Going Out.
 
 **Handout H1.3 — Standing Pair Re-Engagement Form**
 
-*Used during Block 5 of Wk 1. For pairs continuing from fall: a renewal. For new pairs: the initial covenant (Going Deeper Standing Pair Covenant from Going Deeper Wk 3 Appendix E is the basis).*
+*Used during Block 5 of Wk 1. For pairs continuing from Going Deeper: a renewal. For new pairs: the initial covenant (Going Deeper Standing Pair Covenant from Going Deeper Wk 3 Appendix E is the basis).*
 
-**If your pair continued from fall**
+**If your pair continued from Going Deeper**
 
 ## Three questions to walk together
 
@@ -578,9 +578,9 @@ Four handouts for Wk 1 of Going Out.
 
 **TWO — What did NOT work? Honest; the rhythm that lapsed or strained.**
 
-**THREE — What does spring ask from this pair? Spring’s outward orientation may shift the pair’s rhythm — perhaps Tells outside the cohort become part of pair check-ins; perhaps the pair walks each other’s sent-contexts. Name what you both want.**
+**THREE — What does Going Out ask from this pair? Going Out’s outward orientation may shift the pair’s rhythm — perhaps Tells outside the cohort become part of pair check-ins; perhaps the pair walks each other’s sent-contexts. Name what you both want.**
 
-Renewed commitments for spring (initial both):
+Renewed commitments for Going Out (initial both):
 
 \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ We will continue meeting weekly across Going Out.
 
@@ -588,7 +588,7 @@ Renewed commitments for spring (initial both):
 
 \_\_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ We will walk each other’s sent-contexts as they emerge across Going Out.
 
-**If your pair is new for spring (one or both members new continuers)**
+**If your pair is new for Going Out (one or both members new continuers)**
 
 ## Walk the basic covenant from Going Deeper Wk 3 Appendix E
 
@@ -608,7 +608,7 @@ Partner 2: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 **ONE — The Refreshed Rhythm Card (H1.2). All daily / weekly / monthly anchors continue with the two new additions: the morning noticing question and one Tell outside the cohort.**
 
-**TWO — Standing-pair check-in: ‘What did the gap land in you? What is alive as we open spring?’ Brief; honest; mid-week.**
+**TWO — Standing-pair check-in: ‘What did the gap land in you? What is alive as we open Going Out?’ Brief; honest; mid-week.**
 
 **THREE — Bring your H11.3 question (or whatever has emerged in its place) into the week. If the question shifted across the interlude, journal what shifted.**
 
@@ -620,4 +620,4 @@ Standing pair first. Cohort Companion next. Pastoral / clinical referrals are av
 
 *From Acts 1:8 — ‘you will receive power when the Holy Spirit has come upon you, and you will be my witnesses.’*
 
-*The cohort returns. The empowerment is given for witness. Spring engages what we have been formed for.*
+*The cohort returns. The empowerment is given for witness. Going Out engages what we have been formed for.*

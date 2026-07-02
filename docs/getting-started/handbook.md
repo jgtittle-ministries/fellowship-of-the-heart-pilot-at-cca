@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 If you have this handbook in your hand, it is because someone trusted you with something delicate.
 
-What follows is a ten-week summer club for teenagers, ages roughly twelve through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, ten weeks in a row, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the summer ends.
+What follows is a ten-week club for teenagers, ages roughly twelve through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, ten weeks in a row, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when these ten weeks are over.
 
 I want to say a few things before you turn the page.
 
@@ -58,7 +58,7 @@ That is enough preface. Read the handbook. Pray over it. Find a Co-Companion. An
 
 **Title:** The Four Connects — A Ten-Week Journey into the Heart of God
 
-**One-sentence aim:** By the end of summer, every teen and every parent in the room will know — from the inside, not from a handout — what it feels like to begin connecting honestly with themselves, with one another, with God, and with the work He has prepared for them.
+**One-sentence aim:** By the end of the series, every teen and every parent in the room will know — from the inside, not from a handout — what it feels like to begin connecting honestly with themselves, with one another, with God, and with the work He has prepared for them.
 
 ## The big idea
 
@@ -90,7 +90,7 @@ Drawing on the five-stage taxonomy in Vol 2 Exp 7 (Receiving → Responding → 
 
 **Senior cohort (15–18):** Move from Level 2 (Responding) toward the threshold of Level 3 (Valuing — intrinsic motivation begins to appear in private practice between sessions).
 
-**Parents:** Wherever they begin (and there will be a wide range), move at least one full level. For parents already at Level 3, surface the specific Connect that is weakest and let the summer be the unblocking.
+**Parents:** Wherever they begin (and there will be a wide range), move at least one full level. For parents already at Level 3, surface the specific Connect that is weakest and let the series be the unblocking.
 
 The goal at every cohort is *integrated* attainment of the target level, not just touching it — a participant who reaches Level 2 (Responding) with genuine Level 1 Receiving still alive is sturdier than one who has skipped past Level 1's openness in order to perform Level 2's engagement. (The integration framing is developed pastorally in V2.Exp7 and operationalized for the testing protocol in IJH Vol 4 §2; it applies here as the realistic shape of what "stable at Level 2" means.)
 
@@ -156,7 +156,7 @@ The Getting Started series is designed for teens and parents from Covenant Chris
 
 ## Junior and senior cohorts
 
-A 12-year-old and an 18-year-old are not the same audience. The summer curriculum splits them for cohort-specific work and brings them together for shared content.
+A 12-year-old and an 18-year-old are not the same audience. The curriculum splits them for cohort-specific work and brings them together for shared content.
 
 ### Why split
 
@@ -281,7 +281,7 @@ The Getting Started series intentionally does not include:
 
 ## A note on framing
 
-If a teen, parent, or family asks why we hold certain things back, the honest answer is this: the IJH project includes content that has been tested in adult small groups for many years and is appropriate there. A youth-and-parent summer club is a different setting with different participants and different responsibilities. We are not hiding the deeper work — we are sequencing it. Some of it belongs in adult contexts. Some of it belongs in years to come for these teens, when their formation has matured. None of it belongs in a circle of mixed-age teenagers in week six of summer.
+If a teen, parent, or family asks why we hold certain things back, the honest answer is this: the IJH project includes content that has been tested in adult small groups for many years and is appropriate there. A youth-and-parent club is a different setting with different participants and different responsibilities. We are not hiding the deeper work — we are sequencing it. Some of it belongs in adult contexts. Some of it belongs in years to come for these teens, when their formation has matured. None of it belongs in a circle of mixed-age teenagers in week six of the series.
 
 # Section 5 — The Container, Adapted for Teens and Parents
 
@@ -492,7 +492,7 @@ Begin recruitment ten weeks before Week 1. The series stands or falls on whether
 
 The single most important thing in recruitment is the parent-as-participant ask. Make it cleanly and early. The introductory letter (Appendix D) leads with it; the information meeting names it three times; the consent form requires the parent to acknowledge it explicitly.
 
-Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work, in the same room and the same building, but in their own circles. If you cannot commit to attending all ten sessions and to doing your own work, this is not the series for your family this summer. There will be other opportunities.”
+Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work, in the same room and the same building, but in their own circles. If you cannot commit to attending all ten sessions and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
 
 ## Family Orientation Night
 
@@ -512,7 +512,7 @@ Two weeks before Week 1, host a 90-minute Family Orientation Night for every com
 
 ## The Personal Heart Journal
 
-Each participant receives a Personal Heart Journal at orientation. The journal is theirs, private, and used throughout the year (not just the summer). The first ten weeks of pages are pre-printed with the session’s anchor scripture, between-session practice prompts, and three weekly journaling questions. Sample front matter and Week 1 page templates are in Appendix E.
+Each participant receives a Personal Heart Journal at orientation. The journal is theirs, private, and used throughout the year (not just during the series). The first ten weeks of pages are pre-printed with the session’s anchor scripture, between-session practice prompts, and three weekly journaling questions. Sample front matter and Week 1 page templates are in Appendix E.
 
 The journal is not collected or graded. The Companions do not read entries unless the participant volunteers to share. The journal’s purpose is private formation and longitudinal personal record.
 
@@ -739,7 +739,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 # Section 10 — Transition to the Going Deeper series
 
-The Getting Started series ends in mid-August. The Going Deeper series begins after Labor Day. The four to six weeks in between are not vacation — they are an intentional space designed to consolidate Getting Started’s learning and bridge to the next stage.
+When Going Deeper does not follow immediately, a gap sits between the two series — in the pilot, roughly four to six weeks. That interlude is not vacation; it is an intentional space designed to consolidate Getting Started’s learning and bridge to the next stage. (Where the venue's calendar runs the two series back-to-back, the interlude practices below fold into Going Deeper's opening weeks instead.)
 
 ## The interlude
 
@@ -747,7 +747,7 @@ During the interlude, every participant has three things to do:
 
 1. Work the Daily / Weekly / Monthly Rhythm Card. Daily PROAPT (5–10 min); evening journal note; weekly check-in with one accountability friend from the Getting Started cohort; one Family Conversation Card per week with parent/teen.
 2. Read one short book. Recommended for teens: a chapter-a-week book chosen by the Companion team (suggestions in Appendix F). Recommended for parents: one of the IJH-aligned outside resources, full-length (a recommended list also in Appendix F).
-3. Decide. By the second week of August, each family decides whether to continue with Going Deeper. Recruitment for Going Deeper is open to summer-cohort families first, then to broader CCA families if space remains.
+3. Decide. Before Going Deeper begins, each family decides whether to continue. Recruitment for Going Deeper is open to Getting Started cohort families first, then to broader CCA families if space remains.
 
 ## Going Deeper — Going Deeper series at a glance
 
@@ -755,7 +755,7 @@ This is the bridge view; the full Going Deeper handbook is a separate document.
 
 | **Aspect** | **Going Deeper** |
 | --- | --- |
-| Length | 12 weeks, 90 min/session, aligned with CCA fall semester. |
+| Length | 12 weeks, 90 min/session, timed to the term that follows Getting Started — immediately after, or after a gap, as the venue's calendar allows. |
 | Theme | Hearing God, scripture engagement, and the early diagnostic and clearing work that Getting Started introduced. |
 | Primary IJH source | Volume 2 Explorations 1, 2, 6, 7, 8, 9 (deeper than Getting Started); plus Volume 1 Explorations 1, 5, 6 introduced gently. |
 | Audience | Getting Started cohort first; new families admitted in Week 1–2 with shortened on-ramp. Same teen-and-parent format. |
@@ -764,11 +764,11 @@ This is the bridge view; the full Going Deeper handbook is a separate document.
 
 ## Going Out series at a glance
 
-The third series, Going Out, runs in the spring semester. Its focus moves from formation-of-self to formation-with-and-for-others. The Going Deeper handbook (separately delivered) carries the full bridge to the Going Out series; here is the placeholder view:
+The third series, Going Out, follows Going Deeper — again either immediately in the next term or after a gap, as the calendar allows. Its focus moves from formation-of-self to formation-with-and-for-others. The Going Deeper handbook (separately delivered) carries the full bridge to the Going Out series; here is the placeholder view:
 
-| **Aspect** | **Going Out (spring)** |
+| **Aspect** | **Going Out** |
 | --- | --- |
-| Length | 12 weeks, aligned with CCA spring semester. |
+| Length | 12 weeks, timed to the term that follows Going Deeper. |
 | Theme | Outward witness — body sent into household, vocational, and third-place contexts. Mission discernment in each member’s actual life; the cohort closes with the body sent into the long obedience. |
 | Primary IJH source | Vol 2 Exp 10 (Training Plan); Vol 2 Exp 5 (Mission, deeper); Vol 1 (Sixth Exploration: Obedience Channel) gently introduced; Vol 5 Formation Companion concept introduced for older teens. |
 | What is added | The witness practice — weekly Tells outside the cohort across household, vocational, and third-place domains. The body’s sent identity made concrete. Calling discernment in each member’s own life, body confirmed and sent. |
@@ -776,7 +776,7 @@ The third series, Going Out, runs in the spring semester. Its focus moves from f
 
 ## If a family does not continue
 
-Some families will do summer and not continue, and that is fine. The Getting Started series is designed to leave participants better off than it found them, regardless of whether they continue. Specifically, anyone who completes the Getting Started series should leave with:
+Some families will do the Getting Started series and not continue, and that is fine. The Getting Started series is designed to leave participants better off than it found them, regardless of whether they continue. Specifically, anyone who completes the Getting Started series should leave with:
 
 - A real experience of the four Connects sequence — enough to recognize when a future relationship, small group, or church community is operating in this register.
 - A working set of personal practices (PROAPT, garden, evening review) that travel with them whether or not the cohort continues.
@@ -947,20 +947,20 @@ Sent to CCA families approximately eight weeks before Week 1. Customize the brac
 
 Dear [CCA family name],
 
-This summer, [date range], CCA is hosting a new club for teens and their parents called Fellowship of the Heart. It is a ten-week journey — once a week for ninety minutes — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
+Beginning [date range], CCA is hosting a new club for teens and their parents called Fellowship of the Heart. It is a ten-week journey — once a week for ninety minutes — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
 
-This is not a youth group with parent permission. It is a family formation series. Each week, your teen will do real work alongside you — sometimes in the same circle, sometimes in their own circle while you are in your own — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when summer ends.
+This is not a youth group with parent permission. It is a family formation series. Each week, your teen will do real work alongside you — sometimes in the same circle, sometimes in their own circle while you are in your own — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when the series ends.
 
 The series is based on the Intentional Journey of the Heart project (IJH), a body of work I have been developing with practitioners over more than twenty years. The kitchen-table version is this: Jesus invited his disciples into a life with God that most of us experience only in flashes — hearing God clearly, walking in real love, doing the works He prepared for us. There is a discoverable structure underneath that life. The Four Connects are the spine.
 
-Specifically, this summer:
+Specifically:
 
 - Ten 90-minute sessions, [day of week], [start time], at CCA.
 - Open to teens age 12–18. At least one parent (or grandparent, or guardian) attends every session as a participant.
 - Limited to about fifteen to twenty families. First-come, first-served.
 - Free.
 
-If you and your teen are willing to do real work together this summer — not just to attend, but to engage — we would love to have you. There is an information meeting at CCA on [date] at [time]. Please RSVP at [contact information] by [date] if you are interested.
+If you and your teen are willing to do real work together in these ten weeks — not just to attend, but to engage — we would love to have you. There is an information meeting at CCA on [date] at [time]. Please RSVP at [contact information] by [date] if you are interested.
 
 Blessings,
 

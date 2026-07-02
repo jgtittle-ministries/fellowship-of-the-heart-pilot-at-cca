@@ -40,7 +40,7 @@ Week 10
 
 ## WATCH FOR (Week 10 specific risks — read twice)
 
-*Tonight’s risks center on the temptation to summarize generically rather than specifically, the comparison dynamics that surface when the cohort sees each other’s spring trajectories, and the surfacing of unfinished work that some members need to continue carrying.*
+*Tonight’s risks center on the temptation to summarize generically rather than specifically, the comparison dynamics that surface when the cohort sees each other’s Going Out trajectories, and the surfacing of unfinished work that some members need to continue carrying.*
 
 **Generic summary. A member articulates ‘I grew in the Going Out series; God is good’ without specifics. The architecture asks for specifics: what shifted, what surfaced, what remains. The standing pair surfaces specificity gently; the cohort circle’s pattern surfacing reveals where generic-summary is masking unfinished work.**
 
@@ -52,7 +52,7 @@ Week 10
 
 **The Wk 8–9 sending in question. A member who said yes-with-limits in Wk 9 may now be reconsidering their commitment in light of Wk 10’s integration. Receive cleanly; the discernment can refine; pastoral 1:1 if the refinement is significant.**
 
-**The member whose spring was rougher than expected. A member articulates that Going Out did not produce what they hoped — burnout, family rupture, vocational crisis, mental-health surfacing. Receive without making it the cohort’s focus; pastoral 1:1 within 24 hours; the honest difficulty is data.**
+**The member whose Going Out was rougher than expected. A member articulates that Going Out did not produce what they hoped — burnout, family rupture, vocational crisis, mental-health surfacing. Receive without making it the cohort’s focus; pastoral 1:1 within 24 hours; the honest difficulty is data.**
 
 **The member whose Going Out produced calling clarity. A member articulates that Going Out produced unexpected clarity about a calling beyond the cohort — vocational shift, geographic move, formal ministry direction. Receive cleanly; pastoral support; the cohort holds the calling without rushing toward it.**
 
@@ -60,7 +60,7 @@ Week 10
 
 **Cross-cohort family material. A teen’s articulation about what Going Out formed may include parental dynamics; a parent’s articulation may include teen dynamics. Initials only; cross-cohort awareness held by Companions privately.**
 
-**The Wk 10 Discerner from Going Deeper whose calling has now been worked across the Going Out series. Their articulation may carry weight; the cohort’s spring has been partly shaped by their fall calling. Honour the integration without singling out.**
+**The Wk 10 Discerner from Going Deeper whose calling has now been worked across the Going Out series. Their articulation may carry weight; the cohort’s Going Out has been partly shaped by their Going Deeper calling. Honour the integration without singling out.**
 
 ## CRISIS CONTINGENCIES (Week 10)
 
@@ -94,7 +94,7 @@ The standing pair work tonight is substantive — 16 minutes per direction, the 
 
 **Dependencies**
 
-## From the entire spring
+## From the entire Going Out
 
 **•** All twelve weeks of Going Deeper (gift, shadow, calling, Wk 11 cohort assessment, H11.3 prompt 4 question).
 
@@ -132,7 +132,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **3.** Walk the run sheet. The pair work is the architectural centre tonight; team rehearses how to support pairs without intervening. (10 min)
 
-**4.** Special cases: members whose Going Out produced calling crisis; members whose spring revealed unfinished household work; senior teens in transition; the Wk 10 Discerner from Going Deeper whose calling has been worked through Going Out. (10 min)
+**4.** Special cases: members whose Going Out produced calling crisis; members whose Going Out revealed unfinished household work; senior teens in transition; the Wk 10 Discerner from Going Deeper whose calling has been worked through Going Out. (10 min)
 
 **5.** Crisis contingencies and pastoral / clinical backup confirmed. (3 min)
 
@@ -225,7 +225,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **•** Philippians 1:6 holds the middle ground. The work was BEGUN — something happened in the Going Out series that was real. The work is being BROUGHT to completion — it is in-process, not finished. The completion is at the DAY OF JESUS CHRIST — not tonight. Tonight’s integration articulates what Going Out contributed to a work that continues. Two errors to refuse: pretending the work is complete (it isn’t), and pretending the work didn’t happen (it did).
 
-**•** Hebrews 12 returns again. The race is set before us. The endurance is what carries us through. The looking-to-Jesus is the orientation. Spring’s integration engages what was formed for the race; the race continues for years and decades.
+**•** Hebrews 12 returns again. The race is set before us. The endurance is what carries us through. The looking-to-Jesus is the orientation. Going Out’s integration engages what was formed for the race; the race continues for years and decades.
 
 ## The five integration domains
 
@@ -237,7 +237,7 @@ Forty-eight hours before Wk 10, the Companion team meets for sixty minutes.
 
 **FOUR — THIRD-PLACE / MISSIONAL (Wks 7–9). Where did the cohort’s discernment land for you specifically? What was the cost? What did you say yes / no / limited to?**
 
-**FIVE — THE FALL’S H11.3 QUESTION. The question you carried into Going Out — has it shifted, deepened, intensified, resolved, faded? What is its current shape?**
+**FIVE — THE Going Deeper’S H11.3 QUESTION. The question you carried into Going Out — has it shifted, deepened, intensified, resolved, faded? What is its current shape?**
 
 *“Tonight you walk these five domains in 10 minutes of silent writing, then in 32 minutes of pair work. The pair partner walks the trajectory with you, asking for specifics where summary appears. The cohort circle hears patterns at the close.”*
 
@@ -315,7 +315,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 *“Wk 11 next Tuesday engages cohort-level integration. Where did the BODY land as a body across the Going Out series? Honest assessment.”*
 
-*“In Going Deeper Wk 11, the cohort did honest five-level assessment using Vol 2’s group taxonomy. Wk 11 of spring scales the same architecture: where is the cohort now, having walked Going Deeper plus Going Out, and what does the cohort’s honest landing reveal?”*
+*“In Going Deeper Wk 11, the cohort did honest five-level assessment using Vol 2’s group taxonomy. Wk 11 of Going Out scales the same architecture: where is the cohort now, having walked Going Deeper plus Going Out, and what does the cohort’s honest landing reveal?”*
 
 *“This week’s standing-pair check-in: ‘Where do I sense the cohort as a whole landed, looking back across the Going Out series?’ Bring a working assessment to Wk 11. The cohort weighs together; the body discerns its own honest landing.”*
 
@@ -347,7 +347,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 ## Adjustments
 
-**Junior teens often integrate spring concretely — specific friend dynamics, specific household moments, specific witness experiences. Concrete is appropriate; the abstracting comes later.**
+**Junior teens often integrate Going Out concretely — specific friend dynamics, specific household moments, specific witness experiences. Concrete is appropriate; the abstracting comes later.**
 
 **Watch for: junior teens whose integration reveals difficult parental dynamics. Cross-cohort awareness; pastoral conversation outside the session.**
 
@@ -359,11 +359,11 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 ## Adjustments
 
-**Senior teens often integrate spring with the upcoming transition (graduation, college, post-graduation work) as the dominant frame. Receive cleanly; the integration is real even when colored by transition.**
+**Senior teens often integrate Going Out with the upcoming transition (graduation, college, post-graduation work) as the dominant frame. Receive cleanly; the integration is real even when colored by transition.**
 
 **Watch for: the senior whose integration surfaces vocational clarity that has firmed across the Going Out series. Pastoral 1:1 to walk what is unfolding.**
 
-**Watch for: the senior whose integration reveals that the cohort’s spring shape did not fit them — they engaged the architecture but the formation went elsewhere. Honour the honesty; Going Out’s shape isn’t for everyone in equal measure.**
+**Watch for: the senior whose integration reveals that the cohort’s Going Out shape did not fit them — they engaged the architecture but the formation went elsewhere. Honour the honesty; Going Out’s shape isn’t for everyone in equal measure.**
 
 **Watch for: the senior whose Wk 10 Discerner role from Going Deeper has now produced calling clarity that feels significant. Pastoral support; spiritual-direction beyond the cohort if welcomed.**
 
@@ -371,7 +371,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 ## Adjustments
 
-**Parents often integrate spring across multiple domains simultaneously — household, vocational, third-place, missional, plus the parent’s own continuing formation work.**
+**Parents often integrate Going Out across multiple domains simultaneously — household, vocational, third-place, missional, plus the parent’s own continuing formation work.**
 
 **Watch for: the parent whose integration reveals significant household work still unfinished. Pastoral 1:1 if welcomed; the long obedience continues past the Going Out series.**
 
@@ -379,7 +379,7 @@ Lead Companion frame for the surfacing block: "We are not surfacing a single sha
 
 **Watch for: the parent whose teen’s integration involves them. Cross-cohort awareness; pastoral conversation outside the session.**
 
-**Watch for: the parent whose integration reveals genuine spring-produced fruit in family-of-origin material that has been long-running. Honour without rushing toward closure; the long obedience continues.**
+**Watch for: the parent whose integration reveals genuine Going Out-produced fruit in family-of-origin material that has been long-running. Honour without rushing toward closure; the long obedience continues.**
 
 **Closing Practice in Detail**
 
@@ -527,7 +527,7 @@ Where are you sent at the close of the Going Out series that you were not sent i
 
 **What Philippians 1:6 holds**
 
-## THE WORK WAS BEGUN. Something happened across the Going Out series (and across fall before it). The work is real; the verse honors what the formation arc produced.
+## THE WORK WAS BEGUN. Something happened across the Going Out series (and across Going Deeper before it). The work is real; the verse honors what the formation arc produced.
 
 **THE WORK IS IN PROCESS. The work is being brought to completion; the verb is continuous. The work continues through the long obedience.**
 

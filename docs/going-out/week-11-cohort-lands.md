@@ -76,7 +76,7 @@ Week 11
 
 **If a parent’s assessment surfaces material involving their teen’s formation that crosses pastoral thresholds: cross-cohort pastoral conversation outside the session; mandatory-reporting law applies if appropriate.**
 
-**If the cohort’s honest landing is significantly lower than members had hoped: receive cleanly; the disappointment is data; pastoral support; the long obedience continues. Spring’s formation is real even when the cohort lands lower than expected.**
+**If the cohort’s honest landing is significantly lower than members had hoped: receive cleanly; the disappointment is data; pastoral support; the long obedience continues. Going Out’s formation is real even when the cohort lands lower than expected.**
 
 **Default. Section 6 of the Going Deeper Handbook v1.1.**
 
@@ -86,7 +86,7 @@ Week 11
 
 MSFIG names a five-level taxonomy for groups: Social Fellowship (Level 1); Information Sharing (Level 2); Genuine Care (Level 3); Hearing as Body (Level 4); Sent as Body (Level 5). Most groups never move beyond Level 2; Level 3 is significant; Level 4 is rare and requires sustained corporate practice; Level 5 is exceptional and usually emerges from Level 4 over time. The taxonomy is the working frame for tonight’s honest cohort assessment.
 
-Going Deeper Wk 11 walked the cohort through the taxonomy honestly at the close of Going Deeper. The honest assessment then was the foundation for Going Out’s spring — the cohort started where it actually landed, not where it imagined itself to be. Tonight repeats the architecture, this time across the full formation arc (Going Deeper plus Going Out). Same structure, deeper engagement: how did the body of cohort members actually develop across two formal series, plus the interlude practice between?
+Going Deeper Wk 11 walked the cohort through the taxonomy honestly at the close of Going Deeper. The honest assessment then was the foundation for Going Out’s Going Out — the cohort started where it actually landed, not where it imagined itself to be. Tonight repeats the architecture, this time across the full formation arc (Going Deeper plus Going Out). Same structure, deeper engagement: how did the body of cohort members actually develop across two formal series, plus the interlude practice between?
 
 The cohort split tonight is honest — each developmental cohort assesses within its own peer group first, because experiences of the body differ across cohorts. Junior teens experienced the cohort’s shared circle and their own cohort’s smaller circle differently than parents did; senior teens at the threshold of leaving experienced the body differently than parents who will likely continue. The merge integrates the three cohort assessments into one body-level reading honestly.
 
@@ -102,7 +102,7 @@ Wk 12 next Tuesday closes the formal series with sending. Tonight’s honest lan
 
 **•** Going Deeper Wk 12 sending into the interlude.
 
-**•** All twelve weeks of Going Out spring.
+**•** All twelve weeks of Going Out Going Out.
 
 **•** Wk 10 individual integration; the body of integrations is the substrate for tonight’s body-level reading.
 
@@ -146,7 +146,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **•** Print the Vol 2 Five-Level Taxonomy Reference (H11.2) — one per participant. Detailed criteria for each level.
 
-**•** Print the Going Deeper Wk 11 Comparison Card (H11.3) — one per participant. Brief reminder of fall reading; spring extension framework.
+**•** Print the Going Deeper Wk 11 Comparison Card (H11.3) — one per participant. Brief reminder of Going Deeper reading; Going Out extension framework.
 
 **•** Print the Between-Session card (H11.4) — one per participant. Wk 12 prep included.
 
@@ -276,7 +276,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 ## Cohort Companion script (60 sec)
 
-*“Our cohort’s articulation. We landed on \_\_\_\_\_. The supporting data: \_\_\_\_\_. The honest divergence (if any): \_\_\_\_\_. The honest comparison to Going Deeper Wk 11: confirms / refines / reveals fall was generous / reveals fall was harsh.”*
+*“Our cohort’s articulation. We landed on \_\_\_\_\_. The supporting data: \_\_\_\_\_. The honest divergence (if any): \_\_\_\_\_. The honest comparison to Going Deeper Wk 11: confirms / refines / reveals Going Deeper was generous / reveals Going Deeper was harsh.”*
 
 *“Each of you, briefly: ONE sentence about how this articulation lands in you. Confirm; gentle dissent; partial agreement. The cohort’s articulation is not unanimous — it is the cohort’s working consensus held with honest range.”*
 
@@ -306,7 +306,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 *(The Lead Companion names the body’s integrated level honestly. Specific. Drawn from the three cohort assessments. May acknowledge tension where the cohorts genuinely diverge.)*
 
-*“How it compares to Going Deeper Wk 11. Going Deeper landing: \_\_\_\_\_. Spring landing: \_\_\_\_\_. The honest movement across the formation arc: \_\_\_\_\_.”*
+*“How it compares to Going Deeper Wk 11. Going Deeper landing: \_\_\_\_\_. Going Out landing: \_\_\_\_\_. The honest movement across the formation arc: \_\_\_\_\_.”*
 
 *“Two or three voluntary contributions: does this integration ring true to you about us?”*
 
@@ -496,7 +496,7 @@ Four handouts for Wk 11.
 
 **Comparison to Going Deeper Wk 11**
 
-Going Deeper landing was: \_\_\_\_\_\_\_\_\_\_\_ Spring extends fall how: confirms / refines / reveals fall was generous / reveals fall was harsh: \_\_\_\_\_\_\_\_\_\_\_
+Going Deeper landing was: \_\_\_\_\_\_\_\_\_\_\_ Going Out extends Going Deeper how: confirms / refines / reveals Going Deeper was generous / reveals Going Deeper was harsh: \_\_\_\_\_\_\_\_\_\_\_
 
 **Handout H11.2 — Vol 2 Five-Level Taxonomy Reference**
 
@@ -550,27 +550,27 @@ Most cohorts that have done a year of structured formation work land at Level 3 
 
 **Handout H11.3 — Going Deeper Wk 11 Comparison Card**
 
-*Brief reminder of Going Deeper Wk 11’s honest assessment from fall, with Going Out extension framework.*
+*Brief reminder of Going Deeper Wk 11’s honest assessment from Going Deeper, with Going Out extension framework.*
 
 **Going Deeper Wk 11 — Going Deeper reading**
 
-At fall close, the cohort assessed honestly using the same five-level taxonomy. The cohort’s landing then is the foundation; tonight’s assessment extends across the full year.
+At Going Deeper close, the cohort assessed honestly using the same five-level taxonomy. The cohort’s landing then is the foundation; tonight’s assessment extends across the full year.
 
-Your fall landing was: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Your Going Deeper landing was: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (Refer to your H11.3 from Going Deeper Wk 11 if you have it; or to your standing-pair partner who shared the assessment with you.)
 
-**Spring extension framework**
+**Going Out extension framework**
 
 ## Four possibilities
 
-**CONFIRMS. Fall reading + spring confirmation = body landed where it landed in fall, plus spring solidified.**
+**CONFIRMS. Going Deeper reading + Going Out confirmation = body landed where it landed in Going Deeper, plus Going Out solidified.**
 
-**REFINES. Fall reading + spring refinement = body landed slightly differently than fall named, with specific clarifications.**
+**REFINES. Going Deeper reading + Going Out refinement = body landed slightly differently than Going Deeper named, with specific clarifications.**
 
-**REVEALS FALL WAS GENEROUS. Spring revealed that fall’s landing was higher than honest data supports. The body has been at a lower level than fall imagined.**
+**REVEALS Going Deeper WAS GENEROUS. Going Out revealed that Going Deeper’s landing was higher than honest data supports. The body has been at a lower level than Going Deeper imagined.**
 
-**REVEALS FALL WAS HARSH. Spring revealed that fall’s landing was lower than honest data supports. The body has been at a higher level than fall imagined.**
+**REVEALS Going Deeper WAS HARSH. Going Out revealed that Going Deeper’s landing was lower than honest data supports. The body has been at a higher level than Going Deeper imagined.**
 
 **What honest movement looks like**
 

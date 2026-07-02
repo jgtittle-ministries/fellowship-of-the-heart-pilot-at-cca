@@ -438,7 +438,7 @@ Forty-eight hours before Wk 8, the Companion team meets for sixty minutes.
 
 ## Adjustments
 
-**Parents often hear the cohort’s long-term arc — what has shifted across Getting Started-and-fall journey, what has stayed stuck, what is just beginning to form. The Lead Companion gives parental contributions weight without imposing them on the body’s weighing.**
+**Parents often hear the cohort’s long-term arc — what has shifted across the Getting-Started-and-Going-Deeper journey, what has stayed stuck, what is just beginning to form. The Lead Companion gives parental contributions weight without imposing them on the body’s weighing.**
 
 **Watch for: the parent whose contribution is the same generational projection in reverse (‘God is saying our young people have to \_\_\_\_\_’). Same redirect.**
 

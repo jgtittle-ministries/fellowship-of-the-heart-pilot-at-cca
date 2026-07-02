@@ -104,7 +104,7 @@ The bridge to what continues is honest. Some members will continue to Going Deep
 
 **•** Going Deeper Wk 12 sending into the interlude — the architectural template for ceremonial closing.
 
-**•** All of Going Out spring.
+**•** All of Going Out Going Out.
 
 **•** Wks 10–11’s integration work — individual integration; cohort-level honest assessment.
 
@@ -513,7 +513,7 @@ The team meets the day after Wk 12 for a 90-minute debrief (longer because of th
 
 **•** The team’s pastoral availability extends 30 days post-Wk 12. Schedule follow-up rhythm for the team’s own check-ins across that window.
 
-**•** Document what worked and what didn’t across the formation arc for future cohort cycles. The pilot edition has been a working text; spring revisions inform what becomes the next version.
+**•** Document what worked and what didn’t across the formation arc for future cohort cycles. The pilot edition has been a working text; Going Out revisions inform what becomes the next version.
 
 **Handouts**
 

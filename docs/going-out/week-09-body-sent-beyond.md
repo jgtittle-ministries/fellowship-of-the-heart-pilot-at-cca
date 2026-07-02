@@ -388,7 +388,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **Watch for: the senior whose sending will be brief or partial because of upcoming graduation or move. The architecture honors the brief participation as real; the senior’s sending continues into their next context.**
 
-**Watch for: the senior whose sending intersects with the Wk 10 Discerner role from Going Deeper. The continuity across the formation arc is real; the laying-on-of-hands tonight may be a confirmation of what fall began.**
+**Watch for: the senior whose sending intersects with the Wk 10 Discerner role from Going Deeper. The continuity across the formation arc is real; the laying-on-of-hands tonight may be a confirmation of what Going Deeper began.**
 
 **Watch for: the senior whose cost-walking revealed parental ambiguity about the engagement. Cross-cohort pastoral conversation; the architecture protects the senior’s discernment.**
 
@@ -582,7 +582,7 @@ Going Deeper formed; Going Out sends. The body is now sent into whatever Wk 8 co
 
 ## THE CLOUD OF WITNESSES — the cohort itself, plus all those sent before us across decades and millennia. The body that laid hands on us tonight is part of a much larger cloud.
 
-**LAYING ASIDE EVERY WEIGHT, AND SIN WHICH CLINGS SO CLOSELY — the cost-walking work of tonight; the honest yes/no/limited that frees the body. Going Deeper’s confession work (Going Deeper Wk 5) freed the body for spring; Going Out’s cost-walking frees the body for the long obedience.**
+**LAYING ASIDE EVERY WEIGHT, AND SIN WHICH CLINGS SO CLOSELY — the cost-walking work of tonight; the honest yes/no/limited that frees the body. Going Deeper’s confession work (Going Deeper Wk 5) freed the body for Going Out; Going Out’s cost-walking frees the body for the long obedience.**
 
 **LET US RUN WITH ENDURANCE THE RACE THAT IS SET BEFORE US — the long obedience after sending. The race is what each of us is now sent into. The endurance is what carries us through the years that follow tonight.**
 

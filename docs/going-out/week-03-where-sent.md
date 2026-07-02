@@ -20,7 +20,7 @@ Week 3
 
 **Quick Reference Card**
 
-*Print this page on cardstock. Two copies in the room. Wk 3 closes the body-sent block. The cohort splits; each member articulates a specific sent-context drawing on fall’s gift / shadow / calling work and the past two weeks’ witness emergence; the cohort merges to share.*
+*Print this page on cardstock. Two copies in the room. Wk 3 closes the body-sent block. The cohort splits; each member articulates a specific sent-context drawing on Going Deeper’s gift / shadow / calling work and the past two weeks’ witness emergence; the cohort merges to share.*
 
 ## WEEK 3 — WHERE AM I BEING SENT (90 minutes)
 
@@ -46,11 +46,11 @@ Week 3
 
 **Vague sent-context. ‘I am sent to be a better Christian.’ ‘I am sent to love people.’ These are not specific enough to do work. Cohort Companion redirects gently: ‘Specific. A relational world. A vocational context. A service rhythm. Where, exactly, this season?’**
 
-**Manufactured clarity. The cohort’s structure can produce social pressure to have a sentence ready when the Spirit has not yet given one. Honest absence of clarity is real data. Re-frame: ‘If you do not yet have a specific sent-context, your spring is the discernment itself. Name the question; the cohort holds it.’**
+**Manufactured clarity. The cohort’s structure can produce social pressure to have a sentence ready when the Spirit has not yet given one. Honest absence of clarity is real data. Re-frame: ‘If you do not yet have a specific sent-context, your Going Out is the discernment itself. Name the question; the cohort holds it.’**
 
 **Senior-teen vocational projection. A senior teen names a sent-context that is actually their parent’s vocational projection (‘I’m sent to study medicine to help people’, when the medicine framing is the parent’s, not the teen’s). Cohort Companion notices; pastoral 1:1 outside the session.**
 
-**Parent re-deployment of fall calling. A parent’s Wk 10 Discerner role from Going Deeper sometimes becomes a default sent-context for spring. Receive cleanly; ALSO check whether Going Out’s sent-context is the same calling integrated, or whether Going Out is meant to engage a different specific.**
+**Parent re-deployment of Going Deeper calling. A parent’s Wk 10 Discerner role from Going Deeper sometimes becomes a default sent-context for Going Out. Receive cleanly; ALSO check whether Going Out’s sent-context is the same calling integrated, or whether Going Out is meant to engage a different specific.**
 
 **Cross-cohort overlap. A parent’s sent-context and their teen’s sent-context may overlap (a parent sent to family-of-origin while their teen is sent to extended family). Cross-cohort awareness held by Companions; not adjudicated in the cohort space.**
 
@@ -58,7 +58,7 @@ Week 3
 
 **Sent-context that is performative. ‘I’m sent to lead a small group at church’ sometimes carries performative weight more than Spirit’s movement. Distinguish without judging.**
 
-**Member whose H11.3 question doesn’t map to a sent-context. Some questions are interior (about identity, healing, formation); some are clearly missional. A Wk 11 question that surfaces an interior question may not produce a sent-context tonight; that is honest data. Re-frame: ‘Your spring is the question itself; the sent-context may emerge later or in a different season.’**
+**Member whose H11.3 question doesn’t map to a sent-context. Some questions are interior (about identity, healing, formation); some are clearly missional. A Wk 11 question that surfaces an interior question may not produce a sent-context tonight; that is honest data. Re-frame: ‘Your Going Out is the question itself; the sent-context may emerge later or in a different season.’**
 
 ## CRISIS CONTINGENCIES (Week 3)
 
@@ -82,7 +82,7 @@ Week 3
 
 Going Out Wk 1 reopened the cohort and named the four-block architecture. Wk 2 named the theology of being sent. Wk 3 makes it specific: each member articulates WHERE Going Out’s witness is being directed in their actual life this season.
 
-This is the third movement of a three-week sequence the cohort has been walking. Wk 1 surfaced the interlude landings and the H11.3 questions. Wk 2 named the body’s sent identity and produced first witness data through the outside-cohort Tells. Wk 3 integrates: gift and shadow from Going Deeper Wk 9; calling integration from Going Deeper Wk 10; the H11.3 question from Going Deeper Wk 11; the witness data from the past two weeks of spring. From these inputs, each member articulates ONE working sentence.
+This is the third movement of a three-week sequence the cohort has been walking. Wk 1 surfaced the interlude landings and the H11.3 questions. Wk 2 named the body’s sent identity and produced first witness data through the outside-cohort Tells. Wk 3 integrates: gift and shadow from Going Deeper Wk 9; calling integration from Going Deeper Wk 10; the H11.3 question from Going Deeper Wk 11; the witness data from the past two weeks of Going Out. From these inputs, each member articulates ONE working sentence.
 
 The discipline is specificity. ‘I am sent to be a better Christian’ is not specific. ‘I am sent to my workplace’ is closer. ‘I am sent to my workplace, specifically to my colleague J. and to the way our team navigates the project that comes due in May, with the witness being the way I hold honesty under pressure’ — that is specific. The Spirit’s sending tends to be specific; vague sending often masks avoidance or premature closure.
 
@@ -110,9 +110,9 @@ The cohort split allows each cohort space to handle the developmental texture of
 
 Each Companion does three things this week.
 
-First — write your OWN spring sent-context sentence. Use the architecture you will teach tonight. Notice where the writing is hard, where it surfaces avoidance, where it produces clarity. Bring the sentence to the team meeting.
+First — write your OWN Going Out sent-context sentence. Use the architecture you will teach tonight. Notice where the writing is hard, where it surfaces avoidance, where it produces clarity. Bring the sentence to the team meeting.
 
-Second — review your cohort’s members one by one, with what you know of each: their gift, their shadow, their fall calling work, their H11.3 question, their past two weeks’ Tells. For each, write a brief private note: where do you sense the Spirit may be sending them in Going Out? You will NOT share this in the cohort space tonight; the discipline is your own discernment of what each member is bringing.
+Second — review your cohort’s members one by one, with what you know of each: their gift, their shadow, their Going Deeper calling work, their H11.3 question, their past two weeks’ Tells. For each, write a brief private note: where do you sense the Spirit may be sending them in Going Out? You will NOT share this in the cohort space tonight; the discipline is your own discernment of what each member is bringing.
 
 Third — sit with Acts 13:1–3 for 15 minutes. Notice the architecture: the body worshipping and fasting; the Spirit speaking; specific naming (‘Barnabas and Saul for the work to which I have called them’). The body discerns specific sending; the body confirms; the body sends. Tonight’s architecture is the same shape, with each member as the discerner.
 
@@ -132,7 +132,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **6.** Crisis contingencies and pastoral / clinical backup confirmed. (5 min)
 
-**7.** Pray for each cohort member by name; specifically pray for the Spirit to show each member their spring’s sent-context with both clarity and humility. (5 min)
+**7.** Pray for each cohort member by name; specifically pray for the Spirit to show each member their Going Out’s sent-context with both clarity and humility. (5 min)
 
 **Logistics pre-work**
 
@@ -225,7 +225,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **•** Notice the architecture. The body is gathered — named individuals, ordinary work of worshipping and fasting. The Spirit speaks specifically — ‘Barnabas and Saul for the work to which I have called them.’ Specificity is the Spirit’s default mode. The body confirms (more fasting and praying). The body sends — hands laid on, then released.
 
-**•** In Going Deeper Wk 10, ONE Discerner walked this architecture for an emerging calling. Tonight, EACH cohort member walks the architecture for a spring sent-context. Not as cataclysmic as a missional commissioning; the same shape, scaled to a season.
+**•** In Going Deeper Wk 10, ONE Discerner walked this architecture for an emerging calling. Tonight, EACH cohort member walks the architecture for a Going Out sent-context. Not as cataclysmic as a missional commissioning; the same shape, scaled to a season.
 
 **•** The cohort split tonight is so each member has cohort-specific room to walk the architecture with peers facing similar developmental textures. The merge at the close brings the body together to receive the named contexts as a body.
 
@@ -245,7 +245,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 ## Cohort Companion script (90 sec)
 
-*“Twelve minutes of silent writing. H3.1 has the worksheet. Use H3.3’s cross-reference card if helpful — it maps your gift, shadow, fall calling, H11.3 question, and past two weeks’ Tells to a sent-context.”*
+*“Twelve minutes of silent writing. H3.1 has the worksheet. Use H3.3’s cross-reference card if helpful — it maps your gift, shadow, Going Deeper calling, H11.3 question, and past two weeks’ Tells to a sent-context.”*
 
 *“The sentence has the form: ‘In Going Out I am sent to \_\_\_\_, with the witness being \_\_\_\_\_.’ Specific. A place, a relational world, a vocational context. A specific quality of witness — honesty under pressure, presence in suffering, costly truth-telling, gentle resistance, faithful presence in absence.”*
 
@@ -299,7 +299,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 ## Lead Companion script
 
-*“Three flip charts. Three cohorts. The body of spring sent-contexts. Let me read what surfaced — not every sentence, but the patterns I see.”*
+*“Three flip charts. Three cohorts. The body of Going Out sent-contexts. Let me read what surfaced — not every sentence, but the patterns I see.”*
 
 *(Lead Companion stands by the three flip charts; reads briefly across them; names 3–5 patterns. Specific.)*
 
@@ -357,7 +357,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **Watch for: the senior whose sent-context is in tension with parent expectations. The cohort space holds the senior’s discernment; cross-cohort pastoral support if needed.**
 
-**Watch for: the senior who carries the Wk 10 Discerner role from Going Deeper and whose spring sent-context is the integration of that calling. Honour cleanly.**
+**Watch for: the senior who carries the Wk 10 Discerner role from Going Deeper and whose Going Out sent-context is the integration of that calling. Honour cleanly.**
 
 **Watch for: the senior whose sent-context is performative — named to land well in the cohort. Cohort Companion notices privately; pastoral 1:1 outside the session.**
 
@@ -471,15 +471,15 @@ My gift: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Naturally leans toward: \_\_\_
 
 **Input 2 — Your shadow**
 
-From Going Deeper Wk 9. The shadow direction the gift takes when used wrongly or under stress. What is the risk in your spring sending?
+From Going Deeper Wk 9. The shadow direction the gift takes when used wrongly or under stress. What is the risk in your Going Out sending?
 
 Shadow direction: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Risk in sending: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Input 3 — Your calling integration (if applicable)**
 
-From Going Deeper Wk 10. If you were the Discerner or have an active calling from fall, name where it has landed.
+From Going Deeper Wk 10. If you were the Discerner or have an active calling from Going Deeper, name where it has landed.
 
-Calling: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Spring intersection: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Calling: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Going Out intersection: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Input 4 — Your H11.3 question**
 
@@ -521,7 +521,7 @@ Pattern: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Specifics: \_\_\_\_\_\_\_\_\_\
 
 **Tonight’s scaling**
 
-In Going Deeper Wk 10, ONE Discerner walked this architecture for an emerging calling. Tonight, EACH cohort member walks it for a spring sent-context. The scale is smaller — a season, not a cataclysmic missional commissioning. The shape is the same.
+In Going Deeper Wk 10, ONE Discerner walked this architecture for an emerging calling. Tonight, EACH cohort member walks it for a Going Out sent-context. The scale is smaller — a season, not a cataclysmic missional commissioning. The shape is the same.
 
 ## Differences from Wk 10’s architecture
 

@@ -66,7 +66,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 Eight to ten weeks have passed since Wk 10 of Getting Started closed with the family commissioning. The gap was deliberate — long enough for the rhythm card practices to either install or fail to install, short enough that the room’s memory has not faded. Tonight is the first time the room comes together as Going Deeper, with returning families plus new participants who completed the two-evening onboarding two weeks ago.
 
-The work tonight is re-installation. The four conditions of a real container (Vol 2 Exp 8) hold across breaks, but they have to be lived back into. The names of the people in the room are partly new. The depth that the summer reached has to be re-grounded before the harder work of Wk 2 forward becomes possible. Hebrews 12:1–2 is the new architectural anchor: ‘let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus.’ The verse names the entire arc — weight (the diagnostic work of Wks 2–3), sin (the confession work of Wk 5), endurance (the long-haul rhythm), looking to Jesus (the deeper God-Connect of Wks 6–8).
+The work tonight is re-installation. The four conditions of a real container (Vol 2 Exp 8) hold across breaks, but they have to be lived back into. The names of the people in the room are partly new. The depth that Getting Started reached has to be re-grounded before the harder work of Wk 2 forward becomes possible. Hebrews 12:1–2 is the new architectural anchor: ‘let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus.’ The verse names the entire arc — weight (the diagnostic work of Wks 2–3), sin (the confession work of Wk 5), endurance (the long-haul rhythm), looking to Jesus (the deeper God-Connect of Wks 6–8).
 
 The room tonight is also asked to recommit — not lightly, not with pressure, but with specificity. The Getting Started was an invitation. Going Deeper is opt-in by design. Each participant tonight names one specific way they are entering the next twelve weeks.
 
@@ -105,7 +105,7 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 1. Each Companion names what has held in their own rhythm across the interlude, and what has thinned. The team listens. (20 min)
 2. Each Companion names which clause of Hebrews 12:1–2 is most alive for them. (10 min)
-3. Family review — every family that completed summer is reviewed: confirmed for fall, declined, or unclear. Anyone in unclear status gets a personal call from the Lead Companion before Week 1. (20 min)
+3. Family review — every family that completed Getting Started is reviewed: confirmed for Going Deeper, declined, or unclear. Anyone in unclear status gets a personal call from the Lead Companion before Week 1. (20 min)
 4. New participant review — each new participant is briefly named: where they came from, who their onboarding anchor is, what the team is watching for in their first weeks. (15 min)
 5. Walk the run sheet for Week 1. Identify any moment a Companion is unsure about. (15 min)
 6. Pastoral / clinical backup confirmed. (5 min)
@@ -204,7 +204,7 @@ Co-Companion (parent cohort) leads this block. The teaching is brief; it is for 
 
 ## Script
 
-*“Two months ago, this room operated on four conditions. Some of you have not thought about them since the summer; some of you heard them named once, two weeks ago at onboarding. We are going to re-install them tonight, briefly, because everything else in Going Deeper depends on these four.”*
+*“Two months ago, this room operated on four conditions. Some of you have not thought about them since Getting Started; some of you heard them named once, two weeks ago at onboarding. We are going to re-install them tonight, briefly, because everything else in Going Deeper depends on these four.”*
 
 *“Safe. What is said here stays here. There are limits — we are required by law to act on certain disclosures involving harm — but inside those limits, what is said here stays here.”*
 
@@ -272,7 +272,7 @@ Lead Companion. Read the passage from the physical Bible. Then walk the clauses 
 
 *“We titled this series Going Deeper. Tonight I want to be honest about what ‘deeper’ actually requires. Three things.”*
 
-*“First — the work is harder than the summer. Getting Started ran the four Connects at the level of vocabulary and introduction. Going Deeper runs the actual diagnostic and therapeutic work — the four kinds of emotional knots, the lie at the root, confession in community, corporate listening prayer, calling discernment in the Antioch mode. Some of what surfaces will be harder than what surfaced in Getting Started. The team has expanded; pastoral and clinical backup is on call every session; the room is built for the harder work. But it will be harder.”*
+*“First — the work is harder than the opening series. Getting Started ran the four Connects at the level of vocabulary and introduction. Going Deeper runs the actual diagnostic and therapeutic work — the four kinds of emotional knots, the lie at the root, confession in community, corporate listening prayer, calling discernment in the Antioch mode. Some of what surfaces will be harder than what surfaced in Getting Started. The team has expanded; pastoral and clinical backup is on call every session; the room is built for the harder work. But it will be harder.”*
 
 *“Second — the room itself becomes part of the practice in a different way. In Getting Started, the room held space while individuals did interior work. In Going Deeper, the room IS doing interior work — corporate listening prayer at Week 7, the cohort hearing about itself at Week 8, communal calling discernment at Week 10. Vol 2 of IJH names a five-level taxonomy for groups. Most Getting Started cohorts ended somewhere between Level 2 and Level 3. Going Deeper aims at Level 3 to Level 4 — not as a target, as the natural arc of the work. We will name this honestly at Week 11.”*
 
@@ -310,7 +310,7 @@ Watch for: do not press anyone to declare a Connect tonight if they are not read
 
 ## Script
 
-*“Two things for this week. First — the rhythm card. The Daily / Weekly / Monthly practices resume tonight, with whatever shape they had at the close of summer. If they fell away across the interlude, that is fine. Begin again tomorrow morning. Returning is the practice.”*
+*“Two things for this week. First — the rhythm card. The Daily / Weekly / Monthly practices resume tonight, with whatever shape they had at the close of Getting Started. If they fell away across the interlude, that is fine. Begin again tomorrow morning. Returning is the practice.”*
 
 *“Second — your Connect pick from tonight. Across this week, attend to that Connect more carefully. If you picked Self — notice your interior more carefully than usual. If you picked God — PROAPT one short passage daily. If you picked Others — reach out to one person who knows your story. If you picked Mission — watch where you come most alive this week, and where you go small.”*
 
@@ -379,11 +379,11 @@ Tonight there is no cohort split. The whole room operates as one. Differentiatio
 
 - Parents may notice that their teen is in the same room — a different dynamic from Getting Started’s split cohorts. The Lead Companion briefly normalizes: ‘Tonight we are one circle; from Week 2 forward, we split.’
 - Watch for: parents who hover protectively over their teens during the interlude share. Gently signal — sometimes by physical placement before 7:00 — that parents and teens sit in their own area of the circle, not adjacent.
-- Parents whose teen isn’t continuing: warm contact within 48 hours. The continuing parent is a parent without their summer companion.
+- Parents whose teen isn’t continuing: warm contact within 48 hours. The continuing parent is a parent without their Getting Started companion.
 
 # **Closing Practice in Detail**
 
-Same three-layer pattern as summer: surface what landed, reaffirm the container, Aaronic blessing. Tonight the closing is intentionally short. The night is full but not heavy; over-extending the close would mute the recommitment moment.
+Same three-layer pattern as Getting Started: surface what landed, reaffirm the container, Aaronic blessing. Tonight the closing is intentionally short. The night is full but not heavy; over-extending the close would mute the recommitment moment.
 
 # **Between-Session Practice**
 

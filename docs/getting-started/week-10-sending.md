@@ -6,7 +6,7 @@ Week 10
 
 **Sending and Blessing**
 
-*Family commissioning, the integration of the four Connects, and the bridge to fall*
+*Family commissioning, the integration of the four Connects, and the bridge to Going Deeper*
 
 ![Dawn over the hills.](images/wk10-sending.jpg)
 
@@ -40,13 +40,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WATCH FOR (Week 10 specific risks)
 
-- Logistics overwhelm. Tonight has more moving parts than any prior session: extended start time, family members new to the room, food, blessing rehearsals, the commissioning itself, the survey, the bridge to fall. The team must not let logistics consume what should be a sacred close.
+- Logistics overwhelm. Tonight has more moving parts than any prior session: extended start time, family members new to the room, food, blessing rehearsals, the commissioning itself, the survey, the bridge to Going Deeper. The team must not let logistics consume what should be a sacred close.
 - Emotional flooding. Tears tonight are common, appropriate, and welcome — from teens, from parents, from Companions. Plan for this; do not be surprised by it.
 - The teen whose parent is not present. Some families will not have both parents in the room; some teens come from divorce, bereavement, or estrangement. Pre-plan with each affected family. The cohort may stand for the absent parent; a Co-Companion may stand in; or the teen may receive the community blessing without a family commissioning. Decide in advance, never on the night.
 - The blessing-as-performance. Some parents will arrive with prepared speeches that are too long, too polished, or too preachy. The form is one specific witnessed sentence — not a speech. Frame this twice before the commissioning.
 - The teen whose blessing for their parent surfaces unexpected family material. Honor it. Do not interpret. Pastoral 1:1 follow-up.
 - New family members in the room who do not have the eight weeks of context. They will feel the weight of the room without knowing where it came from. Brief them at the door; pair each unfamiliar guest with a familiar Companion at their table.
-- Going Deeper drift. Some families will be ready; some will be ambivalent; some will not continue. Tonight is a sending, not a recruiting pitch. Frame the bridge to fall briefly and clearly; let participants decide on their own time.
+- Going Deeper drift. Some families will be ready; some will be ambivalent; some will not continue. Tonight is a sending, not a recruiting pitch. Frame the bridge to Going Deeper briefly and clearly; let participants decide on their own time.
 - The tendency to overrun. The session is already extended to 120 minutes. Do not let it run to 150. The Lead Companion and the time-keeper hold the schedule.
 
 ## CRISIS CONTINGENCIES (Week 10)
@@ -67,7 +67,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Ten weeks ago this room was a cohort of strangers. Tonight it is a community that has done specific spiritual work together — the soil of the heart, telling the story, being known and knowing, confession and restoration, hearing God in scripture, the garden of the heart, naming the doubts, walking into what was prepared. The summer is a complete arc.
+Ten weeks ago this room was a cohort of strangers. Tonight it is a community that has done specific spiritual work together — the soil of the heart, telling the story, being known and knowing, confession and restoration, hearing God in scripture, the garden of the heart, naming the doubts, walking into what was prepared. The series is a complete arc.
 
 Tonight is the integration. The four Connects come together not as a curriculum but as a pattern of life, witnessed in front of family. The commissioning matters because it is the move from program to life: what was learned in this room now becomes how a family lives, with the community that walked Getting Started bearing witness.
 
@@ -316,7 +316,7 @@ After all family commissionings, the room is full of feeling. The reflection cir
 
 ## **Block 6 — Rhythm Card and Going Deeper Bridge (8:15–8:25, 10 min)**
 
-After the reflection, walk the long-term practice and bridge to fall. Brief, warm, no pressure. Distribute the Post-Series Survey for completion that week.
+After the reflection, walk the long-term practice and bridge to Going Deeper. Brief, warm, no pressure. Distribute the Post-Series Survey for completion that week.
 
 ## Script
 
@@ -324,7 +324,7 @@ After the reflection, walk the long-term practice and bridge to fall. Brief, war
 
 *“One: the Daily / Weekly / Monthly Rhythm Card. H10.3. This is what your between-session practice has been pointing toward all of Getting Started. Daily — the morning question and an evening journal note. Weekly — a brother or sister or family member who knows what you are working on. Monthly — a clearing time. The card has the practice in writing. Stick it on your bathroom mirror or your dashboard.”*
 
-*“Two: the Going Deeper bridge. H10.4. The Going Deeper series begins eight weeks from now — [date]. Twelve Tuesdays. We go deeper into what we touched lightly this summer. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
+*“Two: the Going Deeper bridge. H10.4. The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these ten weeks. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
 
 *“Three: the Post-Series Survey. H10.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
 
@@ -398,7 +398,7 @@ Same three-layer pattern, expanded for the family-level commissioning. The commu
 
 ## What we are practicing through the interlude
 
-- The Daily / Weekly / Monthly Rhythm Card (H10.3). This is the long-term practice the summer has been building toward.
+- The Daily / Weekly / Monthly Rhythm Card (H10.3). This is the long-term practice the series has been building toward.
 - Daily: morning question and evening journal note. Five minutes plus one to two minutes.
 - Weekly: one specific person who knows what you are working on. Could be your spouse, your cohort co-participant, your Companion, a friend from Getting Started. Coffee, walk, phone call — once a week.
 - Monthly: a clearing time. PROAPT a hard passage; a garden visit; a TPM or confession session if needed. Sustained, not rushed.
@@ -432,7 +432,7 @@ Companion team meets the day after Week 10 for a 60-minute debrief. This is the 
 - Any teen whose blessing surfaced significant material. Pastoral 1:1 within the week.
 - Any family with absent-parent situation — special check-in.
 - Anyone whose Post-Series Survey is not back by Friday — warm reminder.
-- The team itself. The team has done a hard, beautiful summer. Plan a celebration meal within ten days, separate from the official debrief.
+- The team itself. The team has done a hard, beautiful season of work. Plan a celebration meal within ten days, separate from the official debrief.
 
 ### **The longer reflection — for the team across the interlude**
 
@@ -573,11 +573,11 @@ The Aaronic blessing is the words God specifically gave Aaron and his sons to sp
 
 **Handout H10.4 — Going Deeper Bridge**
 
-*The Going Deeper series begins eight weeks from tonight. Twelve Tuesdays. We go deeper into what we touched lightly this summer. Decide on your own time.*
+*The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these ten weeks. Decide on your own time.*
 
 ### **What Going Deeper is**
 
-The Getting Started was an introduction to the four Connects — each one introduced briefly, with one or two practices per week. Going Deeper takes each of the four Connects and works it slowly, with the practices that go deeper than the summer could go.
+The Getting Started was an introduction to the four Connects — each one introduced briefly, with one or two practices per week. Going Deeper takes each of the four Connects and works it slowly, with the practices that go deeper than these ten weeks could go.
 
 Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-the-root, and the specific tools that release them. Others deepens into a real Band of Sisters / Band of Brothers structure with adult facilitation. God deepens through extended PROAPT, contemplative practices, and listening prayer in community. Mission deepens through specific gifts inventories, callings work, and individual mentoring.
 
@@ -590,7 +590,7 @@ Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-t
 
 ### **Who Going Deeper is not for (yet)**
 
-- People who did not complete the summer. Going Deeper assumes the four Connects are familiar.
+- People who did not complete the Getting Started series. Going Deeper assumes the four Connects are familiar.
 - Anyone in acute crisis. The Going Deeper series is formation, not therapy. Pastoral / clinical referrals are available; the team can help.
 - Anyone who feels coerced. Going Deeper is opt-in, by design.
 
@@ -611,7 +611,7 @@ Talk to a team member this week, or email us. There is no recruiting pressure he
 
 *Five questions, fifteen minutes, this week*
 
-*Your honest read on the summer. The next group of families benefits from your honesty. Email this back to the team by [date].*
+*Your honest read on the series. The next group of families benefits from your honesty. Email this back to the team by [date].*
 
 ### **Question 1**
 

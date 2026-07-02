@@ -96,9 +96,9 @@ The witness exercise (Block 5) makes the abstract concrete. Each member, briefly
 
 **•** Going Deeper Wk 9 (gifts and shadow). The gift each member named is the substrate of their witness; the shadow direction is the risk in their witness.
 
-**•** Going Deeper Wks 6–7 (PROAPT and corporate listening). The hearing capacity built in fall is what produces specific witness in Going Out — the Spirit’s movement toward a specific person, with a specific word, in a specific moment, can be heard because the cohort has been hearing for months.
+**•** Going Deeper Wks 6–7 (PROAPT and corporate listening). The hearing capacity built in Going Deeper is what produces specific witness in Going Out — the Spirit’s movement toward a specific person, with a specific word, in a specific moment, can be heard because the cohort has been hearing for months.
 
-**•** Going Deeper Wk 11 (cohort assessment). The Wk 11 honest assessment is the foundation of spring; the cohort’s witness-capacity is at the level the cohort actually reached, not above it.
+**•** Going Deeper Wk 11 (cohort assessment). The Wk 11 honest assessment is the foundation of Going Out; the cohort’s witness-capacity is at the level the cohort actually reached, not above it.
 
 **•** All Rhythm Card practices, especially the new H1.2 morning noticing question and weekly outside-cohort Tell.
 
@@ -248,7 +248,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 **WITNESS FROM PROGRAM. Programs are tools — a study, an event, a curriculum. Witness is identity — who the body is in the world. Programs serve witness; they do not substitute for it. A program-heavy church can have impoverished witness; a program-light church can have rich witness; the question is identity, not method.**
 
-**WITNESS FROM PERFORMANCE. Performance attempts to demonstrate something the witness already is. Authentic witness has nothing to prove; it is the natural overflow of what the Spirit has formed. Going Deeper’s formation work was specifically against performance — honest assessment, named shadow, real confession. Spring’s witness is the lived overflow of that honest formation.**
+**WITNESS FROM PERFORMANCE. Performance attempts to demonstrate something the witness already is. Authentic witness has nothing to prove; it is the natural overflow of what the Spirit has formed. Going Deeper’s formation work was specifically against performance — honest assessment, named shadow, real confession. Going Out’s witness is the lived overflow of that honest formation.**
 
 *“The practical question for the rest of Going Out: what kind of sent-body are we, specifically? What does our particular cohort’s witness look like, given what the Spirit has actually formed in us? Wk 3 next Tuesday begins the answer; tonight’s witness exercise gives us first data.”*
 
@@ -424,7 +424,7 @@ The team meets the day after Wk 2 for a 60-minute debrief.
 
 **•** A member’s Tell crossed into harm and was not followed up appropriately.
 
-**•** Multiple members reported nothing from the week — the practice has not yet rooted; spring needs more weeks of repetition.
+**•** Multiple members reported nothing from the week — the practice has not yet rooted; Going Out needs more weeks of repetition.
 
 **People to follow up with this week**
 
@@ -550,7 +550,7 @@ Honest. What got in the way — forgetting, no clear receiver, no moment, hesita
 
 **Performance attempts to demonstrate something the witness already is. Authentic witness has nothing to prove; it is the natural overflow of what the Spirit has formed.**
 
-**If you find yourself performing witness, return to the formation. Going Deeper named soils, knots, lies, gifts, shadow. Spring’s witness is the lived overflow of that honest formation. When the witness is forced, the formation needs renewed attention.**
+**If you find yourself performing witness, return to the formation. Going Deeper named soils, knots, lies, gifts, shadow. Going Out’s witness is the lived overflow of that honest formation. When the witness is forced, the formation needs renewed attention.**
 
 **Handout H2.4 — Between-Session Practice (Wk 2)**
 

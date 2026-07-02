@@ -507,7 +507,7 @@ The team meets the day after Wk 11 for a 90-minute debrief. The team’s relatio
 
 **•** If a specific team failure was named, the team commits to a specific repair conversation outside the session this week.
 
-**•** If the named level was inflated, Wk 12 commissions modestly. The cohort’s spring stretch is sustainable only on truthful foundations.
+**•** If the named level was inflated, Wk 12 commissions modestly. The cohort’s Going Out stretch is sustainable only on truthful foundations.
 
 **People to follow up with this week**
 
@@ -693,7 +693,7 @@ Going Out is the Going Out series. It will engage missional discernment, vocatio
 
 *Bring it to Wk 12. The Cohort Companion will use it during the re-commissioning architecture; you may share parts of it publicly or hold it privately. Either is honest.*
 
-*Sit with the page across the week before bringing it. The first draft is rarely the final answer; the question forming for spring may shift across the days as you walk.*
+*Sit with the page across the week before bringing it. The first draft is rarely the final answer; the question forming for Going Out may shift across the days as you walk.*
 
 **Handout H11.4 — Between-Session Practice (Wk 11)**
 
@@ -715,7 +715,7 @@ Going Out is the Going Out series. It will engage missional discernment, vocatio
 
 **If you are reconsidering whether to continue into Going Out**
 
-Honest discernment. Going Deeper has been one journey; spring is another. Some members will continue; some will not; both are honest. If you are reconsidering, brief warm contact with your Cohort Companion this week. The decision is yours; the team walks with you whichever direction you choose.
+Honest discernment. Going Deeper has been one journey; Going Out is another. Some members will continue; some will not; both are honest. If you are reconsidering, brief warm contact with your Cohort Companion this week. The decision is yours; the team walks with you whichever direction you choose.
 
 *From Philippians 1:6 — ‘He who began a good work in you will bring it to completion.’*
 

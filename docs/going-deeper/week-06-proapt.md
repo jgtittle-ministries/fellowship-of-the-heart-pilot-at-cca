@@ -82,7 +82,7 @@ Week 6
 
 Vol 1 Exp 1 of IJH names the Word→Hearing→Faith chain as the foundational hearing law of the entire project: 95% confidence. Romans 10:17 is the source. Word produces hearing; hearing produces faith. The chain is sequential, observable, and reversible — break the hearing step and faith starves; restore the hearing step and faith returns. PROAPT is the practical method by which a believer practices the hearing step daily.
 
-The summer taught PROAPT as a 6-step practice on short passages. P-R-O-A-P-T — Pray, Read, Observe, Apply, Pray, Tell. The summer practice ran in 8–10 minutes per session, on 5–7 verse passages, designed for daily-practice formation in the home environment. It worked: most cohorts reported by Getting Started’s Wk 6 that PROAPT had become a habit for at least three or four days a week.
+Getting Started taught PROAPT as a 6-step practice on short passages. P-R-O-A-P-T — Pray, Read, Observe, Apply, Pray, Tell. The Getting Started practice ran in 8–10 minutes per session, on 5–7 verse passages, designed for daily-practice formation in the home environment. It worked: most cohorts reported by Getting Started’s Wk 6 that PROAPT had become a habit for at least three or four days a week.
 
 Going Deeper extends PROAPT in two directions. First, longer passages — a full chapter of Romans, an entire psalm, a whole Gospel pericope. The longer passage requires sustained attention, multiple read-throughs, and a different relationship between Observe and Apply than the short passage demands. Second, the Tell step gets centred. Most PROAPT practitioners drop the Tell step within a few weeks of starting. ‘I heard what I heard; I journaled it; that’s enough.’ The Tell step — saying out loud, to a specific person, what was specifically heard — is the step that converts hearing into a habit and turns the believer into someone the Spirit speaks through, not just to.
 
@@ -126,7 +126,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **2.** Walk Vol 1 Exp 1 (Word→Hearing→Faith) and Vol 2 Exp 7 (PROAPT) together. Make sure the team has the same vocabulary the cohort circles will use. (10 min)
 
-**3.** Walk the passage choices. Romans 12 vs. Psalm 32. Decide together: do all three cohorts work the same passage, or does junior get one and senior/parent another? Most pilots default to: juniors and new participants get Psalm 32; senior teens and parents who completed summer get Romans 12. Confirm. (10 min)
+**3.** Walk the passage choices. Romans 12 vs. Psalm 32. Decide together: do all three cohorts work the same passage, or does junior get one and senior/parent another? Most pilots default to: juniors and new participants get Psalm 32; senior teens and parents who completed Getting Started get Romans 12. Confirm. (10 min)
 
 **4.** Walk the cross-cohort Tell pairings. The pairings are NOT pre-assigned; they’re self-chosen in the merge. But the Cohort Companions identify in advance any participant who would struggle to find a Tell partner naturally (a teen whose only natural cross-cohort person is their parent and that’s acute right now, a parent whose teen isn’t in the program). The team has a fallback option for each. (10 min)
 
@@ -250,7 +250,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **•** Vol 1 Exp 1 of IJH names what Paul names here. Word produces hearing; hearing produces faith. The chain is sequential, observable, and reversible — break the hearing step and faith starves; restore the hearing step and faith returns. This is the foundational hearing law of the entire IJH framework, the highest-confidence claim in the whole project (95%).
 
-**•** PROAPT is the practical method. The summer practiced PROAPT on short passages — 5 to 7 verses — in 8 to 10 minutes. That practice works for daily formation; it builds the habit of expecting the Spirit to speak specifically through Scripture.
+**•** PROAPT is the practical method. Getting Started practiced PROAPT on short passages — 5 to 7 verses — in 8 to 10 minutes. That practice works for daily formation; it builds the habit of expecting the Spirit to speak specifically through Scripture.
 
 **•** Tonight we extend the practice in two directions.
 
@@ -456,7 +456,7 @@ All three cohorts return to the main room. Chairs are loose; the geometry is ope
 
 ## Adjustments
 
-**Default passage: Romans 12 (or Psalm 32 if a senior asks). Senior teens who completed summer have done enough PROAPT to handle the longer text.**
+**Default passage: Romans 12 (or Psalm 32 if a senior asks). Senior teens who completed Getting Started have done enough PROAPT to handle the longer text.**
 
 **Full extended PROAPT structure: 25 minutes; three read-throughs; full Observe and Apply.**
 

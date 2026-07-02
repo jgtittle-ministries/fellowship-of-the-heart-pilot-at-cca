@@ -28,7 +28,7 @@ First: Going Out is about being sent into your *actual life* — your household,
 
 Second: not every calling looks the same, and the series is built to honor that honestly. When the cohort discerns together at Week 8 where each member is being sent, the honest landings are several — a deepening in the household, a vocational long obedience, a sustained third-place arc, a one-to-one accompaniment, a contemplative and largely hidden shape, and yes, sometimes a calling to gather a new formation group. These are not a hierarchy. The body that hears "stay and go deeper where you are" has heard just as truly as the body that hears "go and gather." The team's discipline is to hold all of these as equally real.
 
-Third: the specific calling to *start a new formation group* has its own follow-on. Going Out discerns and confirms that calling where it is present; it does not, by itself, equip it. The equipping — the spiritual-authority architecture, the leadership taxonomy, the first-session work — lives in the companion handbook **Inviting Others**, which runs after Going Out for those whose Week 8 discernment surfaced the group-starting direction. Keep the two distinct in your own mind and in the cohort's: Going Out is the spring volume every graduate walks; Inviting Others is the follow-on a few are called into.
+Third: the specific calling to *start a new formation group* has its own follow-on. Going Out discerns and confirms that calling where it is present; it does not, by itself, equip it. The equipping — the spiritual-authority architecture, the leadership taxonomy, the first-session work — lives in the companion handbook **Inviting Others**, which runs after Going Out for those whose Week 8 discernment surfaced the group-starting direction. Keep the two distinct in your own mind and in the cohort's: Going Out is the volume every graduate walks; Inviting Others is the follow-on a few are called into.
 
 Walk gently. The people in this room have given you two series of honest formation work. Going Out asks them to carry that work out the door into the rooms where they are most known and least able to perform — and that is harder, not easier, than the interior work was. Honor what they have given you by sending them honestly into what is actually theirs. The work itself is the Spirit's; we are the room He is using to confirm and send what He has already begun.
 
@@ -261,7 +261,7 @@ Going Out sends the cohort into a long obedience the team walks alongside for th
 
 ## Inviting Others — the follow-on
 
-For those whose Wk 8 discernment confirmed a calling to gather a new formation group, **Inviting Others** is the follow-on. It carries everything Going Out deliberately leaves out of the spring: the spiritual-authority architecture (individual spiritual direction outside CCA; a recognized group home), the Leader Level taxonomy, the referral discipline for a leader's own room, the first-session simulation, and the Antioch sending of new leaders. See the [Inviting Others handbook](inviting-others-handbook.md). It is not a fourth series in the arc; it is the equipping that meets a specific calling when the Spirit confirms one.
+For those whose Wk 8 discernment confirmed a calling to gather a new formation group, **Inviting Others** is the follow-on. It carries everything Going Out deliberately leaves out: the spiritual-authority architecture (individual spiritual direction outside CCA; a recognized group home), the Leader Level taxonomy, the referral discipline for a leader's own room, the first-session simulation, and the Antioch sending of new leaders. See the [Inviting Others handbook](inviting-others-handbook.md). It is not a fourth series in the arc; it is the equipping that meets a specific calling when the Spirit confirms one.
 
 ## Continuations
 
@@ -269,7 +269,7 @@ The other honored landings continue in their own shapes: the household season, t
 
 # Section 11 — Session-by-Session Sketch
 
-**Wk 1 — Welcome Back.** Reopen after the interlude. Three movements: honest gap-landing (each member named; what surfaced; what is alive now); Going Out's framing (what it is, how it differs from Going Deeper, the four blocks and the Acts 1:8 geography); re-engaged structures (standing pairs, refreshed Rhythm Card, the H1.2 practice begun). The team's discipline is restraint — land the cohort honestly; do not teach the whole spring tonight.
+**Wk 1 — Welcome Back.** Reopen after the interlude. Three movements: honest gap-landing (each member named; what surfaced; what is alive now); Going Out's framing (what it is, how it differs from Going Deeper, the four blocks and the Acts 1:8 geography); re-engaged structures (standing pairs, refreshed Rhythm Card, the H1.2 practice begun). The team's discipline is restraint — land the cohort honestly; do not teach the whole of Going Out tonight.
 
 **Wk 2 — The Body Sent.** Acts 2 and 1 Peter 2:9–10. Teach the corporate sent identity and the three distinctions (witness from evangelism / program / performance). The witness exercise makes it concrete: each member names one instance from the week's Tell where they were a witness, even if they did not name it as such at the time. The practice becomes data that informs Wk 3.
 
@@ -295,7 +295,7 @@ The other honored landings continue in their own shapes: the household season, t
 
 # Appendix A — Field Card: The Four Sent-Contexts and the Daily Tell
 
-*Print on cardstock; carry it through the spring.*
+*Print on cardstock; carry it through Going Out.*
 
 **The geography (Acts 1:8).** Immediate → close-to-home → far. The body witnesses where it stands first.
 

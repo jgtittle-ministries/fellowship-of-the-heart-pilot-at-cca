@@ -6,7 +6,7 @@
 
 The second of the three Fellowship of the Heart series. Twelve ninety-minute sessions for the cohort the Spirit has prepared to keep walking after Getting Started. The work shifts from introducing the Four Connects to the deeper labor those Connects make possible — naming the heart's knots, learning to confess and co-process inside a Safe-Present-Clear-Intentional container, hearing God together as a body, and beginning to read the cohort's own shadow and gift.
 
-These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the Personal Heart Journal, the Rhythm Card, the Family Conversation Cards — live in [`../shared/`](../shared/index.md) and continue from Getting Started.
+These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the [Personal Heart Journal](../shared/personal-heart-journal.md), the [Rhythm Card](../shared/rhythm-card.md), the [Family Conversation Cards](../shared/family-conversation-cards.md) — live in [Shared Materials](../shared/index.md) and continue from Getting Started.
 
 ---
 

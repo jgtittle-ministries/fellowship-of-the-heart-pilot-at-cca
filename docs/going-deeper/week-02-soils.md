@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 # **Quick Reference Card**
 
-*Print this page on cardstock. Two copies in the room. Week 2 is where the diagnostic work of Going Deeper actually begins. The summer touched the soils as a metaphor on its Wk 2; tonight they become a tool for naming what is happening in our interior right now.*
+*Print this page on cardstock. Two copies in the room. Week 2 is where the diagnostic work of Going Deeper actually begins. Getting Started touched the soils as a metaphor on its Wk 2; tonight they become a tool for naming what is happening in our interior right now.*
 
 ## WEEK 2 — THE SOILS RE-EXAMINED (90 minutes)
 
@@ -176,7 +176,7 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 ## **Block 3 — Mark 4:14–20 — The Parable as Diagnostic (7:13–7:30, 17 min)**
 
-Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from summer.
+Read the passage in full. Then walk Jesus’ own interpretation. Re-frame from Getting Started.
 
 ## Script (the read)
 
@@ -354,7 +354,7 @@ Each cohort circle works in parallel. The structure is identical.
 
 # **Closing Practice in Detail**
 
-Same three-layer pattern as summer: surface what landed, reaffirm the container, Aaronic blessing. Keep it short tonight; the cohort’s diagnostic work has done the heavy lifting and the closing should not over-process what was named.
+Same three-layer pattern as Getting Started: surface what landed, reaffirm the container, Aaronic blessing. Keep it short tonight; the cohort’s diagnostic work has done the heavy lifting and the closing should not over-process what was named.
 
 # **Between-Session Practice**
 

@@ -46,7 +46,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - The teen who maps trauma. Some teens will surface trauma material disguised as a knot. Receive without interpretation; pastoral / clinical referral within 48 hours. Section 6 of the handbook applies.
 - The parent who maps a knot tied to a specific person in the room. ‘My anger knot is about my husband, who is in the parent cohort.’ Cohort Companion: redirect to the interior reality (the anger is in you), not the relational adjudication. Pastoral 1:1 within the week if welcomed.
 - When a participant names anger at someone who hurt them, never let “release the claim / forgive” be heard as “reconcile” or “go back” — forgiveness is interior; trust and reunion are separate and depend on the other’s change. **If a minor names current or ongoing harm from a parent or caregiver, this is a safety matter, not a forgiveness exercise — follow Section 6 and the mandatory-reporting steps.**
-- The veteran-from-summer who treats this as a recap. Going Deeper is doing what Getting Started didn’t. The Wk 8 (summer) Any Doubts? practice was at most a glimpse of what tonight is naming. Reframe gently if needed.
+- The veteran of Getting Started who treats this as a recap. Going Deeper is doing what Getting Started didn’t. The Wk 8 (Getting Started) Any Doubts? practice was at most a glimpse of what tonight is naming. Reframe gently if needed.
 - The new participant whose two-evening onboarding didn’t cover the soil-and-knot architecture. Pair them with a veteran for the cohort exercise; the Cohort Companion floats nearby.
 - Tears are normal tonight. Naming a long-held knot for the first time produces tears. The cohort holds the tears; the team does not interpret them; the work continues at the participant’s pace.
 
@@ -431,7 +431,7 @@ Each cohort circle splits into pairs (this-week-only pairing; standing pairs com
 
 ## Adjustments
 
-- Full IJH language. Parents in this cohort have done the summer; the vocabulary is in place.
+- Full IJH language. Parents in this cohort have done Getting Started; the vocabulary is in place.
 - Pair turns are 15 minutes each.
 - Watch for: the parent whose named knot tracks back to family-of-origin material Getting Started didn’t reach. Receive without rushing. The naming may be heavier than expected. Pastoral 1:1 within the week.
 - Watch for: the parent who maps a knot tied to their teen’s recent behavior. Re-frame: ‘The knot is in YOU. The teen’s behavior is the trigger; the knot is yours.’

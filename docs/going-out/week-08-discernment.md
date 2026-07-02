@@ -50,7 +50,7 @@ Week 8
 
 **Activism collapse. The cohort defaults to a generic ‘let’s do something for [population in need]’ without specific Spirit-direction. The Acts 13 paradigm is specific (‘Barnabas and Saul for the work to which I have called them’), not generic. Tonight’s discernment, if it lands on a shared engagement, should be specific.**
 
-**Honest no. The cohort may discern that the Spirit is NOT calling them to a specific cohort-level engagement this season — each member is sent into their individual sent-context, and the cohort’s spring work is supporting one another’s individual engagements rather than launching a shared one. Lead Companion frames at the start: this is an honest possible outcome.**
+**Honest no. The cohort may discern that the Spirit is NOT calling them to a specific cohort-level engagement this season — each member is sent into their individual sent-context, and the cohort’s Going Out work is supporting one another’s individual engagements rather than launching a shared one. Lead Companion frames at the start: this is an honest possible outcome.**
 
 **The dominant voice. One or two members’ strong proposals dominate the contribution time, crowding out quieter voices. Lead Companion floats the room with attention; explicit invitations to specific cohorts (‘Junior teens, what surfaced for you in the pair conversation?’) at need.**
 
@@ -355,7 +355,7 @@ One reminder before we land. Landing 2 — each member into their individual sen
 
 **LANDING 1 — SPECIFIC SHARED ENGAGEMENT. The body has heard the Spirit naming a specific shared engagement (a defined population, a specific relational community, a particular work). Wk 9 walks the cost. The cohort prepares for sending in this engagement.**
 
-**LANDING 2 — INDIVIDUAL SENDING. The body has heard that there is no specific shared engagement this season; each member is sent into their individual sent-context, with the cohort’s spring work being mutual support and witness. Wk 9 prepares for individual sending; the cohort’s mission far is the aggregate of its individuals’ missions.**
+**LANDING 2 — INDIVIDUAL SENDING. The body has heard that there is no specific shared engagement this season; each member is sent into their individual sent-context, with the cohort’s Going Out work being mutual support and witness. Wk 9 prepares for individual sending; the cohort’s mission far is the aggregate of its individuals’ missions.**
 
 **LANDING 3 — CLARIFYING QUESTION. The body has heard that the question needs further work. A specific clarifying question the cohort carries. Wk 9 may revisit; the team’s pastoral attention engages the question across the week. Honest data; not failure.**
 

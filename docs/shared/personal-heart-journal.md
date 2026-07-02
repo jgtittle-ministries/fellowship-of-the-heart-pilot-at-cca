@@ -1850,7 +1850,7 @@ Week 10
 
 — Numbers 6:24–26 / Philippians 1:6 (ESV)
 
-*This week we close the summer with the family commissioning. Below is space for the blessing you prepare, the blessing you receive, and the rhythm you carry into the the interlude before Going Deeper begins.*
+*This week we close the series with the family commissioning. Below is space for the blessing you prepare, the blessing you receive, and the rhythm you carry into the interlude before Going Deeper begins.*
 
 ## My blessing for my parent / my teen
 
@@ -1946,7 +1946,7 @@ Monthly — a clearing time. When? Doing what?
 
 ## End-of-Getting-Started reflection
 
-What changed in you this summer that you did not expect?
+What changed in you in these ten weeks that you did not expect?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1966,7 +1966,7 @@ What is the place where the work has only just begun?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Who walked beside you this summer that you want to thank? Have you told them?
+Who walked beside you in these ten weeks that you want to thank? Have you told them?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

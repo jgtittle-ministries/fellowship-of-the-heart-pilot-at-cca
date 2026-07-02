@@ -133,7 +133,7 @@ This is also why isolated spirituality — even the disciplined kind — has lim
 
 ### If your weekly partner falls away
 
-Some weekly partnerships last three months; some last thirty years. The summer team can help you find the next one if a weekly partner moves, takes a sabbatical, or just falls away. Email or call. Do not let the practice die because the partnership did.
+Some weekly partnerships last three months; some last thirty years. The team can help you find the next one if a weekly partner moves, takes a sabbatical, or just falls away. Email or call. Do not let the practice die because the partnership did.
 
 ## Sabbath rhythm (one day a week)
 

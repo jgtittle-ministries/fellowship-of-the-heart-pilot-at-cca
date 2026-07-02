@@ -64,7 +64,7 @@ Going Deeper is not a sequel. It is the second movement of a longer arc that beg
 
 Three things you should know before you read further.
 
-First: most participants in Going Deeper will have done the summer; some will be new. The handbook addresses both. New participants — friends and family of Getting Started families, teens whose parent isn’t continuing, parents whose teen isn’t — are explicitly welcomed. Section 7 is the onboarding architecture for them.
+First: most participants in Going Deeper will have done Getting Started; some will be new. The handbook addresses both. New participants — friends and family of Getting Started families, teens whose parent isn’t continuing, parents whose teen isn’t — are explicitly welcomed. Section 7 is the onboarding architecture for them.
 
 Second: the work in Going Deeper is harder than the work of Getting Started. Getting Started ran the four Connects at the level of vocabulary and introductory practice. Going Deeper runs the diagnostic and therapeutic work of Vol 2 — the four kinds of emotional knots, the lie at the root, confession in community, corporate listening prayer, calling discernment in the Acts 13 mode. The container has to be sturdier; the team has to be sturdier; the pastoral / clinical backup has to be confirmed in advance for every session.
 
@@ -403,7 +403,7 @@ So this section is *terminal* and no Companion needs a second document in the mo
 
 **Three new risk categories in Going Deeper**
 
-Three categories of risk that the summer rarely surfaced will surface more often in Going Deeper:
+Three categories of risk that Getting Started rarely surfaced will surface more often in Going Deeper:
 
 **1. Knot work that surfaces trauma**
 
@@ -690,7 +690,7 @@ Each member shares the question they carry into the Going Out series. Standing p
 
 The Going Out series is the third series of the arc. Twelve weeks. Four blocks: the body sent (Wks 1–3, re-installation as a sent body); mission close to home (Wks 4–6, daily life and immediate relational world); mission far (Wks 7–9, broader world and specific missional work); sending and re-formation (Wks 10–12, closing and the long obedience beyond the formal series).
 
-Going Out assumes the formation work of Getting Started plus Going Deeper has happened. The cohort’s Wk 11 honest assessment is the foundation of Going Out’s opening; the cohort enters spring at whatever level it actually reached, and Going Out engages from there. A cohort that landed at Level 3 with Level 4 ahead enters Going Out at Level 3; Going Out will not pretend otherwise.
+Going Out assumes the formation work of Getting Started plus Going Deeper has happened. The cohort’s Wk 11 honest assessment is the foundation of Going Out’s opening; the cohort enters Going Out at whatever level it actually reached, and Going Out engages from there. A cohort that landed at Level 3 with Level 4 ahead enters Going Out at Level 3; Going Out will not pretend otherwise.
 
 **Specific dates (placeholders)**
 
@@ -1036,7 +1036,7 @@ Use this form at the team pre-meet 48 hours before Wks 6, 8, and 10. One row per
 
 *Brief team note within 24 hours: did Tell Buddies activate? For whom? Did the activation feel graceful or awkward? Any pair that the system mispredicted (someone we thought was at-risk found a partner naturally; someone we did not predict ended up unpaired)?*
 
-*The Tell Buddies list improves across the pilot. By Wk 10 it should be stable; by spring it can be used proactively for the Going Out series merges.*
+*The Tell Buddies list improves across the pilot. By Wk 10 it should be stable; by the Going Out series it can be used proactively for those merges.*
 
 **Section B — Triad Variants**
 
@@ -1208,7 +1208,7 @@ Less-frequently-needed but worth identifying in advance.
 
 The original onboarding draft ran two evenings two weeks before Going Deeper Wk 1. Evening 1 was vocabulary (the four Connects briefly, the four conditions, PROAPT taught and practiced, the Garden lightly, the Rhythm Card). Evening 2 was the working depth. The story-share by each new participant was originally placed in Evening 2.
 
-The pilot review identified the order as suboptimal. New participants arriving at Wk 1 with vocabulary but without having been witnessed in story will speak guardedly during the interlude share; veterans will speak more fully because they have eight Tuesdays of being witnessed in summer. The asymmetry compounds across early weeks.
+The pilot review identified the order as suboptimal. New participants arriving at Wk 1 with vocabulary but without having been witnessed in story will speak guardedly during the interlude share; veterans will speak more fully because they have eight Tuesdays of being witnessed in Getting Started. The asymmetry compounds across early weeks.
 
 Moving the story-share to Evening 1 second hour evens the asymmetry. By Wk 1, every new participant has been witnessed once by some of the cohort; the interlude share runs more honestly; the Wk 2–3 diagnostic block lands on a foundation of being-known rather than being-vocabularized.
 

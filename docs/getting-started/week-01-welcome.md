@@ -174,7 +174,7 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 ## Script
 
-“This summer, for ninety minutes a week for ten weeks, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
+“For ninety minutes a week for ten weeks, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
 
 “Here’s what this is. This is a structured chance to do real interior work as a family and as a community. We are going to ask honest questions. We are going to give you a frame for them. We are going to invite the Holy Spirit to do what only the Holy Spirit can do, and we are going to try to get out of His way.
 
@@ -196,7 +196,7 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 “Over the next ten weeks, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next two weeks are about Self. Two weeks after that, about Others. Three weeks after that, about God. Then Mission. Then we send each other out.
 
-“That’s the map. Don’t worry about memorizing it. The summer will teach it to you.”
+“That’s the map. Don’t worry about memorizing it. These ten weeks will teach it to you.”
 
 Watch for: junior teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 
@@ -363,7 +363,7 @@ This is the morning question. Said aloud together: “Father, what are you up to
 
 ### Layer 3: The Aaronic blessing
 
-Spoken parent-to-teen and teen-to-parent. Use Numbers 6:24–26. The card goes home with each family. Several families will keep this card on their fridge for the summer; that is part of the design.
+Spoken parent-to-teen and teen-to-parent. Use Numbers 6:24–26. The card goes home with each family. Several families will keep this card on their fridge through the whole series; that is part of the design.
 
 # Between-Session Practice
 
