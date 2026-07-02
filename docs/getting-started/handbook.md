@@ -210,7 +210,7 @@ The Getting Started series cannot be run by one person. Plan for a team of three
 
 ## Required competencies
 
-Drawing on the Formation Companion framework in Volume 5 (developmental progression with capstone competency of real-time mode-switching among the four traditions: pastoral counseling, spiritual direction, inner healing, and discipleship/coaching — see the standalone Vol 5 Vocabulary Insert artifact, IJH\_Vol5\_Vocabulary\_Insert\_for\_Master\_Handbook.docx, for canonical level definitions and level-to-role mapping), the Companion team should collectively cover the following competencies. Not every individual must hold all of them, but the team must.
+Drawing on the Formation Companion framework in Volume 5 (developmental progression with capstone competency of real-time mode-switching among the four traditions: pastoral counseling, spiritual direction, inner healing, and discipleship/coaching — see the [Formation Companion](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fthe-formation-companion.md) chapter in IJH Volume 5 for the level definitions and level-to-role mapping), the Companion team should collectively cover the following competencies. Not every individual must hold all of them, but the team must.
 
 ### Foundational (every Companion)
 
