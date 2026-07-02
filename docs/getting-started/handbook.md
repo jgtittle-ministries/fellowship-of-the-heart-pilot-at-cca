@@ -64,6 +64,10 @@ That is enough preface. Read the handbook. Pray over it. Find a Co-Companion. An
 
 The Four Connects are not four topics on a syllabus. They are a sequence with directional dependencies that matter (IJH Volume 2, Fifth Exploration). You cannot connect with Others until you have begun to know yourself. You cannot connect with God in a way that goes beyond performance until you are honest with yourself and have at least one person who knows your interior life. And you cannot find and live the mission God prepared for you until the first three connections are real. The Getting Started series walks the cohort through that sequence on purpose, and at the end, hands them the rhythms they need to keep walking.
 
+![The Four Connects as a left-to-right sequence — Self, then Others, then God, then Mission — with arrows showing that each connection makes the next one real; rooted in the two great commandments, love God and love neighbor (Matt. 22:37–40).](images/wk01-four-connects.svg)
+
+*The four Connects as one sequence, rooted in the two great commandments.*
+
 *“And he said to him, 'You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself.'”*
 
 — Matthew 22:37–39 (ESV)

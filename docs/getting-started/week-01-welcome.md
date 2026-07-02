@@ -186,6 +186,10 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 **Stand at the whiteboard.** The Four Connects diagram should already be drawn. Walk the cohort through it briefly.
 
+![The Four Connects as a left-to-right sequence — Self, then Others, then God, then Mission — with arrows showing that each connection makes the next one real; rooted in the two great commandments, love God and love neighbor (Matt. 22:37–40).](images/wk01-four-connects.svg)
+
+*The whiteboard version — the shape you're walking the cohort through.*
+
 ## Script
 
 “One summer years ago, a group of us were studying Matthew 22, where Jesus says the whole law and prophets hang on two commandments: love the Lord with all your heart, soul, and mind — and love your neighbor as yourself.
