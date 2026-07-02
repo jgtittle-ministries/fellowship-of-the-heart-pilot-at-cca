@@ -60,15 +60,6 @@ A word on how to hold all of this. The “laws” of IJH describe how God charac
 - **If you are wondering whether you are called to be a Companion** — read the [Getting Started Companion Handbook](getting-started/handbook.md).
 - **If you want to understand the underlying framework first** — read the [IJH *Read Me First*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/read-me-first/), then IJH Volume 1 (the Laws of the Spirit) and Volume 2 (the heart-formation work that FotH is built on).
 
-## If you are not safe — please tell someone
-
-The work in these pages is private, but you were never meant to carry the heavy things alone. If you are in danger, thinking about hurting yourself, or someone is hurting you, tell a trusted adult today — your Cohort Companion, a parent or guardian, a pastor, or a teacher you trust.
-
-- **Your Cohort Companion:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(name and how to reach them)*
-- **Anytime, day or night:** call or text **988** (Suicide & Crisis Lifeline); in an emergency, call **911**.
-
-You will not be in trouble for telling. Reaching out is the brave and faithful thing to do — and you will not be alone in it.
-
 ---
 
 *Further up and further in.*
