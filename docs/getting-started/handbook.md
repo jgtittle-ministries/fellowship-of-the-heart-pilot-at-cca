@@ -793,6 +793,124 @@ A note on Inviting Others.
 
 Inviting Others is a follow-on offering, not a fourth series in the arc. After a participant has been formed through Getting Started, Going Deeper, and Going Out, the Spirit sometimes confirms a calling to start a formation group of their own. Inviting Others is the equipping for that specific calling — communal discernment, equipping, and apostolic sending in the Acts 13 paradigm — available to those whose calling at Going Out Wk 10 surfaces in that direction. Most participants will not be called to start groups, and that is honest. Inviting Others is offered when the Spirit calls, not as a default next step.
 
+# Section 11 — The Companion-in-Formation Track
+
+*Forming teens to lead — Formation Companion, Level One (FC1).*
+
+## A word before this section
+
+When we ran the Getting Started pilot, something happened that I did not fully design and did not expect. Once a teen had seen a process run — the opening container, the Garden, a PROAPT walk-through — and had the protocol in their hand, they could lead it. Not deeply, and not as a seasoned Companion, but with real and visible confidence. And when a teenager stood up and led their peers, the rest of the room leaned in like nothing else in the ten weeks had made them lean in.
+
+This section builds on purpose what the pilot showed us by accident. It describes a track, running alongside the Getting Started series, that forms willing senior teens to the first stable level of Formation Companion — what we call FC1 — and points them, over the next few years, toward the day some of them will run this whole journey themselves, in a dorm room or a living room, with no adult in the room at all.
+
+Two things govern everything here. The first is that FC1 is a real and honorable place to stand, not a consolation prize on the way to something else. The second is that a teen leader never carries what only an adult should carry. Hold both, and this works. Lose either, and it does not.
+
+*— John (Granddaddy), on behalf of the team*
+
+## 11.1 What FC1 is — and what it is not
+
+FC1 is the first stable level of Formation Companion formation. It is deliberately modest, and it is complete in itself. A teen at FC1 can:
+
+- Establish and hold the four container conditions — Safe, Present, Clear, Intentional — from memory, under mild pressure, without reading a script.
+- Lead the simple, scripted processes of the series: the opening and closing container, the PROAPT walk-through, and the guided Garden of Your Heart walk-through.
+- Speak a specific, witnessed blessing over another person.
+- Know the edge of FC1 — what they can hold, and what they must hand to an adult — and do the handing without hesitation or heroics.
+- Do their own four-Connects work, and name where they are in it. You cannot lead someone where you have not been.
+
+FC1 does not include the care that belongs to disclosure — crisis, the depths of confession, wound work. That is a later level, and in this pilot it is always held by an adult with clinical or pastoral backup. A teen who stays at FC1 for the rest of their life and leads a faithful group has arrived, not stalled.
+
+## 11.2 Who leads what — the bright line
+
+There are two different things happening in any session, and only one of them is a teen's to lead.
+
+**Process leadership** is running a scripted, repeatable shape: the container, a teaching frame, a practice like PROAPT. Low disclosure risk. A teen can lead it once they have seen it a few times.
+
+**Care leadership** is holding the moment when someone's interior life opens — confession, the Garden debrief, a doubt that turns out to be a wound, and anything that could surface thoughts of self-harm, abuse, or crisis. This carries a legal duty and the two-adult rule, and it is never a teen's to hold.
+
+**The rule of thumb:** a teen may lead the scaffolding and the teaching; an adult always holds the disclosure-bearing center.
+
+## 11.3 How a teen learns to lead — the second running
+
+The pilot revealed the mechanism, and it is beautifully simple. Most practice processes never get the whole group through in one session — storytelling, PROAPT in pairs, the Garden, even the container with a full circle all take more than one running to include everyone.
+
+So we run them twice. The first running is adult-led, and the teen is a participant in it — they receive it. On the second running, a senior leads it, protocol in hand, with an adult present. See one, do one, in the same series, in front of the cohort. This is also why the series grows from ten sessions to thirteen: the second runnings need room.
+
+## 11.4 The thirteen-week session map
+
+| Wk | Session | Connect | Anchor scripture | Practice / center | Who leads |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Welcome to the Journey | All four (intro) | John 10:10b | Container intro; "one true sentence" | Adult models — teens watch the container for the first time |
+| 2 | The Soil of Your Heart | Self | Mark 4:1–20 | Heart Soil diagnostic | Adult leads; teen assists (setup, scripture reading) |
+| 3 | Telling Your Story I | Self | Ps. 139:23–24 | Story — first batch tells; adult models listening + blessing | Adult-led; the seniors tell their own story here — they receive before they lead |
+| 4 | Telling Your Story II | Self | Ps. 139:23–24 | Story — rest of the group tells (second running) | Teen-led: container + story facilitation + blessing round. Adult holds any heavy disclosure |
+| 5 | Knowing & Being Known | Others | Eccl. 4:9–12 | Container-conditions exercise | Teen leads the container open/close; center co-led (adult in room) |
+| 6 | Safe and Brave Together | Others | James 5:16 | Confession & restoration | Adult-held center. Teen may lead the container scaffolding only |
+| 7 | Hearing God / PROAPT I | God | Rom. 10:17 | PROAPT — first walk-through, taught | Adult-led; the seniors receive the practice |
+| 8 | Hearing God / PROAPT II | God | Rom. 10:17 | PROAPT — second running, in pairs | Teen-led: the full PROAPT walk-through — the cleanest teen-led block |
+| 9 | The Garden of Your Heart I | God | John 15:1–11 | Garden — framing + first guided run | Adult-led; the seniors receive |
+| 10 | The Garden of Your Heart II | God | John 15:1–11 | Garden — second guided run | Teen leads the guided walk-through; adult holds the debrief and anything that surfaces |
+| 11 | Any Doubts? | God | Mark 9:24 | Naming private doubts | Adult-held center. Teen may lead the container scaffolding only |
+| 12 | What Was Prepared for You | Mission | Eph. 2:10 | Gifts + downhill mission | Teen co-leads. Name leading-as-mission here |
+| 13 | Sending & Blessing + FC1 commissioning | All four (integration) | Num. 6:24–26 | Family commissioning; commission the seniors as FC1 | Teens co-lead pieces; the Companions-in-Formation are commissioned as FC1 |
+
+The three added sessions — Telling Your Story II (Week 4), PROAPT II (Week 8), and Garden of Your Heart II (Week 10) — teach nothing new. They complete a process the cohort has already begun, and they are the marquee slots a senior leads. The four-Connect sequence and its dependencies are preserved: Self runs through Weeks 2–4, Others through 5–6, God through 7–11, Mission at 12, and integration at 13. Heart Soil (Week 2) and the container-conditions exercise (Week 5) finish in one session and do not get a second running.
+
+**The container repeat-runs every week for free.** From Week 5 on, a senior takes the opening or the closing each week — by then they have watched it four or five times. This steady, low-risk repetition is what builds container fluency, which is the spine of FC1.
+
+## 11.5 The Companion-in-Formation — the role
+
+A Companion-in-Formation is a willing senior teen (roughly ages 15–18) who co-leads the teen-leadable slots with an adult Companion in the room, and is being formed toward FC1.
+
+**Selection.** The discernment pair for each teen is that teen's own parent and the Lead Companion. Both must agree the teen is ready. There is no cap on numbers — every willing senior whose parent and Lead Companion agree may join. Spread the runnings across the whole team so several peers lead, no one is overloaded, and the cohort sees more than one of its own step up.
+
+## 11.6 The three rules that never bend
+
+Print these three on a card (Appendix I). They are the whole of the teen leader's safety.
+
+1. **A Companion-in-Formation never counts as one of the two adults.** The supervision rule is unchanged. "Co-lead" means an adult Companion in the room — not nearby, in the room.
+2. **A Companion-in-Formation never takes a disclosure.** If something heavy surfaces while they are leading, their only job is to hand it to the adult immediately. They are not a junior counselor.
+3. **Lead only a block you have first received.** See it, then lead it. Never lead a process you have not first experienced as a participant.
+
+## 11.7 The Leader Feedback Round
+
+After a Companion-in-Formation leads, they receive a short, structured feedback round. It runs at the close of the session, right after the teen has led, while the cohort is still present. The order is fixed — affirmation first, growth second, and the group only by the leader's own consent.
+
+1. The team names what the teen did well and would want to see again next time.
+2. The team names one thing — one or two, not a list — to try differently next time.
+3. Ask the leader: "Would you like feedback from the group too?" The teen decides. If they say no, the round ends here. No pressure, no exposure.
+4. If the teen says yes, ask the group — popcorn-style, so only those with something to say speak: "What worked well for you? What is one suggestion for them to consider next time?"
+
+The design is the point. Strengths before growth keeps it safe. The leader holds the consent for group feedback, so they keep their agency. Popcorn removes the pressure of a forced round. And "for you" language keeps the group reflecting on their own experience, not grading a friend. This is the loop that turned seeing-it into leading-it in the pilot.
+
+## 11.8 What we are really forming for — the dorm horizon
+
+FC1 is the floor, and it forms in a single cycle. The longer horizon is a young adult who can run the entire Getting Started journey on their own — in a college dorm, a few years from now. That day clears our hardest problem, because a nineteen- or twenty-year-old leading their peers is an adult leading adults, and the whole question of minors leading minors falls away. But it removes the safety net that CCA provides: no two adults, no clinical backup on call, no reporting chain. The leader is the front line, alone.
+
+So the readiness that matters most for the dorm is not whether they can run the exercises — they can. It is whether they have internalized the boundary and built their own net. The profile below names the eight competencies; the two marked essential are the ones that replace the adults in the room.
+
+| Competency | What "ready" looks like | Where it forms |
+| --- | --- | --- |
+| Own formation is real and ongoing | Has walked the four Connects themselves and is still in a rhythm — not technique over an empty interior. | The arc, as a participant |
+| Container fluency from memory | Opens and closes from memory, under pressure, no script; can re-establish the container when the room heats up. | In-cohort second-runnings + the Lab |
+| The whole arc, with reps | Has led every leadable block several times, and understands why the sequence runs Self → Others → God → Mission. | Repeated cycles + the Lab |
+| Scope humility + the referral reflex (ESSENTIAL) | Knows exactly what FC1 cannot hold and routes crisis instantly; carries a pre-filled referral map for wherever they are. | The Lab — the safety core |
+| A standing covering relationship (ESSENTIAL) | Before they start, has set up an ongoing "who do I call when I'm over my head" person — the dorm's substitute for an adult in the room. | Named at Sending; sustained across the arc |
+| Adaptation judgment | Can flex the series to a peer-only setting (drop the parent / parallel-circle design; keep the Connect sequence and the container) without breaking it. | The Lab |
+| The invite and gather skill | Can make the ask: gather a handful of peers, frame the covenant, set the container expectation. | Overlaps Inviting Others |
+| Knowing what to hold back | Holds the "what we hold back" discipline with no supervisor watching. | The Lab + the handbook |
+
+*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a ten-week output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader.*
+
+## 11.9 Consent and the legal gate
+
+Two things must be in place before this runs.
+
+**Consent.** A teen leading their peers is a different thing from a teen participating, and it needs its own parental consent, added to the series consent packet (Appendix H).
+
+**The gate.** Because the in-cohort version has minors leading minors, it requires CCA leadership sign-off and a Virginia legal review before it runs — exactly the review the Inviting Others handbook already reserves for teen leadership. We build this ready, and we hold it behind that gate. The dorm version, being adults leading adults, does not carry that particular constraint — a genuinely lighter picture, and worth keeping distinct.
+
+*This section is informational, not legal advice. Confirm current Virginia law and CCA policy with qualified counsel before launch.*
+
 # Appendix A — Parent Informed Consent Form
 
 ## Template only. Have CCA legal and pastoral leadership review and adapt to current Virginia law and CCA policy before use.
@@ -1036,3 +1154,215 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Volume 5’s annotated bibliography for the deeper formation literature.
 
 *[Note: this is an outline; the curated full lists are added at curriculum finalization.]*
+
+# Appendix G — The FC1 Leader Lab (Facilitator Guide)
+
+
+The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the 13-week map). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
+
+**Six sessions, run alongside the 13-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
+
+| Lab | Alongside cohort | Focus |
+|-----|------------------|-------|
+| 1 | Wks 1–2 | The call, the bright line, the container from the inside |
+| 2 | Wks 3–4 | Receiving feedback; leading yourself; the referral reflex |
+| 3 | Wks 5–7 | Leading a process; why the Connect order matters |
+| 4 | Wks 8–9 | **Scope, referral, covering — the dorm-safety session** |
+| 5 | Wks 10–11 | Adapting it to a peer-only world; making the ask |
+| 6 | Wks 12–13 | Mock full session + commissioning |
+
+---
+
+## Lab 1 — The Call and the Container *(alongside Wks 1–2)*
+
+**Aim.** Name the role and the two things that govern it; internalize the four container conditions from the inside; and learn the three rules that never bend *before* ever taking a running.
+
+**What it builds.** Role clarity; container fluency (begun); the safety foundation.
+
+**The session.**
+1. **Open the container** — an adult leads it; the seniors experience it as the very thing they will soon lead.
+2. **What FC1 is — and is not.** The modest, stable definition. FC1 is a real place to stand, not a stop on the way to something else.
+3. **The bright line.** Process leadership versus care leadership, and where the line falls in each session of the series.
+4. **The three rules that never bend.** Walk the limits card. Drill rule two: *"something heavy surfaces while you're leading — what do you do?"* (Answer, every time: hand it to the adult, keep holding the container.)
+5. **The container from the inside.** Take Safe, Present, Clear, Intentional one at a time — where each comes from, and how you rebuild it when it slips.
+6. **First mock open/close** among the lab group.
+7. **Close the container.**
+
+**Take-home.** The limits card, memorized. Watch the Week-2 opening as a leader-in-waiting, not just a participant.
+
+## Lab 2 — Receiving Feedback, Leading Yourself *(alongside Wks 3–4)*
+
+**Aim.** Get ready to take the first in-cohort running (Telling Your Story II, Wk 4) and to receive the Leader Feedback Round well.
+
+**What it builds.** The feedback loop; honest self-reflection; the referral reflex, deepened.
+
+**The session.**
+1. **Open.**
+2. **Rehearse the running you're about to lead.** Walk the Wk-4 container open, the story facilitation, and the blessing round. Who leads which part; where the adult stays close.
+3. **Receiving feedback well.** Walk the Leader Feedback Round from the leader's chair: how to take affirmation without inflating, and growth without collapsing. It is not a performance review — it is formation.
+4. **Noticing yourself while leading.** The private reflection: where did I want to *fix* instead of *hold space?* Where did I rush? The goal is not to lead perfectly but to notice honestly.
+5. **The referral drill, harder.** A teen in your circle tears up and says something about home. What do you do? (Hand it to the adult; keep holding the container.)
+6. **Close.**
+
+**Take-home.** Lead your first running this week. Afterward, write three lines: one thing I did well, one to try next time, one thing I noticed in myself.
+
+## Lab 3 — Leading a Process, and Why the Order Matters *(alongside Wks 5–7)*
+
+**Aim.** Solidify leading the scripted processes; understand *why* the Connect sequence runs Self → Others → God → Mission, so it lives in the body and not just the hand.
+
+**What it builds.** The whole arc with reps; the groundwork for adapting it later.
+
+**The session.**
+1. **Open.**
+2. **Lead PROAPT end-to-end.** Each senior walks the six steps — Pray, Read, Observe, Apply, Pray again, Tell — for the lab group. Debrief.
+3. **Teach the Four Connects back.** Each senior teaches the diagram in their own words. If you can teach *why* each connection makes the next one real, you can lead it anywhere.
+4. **Why the order.** Self before Others; Self and Others before a God-connection that goes past performance; all three before Mission. Understanding the *why* is what lets you flex the *how* without breaking it.
+5. **Close.**
+
+**Take-home.** You'll lead PROAPT II in the cohort (Wk 8). Prepare it.
+
+## Lab 4 — Scope, Referral, and Covering *(alongside Wks 8–9)* — the dorm-safety session
+
+**Aim.** Build the two competencies that will one day replace the adults in the room. **This is the most important Lab.**
+
+**What it builds.** Scope humility and the referral reflex; a standing covering relationship.
+
+**The session.**
+1. **Open.**
+2. **What FC1 cannot hold.** Name them plainly: thoughts of self-harm, abuse, a wound cracking open, a crisis. At CCA you hand these to the adult. In a dorm there *is* no adult — so the reflex has to be in you.
+3. **Build your referral map.** Each senior fills in a real card for wherever they are or will be: campus counseling, 988, a trusted pastor, an RA, the parents they can still call. *The blank card is not ready; the filled card is.*
+4. **Name your covering.** Each senior names the person they will call when they are over their head — a youth pastor, a mentor, a parent with the posture. Before you ever lead alone, that relationship is set up, not hoped for.
+5. **The "route it" drill, for the dorm.** No adult in the room. A friend discloses. Walk it out loud: pause the process, be present without probing, route to your map, follow up with your covering.
+6. **Close.**
+
+**Take-home.** Complete the referral card and have the covering conversation before the series ends.
+
+## Lab 5 — Adapting It to Your World; Making the Ask *(alongside Wks 10–11)*
+
+**Aim.** Prepare for the peer-only reality and the skill of gathering a group.
+
+**What it builds.** Adaptation judgment; the invite-and-gather skill; the discipline of what to hold back.
+
+**The session.**
+1. **Open.**
+2. **What flexes, and what doesn't.** In a dorm there are no parents and no parallel circles — that architecture drops away. What never drops: the Connect sequence, the container, the bright line, the three rules. Practice redesigning a session for six peers around a common room.
+3. **What we hold back — with no one watching.** The same discipline the handbook names for Companions: no deep wound work, no deliverance ministry, no high-intensity practices. It is harder to hold when you are the only leader — name it now, out loud.
+4. **Making the ask.** How to gather four to eight peers, frame the covenant, and set the container expectation. Role-play the invitation both ways — the yes, and the *not now.*
+5. **Close.**
+
+**Take-home.** Draft your own invitation, in your own words.
+
+## Lab 6 — Mock Full Session and Commissioning *(alongside Wks 12–13)*
+
+**Aim.** Integrate everything; run a full leadable sequence; and be sent.
+
+**What it builds.** Integration; sending.
+
+**The session.**
+1. **Open** — a senior leads it now.
+2. **The mock session.** Each senior leads a full leadable sequence for the lab group — open → a process of their choice → close — with the Leader Feedback Round after.
+3. **The road ahead.** FC1 is the floor. Going Deeper, Going Out, and Inviting Others are where it grows; the dorm is where it may one day stand on its own. Name honestly that this is a few years, not a finish line.
+4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week-13 Sending, in front of everyone — the same night the families are commissioned.
+5. **Close.**
+
+**Take-home.** Keep your own four-Connects rhythm going. You cannot lead from an empty well.
+
+---
+
+*A last word for the adult who runs the Lab.* Your job here is the same as everywhere in this work: prepare the ground and get out of the way. The seniors will lead better than you expect and be more nervous than they show. Praise specifically, correct gently, and never let them carry what is yours to carry. Send them out blessed.
+
+# Appendix H — Companion-in-Formation Parent & Guardian Consent Addendum
+
+*Template only. Have CCA legal and pastoral leadership review and adapt to current Virginia law and CCA policy before use. Completed in addition to the series Parent Informed Consent Form (Handbook Appendix A), and only for a teen invited into the Companion-in-Formation role.*
+
+## About the role
+
+The Companion-in-Formation role invites a senior teen (roughly ages 15–18) to help *lead* parts of the Getting Started sessions, as part of being formed toward the first level of Formation Companion (FC1). It is a modest and honorable role. Your teen will help lead only the **low-risk, scripted parts** of a session — the opening and closing, and simple practices — and **always with an adult Companion in the room.**
+
+## What your teen will do
+
+- Lead the opening and closing "container" (the settling-and-sending routine the group does each week).
+- Help facilitate simple, scripted practices they have already experienced themselves — the second telling-your-story session, the PROAPT scripture practice, and the guided Garden of Your Heart walk-through.
+- Read scripture, keep time, and speak blessings over others.
+- Receive brief, supportive feedback after they lead.
+
+## What your teen will never do
+
+- **Never be alone with another teen.** The two-adult rule is unchanged; your teen adds to adult supervision and never replaces it.
+- **Never count as one of the two required adults.** An adult Companion is always present in the room.
+- **Never handle a disclosure of crisis, abuse, or self-harm.** If something serious surfaces, your teen's only job is to hand it to the adult immediately. They are not asked to counsel anyone.
+- **Never lead the sensitive parts** — the confession practice, the doubts practice, or the debrief after the Garden. Those are always held by an adult.
+
+## How your teen was chosen — and your part in it
+
+Your teen is invited into this role only when **two people agree they are ready: you (the parent or guardian) and the Lead Companion.** You are half of that discernment. You may decline the role for your teen, or withdraw them from it at any time, without affecting their full participation in the series.
+
+## Safeguards that remain fully in force
+
+Everything the series already promises stays in place: background checks on every adult, the two-adult rule, mandatory-reporting obligations, and a clinical or pastoral backup on call. The Companion-in-Formation role operates *inside* those protections, never around them.
+
+## Acknowledgments and consent
+
+Initial each acknowledgment.
+
+\_\_\_\_ I have read and understand the Companion-in-Formation role.
+
+\_\_\_\_ I understand my teen will help lead only the low-risk, scripted parts of a session, and always with an adult Companion in the room.
+
+\_\_\_\_ I understand my teen will never be alone with another teen, never count as one of the two required adults, and never handle a disclosure of crisis, abuse, or self-harm.
+
+\_\_\_\_ I understand I am one of the two people (with the Lead Companion) who discerned my teen's readiness, and that I may withdraw my consent at any time.
+
+\_\_\_\_ I understand this role runs only after CCA leadership and a Virginia legal review have approved teen leadership, and that until then it is not in effect.
+
+## Withdrawal
+
+I may withdraw my teen from the Companion-in-Formation role at any time, for any reason, by telling the Lead Companion. Withdrawal from the role does not affect my teen's participation in the Getting Started series.
+
+## Signatures
+
+Parent or guardian (printed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Parent or guardian (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
+
+Teen (printed, if age 14+): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Teen (signed, if age 14+): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
+
+Lead Companion (printed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Lead Companion (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
+
+*This addendum is informational, not legal advice. Confirm current Virginia law and CCA policy with qualified counsel before use.*
+
+# Appendix I — The Limits Card (Companion-in-Formation)
+
+*Print on cardstock and laminate. Keep it on you when you lead. Companion to the Four Connects Handbook.*
+
+## The three rules that never bend
+
+1. **You are never one of the two adults.** There must always be an adult Companion in the room — not nearby, *in the room.* You add to adult supervision; you never replace it.
+2. **You never take a disclosure.** If something heavy surfaces — crisis, abuse, self-harm, a wound cracking open — your only job is to hand it to your adult, right away. You are not a counselor.
+3. **Lead only what you have first received.** See it, then lead it. Never lead a process you have not first done yourself.
+
+## If something heavy surfaces while you're leading
+
+- Stay calm. Don't make a scene; don't probe for details.
+- "Thank you for trusting us with that — let's talk right after" is enough.
+- Hand it to your adult immediately, and let them carry it. That is the strong, faithful thing to do — not a failure.
+
+## What you lead / what an adult holds
+
+**You lead:** the opening & closing container · simple scripted practices (PROAPT, the Garden walk-through) · reading scripture · the blessing round · timekeeping.
+
+**An adult holds:** confession · doubts · the Garden debrief · anything that opens someone's wound or crisis.
+
+## When there is no adult in the room (later, on your own)
+
+*Fill this in before you ever lead alone:*
+
+- My covering person (who I call when I'm over my head): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Phone: \_\_\_\_\_\_\_\_
+- Campus counseling / school counselor: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Suicide & Crisis Lifeline: **988**
+- A trusted pastor or mentor: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **Route it, don't carry it.** The moment it's above your level, you hand it on.
