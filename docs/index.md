@@ -10,6 +10,8 @@ title: "Home"
 
 The pilot edition of **Fellowship of the Heart**, the operational expression of the *Intentional Journey of the Heart* (IJH) framework, prepared for the first **Covenant Christian Academy of Warrenton** cohort beginning Fall 2026.
 
+**Coming from *A Church in Revival*?** That book — [*A Church in Revival: A Pilot Proposed*](https://jgtittle-ministries.github.io/a-church-in-revival-a-pilot-proposed/) — proposes Fellowship of the Heart as the way a church builds its small-group leadership *before* revival arrives: the vessel before the rain. The three series below are the mechanics it points to, and [Getting Started](getting-started/index.md) is where a leadership circle would begin.
+
 The pilot is organized as three sequential series the cohort walks together, with shared participant materials supporting all three:
 
 | # | Series | Length | Focus |
