@@ -7,6 +7,13 @@
 (function () {
   'use strict';
 
+  // Next/Previous navigate by hash change + reload. Without this, the
+  // browser restores the OLD page's scroll offset after the reload (the
+  // reader's own scroll-to-top at render time runs first and loses), so
+  // clicking Next at the bottom of a chapter landed near the bottom of
+  // the next one. Manual restoration lets the render-time scroll win.
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+
   const escapeHtml = (s) => s.replace(/[&<>"']/g, (c) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   }[c]));
