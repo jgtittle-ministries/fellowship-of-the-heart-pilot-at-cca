@@ -524,6 +524,10 @@ The journal is not collected or graded. The Companions do not read entries unles
 
 The Getting Started series is the first step of a longer journey, not a stand-alone program. We assess in order to learn what is working, refine the curriculum, and serve future cohorts — not to grade participants. Assessment is light, age-appropriate, and biased toward narrative.
 
+## The Measurement Covenant — signed before any instrument is used
+
+Every instrument in this section operates under the [Measurement Covenant](../shared/measurement-covenant.md) — ten written commitments, adopted from the Guardrails of *A Church Prepared for Revival*, that bind everyone with access to what these instruments learn: mirrors not levers, no scores, consent and daylight, names stopping at the shepherd who knows the faces, and the personal test each signer accepts — *measure nothing you will not weep over.* The Companion team and every leader who will see results sign it before Family Orientation Night, alongside the Section 6 safety checklist, and re-sign it annually. If the covenant is not signed, the instruments below are not used. It is that simple, and it is in that order on purpose: the promises come before the questions.
+
 ## What we measure
 
 Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with optional research-grade extensions documented in the Vol 4 Appendix), simplified for this audience and timeframe:
@@ -744,6 +748,10 @@ The sketches below tell the Companion team what each week is for, what scripture
 # Section 10 — Transition to the Going Deeper series
 
 When Going Deeper does not follow immediately, a gap sits between the two series — in the pilot, roughly four to six weeks. That interlude is not vacation; it is an intentional space designed to consolidate Getting Started’s learning and bridge to the next stage. (Where the venue's calendar runs the two series back-to-back, the interlude practices below fold into Going Deeper's opening weeks instead.)
+
+## The threshold — name it before you reach it
+
+Be honest with the team about what the end of a cohort is: it is the moment of maximum load. For ten weeks a participant's new practices have been carried by the room — the weekly gathering, the faces, the shared momentum. At Week 10 the room stops, and everything the series built has to land in a container that can hold it without the weekly meeting: the rhythm, the friendship, the family table. Most falling-away in formation work happens not in the middle of a series but *at its edges* — at exactly this seam — and the interlude below is not filler between terms; it is the deliberate wineskin for that seam. So name the threshold out loud in Week 10, to participants and parents: "the next six weeks are the part of the journey most people lose; here is exactly what to hold onto, and here is when we gather again." A cohort that walks through the threshold *knowing it is a threshold* — with the [Rhythm Card](../shared/rhythm-card.md) in hand, an accountability friend named, and the Going Deeper date on the calendar — crosses it. One that simply ends, and hopes, mostly does not. And for anyone who does slip in the gap: the [Signs Card](../shared/signs-card.md) and the [Path Home Card](../shared/path-home-card.md) exist for exactly that person, and Week 10 is when the team makes sure every family knows both cards are in the folder.
 
 ## The interlude
 

@@ -16,17 +16,25 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Reading List**](reading-list.md) — an annotated guide for parents, teens, and the curious. Curated from the IJH Volume 5 References for the Fellowship of the Heart audience.
 
+- [**Signs Card**](signs-card.md) — for the dry season. Four kinds of dry, the one question that sorts them (*which way does the desire point?*), and the first step for each — so no one in this fellowship ever misreads a dry season as a verdict.
+
+- [**Path Home Card**](path-home-card.md) — the written way back for anyone who has been away, however long, however it ended: confession, lament, return, celebration. The door that never locks.
+
+- [**Measurement Covenant**](measurement-covenant.md) — the one *team-facing* document in this folder: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure nothing you will not weep over*. Signed before any instrument is used; re-signed annually.
+
 ---
 
 ## How they fit together
 
-These five materials are designed to work together across the year:
+These materials are designed to work together across the year:
 
 - The **Personal Heart Journal** is the private space where the work of the room continues into the week.
 - The **Family Conversation Cards** carry the work into the family table.
 - The **Rhythm Card** sets the daily, weekly, and monthly practices that the cohort sustains together.
 - The **PROAPT Card** is the reference for the hearing-in-scripture practice that anchors the daily rhythm from Week 6 onward.
 - The **Reading List** is for the participant who wants to read further, at their own pace.
+- The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — kept in every participant folder from Week 10 onward, in the hope that they gather dust.
+- The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
 
 A cohort can complete Getting Started using only the Personal Heart Journal, the Rhythm Card, and the PROAPT Card; the family cards and reading list are invitations, not assignments. Going Deeper and Going Out lean more heavily on the shared materials as the cohort matures.
 

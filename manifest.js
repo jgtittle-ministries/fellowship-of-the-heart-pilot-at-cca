@@ -254,6 +254,14 @@ window.SERIES = [
         "title": "Interrogating Reality Card"
       },
       {
+        "path": "docs/shared/measurement-covenant.md",
+        "title": "Measurement Covenant"
+      },
+      {
+        "path": "docs/shared/path-home-card.md",
+        "title": "Path Home Card"
+      },
+      {
         "path": "docs/shared/personal-heart-journal.md",
         "title": "Personal Heart Journal"
       },
@@ -268,6 +276,10 @@ window.SERIES = [
       {
         "path": "docs/shared/rhythm-card.md",
         "title": "Rhythm Card"
+      },
+      {
+        "path": "docs/shared/signs-card.md",
+        "title": "Signs Card"
       }
     ]
   }
@@ -706,6 +718,22 @@ window.PATH_TO_INFO = {
     "title": "Interrogating Reality Card",
     "indexPath": "docs/shared/index.md",
     "prev": "docs/shared/family-conversation-cards.md",
+    "next": "docs/shared/measurement-covenant.md"
+  },
+  "docs/shared/measurement-covenant.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Measurement Covenant",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/interrogating-reality-card.md",
+    "next": "docs/shared/path-home-card.md"
+  },
+  "docs/shared/path-home-card.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Path Home Card",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/measurement-covenant.md",
     "next": "docs/shared/personal-heart-journal.md"
   },
   "docs/shared/personal-heart-journal.md": {
@@ -713,7 +741,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Personal Heart Journal",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/interrogating-reality-card.md",
+    "prev": "docs/shared/path-home-card.md",
     "next": "docs/shared/proapt-card.md"
   },
   "docs/shared/proapt-card.md": {
@@ -737,6 +765,14 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Rhythm Card",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/reading-list.md"
+    "prev": "docs/shared/reading-list.md",
+    "next": "docs/shared/signs-card.md"
+  },
+  "docs/shared/signs-card.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Signs Card",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/rhythm-card.md"
   }
 };

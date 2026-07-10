@@ -26,6 +26,8 @@ You will fall away from this rhythm. Most of us do, several times a year, someti
 
 Streaks are not the goal. Returning is the goal. The pattern of returning, over years, is what shapes a life. A man who has returned to the morning question fifty times after fifty falls is in a different relationship with God than a man who never started.
 
+Two companions to this page live in the same folder. If the practices have gone *dry* — you are showing up but the lights are off — read the [Signs Card](signs-card.md) before you read anything into the dryness. And if you have been away a long while and the way back feels barred, the [Path Home Card](path-home-card.md) is the door.
+
 ## On scope
 
 The rhythm below is the structure. The specifics are yours. A retired grandfather and a high schooler will live this rhythm in different shapes — different times of day, different durations, different weekly partners, different monthly clearings. The structure is universal; the specifics are particular.
