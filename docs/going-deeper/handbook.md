@@ -678,7 +678,7 @@ ONE Discerner with an emerging calling (selected per Section 8 — either Path A
 
 **Wk 11 — Where Is Our Cohort (cohort-split, then merge)**
 
-Honest assessment. Each cohort produces a flip-chart picture using the six-question worksheet (the worksheet handles both possible Wk 8 outcomes). The merge integrates three honest pictures. Five-level taxonomy is the working frame; the question is the steady state, not the peak.
+Honest assessment. Each cohort produces a flip-chart picture using the six-question worksheet (the worksheet handles both possible Wk 8 outcomes). The merge integrates three honest pictures. Five-level taxonomy is the working frame; the question is the steady state, not the peak. The Companion team brings its year of weekly [Three Vital Signs](../shared/three-vital-signs.md) readings to the pre-meet — costly telling, response to load, the sought stray — as the witnessed record against which the cohort's self-picture is lovingly checked; where the self-picture and the signs disagree, the signs are senior (a room never self-reports its own silence).
 
 **Wk 12 — Sending and Bridge (whole-room)**
 

@@ -280,6 +280,10 @@ window.SERIES = [
       {
         "path": "docs/shared/signs-card.md",
         "title": "Signs Card"
+      },
+      {
+        "path": "docs/shared/three-vital-signs.md",
+        "title": "Three Vital Signs"
       }
     ]
   }
@@ -773,6 +777,14 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Signs Card",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/rhythm-card.md"
+    "prev": "docs/shared/rhythm-card.md",
+    "next": "docs/shared/three-vital-signs.md"
+  },
+  "docs/shared/three-vital-signs.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Three Vital Signs",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/signs-card.md"
   }
 };

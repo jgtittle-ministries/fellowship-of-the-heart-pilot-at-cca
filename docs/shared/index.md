@@ -20,7 +20,9 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Path Home Card**](path-home-card.md) — the written way back for anyone who has been away, however long, however it ended: confession, lament, return, celebration. The door that never locks.
 
-- [**Measurement Covenant**](measurement-covenant.md) — the one *team-facing* document in this folder: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure nothing you will not weep over*. Signed before any instrument is used; re-signed annually.
+- [**Measurement Covenant**](measurement-covenant.md) — *team-facing*: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure nothing you will not weep over*. Signed before any instrument is used; re-signed annually.
+
+- [**Three Vital Signs**](three-vital-signs.md) — *team-facing*: the Companion team's weekly lens. Three readings taken in ordinary sessions with no form in anyone's hand — Costly Telling, Response to Load, the Sought Stray — and the discipline for reading them. The companion card to the covenant: the covenant governs what is held; this card is most of what is watched.
 
 ---
 
@@ -35,6 +37,7 @@ These materials are designed to work together across the year:
 - The **Reading List** is for the participant who wants to read further, at their own pace.
 - The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — kept in every participant folder from Week 10 onward, in the hope that they gather dust.
 - The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
+- The **Three Vital Signs** card is how the team actually watches, week to week — three questions at the top of every debrief, with the heavier instruments held in reserve.
 
 A cohort can complete Getting Started using only the Personal Heart Journal, the Rhythm Card, and the PROAPT Card; the family cards and reading list are invitations, not assignments. Going Deeper and Going Out lean more heavily on the shared materials as the cohort matures.
 

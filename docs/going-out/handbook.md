@@ -241,7 +241,7 @@ Wk 10 engages what Going Out produced for each member specifically. The discipli
 
 ## Week 11 — the cohort lands
 
-Wk 11 is the body's honest Group-Level self-assessment across the whole arc, using the MSFIG five levels: Social Fellowship (1), Information Sharing (2), Genuine Care (3), Hearing as Body (4), Sent as Body (5). The discipline is the same as Going Deeper Wk 11, deepened: **the body's level is its lowest stable common practice, not its average.** A cohort with three Level-4 members and twenty Level-2 members is a Level-2 body; the advanced members are gifts, but the shared culture is what the body actually is. The developmental cohorts assess within their own peer groups first, then merge into one honest body-level reading.
+Wk 11 is the body's honest Group-Level self-assessment across the whole arc, using the MSFIG five levels: Social Fellowship (1), Information Sharing (2), Genuine Care (3), Hearing as Body (4), Sent as Body (5). The discipline is the same as Going Deeper Wk 11, deepened: **the body's level is its lowest stable common practice, not its average.** A cohort with three Level-4 members and twenty Level-2 members is a Level-2 body; the advanced members are gifts, but the shared culture is what the body actually is. The developmental cohorts assess within their own peer groups first, then merge into one honest body-level reading. As at Going Deeper Wk 11, the Companion team's weekly [Three Vital Signs](../shared/three-vital-signs.md) record across the whole arc stands beside the self-assessment — the same lowest-steady-sign discipline, and the witnessed readings senior to the room's memory of itself.
 
 ## Week 12 — the long obedience
 
