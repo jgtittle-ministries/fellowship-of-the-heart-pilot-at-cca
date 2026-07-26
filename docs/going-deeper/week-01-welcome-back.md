@@ -64,7 +64,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Eight to ten weeks have passed since Wk 10 of Getting Started closed with the family commissioning. The gap was deliberate — long enough for the rhythm card practices to either install or fail to install, short enough that the room’s memory has not faded. Tonight is the first time the room comes together as Going Deeper, with returning families plus new participants who completed the two-evening onboarding two weeks ago.
+Eight to ten weeks have passed since Getting Started closed — the Wk 14 family commissioning, then the Wk 15 commissioning of the Companions. The gap was deliberate — long enough for the rhythm card practices to either install or fail to install, short enough that the room’s memory has not faded. Tonight is the first time the room comes together as Going Deeper, with returning families plus new participants who completed the two-evening onboarding two weeks ago.
 
 The work tonight is re-installation. The four conditions of a real container (Vol 2 Exp 8) hold across breaks, but they have to be lived back into. The names of the people in the room are partly new. The depth that Getting Started reached has to be re-grounded before the harder work of Wk 2 forward becomes possible. Hebrews 12:1–2 is the new architectural anchor: ‘let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus.’ The verse names the entire arc — weight (the diagnostic work of Wks 2–3), sin (the confession work of Wk 5), endurance (the long-haul rhythm), looking to Jesus (the deeper God-Connect of Wks 6–8).
 
@@ -174,7 +174,7 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 *“Let me speak the same blessing we spoke at the close of every Tuesday in Getting Started. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Take one breath together. (60-second silent settling.) Holy Spirit, you are welcome to do whatever you want to do here tonight, and across the twelve weeks ahead. We are submitted.” “Container reminder. The four conditions Vol 2 Exp 8 names — Safe, Present, Clear, Intentional. Same as Getting Started Wk 4 established. We rehold them tonight as Going Deeper’s foundation. What is named here stays in this room.”*
+*“Take one breath together. (60-second silent settling.) Holy Spirit, you are welcome to do whatever you want to do here tonight, and across the twelve weeks ahead. We are submitted.” “Container reminder. The four conditions Vol 2 Exp 8 names — Safe, Present, Clear, Intentional. Same as Getting Started Wk 5 established. We rehold them tonight as Going Deeper’s foundation. What is named here stays in this room.”*
 
 *“Around the circle, in one word, where are you tonight? ‘Tired.’ ‘Curious.’ ‘Glad.’ ‘Heavy.’ ‘Distracted.’ Whatever the true word is. Pass anytime. I’ll go first.”*
 

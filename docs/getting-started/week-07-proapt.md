@@ -2,11 +2,11 @@
 
 *Getting Started series — The Four Connects*
 
-Week 6
+Week 7
 
-**Hearing God in Scripture**
+**Hearing God in Scripture — PROAPT I**
 
-*PROAPT — the systematic practice of hearing*
+*PROAPT — the systematic practice of hearing; the first walk-through, received before it is led*
 
 ![Scripture, open on the table.](images/wk06-proapt.jpg)
 
@@ -20,9 +20,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 # **Quick Reference Card**
 
-*Print this page on cardstock. Two copies in the room. After Week 5’s weight, this session is a deliberate exhale and a turn outward toward God.*
+*Print this page on cardstock. Two copies in the room. After Week 6’s weight, this session is a deliberate exhale and a turn outward toward God.*
 
-## WEEK 6 — HEARING GOD IN SCRIPTURE (90 minutes)
+## WEEK 7 — HEARING GOD IN SCRIPTURE (90 minutes)
 
 **Aim.** Introduce PROAPT — Pray, Read, Observe, Apply, Pray again, Tell — as the most accessible practice for hearing God in scripture. Move from Self and Others into God.
 
@@ -34,32 +34,32 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Center.** PROAPT walked through with one passage as a whole-cohort exercise. Then each cohort circle works the same passage in pairs, with the Tell step shared back into the cohort circle.
 
-**Between-session practice.** PROAPT one short passage per day for the next week. The Personal Heart Journal Week 6–7 pages have a daily PROAPT template.
+**Between-session practice.** PROAPT one short passage per day for the next week. The Personal Heart Journal Week 7–8 pages have a daily PROAPT template.
 
 **IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith); Vol 2 Seventh Exploration (PROAPT and the experiential processes).
 
-## WATCH FOR (Week 6 specific risks)
+## WATCH FOR (Week 7 specific risks)
 
 - Treating PROAPT as a Bible study technique. It is not. It is a hearing practice. Frame the difference at the open.
 - Skipping the Apply step. “What is this saying to me, today, in my actual situation?” is the step that distinguishes hearing from reading.
 - Skipping the Tell step. The Tell is the step most often omitted and most important for long-term development. Honor it.
 - The over-spiritualizer. The participant whose Apply is always grand and never specific. Push gently for one specific concrete application.
 - The literalist. The participant who only does Observe and refuses to Apply because “that would be making the Bible say what I want.” Honor the caution and gently invite. Logos becomes rhema in the Apply step.
-- The teen who comes back to Week 6 still carrying Week 5. Honor that. Pull them aside before the session if possible.
+- The teen who comes back to Week 7 still carrying Week 6. Honor that. Pull them aside before the session if possible.
 
-## CRISIS CONTINGENCIES (Week 6)
+## CRISIS CONTINGENCIES (Week 7)
 
-Week 6 is low-risk by design. After Week 5 the cohort needs a session where the work is steady and the Spirit is invited rather than confessed to. Standard Section 6 protocols apply but acute crisis disclosure is unlikely tonight.
+Week 7 is low-risk by design. After Week 6 the cohort needs a session where the work is steady and the Spirit is invited rather than confessed to. Standard Section 6 protocols apply but acute crisis disclosure is unlikely tonight.
 
 **If a participant’s Apply or Tell surfaces something heavy.** Honor in the room briefly. Follow up offline within 48 hours.
 
-**If anyone returns from Week 5 still carrying weight.** Cohort Companion checks in privately before or after the session. Pastoral 1:1 if needed.
+**If anyone returns from Week 6 still carrying weight.** Cohort Companion checks in privately before or after the session. Pastoral 1:1 if needed.
 
 # **Session at a Glance**
 
 ## **Why this session, this week**
 
-Week 5 was the most vulnerable session of Getting Started. Week 6 is intentionally a turn. We move from looking at our own places of stalled formation to opening the channel through which the Father characteristically speaks: scripture.
+Week 6 was the most vulnerable session of Getting Started. Week 7 is intentionally a turn. We move from looking at our own places of stalled formation to opening the channel through which the Father characteristically speaks: scripture.
 
 PROAPT is not a Bible study method. It is a hearing practice. The distinction matters. Bible study asks: what does this passage mean? PROAPT asks: what is the Spirit saying through this passage to me, today, in my specific life? Both are valuable; tonight we practice the second.
 
@@ -83,13 +83,13 @@ Six steps. The acronym matters because the order matters.
 ## From prior sessions
 
 - Week 1: Container holds. PROAPT will be practiced in pairs in cohort circles.
-- Weeks 2–3: Self work. Each participant knows themselves well enough to hear what the Spirit is saying to them specifically.
-- Week 4: Container conditions are explicit. Tonight’s pair work uses them in miniature.
-- Week 5: Confession opened a channel that PROAPT continues. Apply and Pray again steps build on the same architecture.
+- Weeks 2–4: Self work. Each participant knows themselves well enough to hear what the Spirit is saying to them specifically.
+- Week 5: Container conditions are explicit. Tonight’s pair work uses them in miniature.
+- Week 6: Confession opened a channel that PROAPT continues. Apply and Pray again steps build on the same architecture.
 
 ## **Connect focus**
 
-God. The first three Connects (Self, Others, God) form a sequence. Tonight is the first explicit God-connection session. The next two weeks (Garden, Any Doubts?) deepen what tonight begins.
+God. The first three Connects (Self, Others, God) form a sequence. Tonight is the first explicit God-connection session. The sessions ahead — PROAPT II next week, then the Garden and Any Doubts? — deepen what tonight begins.
 
 # **Pre-Work for the Companion Team**
 
@@ -102,28 +102,27 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 ## **Team pre-work**
 
 1. Confirm the worked-example passage.
-2. Each Cohort Companion commits to PROAPT-ing one passage daily for the next eight weeks (the rest of the series plus the interlude). Tonight is not a one-time exercise.
+2. Each Cohort Companion commits to PROAPT-ing one passage daily for the rest of the series and on through the interlude. Tonight is not a one-time exercise.
 3. Walk through the pair structure for the cohort circles (one Reader, one Listener; switch halfway).
 
 ## **Logistics pre-work**
 
-1. Print PROAPT step card (H6.1, all cohorts, single page).
-2. Print the Mark 1:14–20 worked-example handout (H6.2).
-3. Print three age-tiered passage suggestion sheets (H6.3) for ongoing daily practice.
+1. Print PROAPT step card (H7.1, all cohorts, single page).
+2. Print the Mark 1:14–20 worked-example handout (H7.2).
+3. Print three age-tiered passage suggestion sheets (H7.3) for ongoing daily practice.
 4. Confirm cohort spaces from prior weeks.
-5. Collect Mid-Series Pulse responses from Week 5 returns at the door.
 
 # **Materials and Setup**
 
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening and teaching.
-- Phone-box at the door. Bin for Mid-Series Pulse returns.
+- Phone-box at the door.
 - Personal Heart Journals (each participant brings).
 - Bibles — every participant has access (their own, or copies provided). PROAPT works best with a physical Bible.
-- PROAPT step card: H6.1 (one per participant).
-- Mark 1:14–20 handout: H6.2 (one per participant, with the passage printed and space to write).
-- Passage suggestions: H6.3 (three age-tiered sheets, one per participant).
+- PROAPT step card: H7.1 (one per participant).
+- Mark 1:14–20 handout: H7.2 (one per participant, with the passage printed and space to write).
+- Passage suggestions: H7.3 (three age-tiered sheets, one per participant).
 - Three private cohort spaces.
 - Whiteboard or flip chart.
 - Pens and notebooks if Personal Heart Journals are at home.
@@ -132,19 +131,19 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Confirm passage. Print all handouts. Collect Pulse returns from Wk 5. | Lead Comp |
+| Week before | Confirm passage. Print all handouts. | Lead Comp |
 | Day before | Lead Companion PROAPTs the passage. Walks the room. | Lead Comp |
 | T-30 min | All Companions in room. PRAY through the passage as a team — modeling Pray step. | All Companions |
-| T-15 min | Door opens. Pulse returns collected at door. | Co-Comp (Teen) |
+| T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
 | T-0 | Doors close. Open. | Lead Comp |
 
 # **Detailed 90-Minute Run Sheet**
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Pulse returns collected. Standard arrival. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6 as a turn. |
-| 7:08–7:13 | Block 2: Wk 5 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
+| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 7 as a turn. |
+| 7:08–7:13 | Block 2: Wk 6 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
 | 7:13–7:23 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
 | 7:23–7:35 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole cohort works Mark 1:14–20 step by step. 12 minutes. |
 | 7:35–7:37 | Block 5: Bridge to the split and pair structure | Shared | Lead Comp | Pair structure explained. Pray. Split. |
@@ -161,11 +160,11 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“Welcome back. Phones in the box. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Container reminder: Safe, Present, Clear, Intentional. Same as it has been across the cohort’s work.” “Tonight is Week 6. We are over halfway. The first five weeks were Self and Others. Tonight we turn the channel.”*
+*“Container reminder: Safe, Present, Clear, Intentional. Same as it has been across the cohort’s work.” “Tonight is Week 7. We are over halfway. The first five weeks were Self and Others. Tonight we turn the channel.”*
 
 *“Here is the move. We have done the interior work — Heart Soil, story, friendship audit, naming the place. All of that prepares us for what we are going to practice tonight: hearing God in scripture as a learnable skill. Not a mystical thing reserved for special people. A practice. With six steps. That works.”*
 
-## **Block 2 — Week 5 Check-in (7:08–7:13, 5 min)**
+## **Block 2 — Week 6 Check-in (7:08–7:13, 5 min)**
 
 ## Script
 
@@ -173,7 +172,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *(Take 3–4 contributions. Then move on.)*
 
-*“For anyone whose Week 5 is still sitting heavy — the team is here. Find one of us before you leave tonight if you need to.”*
+*“For anyone whose Week 6 is still sitting heavy — the team is here. Find one of us before you leave tonight if you need to.”*
 
 ## **Block 3 — Romans 10:17 and the Hearing Chain (7:13–7:23, 10 min)**
 
@@ -197,7 +196,7 @@ Read Romans 10:17 aloud. Slow. The teaching is short.
 
 ## **Block 4 — PROAPT Walked Together (7:23–7:35, 12 min)**
 
-This is the most important teaching block of the night. Walk the cohort through Mark 1:14–20 step by step. Each step gets about 90 seconds, with the cohort working their handout (H6.2).
+This is the most important teaching block of the night. Walk the cohort through Mark 1:14–20 step by step. Each step gets about 90 seconds, with the cohort working their handout (H7.2).
 
 ## How to walk it
 
@@ -267,9 +266,9 @@ Re-form into cohort circle (out of pairs). Each participant tells the cohort cir
 
 *(Receive each word.)*
 
-*“Okay, between-session practice. PROAPT one passage per day, every day, for the next week. Five to ten minutes. The journal Week 6 pages have a daily PROAPT template — you can use it or just work through the six steps in your own format.”*
+*“Okay, between-session practice. PROAPT one passage per day, every day, for the next week. Five to ten minutes. The journal Week 7 pages have a daily PROAPT template — you can use it or just work through the six steps in your own format.”*
 
-*“For what to read — if you don’t already have a plan, the handout (hold up H6.3) has age-tiered passage suggestions. Junior cohort: simple Gospel passages, one a day. Senior cohort: Sermon on the Mount or Romans 8 worked through one passage at a time. Parents: same options or pick from your current reading.”*
+*“For what to read — if you don’t already have a plan, the handout (hold up H7.3) has age-tiered passage suggestions. Junior cohort: simple Gospel passages, one a day. Senior cohort: Sermon on the Mount or Romans 8 worked through one passage at a time. Parents: same options or pick from your current reading.”*
 
 *“One passage. Five to ten minutes. Every day. The chain only works if we work it.”*
 
@@ -343,46 +342,44 @@ Same as prior weeks.
 
 - DAILY PROAPT (NEW — the central practice from now on). One short passage. Five to fifteen minutes. Every day.
 - The morning question and evening journal note continue.
-- The Five-Minute Examen continues from Week 5.
+- The Five-Minute Examen continues from Week 6.
 - PROAPT becomes the daily anchor practice. The other rhythms are around it.
 
 # **Companion Debrief Prompts**
 
 ### **Signs the session worked**
 
-- Cohort came back from Week 5 willing to engage with a different kind of work tonight.
+- Cohort came back from Week 6 willing to engage with a different kind of work tonight.
 - Pairs went into PROAPT without resistance. Most participants worked the full structure.
 - Tell-step contributions were specific and varied — each person heard something different.
 - Several participants left commenting that PROAPT was simpler than they expected.
-- Mid-Series Pulse responses indicate at least 70% feel they are doing real work.
 
 ### **Signs the session did not work**
 
 - Pairs treated PROAPT as Bible study — stayed in Observe, never reached Apply.
 - Tell step felt forced — indicates the Pray and Pray-again steps were skipped.
-- The cohort came back from Week 5 unable to engage. May indicate Week 5 was too heavy or follow-up was missed.
+- The cohort came back from Week 6 unable to engage. May indicate Week 6 was too heavy or follow-up was missed.
 - Daily commitments were not specific (“I’ll try” rather than “Mornings before school”).
 
-### **Adjustments for Week 7**
+### **Adjustments for the sessions ahead**
 
-- Week 7 (Garden of Your Heart) is the deepest experiential practice of Getting Started. Tonight’s PROAPT is preparation — the cohort is now used to Spirit-led hearing.
-- If tonight was thin on Apply, slow Week 7’s setup.
+- Next week is PROAPT II — a Companion-in-Formation leads the full walk-through. If tonight was thin on Apply, coach the senior this week to slow the Apply step and use the specific-situation prompt.
+- Week 9 (Garden of Your Heart) is the deepest experiential practice of Getting Started. Tonight and next week are its preparation — the cohort will arrive used to Spirit-led hearing.
 
 ### **People to follow up with**
 
-- Anyone whose Mid-Series Pulse indicates struggle. Brief 1:1 within the week.
-- Anyone who is still carrying weight from Week 5. Pastoral 1:1 if needed.
+- Anyone who is still carrying weight from Week 6. Pastoral 1:1 if needed.
 - Anyone whose pair work seemed off — quiet partner, dominant partner. Adjust pairings for any future paired practice.
 
 # **Handouts**
 
-Three handouts for Week 6. The PROAPT step card and Mark 1 worked example are the same for all cohorts; the passage suggestions are age-tiered.
+Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are the same for all cohorts; the passage suggestions are age-tiered.
 
-- H6.1 — PROAPT Step Card (single page reference, all cohorts)
-- H6.2 — Mark 1:14–20 Worked Example (with space to write each step)
-- H6.3 — Passage Suggestions for the Week (Junior, Senior, Parent)
+- H7.1 — PROAPT Step Card (single page reference, all cohorts)
+- H7.2 — Mark 1:14–20 Worked Example (with space to write each step)
+- H7.3 — Passage Suggestions for the Week (Junior, Senior, Parent)
 
-**Handout H6.1 — PROAPT Step Card**
+**Handout H7.1 — PROAPT Step Card**
 
 *Print on cardstock. Keep in your Bible.*
 
@@ -434,7 +431,7 @@ Three handouts for Week 6. The PROAPT step card and Mark 1 worked example are th
 
 *Speaking what you heard solidifies it and creates accountability. The Word stays with you longer when it has been spoken aloud to another person.*
 
-**Handout H6.2 — Mark 1:14–20, PROAPT Walk-Through**
+**Handout H7.2 — Mark 1:14–20, PROAPT Walk-Through**
 
 ## Mark 1:14–20 (ESV)
 
@@ -482,7 +479,7 @@ Three handouts for Week 6. The PROAPT step card and Mark 1 worked example are th
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Handout H6.3 — Passage Suggestions for the Week**
+**Handout H7.3 — Passage Suggestions for the Week**
 
 *One passage per day for the next seven days. Pick from your cohort’s list, or stay with one Gospel and go in order.*
 

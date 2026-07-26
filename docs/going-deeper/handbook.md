@@ -58,9 +58,9 @@ Version 1.1
 
 Dear team —
 
-This handbook is for you, the Companions carrying the Fellowship of the Heart at Covenant Christian Academy of Warrenton through Going Deeper. Many of you walked Getting Started with the families that finished Wk 10’s commissioning. Some of you are new — brought in because the work has grown and we needed depth on the team. The handbook is written for both of you.
+This handbook is for you, the Companions carrying the Fellowship of the Heart at Covenant Christian Academy of Warrenton through Going Deeper. Many of you walked Getting Started with the families that finished Wk 14’s commissioning. Some of you are new — brought in because the work has grown and we needed depth on the team. The handbook is written for both of you.
 
-Going Deeper is not a sequel. It is the second movement of a longer arc that began in Getting Started and will, for some of these families, continue across years. The Getting Started was an invitation — a careful, gentle introduction to the four Connects done with the lightest touch the work allows. Going Deeper is the working depth: twelve weeks of slower, harder, more specifically-targeted formation for families who said, after Wk 10 of Getting Started, that they wanted to keep walking.
+Going Deeper is not a sequel. It is the second movement of a longer arc that began in Getting Started and will, for some of these families, continue across years. The Getting Started was an invitation — a careful, gentle introduction to the four Connects done with the lightest touch the work allows. Going Deeper is the working depth: twelve weeks of slower, harder, more specifically-targeted formation for families who said, after Wk 14 of Getting Started, that they wanted to keep walking.
 
 Three things you should know before you read further.
 
@@ -371,7 +371,7 @@ From Vol 5’s framework: a body whose lead is at Companion III can hold the mos
 
 *If the team’s composition does not meet these floors, the lead Companion arranges supervision or consultation from a Companion III outside the team. Pastoral / clinical backup is separately confirmed for every Tuesday regardless of team level.*
 
-**The junior-room floor (deep-work weeks).** On the weeks that go to depth with the youngest cohort — Going Deeper Wk 3 (Knots), Wk 5 (Confession), Wk 9 (Shadow / Mission), and Getting Started Wk 7 (Garden) and Wk 8 (Doubts) — the floor attaches to the *person in the junior room*, not to the team average. The adult leading the junior circle on those weeks must be a Companion II with adolescent-development competence, **or** a Companion I paired in the room with a II or III. A Companion I must not lead junior depth-work alone. And the pastoral / clinical backup must be reachable *that evening* — not merely “on call” — whenever a junior deep-work week runs.
+**The junior-room floor (deep-work weeks).** On the weeks that go to depth with the youngest cohort — Going Deeper Wk 3 (Knots), Wk 5 (Confession), Wk 9 (Shadow / Mission), and Getting Started Wks 9–10 (Garden) and Wk 11 (Doubts) — the floor attaches to the *person in the junior room*, not to the team average. The adult leading the junior circle on those weeks must be a Companion II with adolescent-development competence, **or** a Companion I paired in the room with a II or III. A Companion I must not lead junior depth-work alone. And the pastoral / clinical backup must be reachable *that evening* — not merely “on call” — whenever a junior deep-work week runs.
 
 **Section 6 — Safety, Confidentiality, and Crisis Protocols**
 
@@ -435,7 +435,7 @@ Any 1:1 with a minor (a teen) is held with the two-adult rule — either two adu
 
 **Why onboarding matters**
 
-Going Deeper Wk 1 assumes the cohort has the four-conditions container (Safe, Present, Clear, Intentional). Getting Started alumni built that container together across ten weeks. New participants — friends and family of Getting Started families, teens whose parent is not continuing, parents whose teen is not, anyone joining at Going Deeper — have not been in the room when the container was built. Evening 1 is where new participants enter the container.
+Going Deeper Wk 1 assumes the cohort has the four-conditions container (Safe, Present, Clear, Intentional). Getting Started alumni built that container together across fifteen weeks. New participants — friends and family of Getting Started families, teens whose parent is not continuing, parents whose teen is not, anyone joining at Going Deeper — have not been in the room when the container was built. Evening 1 is where new participants enter the container.
 
 Onboarding has two architectural goals. First, vocabulary and architecture: new participants leave Evening 1 knowing the four Connects, the four container conditions, the Aaronic blessing, the cohort split, the standing pair structure, and the twelve-week arc at a glance. Second, story-share: each new participant tells a brief witnessed version of their story, with veteran witness, so they enter Wk 1 having already been heard by some of the room.
 
@@ -1403,9 +1403,11 @@ Pre-cohort window. [INSERT DATE] — [INSERT DATE]. Pre-Cohort 1:1 Discernment C
 
 Getting Started Wk 1. [INSERT DATE]. Welcome to the Journey — cohort opens
 
-Getting Started Wks 2–9. [INSERT DATE — INSERT DATE]. Standard 90-min Tuesday evenings; account for [INSERT HOLIDAY] week pause if applicable
+Getting Started Wks 2–13. [INSERT DATE — INSERT DATE]. Standard 90-min Tuesday evenings; account for [INSERT HOLIDAY] week pause if applicable
 
-Getting Started Wk 10. [INSERT DATE]. Family Commissioning (120 min extended)
+Getting Started Wk 14. [INSERT DATE]. Family Commissioning (120 min extended)
+
+Getting Started Wk 15. [INSERT DATE]. Commissioning the Companions — closes Getting Started
 
 First interlude (post-Getting Started). [INSERT DATE — INSERT DATE]. 6–10 weeks; pastoral coverage active; new-participant onboarding (Section 7) for Going Deeper joiners
 

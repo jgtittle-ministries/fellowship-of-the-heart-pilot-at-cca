@@ -96,7 +96,7 @@ From Vol 1 Exp 1: hearing is the discriminator between gift and shadow. The same
 
 ## From prior sessions
 
-**•** Getting Started Wks 8 and 9 introduced gifts and shadow lightly — the Connect: Mission framework and the language of gift, calling, and shadow as a foreshadowing topic. Tonight does the actual diagnostic work.
+**•** Getting Started Wks 11 and 12 introduced gifts and shadow lightly — the Connect: Mission framework and the language of gift, calling, and shadow as a foreshadowing topic. Tonight does the actual diagnostic work.
 
 **•** Wk 3 standing pair. The pair has now done diagnosis (knot, lie), confession, and corporate hearing together. Tonight is the gift-and-shadow conversation; the pair has the language and the trust.
 

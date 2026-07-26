@@ -2,11 +2,11 @@
 
 *Getting Started series — The Four Connects*
 
-Week 7
+Week 9
 
-**The Garden of Your Heart**
+**The Garden of Your Heart I**
 
-*An experiential encounter with Jesus in your interior space*
+*An experiential encounter with Jesus in your interior space — the first guided run; a senior leads the second next week*
 
 ![A green path through the trees.](images/wk07-garden.jpg)
 
@@ -22,13 +22,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. Of all Getting Started’s sessions, this is the one that has produced the most lasting fruit in adult IJH groups. Treat it gently — do not over-explain.*
 
-## WEEK 7 — THE GARDEN OF YOUR HEART (90 minutes)
+## WEEK 9 — THE GARDEN OF YOUR HEART (90 minutes)
 
 **Aim.** An experiential encounter with Jesus in the heart’s interior space, age-adapted from Vol 2 Exp 7. Each participant pictures their heart as a garden, invites Jesus in, and notices what He does.
 
 **Anchor scripture.** John 15:1–11 (the vine and the branches) and Psalm 23 (the Shepherd in the green pastures).
 
-**Connect focus.** God. This is the second of two consecutive Connect-with-God sessions. Week 6 taught a hearing posture (PROAPT). Tonight invites a relational encounter.
+**Connect focus.** God. The third of the Connect-with-God sessions. Weeks 7–8 taught a hearing posture (PROAPT, received and then led); tonight invites a relational encounter.
 
 **Mode.** Shared teaching framing; SPLIT into cohort circles for the guided exercise; MERGE for sharing (by invitation only) and closing.
 
@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **IJH source.** Vol 2 Seventh Exploration (the Garden of Your Heart practice as one of the highest-confidence formation tools); Vol 4 Section 3 on age-appropriate adaptation of imaginative prayer for younger participants.
 
-## WATCH FOR (Week 7 specific risks)
+## WATCH FOR (Week 9 specific risks)
 
 - Skepticism of imaginative prayer. Some participants — especially Reformed-leaning parents and intellectually rigorous seniors — will hesitate. Address it at the open. The exercise is not pretending; it is the same faculty by which we read scripture’s images and let them shape us.
 - “I didn’t see anything.” Some participants will not have a vivid experience. That is fine. Frame this at the open. The exercise is not a test of imaginative power; it is a posture of receptivity.
@@ -47,9 +47,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - The senior who treats this as performance art. Gently: “You don’t have to come up with anything. Sit with what is actually there.”
 - Distinguishing imaginative prayer from contemplative emptying. We are not emptying the mind; we are filling it with one specific scriptural image and inviting Jesus into it. This is image-saturated prayer, not absence-of-thought meditation.
 
-## CRISIS CONTINGENCIES (Week 7)
+## CRISIS CONTINGENCIES (Week 9)
 
-**Week 7 occasionally surfaces material the participant did not know they were carrying — a wound that became visible only when Jesus was invited near it.**
+**Week 9 occasionally surfaces material the participant did not know they were carrying — a wound that became visible only when Jesus was invited near it.**
 
 **If a participant is overwhelmed during the exercise.** The Cohort Companion notices (eyes closed, but body language tells you). Quietly: “You can open your eyes whenever you want. Stay with what feels safe. Jesus is not in a hurry.” Do not stop the exercise for the whole circle.
 
@@ -63,9 +63,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## Why this session, this week
 
-Week 6 introduced PROAPT — a posture for hearing God in the written word. Week 7 invites a different and complementary practice: an imaginative encounter with Jesus in the interior space scripture calls the heart.
+Week 7 introduced PROAPT — a posture for hearing God in the written word. Week 9 invites a different and complementary practice: an imaginative encounter with Jesus in the interior space scripture calls the heart.
 
-In Volume 2 of the IJH project, two practices have produced the most consistent, durable fruit across many years of adult groups: the Garden of Your Heart and the Any Doubts? exercise. Tonight is the first; Week 8 is the second. We have sequenced them deliberately. Tonight’s gentleness creates the room for next week’s honesty.
+In Volume 2 of the IJH project, two practices have produced the most consistent, durable fruit across many years of adult groups: the Garden of Your Heart and the Any Doubts? exercise. Tonight is the first; Week 11 is the second. We have sequenced them deliberately — with the second garden run (Week 10, senior-led) between them. Tonight’s gentleness creates the room for the honesty that is coming.
 
 The Garden of Your Heart is not allegory and not visualization-as-self-help. It is what the early Christian tradition called imaginative prayer — the deliberate use of the imagination, anchored in scripture, to receive what God wants to show. Ignatius taught it. Bonaventure taught it. The Puritan writers taught it under different names. We are walking a well-worn path.
 
@@ -73,19 +73,19 @@ The Garden of Your Heart is not allegory and not visualization-as-self-help. It 
 
 ## From prior sessions
 
-- Week 6: PROAPT was introduced. Participants now have a learnable hearing practice. Tonight is hearing in a different mode — not in words but in image-and-encounter.
-- Week 5: confession-and-restoration. Tonight’s exercise often surfaces the place that work was already opening. Honor the resonance.
-- The container is now seven weeks old. By design, the cohort circles tonight require the most settled container of Getting Started.
+- Week 7: PROAPT was introduced. Participants now have a learnable hearing practice. Tonight is hearing in a different mode — not in words but in image-and-encounter.
+- Week 6: confession-and-restoration. Tonight’s exercise often surfaces the place that work was already opening. Honor the resonance.
+- The container is now nine weeks old. By design, the cohort circles tonight require the most settled container of Getting Started.
 
 ## Connect focus
 
-God, primary. Self is the lens (your interior). Others (the cohort) provides the holding container in which the encounter takes place. Mission is implicit — what is offered tonight will be carried into Weeks 9–10 as the foundation of the participant’s sense of calling.
+God, primary. Self is the lens (your interior). Others (the cohort) provides the holding container in which the encounter takes place. Mission is implicit — what is offered tonight will be carried into Weeks 12–15 as the foundation of the participant’s sense of calling.
 
 # Pre-Work for the Companion Team (this week)
 
 ## Personal pre-work
 
-This week, every Companion does the Garden of Your Heart exercise themselves — alone, in the quiet, ideally outdoors. Use the script in Handout H7.1 or your own scriptural opening. Forty minutes.
+This week, every Companion does the Garden of Your Heart exercise themselves — alone, in the quiet, ideally outdoors. Use the script in Handout H9.1 or your own scriptural opening. Forty minutes.
 
 Do not skip this. The Companion who has not personally walked into their own garden this week cannot lead another person into theirs. The teens will know. They have known since Week 1; tonight they will especially know.
 
@@ -93,18 +93,18 @@ After your time in the garden, journal: what did Jesus do? Where did He stop? Wh
 
 ## Team pre-work
 
-Forty-eight hours before Week 7, the Companion team meets for forty-five minutes:
+Forty-eight hours before Week 9, the Companion team meets for forty-five minutes:
 
 1. Each Companion briefly names what they noticed in their own garden time this week. (Optional; may be private. The team listens; nobody comments.)
-2. Walk through the cohort exercise script (H7.1) so each Cohort Companion is comfortable reading it slowly out loud.
+2. Walk through the cohort exercise script (H9.1) so each Cohort Companion is comfortable reading it slowly out loud.
 3. Walk through the crisis contingencies above. Each Companion says aloud what they would do.
 4. Confirm pastoral / clinical backup.
 5. Pray for each participant by name.
 
 ## Logistics pre-work
 
-1. Print the Garden of Your Heart script (Handout H7.1) for every Cohort Companion — they will read from it tonight.
-2. Print the Garden Journal page (H7.2) and the Note for the Skeptic (H7.3) — one of each per participant.
+1. Print the Garden of Your Heart script (Handout H9.1) for every Cohort Companion — they will read from it tonight.
+2. Print the Garden Journal page (H9.2) and the Note for the Skeptic (H9.3) — one of each per participant.
 3. Prepare each cohort space for stillness. Dim lighting if possible. Soft instrumental music available if the Cohort Companion wants to use it briefly during the silent portion (optional, no requirement).
 
 # Materials and Setup
@@ -114,7 +114,7 @@ Forty-eight hours before Week 7, the Companion team meets for forty-five minutes
 - Chairs in main room as a single circle for opening.
 - Phone-box at the door.
 - Personal Heart Journals.
-- Handouts H7.1, H7.2, H7.3 distributed in cohort spaces (H7.1 to Companions only; H7.2 and H7.3 to participants).
+- Handouts H9.1, H9.2, H9.3 distributed in cohort spaces (H9.1 to Companions only; H9.2 and H9.3 to participants).
 - Three private spaces for cohort circles, with comfortable seating in a tight circle. Soft lighting if possible.
 - Tissues in every cohort space (even more important tonight).
 - Large-print Bible (ESV).
@@ -140,9 +140,9 @@ Forty-eight hours before Week 7, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Quieter than usual. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Mid-Series Pulse returns (from Week 8) collected in the bin. Quieter than usual. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
-| 7:10–7:15 | Block 2: Week 6 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
+| 7:10–7:15 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
 | 7:15–7:32 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
 | 7:32–7:35 | Block 4: Bridge to split | Shared circle | Lead Comp | Pray. Split. |
 | 7:35–8:05 | Block 5: The Garden exercise in cohort circles | Cohort circles | Cohort Facs | Guided imaginative prayer (12–15 min); silent journaling (5 min); sharing by invitation only (10–12 min). |
@@ -168,7 +168,7 @@ Tonight’s opening is quieter than other weeks. Match the tone of what is comin
 
 *“Container reminders: what is said here stays here. Nothing is required — not even doing the exercise. Listen to receive.”*
 
-## Block 2 — Week 6 Check-in (7:10–7:15, 5 min)
+## Block 2 — Week 7 Check-in (7:10–7:15, 5 min)
 
 ## Script
 
@@ -218,7 +218,7 @@ Read both passages slowly. Then frame the practice. The framing here is critical
 
 *“Here is what is going to happen for the next half-hour. We are going to split into our cohort circles. In each circle, your Companion is going to walk you through a guided imaginative prayer — about twelve to fifteen minutes. They will read it slowly. Your eyes can be closed or open; either is fine.”*
 
-*“After the guided portion, you’ll have five minutes to write in your journal — your Personal Heart Journal has a Week 7 page. Then your circle will have time for sharing, by invitation only. Silence is a complete answer.”*
+*“After the guided portion, you’ll have five minutes to write in your journal — your Personal Heart Journal has a Week 9 page. Then your circle will have time for sharing, by invitation only. Silence is a complete answer.”*
 
 *“Pray with me. Father, you are the vinedresser. We are coming into our hearts tonight to meet your Son. Show us what you want us to see. Where it is hard, be tender. Where it is closed, be patient. Where it is opening, be present. Amen.”*
 
@@ -226,7 +226,7 @@ Read both passages slowly. Then frame the practice. The framing here is critical
 
 ## Block 5 — The Garden Exercise in Cohort Circles (7:35–8:05, 30 min)
 
-Each cohort circle runs in parallel. The Companion reads the guided prayer (Handout H7.1) slowly. The full text of the script is in the handout; what follows here is the structure and the timing.
+Each cohort circle runs in parallel. The Companion reads the guided prayer (Handout H9.1) slowly. The full text of the script is in the handout; what follows here is the structure and the timing.
 
 ### Structure inside the cohort circle
 
@@ -236,13 +236,13 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 ## Phase 2 — Guided prayer (12–15 min)
 
-**Cohort Companion reads the script in H7.1 slowly. Each section has a pause. The pauses are not optional — they are where the work happens.**
+**Cohort Companion reads the script in H9.1 slowly. Each section has a pause. The pauses are not optional — they are where the work happens.**
 
 **If a participant’s body language tells you they are overwhelmed, the Cohort Companion can quietly step out with them. Do not stop the exercise for the whole circle.**
 
 ## Phase 3 — Silent journaling (5 min)
 
-**“Take five minutes. Write in your Week 7 journal page what you noticed. Whatever you noticed.”**
+**“Take five minutes. Write in your Week 9 journal page what you noticed. Whatever you noticed.”**
 
 ## Phase 4 — Sharing by invitation (8–10 min)
 
@@ -285,9 +285,9 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 *“One gentle thing before you go: the garden is usually restful, but a return can sometimes surface something heavy you did not expect. If that happens, you can stop, open your eyes, and come back another day — Jesus is not in a hurry. And it is a good and brave thing to tell a trusted adult about it: your Cohort Companion, a parent, or someone you trust. You are not meant to carry the heavy things alone.”*
 
-*“Your Personal Heart Journal has Week 7 pages with daily prompts. Handout H7.2 is a clean Garden Journal page if you prefer to use that.”*
+*“Your Personal Heart Journal has Week 9 pages with daily prompts. Handout H9.2 is a clean Garden Journal page if you prefer to use that.”*
 
-*“One more thing. If you came in tonight skeptical — if the imaginative prayer felt foreign or theologically uneasy — H7.3 is a one-pager for you. Read it. Decide what you want to do with it. The practice is real, and it is also okay if you adapt it or sit it out for now.”*
+*“One more thing. If you came in tonight skeptical — if the imaginative prayer felt foreign or theologically uneasy — H9.3 is a one-pager for you. Read it. Decide what you want to do with it. The practice is real, and it is also okay if you adapt it or sit it out for now.”*
 
 ## Block 8 — Closing Container (8:25–8:30, 5 min)
 
@@ -311,7 +311,7 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 ## Adjustments
 
-- The guided prayer script for juniors uses more concrete imagery and shorter sentences. (See H7.1.) The arc is the same; the language is age-appropriate.
+- The guided prayer script for juniors uses more concrete imagery and shorter sentences. (See H9.1.) The arc is the same; the language is age-appropriate.
 - Junior teens may report cartoonish or whimsical imagery — a garden with a treehouse, a dragon by the gate. Receive without commentary. Do not interpret. The Spirit knows what He is doing.
 - Some junior teens have not previously prayed in any way other than reciting prayers. The exercise will feel novel. Frame this gently before the split: “This may feel new. That’s fine. There’s no wrong way to do it.”
 - Watch for the junior teen who reports nothing happened. Do not press. Affirm: “You turned toward Him for fifteen minutes. That is the practice.”
@@ -321,7 +321,7 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 ## Adjustments
 
-- The guided prayer for seniors uses the full IJH-adapted language. (See H7.1.) Seniors can hold longer pauses and more abstract imagery.
+- The guided prayer for seniors uses the full IJH-adapted language. (See H9.1.) Seniors can hold longer pauses and more abstract imagery.
 - Senior teens are most likely to surface something specifically tender — an old wound, a place of shame, a doubt about their own faith. Honor without amplifying.
 - Watch for the senior who cannot stop intellectualizing. “I just kept analyzing whether this was real or whether I was making it up.” That is a real experience. Affirm: “The analysis itself is honest. Bring the analysis to Jesus next time and see what He does with it.”
 - Some seniors will be relieved to discover that prayer can be image-saturated and not only word-based. Several years of testimony from adult IJH groups suggests this is one of the most lasting effects of this session for some participants.
@@ -331,7 +331,7 @@ Each cohort circle runs in parallel. The Companion reads the guided prayer (Hand
 
 ## Adjustments
 
-- The guided prayer for parents uses the full adult IJH script. (See H7.1.) Parents are most likely to encounter the heart’s actual interior — the place midlife has crowded out.
+- The guided prayer for parents uses the full adult IJH script. (See H9.1.) Parents are most likely to encounter the heart’s actual interior — the place midlife has crowded out.
 - Parents are most likely of the three cohorts to have a strong, surprising experience. The garden often surfaces a wound a parent did not realize they were carrying — a regret, a grief, a long-quiet hope.
 - Parents are also most likely to be skeptical at the front — especially in a Reformed-evangelical context. The framing block above addresses this. Take it seriously.
 - Some parents will weep. This is appropriate and not catastrophic. The Cohort Companion holds the space.
@@ -347,14 +347,14 @@ Three layers, same pattern as prior weeks. Tonight’s closing is shorter than t
 
 - The morning question (5 min, daily) — carried forward.
 - The evening journal note (1–2 min, daily) — carried forward.
-- PROAPT one short passage daily — carried forward from Week 6.
-- Three returns to the garden (NEW this week). 5–10 minutes each, three days this week. Journal what you notice. See Handout H7.2.
+- PROAPT one short passage daily — carried forward from Week 7.
+- Three returns to the garden (NEW this week). 5–10 minutes each, three days this week. Journal what you notice. See Handout H9.2.
 
 This is the most internally demanding between-session week of Getting Started. Be honest with participants: many will not get to all three garden visits. Two is fine. One is fine. Even setting the time aside and not getting there is fine — the practice is the turning toward, not the metric.
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 7 for a 45-minute debrief. Week 7 debriefs are longer than most because the texture is different.
+Companion team meets the day after Week 9 for a 45-minute debrief. Week 9 debriefs are longer than most because the texture is different.
 
 ### Signs the session worked
 
@@ -372,28 +372,30 @@ Companion team meets the day after Week 7 for a 45-minute debrief. Week 7 debrie
 - Junior teens reported the exercise felt forced or performative.
 - A participant left visibly distressed without being checked on.
 
-### If the session did not work — what to adjust for Week 8
+### If the session did not work — what to adjust for Weeks 10–11
 
-- If the read was rushed, debrief specifically with that Cohort Companion. Week 8’s pacing matters even more.
-- If sharing slid into interpretation, the Lead Companion may want to reaffirm the receive-without-interpreting norm in Week 8’s opening.
-- If skepticism dominated, the Lead Companion may want a brief private 1:1 with the most resistant participants before Week 8.
+- Next week is the second guided run, senior-led (Week 10): whatever was rushed or thin tonight, coach the senior on it this week — the second running exists to complete what the first began.
+- If the read was rushed, debrief specifically with that Cohort Companion. Week 11’s pacing matters even more.
+- If sharing slid into interpretation, the Lead Companion may want to reaffirm the receive-without-interpreting norm at the Week 10 open.
+- If skepticism dominated, the Lead Companion may want a brief private 1:1 with the most resistant participants before Week 11.
+- Review the Mid-Series Pulse returns collected tonight at this week's debrief; they inform pacing for Weeks 10–15.
 
 ### People to follow up with this week
 
 - Anyone who appeared distressed during or after the exercise. 24-hour contact.
 - Anyone whose share suggested the encounter surfaced something they did not know they were carrying. Pastoral 1:1 if welcomed.
 - Anyone who reported “nothing happened” and seemed troubled by it. Brief warm contact: “The practice is the turning toward Him. You did the practice.”
-- Anyone who did not return to the garden during the week. Brief check at Week 8: “Any garden visits this week?”
+- Anyone who did not return to the garden during the week. Brief check at Week 10: “Any garden visits this week?”
 
 # Handouts
 
-Three handouts for Week 7.
+Three handouts for Week 9.
 
-- H7.1 — Garden of Your Heart Guided Prayer (FACILITATOR script, three cohort versions)
-- H7.2 — Garden Journal Page (between-session practice)
-- H7.3 — A Note for the Skeptic
+- H9.1 — Garden of Your Heart Guided Prayer (FACILITATOR script, three cohort versions)
+- H9.2 — Garden Journal Page (between-session practice)
+- H9.3 — A Note for the Skeptic
 
-**Handout H7.1 — Garden of Your Heart (Cohort Companion Script)**
+**Handout H9.1 — Garden of Your Heart (Cohort Companion Script)**
 
 *Read this slowly. Pauses are part of the prayer. Where the script says (pause), pause for at least 30 seconds. Where it says (longer pause), pause for at least 60 seconds. Resist the urge to fill silence with more words.*
 
@@ -463,9 +465,9 @@ Three handouts for Week 7.
 
 *“Take five minutes with your journal. Write what you noticed. Whatever you noticed. Even ‘I noticed nothing happened’ is honest data. The garden has its own time. There is no grade.”*
 
-**Handout H7.2 — Garden Journal**
+**Handout H9.2 — Garden Journal**
 
-*Between-session practice for Week 7*
+*Between-session practice for Week 9*
 
 *Three returns to the garden this week. Five to ten minutes each. You don’t need the full guided script — you have the place now. Just go back. Use these prompts.*
 
@@ -509,7 +511,7 @@ Is there a place in the garden you keep returning to? (If there is a place you h
 
 What is one thing you want to bring to next Tuesday’s session?
 
-**Handout H7.3 — A Note for the Skeptic**
+**Handout H9.3 — A Note for the Skeptic**
 
 *If tonight’s exercise made you uneasy — not because it was emotionally hard but because something about imaginative prayer felt theologically off — this page is for you. Your hesitation is not a failure of faith. It is a form of faithfulness.*
 
@@ -536,6 +538,6 @@ Some skeptical participants find a more anchored version of the practice helpful
 
 ### If the exercise still feels wrong
 
-It is okay to sit out the practice this week and use PROAPT (Week 6) or another practice in its place. Sit with John 15 instead. The work of Week 7 is the turning toward Jesus in the interior, not the specific exercise.
+It is okay to sit out the practice this week and use PROAPT (Week 7) or another practice in its place. Sit with John 15 instead. The work of Week 9 is the turning toward Jesus in the interior, not the specific exercise.
 
 And: bring your hesitation to the Lead Companion. Real questions deserve real conversation, not silent compliance.

@@ -106,7 +106,7 @@ The framing tonight is the most important teaching of the session. Most particip
 
 ## From prior sessions
 
-**•** Getting Started Wk 5 (foundational) — cohort circle confession of one place to walk in greater honesty. Tonight assumes participants have practiced naming, even briefly.
+**•** Getting Started Wk 6 (foundational) — cohort circle confession of one place to walk in greater honesty. Tonight assumes participants have practiced naming, even briefly.
 
 **•** Wk 3 standing-pair covenant. The pair has now had two weeks of brief check-ins (Wk 3 and Wk 4) and one whole-room session. The pair is the unit tonight.
 

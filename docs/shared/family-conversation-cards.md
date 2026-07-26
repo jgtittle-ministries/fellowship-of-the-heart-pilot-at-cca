@@ -363,7 +363,7 @@ Card 27 • **GOD**
 
 **Anchor —** *Mark 9:24*
 
-**Use it —** Trusted privacy. After Wk 8 of Getting Started.
+**Use it —** Trusted privacy. After Wk 11 of Getting Started.
 
 Card 28 • **GOD**
 
@@ -409,7 +409,7 @@ Card 31 • **MISSION**
 
 **Anchor —** *Ephesians 2:10*
 
-**Use it —** Half-yearly. Big decisions. After Wk 9 of Getting Started.
+**Use it —** Half-yearly. Big decisions. After Wk 12 of Getting Started.
 
 Card 32 • **MISSION**
 

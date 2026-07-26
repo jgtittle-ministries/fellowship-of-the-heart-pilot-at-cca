@@ -46,7 +46,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - The teen who maps trauma. Some teens will surface trauma material disguised as a knot. Receive without interpretation; pastoral / clinical referral within 48 hours. Section 6 of the handbook applies.
 - The parent who maps a knot tied to a specific person in the room. ‘My anger knot is about my husband, who is in the parent cohort.’ Cohort Companion: redirect to the interior reality (the anger is in you), not the relational adjudication. Pastoral 1:1 within the week if welcomed.
 - When a participant names anger at someone who hurt them, never let “release the claim / forgive” be heard as “reconcile” or “go back” — forgiveness is interior; trust and reunion are separate and depend on the other’s change. **If a minor names current or ongoing harm from a parent or caregiver, this is a safety matter, not a forgiveness exercise — follow Section 6 and the mandatory-reporting steps.**
-- The veteran of Getting Started who treats this as a recap. Going Deeper is doing what Getting Started didn’t. The Wk 8 (Getting Started) Any Doubts? practice was at most a glimpse of what tonight is naming. Reframe gently if needed.
+- The veteran of Getting Started who treats this as a recap. Going Deeper is doing what Getting Started didn’t. The Wk 11 (Getting Started) Any Doubts? practice was at most a glimpse of what tonight is naming. Reframe gently if needed.
 - The new participant whose two-evening onboarding didn’t cover the soil-and-knot architecture. Pair them with a veteran for the cohort exercise; the Cohort Companion floats nearby.
 - Tears are normal tonight. Naming a long-held knot for the first time produces tears. The cohort holds the tears; the team does not interpret them; the work continues at the participant’s pace.
 
@@ -84,7 +84,7 @@ That release work is not what we do tonight. The therapeutic protocols (TPM, GRH
 
 - Wk 1 re-installed the container. The container has to hold tonight; the work surfaces material Getting Started’s container did not have to carry.
 - Wk 2 named the four soils as the symptom-level diagnostic. Tonight names the mechanism producing the symptoms. The two are paired.
-- Getting Started Wk 2 (the Soil session) and Getting Started Wk 8 (Any Doubts?) are background. Tonight will land differently for participants who completed Getting Started than for new participants who came in via onboarding.
+- Getting Started Wk 2 (the Soil session) and Getting Started Wk 11 (Any Doubts?) are background. Tonight will land differently for participants who completed Getting Started than for new participants who came in via onboarding.
 - Wk 4 (next week) is Co-Processing in the Room — the corporate mechanism by which cohort work begins releasing what is named tonight. Tonight’s diagnostic feeds directly into next week’s work.
 
 ## **Connect focus**
@@ -247,7 +247,7 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 *Mechanism: the nervous system is in threat-response. Often a frightened body needs to settle before cognitive or spiritual work can reach the root — and frequently the Spirit Himself brings that quiet (Phil. 4:7).*
 
-*Entry point: somatic. Breath, body awareness, progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism. Once the somatic is calmed, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted,’ ‘I am alone’ — is named; the Spirit speaks specific truth.*
+*Entry point: somatic. Breath, body awareness, progressive relaxation. The Garden of Your Heart from Getting Started Wks 9–10 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism. Once the somatic is calmed, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted,’ ‘I am alone’ — is named; the Spirit speaks specific truth.*
 
 **ANGER KNOTS**
 
@@ -530,7 +530,7 @@ Four handouts for Wk 3.
 
 **MECHANISM: the nervous system is in threat-response. The body is on guard against something. Often a frightened body needs to settle before cognitive or spiritual work can reach the root — and frequently the Spirit Himself brings that quiet (Phil. 4:7).**
 
-**ENTRY POINT: somatic. Breath. Body awareness. Progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism.**
+**ENTRY POINT: somatic. Breath. Body awareness. Progressive relaxation. The Garden of Your Heart from Getting Started Wks 9–10 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism.**
 
 **SPIRITUAL COMPLETION: after somatic calm, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted with this,’ ‘I am alone’ — is named; the Spirit speaks specific truth.**
 

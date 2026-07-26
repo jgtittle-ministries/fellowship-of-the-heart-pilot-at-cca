@@ -86,7 +86,7 @@ Week 12
 
 **Why this session, this week**
 
-Wk 12 closes the formal series. A year of weekly cohort meetings ends tonight — Getting Started (10 weeks, when applicable), 12 weeks of Going Deeper, the interlude, 12 weeks of Going Out. The cohort that walked the formation arc is being released to continued formation in different rhythms. The architecture is ceremonial without being performative; the formal close honors what was, opens what continues, and refuses to pretend the ending is not an ending.
+Wk 12 closes the formal series. A year of weekly cohort meetings ends tonight — Getting Started (15 weeks, when applicable), 12 weeks of Going Deeper, the interlude, 12 weeks of Going Out. The cohort that walked the formation arc is being released to continued formation in different rhythms. The architecture is ceremonial without being performative; the formal close honors what was, opens what continues, and refuses to pretend the ending is not an ending.
 
 Acts 20:36–38 is the architectural anchor for the closing. Paul’s farewell at Miletus: he kneels and prays with the elders; they weep; they embrace; they accompany him to the ship. The architecture is ceremonial — specific physical postures, specific words, specific actions. It is also honest — they grieve openly; the parting is real; they will likely not see Paul again in this life. Tonight’s closing follows the same shape: specific blessings spoken aloud; honest grief; physical actions (the body together speaking the Aaronic, the H12.1 cards in hand); honest acknowledgment that the formal weekly rhythm ends and the long obedience continues.
 

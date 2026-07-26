@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 8
+Week 11
 
 **Any Doubts?**
 
@@ -20,9 +20,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 # **Quick Reference Card**
 
-*Print this page on cardstock. Two copies in the room. This is the second of the two highest-confidence formation tools in the IJH project (Garden of Your Heart in Wk 7 was the first). Treat the practice with care.*
+*Print this page on cardstock. Two copies in the room. This is the second of the two highest-confidence formation tools in the IJH project (Garden of Your Heart in Wk 9 was the first). Treat the practice with care.*
 
-## WEEK 8 — ANY DOUBTS? (90 minutes)
+## WEEK 11 — ANY DOUBTS? (90 minutes)
 
 **Aim.** Practice naming the doubts and questions we usually do not say out loud, and bringing them honestly to God. The naming is the practice; the resolution is the Spirit’s work.
 
@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **IJH source.** Vol 2 Seventh Exploration (the Any Doubts? process); Vol 1 Word→Hearing→Faith chain (Romans 10:17); Mark 9:14–29 in full as the scriptural ground.
 
-## WATCH FOR (Week 8 specific risks)
+## WATCH FOR (Week 11 specific risks)
 
 - Doubt confused with disbelief. The exercise is not about faith crises or apostasy. It is about the gap between what we say and what we actually trust. Frame this three times before the split.
 - Performative doubts. “I doubt that God exists” is rarely the real one. The real ones are smaller and more personal: “I doubt God actually likes me.” “I doubt He hears prayer about my brother.” Push gently for specificity.
@@ -48,11 +48,11 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Parents importing apologetics-class instincts. Especially in CCA’s context, parents may feel responsible to argue their children out of doubts. The Any Doubts? practice is the opposite of that. The team must model receiving without arguing.
 - The doubt that surfaces is bigger than the exercise. Sometimes the named doubt is the door to a deeper unbelief. The Cohort Companion does not chase it tonight; they bless the naming and follow up offline.
 
-## CRISIS CONTINGENCIES (Week 8)
+## CRISIS CONTINGENCIES (Week 11)
 
-**Week 8 is moderate-risk. Most of what surfaces will be small honest doubts. Occasionally the practice surfaces something larger — a crisis of faith, a wound that has hardened into specific unbelief, a quiet despair about prayer.**
+**Week 11 is moderate-risk. Most of what surfaces will be small honest doubts. Occasionally the practice surfaces something larger — a crisis of faith, a wound that has hardened into specific unbelief, a quiet despair about prayer.**
 
-**If a participant surfaces a larger crisis of faith.** Receive without alarm. Do not preach. Do not promise resolution by Week 10. The Cohort Companion blesses the naming, completes the round if possible, and the Lead Companion follows up offline within 48 hours. Real questions deserve real conversation — not in the cohort circle.
+**If a participant surfaces a larger crisis of faith.** Receive without alarm. Do not preach. Do not promise resolution by Week 14. The Cohort Companion blesses the naming, completes the round if possible, and the Lead Companion follows up offline within 48 hours. Real questions deserve real conversation — not in the cohort circle.
 
 **If a participant becomes distressed during the exaggeration step.** Stop the exaggeration. Re-read the scripture. Sit with the participant. The exercise is not therapy; we do not push past distress.
 
@@ -64,19 +64,19 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Week 6 introduced PROAPT — a hearing posture toward scripture. Week 7 invited an experiential encounter with Jesus in the heart’s interior. Week 8 names the brake. Many of us live with a quiet contradiction: we say we believe certain scriptures and simultaneously hold doubts about them we have never examined. The doubt operates as an unconscious brake on the faith those scriptures should produce.
+Week 7 introduced PROAPT — a hearing posture toward scripture. Week 9 invited an experiential encounter with Jesus in the heart’s interior. Week 11 names the brake. Many of us live with a quiet contradiction: we say we believe certain scriptures and simultaneously hold doubts about them we have never examined. The doubt operates as an unconscious brake on the faith those scriptures should produce.
 
 Mark 9:24 is the model. The father did not pretend the unbelief wasn’t there. He named it, brought it to Jesus, and asked for help with it. That is the Any Doubts? practice in one sentence: the unbelief that is named and brought to Jesus is the unbelief that can be released; the unbelief that is suppressed continues to operate as a brake.
 
-From Vol 2: of all the IJH formation practices, Any Doubts? and Garden of Your Heart are the highest-confidence tools in direct observation. The two together — Wk 7 and Wk 8 — are the formation core of Getting Started. Treat them accordingly.
+From Vol 2: of all the IJH formation practices, Any Doubts? and Garden of Your Heart are the highest-confidence tools in direct observation. The two together — Wk 9 and Wk 11 — are the formation core of Getting Started. Treat them accordingly.
 
 ## **Dependencies**
 
 ## From prior sessions
 
-- Week 6: PROAPT introduced the Word→Hearing→Faith chain (Romans 10:17). Tonight names what blocks the chain.
-- Week 7: Garden of Your Heart established that the heart has interior places worth visiting on purpose. Tonight visits one specific kind of place — the place where a scripture has not yet landed.
-- The container is now eight weeks old. Tonight’s pair work requires the container be holding well. If Week 7 surfaced unfinished material for any participant, the Lead Companion should know before the session.
+- Week 7: PROAPT introduced the Word→Hearing→Faith chain (Romans 10:17). Tonight names what blocks the chain.
+- Week 9: Garden of Your Heart established that the heart has interior places worth visiting on purpose. Tonight visits one specific kind of place — the place where a scripture has not yet landed.
+- The container is now eleven weeks old. Tonight’s pair work requires the container be holding well. If Week 9 surfaced unfinished material for any participant, the Lead Companion should know before the session.
 
 ## **Connect focus**
 
@@ -96,7 +96,7 @@ Do not skip this. The teens will know within thirty seconds whether you have don
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 8, the Companion team meets for forty-five minutes:
+Forty-eight hours before Week 11, the Companion team meets for forty-five minutes:
 
 1. Each Companion briefly names what scripture and what doubt they worked with this week. Optional; may be private. The team does not interpret or fix.
 2. Walk the cohort exercise script (below) so each Cohort Companion is comfortable holding the pairs.
@@ -107,9 +107,9 @@ Forty-eight hours before Week 8, the Companion team meets for forty-five minutes
 
 ## **Logistics pre-work**
 
-1. Print the Any Doubts? Practice Card (H8.1) — one per participant.
-2. Print the Personal Doubts Inventory (H8.2) for the between-session work.
-3. Print the Sample Scriptures sheet (H8.3) — one per pair, optional resource.
+1. Print the Any Doubts? Practice Card (H11.1) — one per participant.
+2. Print the Personal Doubts Inventory (H11.2) for the between-session work.
+3. Print the Sample Scriptures sheet (H11.3) — one per pair, optional resource.
 4. Confirm pastoral / clinical backup availability.
 
 # **Materials and Setup**
@@ -120,7 +120,7 @@ Forty-eight hours before Week 8, the Companion team meets for forty-five minutes
 - Phone-box at the door.
 - Personal Heart Journals (each brings their own; have spares).
 - Whiteboard with the four steps of the practice pre-written: NAME / EXAGGERATE / SIT / RE-READ.
-- Handouts H8.1, H8.2, H8.3 stacked at each chair.
+- Handouts H11.1, H11.2, H11.3 stacked at each chair.
 - Three private spaces for cohort circles. Within each cohort space, enough room for pairs to sit knee-to-knee with a small buffer of physical space between pairs.
 - Tissues in every cohort space.
 - Large-print Bible (ESV) in each cohort space.
@@ -158,8 +158,8 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 8. |
-| 7:08–7:13 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on garden returns. One-sentence shares. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
+| 7:08–7:13 | Block 2: Week 9 check-in | Shared circle | Lead Comp | Brief check on garden returns. One-sentence shares. |
 | 7:13–7:25 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
 | 7:25–7:35 | Block 4: The Any Doubts? practice — teaching | Shared circle | Lead Comp | Walk the four steps on the whiteboard. Demo with a Co-Companion. 10 min. |
 | 7:35–7:38 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
@@ -178,11 +178,11 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 8. We have two weeks left in Getting Started. Tonight we are going to do something that goes against most of what we have been taught about how spiritual people should sound. We are going to bring our actual doubts — the small, quiet ones we usually do not say out loud — and we are going to bring them honestly to God in front of one other person.”*
+*“Tonight is Week 11. We have two weeks left in Getting Started. Tonight we are going to do something that goes against most of what we have been taught about how spiritual people should sound. We are going to bring our actual doubts — the small, quiet ones we usually do not say out loud — and we are going to bring them honestly to God in front of one other person.”*
 
 *“Container reminders: what is said in your pair stays in your pair. Nothing is required. Specificity is the practice; honesty is the goal.”*
 
-## **Block 2 — Week 7 Check-in (7:08–7:13, 5 min)**
+## **Block 2 — Week 9 Check-in (7:08–7:13, 5 min)**
 
 ## Script
 
@@ -250,9 +250,9 @@ Watch for: the demo is the most important three minutes of the night. The cohort
 
 ## Script
 
-*“The practice card is on your chair. H8.1. Take it with you. Inside your cohort circle, your Companion will pair you up. You’ll have about thirty-five minutes. Each pair runs the practice 2–3 times — alternating who tells the doubt and who reads the scripture.”*
+*“The practice card is on your chair. H11.1. Take it with you. Inside your cohort circle, your Companion will pair you up. You’ll have about thirty-five minutes. Each pair runs the practice 2–3 times — alternating who tells the doubt and who reads the scripture.”*
 
-*“If you don’t have a scripture in mind, H8.3 has examples. Pick one that has a flicker for you. Don’t pick one that has a hurricane for you — that is a different conversation. Pick one with a small honest hesitation.”*
+*“If you don’t have a scripture in mind, H11.3 has examples. Pick one that has a flicker for you. Don’t pick one that has a hurricane for you — that is a different conversation. Pick one with a small honest hesitation.”*
 
 *“Partners: your job is to read the scripture. To listen. To re-read. To not fix. To not theologize. We are not arguing the doubt. We are bringing it.”*
 
@@ -325,7 +325,7 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 ## Script
 
-*“Here is the practice this week. The Personal Doubts Inventory — H8.2. One page in your journal this week.”*
+*“Here is the practice this week. The Personal Doubts Inventory — H11.2. One page in your journal this week.”*
 
 *“Some time this week, sit with your journal for twenty minutes. List five to ten scriptures you say you believe. Next to each, write a sentence about whether you actually trust it, on a scale from ‘fully’ to ‘not really.’ No shame. No editing for tone. This is data, just for you.”*
 
@@ -341,7 +341,7 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you.”*
 
-*“One note: next Tuesday is Week 9 — the second-to-last session. Two weeks from tonight is the close of Getting Started. Plan to bring your whole family. We are heading toward the sending.”*
+*“One note: next Tuesday is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the family commissioning and the commissioning of our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
@@ -355,8 +355,8 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 ## Adjustments
 
-- The practice card for juniors uses simpler language and a shorter rhythm. The exaggeration step is softened to “say it stronger.” See Handout H8.1 (junior version).
-- Sample scriptures (H8.3) for juniors include shorter, more concrete texts: Psalm 139:14, Romans 8:38–39, 1 John 4:19, Matthew 11:28–30.
+- The practice card for juniors uses simpler language and a shorter rhythm. The exaggeration step is softened to “say it stronger.” See Handout H11.1 (junior version).
+- Sample scriptures (H11.3) for juniors include shorter, more concrete texts: Psalm 139:14, Romans 8:38–39, 1 John 4:19, Matthew 11:28–30.
 - Pair turns are 5 minutes, not 7. Junior pair-work runs faster.
 - Watch for: junior teens drifting into hypotheticals (“what if dinosaurs”). Redirect to a heart-doubt: “Something you say you believe — about you, about God — that something inside you isn’t fully sure about.”
 - Watch for: silliness from pair partners. Two best friends can drift into giggles. The Cohort Companion may need to re-pair on the night if it’s clear a pairing isn’t holding.
@@ -366,8 +366,8 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 ## Adjustments
 
-- The practice card for seniors uses the full IJH language. See Handout H8.1 (senior version).
-- Sample scriptures (H8.3) include texts seniors often quietly doubt: Romans 8:28, Jeremiah 29:11, Psalm 139:13–16, John 14:1–3, Romans 8:38–39, James 1:5.
+- The practice card for seniors uses the full IJH language. See Handout H11.1 (senior version).
+- Sample scriptures (H11.3) include texts seniors often quietly doubt: Romans 8:28, Jeremiah 29:11, Psalm 139:13–16, John 14:1–3, Romans 8:38–39, James 1:5.
 - Pair turns are 7 minutes.
 - Watch for: the senior who wants to debate their partner’s doubt. Redirect: “You’re not the apologetics class tonight. Read, listen, re-read.”
 - Watch for: the senior whose doubt is bigger than the exercise. (“I’m not sure I believe any of this anymore.”) Receive without alarm. The Cohort Companion does not chase it. Lead Companion follows up within 48 hours. Real doubts of that scale deserve real conversation.
@@ -377,8 +377,8 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 ## Adjustments
 
-- The practice card for parents uses the full adult IJH language. See Handout H8.1 (parent version).
-- Sample scriptures (H8.3) include texts midlife parents often quietly doubt: Romans 8:28, Philippians 4:6–7, Psalm 23:1, James 1:2–4, Matthew 6:33, Romans 5:3–5.
+- The practice card for parents uses the full adult IJH language. See Handout H11.1 (parent version).
+- Sample scriptures (H11.3) include texts midlife parents often quietly doubt: Romans 8:28, Philippians 4:6–7, Psalm 23:1, James 1:2–4, Matthew 6:33, Romans 5:3–5.
 - Pair turns are 7 minutes.
 - Watch for: the parent who imports apologetics. “You know, scholars have shown that \_\_\_\_\_.” Redirect: “You are not the answer-man tonight. You are the witness.”
 - Watch for: the parent whose doubt centers on their child. “I doubt God will protect my daughter from \_\_\_\_\_.” This is real and appropriate; honor it. The pair partner just listens and re-reads.
@@ -395,12 +395,12 @@ Same three-layer pattern. Tonight the merge’s one-word landing carries the emo
 
 - The morning question (5 min, daily) — carried forward from prior weeks.
 - The evening journal note (1–2 min, daily) — carried forward.
-- PROAPT one short passage daily — carried forward from Week 6 (optional but encouraged).
-- Personal Doubts Inventory (NEW this week). Twenty minutes once this week. List 5–10 scriptures and what your honest trust level is. For the 2–3 with the most hesitation, write a specific sentence about the doubt. See Handout H8.2.
+- PROAPT one short passage daily — carried forward from Week 7 (optional but encouraged).
+- Personal Doubts Inventory (NEW this week). Twenty minutes once this week. List 5–10 scriptures and what your honest trust level is. For the 2–3 with the most hesitation, write a specific sentence about the doubt. See Handout H11.2.
 
 # **Companion Debrief Prompts**
 
-Companion team meets the day after Week 8 for a 45-minute debrief.
+Companion team meets the day after Week 11 for a 45-minute debrief.
 
 ### **Signs the session worked**
 
@@ -418,10 +418,10 @@ Companion team meets the day after Week 8 for a 45-minute debrief.
 - A participant left distressed without being checked on.
 - The demo at Block 4 was rushed or felt rehearsed.
 
-### **If the session did not work — what to adjust for Week 9**
+### **If the session did not work — what to adjust for Week 12**
 
-- If the demo was rushed, the Lead Companion owns it. Week 9 still has time for the team to model honesty more carefully.
-- If pairs drifted, the Lead Companion may want to briefly reframe at Week 9’s opening: “The move from apologetics to witness is one of the harder shifts in this work. Several of us tried it last week.”
+- If the demo was rushed, the Lead Companion owns it. Week 12 still has time for the team to model honesty more carefully.
+- If pairs drifted, the Lead Companion may want to briefly reframe at Week 12’s opening: “The move from apologetics to witness is one of the harder shifts in this work. Several of us tried it last week.”
 - If a participant left distressed, 24-hour contact protocol per Section 6.
 
 ### **People to follow up with this week**
@@ -433,13 +433,13 @@ Companion team meets the day after Week 8 for a 45-minute debrief.
 
 # **Handouts**
 
-Three handouts for Week 8.
+Three handouts for Week 11.
 
-- H8.1 — Any Doubts? Practice Card (junior, senior, and parent versions)
-- H8.2 — Personal Doubts Inventory (between-session work)
-- H8.3 — Sample Scriptures (for participants who don’t have one in mind)
+- H11.1 — Any Doubts? Practice Card (junior, senior, and parent versions)
+- H11.2 — Personal Doubts Inventory (between-session work)
+- H11.3 — Sample Scriptures (for participants who don’t have one in mind)
 
-**Handout H8.1 — Any Doubts? Practice Card**
+**Handout H11.1 — Any Doubts? Practice Card**
 
 *The four steps. Use this card during the pair work tonight, and any time afterward. Three versions on this page — use the one for your cohort.*
 
@@ -479,9 +479,9 @@ Three handouts for Week 8.
 
 **4. RE-READ. Partner re-reads. Slowly. Notice what is different. Often, the difference is not that the doubt is solved — it is that the scripture and the doubt are now in the room together, instead of the scripture in your mouth and the doubt buried.**
 
-**Handout H8.2 — Personal Doubts Inventory**
+**Handout H11.2 — Personal Doubts Inventory**
 
-*Between-session practice for Week 8*
+*Between-session practice for Week 11*
 
 *Twenty minutes this week, with your journal. The point is not to discover that you are full of doubt; it is to map honestly where the brakes are so the Spirit can address them. No shame. Just data.*
 
@@ -521,7 +521,7 @@ If you want, run the practice on yourself. Read the scripture. Name the doubt. E
 
 This list is yours. The team will not see it. You will not turn it in. Keep it in your journal. As the rest of the year unfolds, watch for small shifts — places where a scripture you wrote down at “2” quietly moves toward “3.” That is the Spirit’s work. You did the naming.
 
-**Handout H8.3 — Sample Scriptures**
+**Handout H11.3 — Sample Scriptures**
 
 *If you don’t have a scripture in mind for tonight’s practice, here are options. Pick one with a flicker for you — not a hurricane.*
 

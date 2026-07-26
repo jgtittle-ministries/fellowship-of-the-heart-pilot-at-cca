@@ -75,7 +75,7 @@ Vol 2 sources for tonight:
 2. Vol 2 Fifth Exploration — the four Connects sequence: Self → Others → God → Mission.
 3. Vol 2 Eighth Exploration — the four container conditions (Safe, Present, Clear, Intentional).
 
-**Dependencies.** Week 1 depends only on the Family Orientation Night having happened. Week 1 is itself the dependency for Weeks 2–10 — the container experienced tonight is what the rest of the series will build on. If the container does not form tonight, slow down before you accelerate.
+**Dependencies.** Week 1 depends only on the Family Orientation Night having happened. Week 1 is itself the dependency for Weeks 2–15 — the container experienced tonight is what the rest of the series will build on. If the container does not form tonight, slow down before you accelerate.
 
 # Pre-Work for Participants
 
@@ -158,7 +158,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 ## Script
 
-“Welcome to the first night of Fellowship of the Heart. My name is \_\_\_\_\_, and along with \_\_\_\_\_ and \_\_\_\_\_ I’ll be facilitating the next ten weeks with you. We’re glad you’re here. We mean that. Before we go any further, let me say three things:
+“Welcome to the first night of Fellowship of the Heart. My name is \_\_\_\_\_, and along with \_\_\_\_\_ and \_\_\_\_\_ I’ll be facilitating the next fifteen weeks with you. We’re glad you’re here. We mean that. Before we go any further, let me say three things:
 
 “One. Tonight is the doorway, not the destination. We’re going to do something tonight that some of you may not have done before — we’re going to take real time, in a real circle, with real people, and we’re going to start a journey. The work of Getting Started comes later. Tonight is the door.
 
@@ -174,13 +174,13 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 ## Script
 
-“For ninety minutes a week for ten weeks, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
+“For ninety minutes a week for fifteen weeks, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
 
 “Here’s what this is. This is a structured chance to do real interior work as a family and as a community. We are going to ask honest questions. We are going to give you a frame for them. We are going to invite the Holy Spirit to do what only the Holy Spirit can do, and we are going to try to get out of His way.
 
 “Here’s what this isn’t. This isn’t a Bible study where we read a chapter and discuss it. It isn’t a youth group where you play games and have a snack and go home. It isn’t therapy. We aren’t licensed, and we aren’t pretending to be. If something heavy comes up for you across Getting Started, we have a list of qualified counselors who can help, and we’ll connect you.
 
-“What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend the next ten weeks practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
+“What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend the next fifteen weeks practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
 
 ## Block 3 — The Four Connects, Kitchen-Table Version (7:10–7:20, 10 min)
 
@@ -198,9 +198,9 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 “So there are four. (Point to the diagram.) Connecting with Self. Connecting with Others. Connecting with God. Connecting with Mission. They aren’t separate topics. They’re a sequence. You can’t connect with others until you’re honest with yourself. You can’t connect with God in a way that goes beyond performance until you’re honest with yourself and have at least one person who knows your interior life. And you can’t live the mission God prepared for you until the first three connections are real.
 
-“Over the next ten weeks, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next two weeks are about Self. Two weeks after that, about Others. Three weeks after that, about God. Then Mission. Then we send each other out.
+“Over the next fifteen weeks, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next three weeks are about Self. Two weeks after that, about Others. Five weeks after that, about God — including learning to hear Him, which we’ll practice until it’s yours. Then Mission. Then a week to build the rhythm you’ll carry when the Tuesdays end. Then we send each other out.
 
-“That’s the map. Don’t worry about memorizing it. These ten weeks will teach it to you.”
+“That’s the map. Don’t worry about memorizing it. These fifteen weeks will teach it to you.”
 
 Watch for: junior teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 
@@ -210,7 +210,7 @@ This is the most important block of Week 1. Do not rush it.
 
 ## Script
 
-“We’re going to do something tonight, and every week for the next ten weeks, that we call ‘the container.’ The container is what makes a meeting different from real interior work. Without the container, this is just a class. With the container, this becomes a place where the Spirit is invited to move.
+“We’re going to do something tonight, and every week for the next fifteen weeks, that we call ‘the container.’ The container is what makes a meeting different from real interior work. Without the container, this is just a class. With the container, this becomes a place where the Spirit is invited to move.
 
 “There are four conditions for a real container. I’ll name them once. (Reads from board or holds up card.) Safe. Present. Clear. Intentional.
 
@@ -280,7 +280,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “Here is the question I want you to take home with you tonight. Not to answer right now. To carry. ‘Where in my life am I living abundantly, and where am I living some thinner version of life that Jesus did not come to give me?’
 
-“We will spend the next ten weeks unpacking that. For tonight, just hold the question.”
+“We will spend the next fifteen weeks unpacking that. For tonight, just hold the question.”
 
 ## Block 7 — Between-Session Practice (8:05–8:10, 5 min)
 
@@ -430,7 +430,7 @@ Each handout is on its own page below. Print as needed.
 
 *Fellowship of the Heart — Getting Started series*
 
-Welcome to the journey. Over the next ten Tuesday evenings, we will walk together through the four Connects — the spine of the Intentional Journey of the Heart.
+Welcome to the journey. Over the next fifteen Tuesday evenings, we will walk together through the four Connects — the spine of the Intentional Journey of the Heart.
 
 ### The Four Connects
 
@@ -461,14 +461,19 @@ Each evening, write one sentence in your journal: what did I notice today?
 | --- | --- |
 | 1 | Welcome to the Journey (tonight) |
 | 2 | The Soil of Your Heart |
-| 3 | Telling Your Story |
-| 4 | Knowing and Being Known |
-| 5 | Safe and Brave Together |
-| 6 | Hearing God in Scripture |
-| 7 | The Garden of Your Heart |
-| 8 | Any Doubts? Bringing the Real Question |
-| 9 | What Was Prepared for You |
-| 10 | Sending and Blessing |
+| 3 | Telling Your Story I |
+| 4 | Telling Your Story II |
+| 5 | Knowing and Being Known |
+| 6 | Safe and Brave Together |
+| 7 | Hearing God in Scripture — PROAPT I |
+| 8 | Hearing God — PROAPT II |
+| 9 | The Garden of Your Heart I |
+| 10 | The Garden of Your Heart II |
+| 11 | Any Doubts? Bringing the Real Question |
+| 12 | What Was Prepared for You |
+| 13 | The Rhythm and the Dry Season |
+| 14 | Sending and Blessing |
+| 15 | Commissioning the Companions |
 
 **Handout H1.2 — Aaronic Blessing Card**
 

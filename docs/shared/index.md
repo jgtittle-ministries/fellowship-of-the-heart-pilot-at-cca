@@ -12,7 +12,7 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Rhythm Card**](rhythm-card.md) — the daily / weekly / monthly practice card. The long-term rhythm a cohort carries beyond Getting Started, sustained across Going Deeper and Going Out and beyond.
 
-- [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 6 and carried daily through the rest of the curriculum.
+- [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 7 and carried daily through the rest of the curriculum.
 
 - [**Reading List**](reading-list.md) — an annotated guide for parents, teens, and the curious. Curated from the IJH Volume 5 References for the Fellowship of the Heart audience.
 
@@ -23,6 +23,8 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 - [**Measurement Covenant**](measurement-covenant.md) — *team-facing*: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure nothing you will not weep over*. Signed before any instrument is used; re-signed annually.
 
 - [**Three Vital Signs**](three-vital-signs.md) — *team-facing*: the Companion team's weekly lens. Three readings taken in ordinary sessions with no form in anyone's hand — Costly Telling, Response to Load, the Sought Stray — and the discipline for reading them. The companion card to the covenant: the covenant governs what is held; this card is most of what is watched.
+
+- [**Keeping the Flame**](keeping-the-flame.md) — *team-facing*: for every Companion, adult or FC1 — how a calling survives its own success. The Ephesus drift (works commended, first love left), the leader's self-check, the five defenses, and the recovery protocol. A mirror, never a lever; walked at the first Leader Lab of every serving cycle.
 
 ---
 
@@ -35,7 +37,7 @@ These materials are designed to work together across the year:
 - The **Rhythm Card** sets the daily, weekly, and monthly practices that the cohort sustains together.
 - The **PROAPT Card** is the reference for the hearing-in-scripture practice that anchors the daily rhythm from Week 6 onward.
 - The **Reading List** is for the participant who wants to read further, at their own pace.
-- The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — kept in every participant folder from Week 10 onward, in the hope that they gather dust.
+- The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — taught in Getting Started's Week 13 session (The Rhythm and the Dry Season) and kept in every participant folder from then on, in the hope that they gather dust.
 - The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
 - The **Three Vital Signs** card is how the team actually watches, week to week — three questions at the top of every debrief, with the heavier instruments held in reserve.
 

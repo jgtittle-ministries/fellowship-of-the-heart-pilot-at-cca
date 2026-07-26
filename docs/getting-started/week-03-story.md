@@ -4,9 +4,9 @@
 
 Week 3
 
-**Telling Your Story**
+**Telling Your Story I**
 
-*Four questions, one circle, and the practice of being known*
+*Four questions, one circle, and the practice of being known — the first batch tells; Week 4 completes the round*
 
 ![An open page, waiting for your story.](images/wk03-story.jpg)
 
@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room — one for the Lead Companion, one for the Co-Companion team. This is the highest-risk session of Getting Started. Read the Crisis Contingencies section below before walking in.*
 
-## WEEK 3 — TELLING YOUR STORY (90 minutes)
+## WEEK 3 — TELLING YOUR STORY I (90 minutes)
 
 **Aim.** Each participant tells a portion of their personal story to a small circle of 4–5 using the four-question frame, and each receives a spoken blessing from the circle. The session moves Connecting with Self into Connecting with Others.
 
@@ -44,7 +44,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Comparison and shame. “My story isn’t as bad as theirs” and “my story is too dark” both kill the work. Frame both at the front.
 - Fixing in the listener role. Teens — and parents — will want to fix, advise, or relate-back. The listener role is to receive and bless. That is the practice.
 - The over-discloser. One person who tells everything, far past the seven-minute mark. The Lead Companion must be willing to gently time-bound.
-- The under-discloser. “I don’t really have a story.” Honor it. Do not push. Their courage may show up in Week 5 or Week 7. Do not make Week 3 the test.
+- The under-discloser. “I don’t really have a story.” Honor it. Do not push. Their courage may show up in Week 6 or Week 9. Do not make Week 3 the test.
 - Parent stories that name family events the teen is processing in another room. Plan in advance for parents whose stories may need to be sequenced with what their teen is hearing or telling.
 - First time the cohort circles have run without the Lead Companion in them. Each cohort circle needs an experienced Co-Companion.
 
@@ -348,7 +348,7 @@ The four-question frame is softened. “Wounds” becomes “hard times.” “B
 - Cohort Companion may briefly help with prompts: “Tell us where you grew up first — the place you remember most.” Then pause and let the teen go.
 - Watch for the teen who tells the story they think the adults want to hear. Affirm specificity over polish: “The specific thing you just said — about your grandfather’s shed — that’s the gold.”
 - Watch for the teen who narrates a parent’s story instead of their own. Gentle: “That sounds like an important part of your family. Where are you in this story?”
-- Watch for the teen who says nothing. They are listening; they are learning. Do not pressure them. They may speak in Week 5 or Week 7. Do not make Week 3 the test of their participation.
+- Watch for the teen who says nothing. They are listening; they are learning. Do not pressure them. They may speak in Week 6 or Week 9. Do not make Week 3 the test of their participation.
 
 ## Senior teens (15–18)
 
@@ -424,12 +424,12 @@ Companion team meets the day after Week 3 for a 45-minute debrief. Week 3 debrie
 - The merge felt rushed or cheerful. Cheerful means the cohort circles did not actually go deep, or the Lead Companion imposed lightness on a heavy room. Both are issues.
 - A participant left without a word and you did not catch them. The team must follow up within 24 hours.
 
-### If the session did not work — what to adjust for Week 4
+### If the session did not work — what to adjust for Week 5
 
-- If specificity was the issue, talk in the team debrief about whether the demo modeled it. If not, the Lead Companion owes the cohort a brief acknowledgment in Week 4.
+- If specificity was the issue, talk in the team debrief about whether the demo modeled it. If not, the Lead Companion owes the cohort a brief acknowledgment in Week 5.
 - If a circle ran out of time, the team must reach out to the participant who did not tell within 24 hours. Offer a 1:1 with the Cohort Companion within the week.
-- If a circle struggled with the listener role, the Lead Companion can briefly re-frame in Week 4 opening: “Something we noticed last week that’s worth saying again — listening to receive is its own discipline.”
-- If a Cohort Companion was struggling, do not change them mid-series. Pair them more closely with the Lead Companion for Week 4. Reassess at the Week 5 mid-point.
+- If a circle struggled with the listener role, the Lead Companion can briefly re-frame in Week 4's opening — the second running is exactly where the re-frame lands: “Something we noticed last week that’s worth saying again — listening to receive is its own discipline.”
+- If a Cohort Companion was struggling, do not change them mid-series. Pair them more closely with the Lead Companion for Week 4. Reassess at the Week 8 mid-point.
 
 ### People to follow up with this week
 
@@ -618,10 +618,10 @@ Brief is better than long. One or two sentences each. The teller needs to receiv
 
 ### If it doesn’t happen
 
-If the week gets away from you and you don’t do this, that is data, not failure. Bring it to Week 4 honestly. “We didn’t get to it” is part of the work, too. Most families are not used to this kind of conversation; it takes practice to even find the time.
+If the week gets away from you and you don’t do this, that is data, not failure. Bring it to Week 5 honestly. “We didn’t get to it” is part of the work, too. Most families are not used to this kind of conversation; it takes practice to even find the time.
 
 ### If it goes well
 
-If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series has ten weeks; it doesn’t have to all happen tonight.
+If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series has fifteen weeks; it doesn’t have to all happen tonight.
 
-*Bring this handout back to Week 4 if you want, or keep it. The questions don’t expire.*
+*Bring this handout back to Week 5 if you want, or keep it. The questions don’t expire.*

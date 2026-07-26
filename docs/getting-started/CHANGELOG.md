@@ -2,6 +2,21 @@
 
 *Fellowship of the Heart — Series 1 of 3*
 
+# July 2026 — The fifteen-week consolidation
+
+For the mid-September 2026 CCA launch, the series consolidated from two documented structures (the ten-week base map and Section 11's thirteen-week teen-leadership map) into **one fifteen-week map**, carried in Handbook Section 1. What changed:
+
+- Three second-running sessions built into the base map: Telling Your Story II (Wk 4), PROAPT II (Wk 8), Garden of Your Heart II (Wk 10) — each teen-led under the Section 11 bright line, each with its own full lesson plan.
+- Two new closing sessions: **Week 13 — The Rhythm and the Dry Season** (Rhythm Card built personally; the Signs and Path Home cards taught, not just filed) and **Week 15 — Commissioning the Companions** (the FC1 exit gate as a witnessed rite). Week 14 remains the family commissioning.
+- Lesson-plan files renumbered to the new map (`week-05-known` was `week-04-known`, and so on); five new plans added.
+- Assessment re-timed: Mid-Series Pulse to Week 8 (distributed) / Week 9 (collected); Post-Series Survey at Week 14.
+- The Personal Heart Journal expanded to fifteen weekly sections.
+- Calendar note: thirteen sessions run in the fall term; Weeks 14–15 fall after Christmas break, opening the spring term.
+
+The May 2026 editorial delivery below is retained as history; its week numbers refer to the old ten-week map.
+
+---
+
 *Editorial pass per the user's May 2026 review decisions*
 
 # What this delivery is

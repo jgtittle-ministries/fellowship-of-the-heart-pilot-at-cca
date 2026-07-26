@@ -105,7 +105,7 @@ Now the Companion names what Getting Started is, in a specific architectural way
 
 ## ONE — The four Connects as the spine.
 
-‘Getting Started’s ten weeks walk through what the Intentional Journey of the Heart calls the four Connects: Self, Others, God, and Mission. Each Connect is one or two weeks, and by Wk 10 we’ve touched all four together. The four Connects aren’t a checklist — they’re the architecture of how Scripture says formation actually happens.’
+‘Getting Started’s fifteen weeks walk through what the Intentional Journey of the Heart calls the four Connects: Self, Others, God, and Mission. Each Connect gets its own stretch of weeks, and by the closing sessions we’ve touched all four together. The four Connects aren’t a checklist — they’re the architecture of how Scripture says formation actually happens.’
 
 Brief enough; do not over-explain. The applicant doesn’t need to understand the four Connects fully tonight; they need to know that the cohort has a spine.
 
@@ -133,7 +133,7 @@ After naming the three things, the Companion names three things Getting Started 
 
 Before closing Block 2, the Companion names the practical commitments:
 
-- Ten Tuesday evenings, 90 minutes each (Wk 10 is 120 minutes — the Family Commissioning).
+- Fifteen Tuesday evenings, 90 minutes each (Wk 14 is 120 minutes — the Family Commissioning). Thirteen run in the fall term; the final two land in January, after the Christmas break.
 - About 15 minutes a day between sessions for a journal practice.
 - One pre-cohort conversation — this one. One Family Pre-Cohort Conversation Worksheet to complete with your pair partner the week before Wk 1.
 - After Getting Started, Going Deeper in the next series cycle is invited but not assumed. Many participants do Getting Started and stop there; that is honest and good. The architecture honors both continuing and not.

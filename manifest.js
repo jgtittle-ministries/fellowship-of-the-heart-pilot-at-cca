@@ -53,35 +53,55 @@ window.SERIES = [
       },
       {
         "path": "docs/getting-started/week-03-story.md",
-        "title": "Week 3 — Telling Your Story"
+        "title": "Week 3 — Telling Your Story I"
       },
       {
-        "path": "docs/getting-started/week-04-known.md",
-        "title": "Week 4 — Knowing and Being Known"
+        "path": "docs/getting-started/week-04-story-2.md",
+        "title": "Week 4 — Telling Your Story II"
       },
       {
-        "path": "docs/getting-started/week-05-brave.md",
-        "title": "Week 5 — Safe and Brave Together"
+        "path": "docs/getting-started/week-05-known.md",
+        "title": "Week 5 — Knowing and Being Known"
       },
       {
-        "path": "docs/getting-started/week-06-proapt.md",
-        "title": "Week 6 — Hearing God in Scripture"
+        "path": "docs/getting-started/week-06-brave.md",
+        "title": "Week 6 — Safe and Brave Together"
       },
       {
-        "path": "docs/getting-started/week-07-garden.md",
-        "title": "Week 7 — The Garden of Your Heart"
+        "path": "docs/getting-started/week-07-proapt.md",
+        "title": "Week 7 — Hearing God in Scripture — PROAPT I"
       },
       {
-        "path": "docs/getting-started/week-08-doubts.md",
-        "title": "Week 8 — Any Doubts?"
+        "path": "docs/getting-started/week-08-proapt-2.md",
+        "title": "Week 8 — Hearing God — PROAPT II"
       },
       {
-        "path": "docs/getting-started/week-09-mission.md",
-        "title": "Week 9 — What Was Prepared for You"
+        "path": "docs/getting-started/week-09-garden.md",
+        "title": "Week 9 — The Garden of Your Heart I"
       },
       {
-        "path": "docs/getting-started/week-10-sending.md",
-        "title": "Week 10 — Sending and Blessing"
+        "path": "docs/getting-started/week-10-garden-2.md",
+        "title": "Week 10 — The Garden of Your Heart II"
+      },
+      {
+        "path": "docs/getting-started/week-11-doubts.md",
+        "title": "Week 11 — Any Doubts?"
+      },
+      {
+        "path": "docs/getting-started/week-12-mission.md",
+        "title": "Week 12 — What Was Prepared for You"
+      },
+      {
+        "path": "docs/getting-started/week-13-rhythm.md",
+        "title": "Week 13 — The Rhythm and the Dry Season"
+      },
+      {
+        "path": "docs/getting-started/week-14-sending.md",
+        "title": "Week 14 — Sending and Blessing"
+      },
+      {
+        "path": "docs/getting-started/week-15-commissioning.md",
+        "title": "Week 15 — Commissioning the Companions"
       },
       {
         "path": "docs/getting-started/CHANGELOG.md",
@@ -254,6 +274,10 @@ window.SERIES = [
         "title": "Interrogating Reality Card"
       },
       {
+        "path": "docs/shared/keeping-the-flame.md",
+        "title": "Keeping the Flame"
+      },
+      {
         "path": "docs/shared/measurement-covenant.md",
         "title": "Measurement Covenant"
       },
@@ -350,72 +374,117 @@ window.PATH_TO_INFO = {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 3 — Telling Your Story",
+    "title": "Week 3 — Telling Your Story I",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-02-soil.md",
-    "next": "docs/getting-started/week-04-known.md"
+    "next": "docs/getting-started/week-04-story-2.md"
   },
-  "docs/getting-started/week-04-known.md": {
+  "docs/getting-started/week-04-story-2.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 4 — Knowing and Being Known",
+    "title": "Week 4 — Telling Your Story II",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-03-story.md",
-    "next": "docs/getting-started/week-05-brave.md"
+    "next": "docs/getting-started/week-05-known.md"
   },
-  "docs/getting-started/week-05-brave.md": {
+  "docs/getting-started/week-05-known.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 5 — Safe and Brave Together",
+    "title": "Week 5 — Knowing and Being Known",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-04-known.md",
-    "next": "docs/getting-started/week-06-proapt.md"
+    "prev": "docs/getting-started/week-04-story-2.md",
+    "next": "docs/getting-started/week-06-brave.md"
   },
-  "docs/getting-started/week-06-proapt.md": {
+  "docs/getting-started/week-06-brave.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 6 — Hearing God in Scripture",
+    "title": "Week 6 — Safe and Brave Together",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-05-brave.md",
-    "next": "docs/getting-started/week-07-garden.md"
+    "prev": "docs/getting-started/week-05-known.md",
+    "next": "docs/getting-started/week-07-proapt.md"
   },
-  "docs/getting-started/week-07-garden.md": {
+  "docs/getting-started/week-07-proapt.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 7 — The Garden of Your Heart",
+    "title": "Week 7 — Hearing God in Scripture — PROAPT I",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-06-proapt.md",
-    "next": "docs/getting-started/week-08-doubts.md"
+    "prev": "docs/getting-started/week-06-brave.md",
+    "next": "docs/getting-started/week-08-proapt-2.md"
   },
-  "docs/getting-started/week-08-doubts.md": {
+  "docs/getting-started/week-08-proapt-2.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 8 — Any Doubts?",
+    "title": "Week 8 — Hearing God — PROAPT II",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-07-garden.md",
-    "next": "docs/getting-started/week-09-mission.md"
+    "prev": "docs/getting-started/week-07-proapt.md",
+    "next": "docs/getting-started/week-09-garden.md"
   },
-  "docs/getting-started/week-09-mission.md": {
+  "docs/getting-started/week-09-garden.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 9 — What Was Prepared for You",
+    "title": "Week 9 — The Garden of Your Heart I",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-08-doubts.md",
-    "next": "docs/getting-started/week-10-sending.md"
+    "prev": "docs/getting-started/week-08-proapt-2.md",
+    "next": "docs/getting-started/week-10-garden-2.md"
   },
-  "docs/getting-started/week-10-sending.md": {
+  "docs/getting-started/week-10-garden-2.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 10 — Sending and Blessing",
+    "title": "Week 10 — The Garden of Your Heart II",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-09-mission.md",
+    "prev": "docs/getting-started/week-09-garden.md",
+    "next": "docs/getting-started/week-11-doubts.md"
+  },
+  "docs/getting-started/week-11-doubts.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 11 — Any Doubts?",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-10-garden-2.md",
+    "next": "docs/getting-started/week-12-mission.md"
+  },
+  "docs/getting-started/week-12-mission.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 12 — What Was Prepared for You",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-11-doubts.md",
+    "next": "docs/getting-started/week-13-rhythm.md"
+  },
+  "docs/getting-started/week-13-rhythm.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 13 — The Rhythm and the Dry Season",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-12-mission.md",
+    "next": "docs/getting-started/week-14-sending.md"
+  },
+  "docs/getting-started/week-14-sending.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 14 — Sending and Blessing",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-13-rhythm.md",
+    "next": "docs/getting-started/week-15-commissioning.md"
+  },
+  "docs/getting-started/week-15-commissioning.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 15 — Commissioning the Companions",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-14-sending.md",
     "next": "docs/getting-started/CHANGELOG.md"
   },
   "docs/getting-started/CHANGELOG.md": {
@@ -424,7 +493,7 @@ window.PATH_TO_INFO = {
     "edition": "v3",
     "title": "Change Log",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-10-sending.md"
+    "prev": "docs/getting-started/week-15-commissioning.md"
   },
   "docs/going-deeper/index.md": {
     "seriesId": "going-deeper",
@@ -722,6 +791,14 @@ window.PATH_TO_INFO = {
     "title": "Interrogating Reality Card",
     "indexPath": "docs/shared/index.md",
     "prev": "docs/shared/family-conversation-cards.md",
+    "next": "docs/shared/keeping-the-flame.md"
+  },
+  "docs/shared/keeping-the-flame.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Keeping the Flame",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/interrogating-reality-card.md",
     "next": "docs/shared/measurement-covenant.md"
   },
   "docs/shared/measurement-covenant.md": {
@@ -729,7 +806,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Measurement Covenant",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/interrogating-reality-card.md",
+    "prev": "docs/shared/keeping-the-flame.md",
     "next": "docs/shared/path-home-card.md"
   },
   "docs/shared/path-home-card.md": {

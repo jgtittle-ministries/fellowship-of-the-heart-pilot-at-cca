@@ -16,7 +16,7 @@ The pilot is organized as three sequential series the cohort walks together, wit
 
 | # | Series | Length | Focus |
 |---|---|---|---|
-| 1 | [**Getting Started**](getting-started/index.md) | 10 weeks | The Four Connects — Self, Others, God, Mission |
+| 1 | [**Getting Started**](getting-started/index.md) | 15 weeks | The Four Connects — Self, Others, God, Mission |
 | 2 | [**Going Deeper**](going-deeper/index.md) | 12 weeks | Diagnostic, therapeutic, developmental work of IJH Volume 2 |
 | 3 | [**Going Out**](going-out/index.md) | 12 weeks | The body sent — discerning and equipping leaders for new groups |
 
@@ -50,7 +50,7 @@ The lesson plans are written for the Companion team. They are detailed on purpos
 
 ## Cadence and logistics
 
-- **Series length.** Getting Started is 10 weeks; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across a year.
+- **Series length.** Getting Started is 15 weeks; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across a year and a half.
 - **Session length.** Standard sessions are 90 minutes. Specific commissioning and family-night sessions extend to 120 minutes — flagged in each lesson plan.
 - **Companion team.** A Lead Companion plus a Co-Companion team. Most working weeks use a split-and-merge structure — shared opening and teaching, SPLIT into cohort circles (junior, senior, parent) for the experiential center, MERGE for closing.
 - **Participants.** Parent–teen pairs, individuals, and households. See each series landing page for the specific fit of that series.

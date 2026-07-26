@@ -75,7 +75,7 @@ Share what you heard with someone — a partner, your cohort circle, a spouse, a
 
 - **Print this page** on cardstock. Tuck it into your Bible or your Personal Heart Journal.
 - **One short passage at a time.** A paragraph from the gospels, a single Psalm, a half-chapter of an epistle. PROAPT works best with bite-sized passages where one Spirit-given specific can actually land.
-- **Daily during weeks 6–10 of Getting Started.** The Personal Heart Journal has a daily PROAPT template on the Week 6 and Week 7 pages.
+- **Daily during weeks 7–15 of Getting Started.** The Personal Heart Journal has a daily PROAPT template on the Week 7 and Week 8 pages.
 - **Sustain into the rhythm afterward.** The Rhythm Card lists PROAPT as part of the daily / weekly hearing practice the cohort sustains after Getting Started ends.
 
 ---

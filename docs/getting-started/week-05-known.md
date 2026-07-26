@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 4
+Week 5
 
 **Knowing and Being Known**
 
@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room — one for the Lead Companion, one for the Co-Companion team.*
 
-## WEEK 4 — KNOWING AND BEING KNOWN (90 minutes)
+## WEEK 5 — KNOWING AND BEING KNOWN (90 minutes)
 
 **Aim.** Move from Self into Others as the dominant Connect. The container we have been building is the teacher — we now examine what makes this room different from the rest of life and where each of those conditions shows up (or doesn’t) in our actual friendships.
 
@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **IJH source.** Vol 2 Eighth Exploration (the four container conditions); Vol 2 Ninth Exploration (community as amplifier); Vol 1 First Exploration (the Word→Hearing→Faith chain) as the backbone.
 
-## WATCH FOR (Week 4 specific risks)
+## WATCH FOR (Week 5 specific risks)
 
 - Drifting into general friendship advice. The conditions are scriptural and specific. Resist. “Here are some tips for being a good friend.” Stay with Safe, Present, Clear, Intentional as Vol 2 defines them.
 - Teens who quietly admit they don’t have a friendship that has any of the four conditions. This is real data, not a problem. Receive it. Do not rescue. The recognition is the first step.
@@ -47,15 +47,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Drift into nostalgia. “Kids today don’t have real friendships as we did.” Honor the observation; redirect to the conditions in front of us.
 - The temptation to teach all four conditions in deep detail. Teach lightly; let the friendship-map exercise do the depth work.
 
-## CRISIS CONTINGENCIES (Week 4)
+## CRISIS CONTINGENCIES (Week 5)
 
-*Week 4 is unlikely to surface an acute crisis. The risk profile is closer to Week 2 than Week 3. But “I don’t have a single friend who knows me” from a teen is its own quiet emergency — receive it, follow up offline within 48 hours, and watch them in Weeks 5–10. Default to Section 6 of the Handbook for any disclosure that crosses the safety threshold.*
+*Week 5 is unlikely to surface an acute crisis. The risk profile is closer to Week 2 than Week 3. But “I don’t have a single friend who knows me” from a teen is its own quiet emergency — receive it, follow up offline within 48 hours, and watch them in Weeks 6–15. Default to Section 6 of the Handbook for any disclosure that crosses the safety threshold.*
 
 # Session at a Glance
 
 ## Why this session, this week
 
-Week 1 named the four Connects. Weeks 2 and 3 were self-work — Heart Soil and Telling Your Story. Week 4 begins the explicit Connect-with-Others sequence.
+Week 1 named the four Connects. Weeks 2 through 4 were self-work — Heart Soil and Telling Your Story across both runnings. Week 5 begins the explicit Connect-with-Others sequence.
 
 The cohort has now been in a container together for three weeks. Most of them have never been in anything like it. Tonight, we name what has been holding the room — and we name it specifically, in scriptural language, so that what they have experienced has vocabulary they can carry into other relationships.
 
@@ -84,7 +84,7 @@ Then ask the harder question: which of the four conditions am I, personally, the
 
 ## Team pre-work
 
-Forty-eight hours before Week 4, the Companion team meets for forty-five minutes:
+Forty-eight hours before Week 5, the Companion team meets for forty-five minutes:
 
 1. Each Companion names one friendship in their own life that has all four conditions and one that lacks at least two. The team listens; nobody comments.
 2. Walk through the cohort circle exercise (below) so each Cohort Companion knows the flow.
@@ -93,9 +93,9 @@ Forty-eight hours before Week 4, the Companion team meets for forty-five minutes
 
 ## Logistics pre-work
 
-1. Print the Four Conditions card (Handout H4.1) — one per participant.
-2. Print three Friendship Map worksheets (H4.2 junior, H4.3 senior, H4.4 parent).
-3. Print the between-session practice card (H4.5).
+1. Print the Four Conditions card (Handout H5.1) — one per participant.
+2. Print three Friendship Map worksheets (H5.2 junior, H5.3 senior, H5.4 parent).
+3. Print the between-session practice card (H5.5).
 4. Confirm pastoral / clinical backup availability.
 
 # Materials and Setup
@@ -106,7 +106,7 @@ Forty-eight hours before Week 4, the Companion team meets for forty-five minutes
 - Phone-box at the door.
 - Personal Heart Journals.
 - Whiteboard or flip chart with the four conditions pre-written: SAFE / PRESENT / CLEAR / INTENTIONAL. Vertical, with room beside each.
-- Handouts H4.1 through H4.5 stacked at each chair.
+- Handouts H5.1 through H5.5 stacked at each chair.
 - Three private spaces for cohort circles, same arrangement as Week 3.
 - Tissues in every cohort space.
 - Large-print Bible (ESV).
@@ -132,7 +132,7 @@ Forty-eight hours before Week 4, the Companion team meets for forty-five minutes
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
-| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 4. |
+| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
 | 7:10–7:15 | Block 2: Week 3 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional. |
 | 7:15–7:30 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
 | 7:30–7:32 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
@@ -153,7 +153,7 @@ Forty-eight hours before Week 4, the Companion team meets for forty-five minutes
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Week 4. We are at the threshold of the second movement of Getting Started. The first three weeks were Connect with Self — the soil of our hearts, the story we are carrying. Tonight begins Connect with Others. We will spend the next two weeks here.”*
+*“Week 5. We are at the threshold of the second movement of Getting Started. The first four weeks were Connect with Self — the soil of our hearts, the story we are carrying, told all the way around the room. Tonight begins Connect with Others. We will spend the next two weeks here.”*
 
 *“Tonight, we are going to do something specific. We are going to name what has been happening in this room. There are four conditions that have been quietly holding our work, and tonight we make them visible. And then we ask: where else in our lives is each of these conditions present? And where is it missing?”*
 
@@ -274,7 +274,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 *“One friendship. One condition. Practice. Journal what happens.”*
 
-*“Your Personal Heart Journal has Week 4 pages with prompts. The handout in your folder — H4.5 — has the practice in writing.”*
+*“Your Personal Heart Journal has Week 5 pages with prompts. The handout in your folder — H5.5 — has the practice in writing.”*
 
 ## Block 8 — Closing Container (8:25–8:30, 5 min)
 
@@ -296,7 +296,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 ## Adjustments
 
-- Friendship Map worksheet uses concrete cohort vocabulary (lunch table, group chat, sports team, family). See Handout H4.2.
+- Friendship Map worksheet uses concrete cohort vocabulary (lunch table, group chat, sports team, family). See Handout H5.2.
 - “Friendship” for juniors may include parents, siblings, grandparents, youth leader. Allow this; it is developmentally honest.
 - Watch for the teen who says “my phone” every time — push gently for one specific person.
 - Watch for the teen with no real friendship in any condition. Receive without panic. Note for the Lead Companion.
@@ -306,7 +306,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 ## Adjustments
 
-- Friendship Map worksheet uses peer/relationship vocabulary (close friend, dating relationship, friendship that has changed, online friend). See Handout H4.3.
+- Friendship Map worksheet uses peer/relationship vocabulary (close friend, dating relationship, friendship that has changed, online friend). See Handout H5.3.
 - Senior teens are often closer to noticing the absence of conditions than juniors are. Honor that with specificity.
 - Watch for the senior who is performing wisdom. “I think a lot of people don’t have real friendships these days.” Redirect: “You — not other people. Where is each condition in your friendships?”
 - Some senior teens will name a friendship that ended badly. Honor it; do not press.
@@ -316,7 +316,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 ## Adjustments
 
-- Friendship Map worksheet uses adult vocabulary (close friend, marriage, work friendship, friendship across the formation arcs). See Handout H4.4.
+- Friendship Map worksheet uses adult vocabulary (close friend, marriage, work friendship, friendship across the formation arcs). See Handout H5.4.
 - Parents will often name friendships that have changed shape — “the friendship I had ten years ago that we don’t have anymore.” Honor.
 - Watch for the parent who maps their marriage. Allow it; marriage is a friendship, and the four conditions apply. Do not let it become a marriage workshop.
 - Watch for the parent who turns the exercise into a critique of their teen’s friendships. Redirect: “Your friendships, not theirs.”
@@ -324,7 +324,7 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 
 # Closing Practice in Detail
 
-Same three-layer pattern as prior weeks: surface what landed (briefly, since the cohort circles already debriefed), reaffirm the container, Aaronic blessing. Week 4’s closing is shorter than Week 3’s because the merge-debrief absorbed the one-word landing. Resist the urge to add length.
+Same three-layer pattern as prior weeks: surface what landed (briefly, since the cohort circles already debriefed), reaffirm the container, Aaronic blessing. Week 5’s closing is shorter than Week 3’s because the merge-debrief absorbed the one-word landing. Resist the urge to add length.
 
 # Between-Session Practice
 
@@ -332,13 +332,13 @@ Same three-layer pattern as prior weeks: surface what landed (briefly, since the
 
 - The morning question (5 min, daily) — carried forward from Weeks 1–3.
 - The evening journal note (1–2 min, daily) — carried forward.
-- One friendship, one condition (NEW this week). Pick one friendship. Pick one of the four conditions. Practice it more intentionally than usual this week. Journal what happens. See Handout H4.5.
+- One friendship, one condition (NEW this week). Pick one friendship. Pick one of the four conditions. Practice it more intentionally than usual this week. Journal what happens. See Handout H5.5.
 
 If a participant chooses a friendship that is in the room — e.g., a teen choosing a parent in the parent cohort — that is fine, but the practice is theirs alone. The other person does not need to know they are being practiced upon.
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 4 for a 30-minute debrief.
+Companion team meets the day after Week 5 for a 30-minute debrief.
 
 ### Signs the session worked
 
@@ -355,11 +355,11 @@ Companion team meets the day after Week 4 for a 30-minute debrief.
 - The merge felt summative and abstract — “yeah, we all have friendships,” no specificity.
 - A participant left without speaking and without a check-in from a Companion.
 
-### If the session did not work, what to adjust for Week 5
+### If the session did not work, what to adjust for Week 6
 
-- If teaching ran long, the Lead Companion owns it. Week 5’s teaching block is even more time-sensitive.
-- If circles drifted, the Cohort Companions may need a refresher in the team pre-meeting for Week 5 on what “staying with the prompt” looks like.
-- If real names surfaced, gently re-name the convention in Week 5’s opening.
+- If teaching ran long, the Lead Companion owns it. Week 6’s teaching block is even more time-sensitive.
+- If circles drifted, the Cohort Companions may need a refresher in the team pre-meeting for Week 6 on what “staying with the prompt” looks like.
+- If real names surfaced, gently re-name the convention in Week 6’s opening.
 
 ### People to follow up with this week
 
@@ -369,15 +369,15 @@ Companion team meets the day after Week 4 for a 30-minute debrief.
 
 # Handouts
 
-Five handouts for Week 4.
+Five handouts for Week 5.
 
-- H4.1 — The Four Conditions Card (all cohorts)
-- H4.2 — Friendship Map Worksheet (Junior, ages 12–14)
-- H4.3 — Friendship Map Worksheet (Senior, ages 15–18)
-- H4.4 — Friendship Map Worksheet (Parent)
-- H4.5 — Between-Session Practice Card
+- H5.1 — The Four Conditions Card (all cohorts)
+- H5.2 — Friendship Map Worksheet (Junior, ages 12–14)
+- H5.3 — Friendship Map Worksheet (Senior, ages 15–18)
+- H5.4 — Friendship Map Worksheet (Parent)
+- H5.5 — Between-Session Practice Card
 
-**Handout H4.1 — The Four Conditions**
+**Handout H5.1 — The Four Conditions**
 
 *These are the four conditions of a real container — the kind of relational space in which honest spiritual work can happen. They are scriptural, not abstract. Each one removes a specific kind of interference. The room you have been in for four weeks runs on these four. Tonight, you map your friendships against them.*
 
@@ -405,7 +405,7 @@ Five handouts for Week 4.
 
 *John 5:19 — “The Son can do nothing of his own accord, but only what he sees the Father doing.”*
 
-**Handout H4.2 — Friendship Map (Junior, ages 12–14)**
+**Handout H5.2 — Friendship Map (Junior, ages 12–14)**
 
 *Tonight in your circle, you’ll talk through these four questions — one for each condition. Think about your real friendships: friends at school, friends in your group chat, friends from sports or church, your siblings and parents (yes, those count), or someone older you trust. Don’t use real names. Just “one of my friendships.”*
 
@@ -433,7 +433,7 @@ Five handouts for Week 4.
 
 *Where is there a friendship that is mostly just hanging out, and you would never bring God into it?*
 
-**Handout H4.3 — Friendship Map (Senior, ages 15–18)**
+**Handout H5.3 — Friendship Map (Senior, ages 15–18)**
 
 *Tonight in your circle, you’ll talk through these four questions — one for each condition. Think about your real friendships: a close friend, a dating relationship, a friendship that has changed, an online friend, a friend you used to be close to. No names. Just “one of my friendships.”*
 
@@ -465,7 +465,7 @@ Five handouts for Week 4.
 
 *Of the four conditions — Safe, Present, Clear, Intentional — which one do you find hardest to offer to your friends? Not the one you wish your friends offered you. The one you, personally, find hardest to give.*
 
-**Handout H4.4 — Friendship Map (Parent)**
+**Handout H5.4 — Friendship Map (Parent)**
 
 *Tonight in your circle, you’ll talk through these four questions — one for each condition. Think about your real adult friendships: a close friend, your marriage, a friendship that has changed shape over the years, a work friendship, a friendship from before you had kids. No names. “One of my friendships” is the language.*
 
@@ -499,7 +499,7 @@ Five handouts for Week 4.
 
 *And: how does the answer to that question relate to the friendship you have with your spouse, if you have one?*
 
-**Handout H4.5 — Between-Session Practice (Week 4)**
+**Handout H5.5 — Between-Session Practice (Week 5)**
 
 ## This week’s practice — one friendship, one condition
 
@@ -537,7 +537,7 @@ Five handouts for Week 4.
 
 ### Journal at the end of the week
 
-In your Personal Heart Journal, on the Week 4 pages, answer:
+In your Personal Heart Journal, on the Week 5 pages, answer:
 
 - Which friendship and which condition did I pick?
 - What did I actually do this week?

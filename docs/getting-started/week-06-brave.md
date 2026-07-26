@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 5
+Week 6
 
 **Safe and Brave Together**
 
@@ -20,25 +20,25 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 # Quick Reference Card
 
-*Print this page on cardstock. Two copies in the room. This is the mid-series session and the second-highest-risk after Week 3. Read the Crisis Contingencies before walking in.*
+*Print this page on cardstock. Two copies in the room. This is the second-highest-risk session after Week 3. Read the Crisis Contingencies before walking in.*
 
-## WEEK 5 — SAFE AND BRAVE TOGETHER (90 minutes)
+## WEEK 6 — SAFE AND BRAVE TOGETHER (90 minutes)
 
 **Aim.** Introduce confession-and-restoration as a community practice from James 5:16. Each participant identifies one place where they want to walk in greater honesty and receives a spoken blessing of restoration. We are not probing for sins; we are practicing the architecture of confession.
 
 **Anchor scripture.** James 5:16 and 1 John 1:9.
 
-**Connect focus.** Others, deepening. Week 4 named the four conditions; tonight, one specific condition (Safe) gets exercised in a way most Christians have never practiced.
+**Connect focus.** Others, deepening. Week 5 named the four conditions; tonight, one specific condition (Safe) gets exercised in a way most Christians have never practiced.
 
 **Mode.** Shared opening and teaching; SPLIT into cohort circles for the practice; MERGE for blessings and closing.
 
 **Center.** Age-adapted confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The Spirit does the work; we hold the space.
 
-**Between-session practice.** Mid-Series Pulse instrument distributed. PLUS: the Five-Minute Examen each evening for the next week.
+**Between-session practice.** The Five-Minute Examen each evening for the next week. (The Mid-Series Pulse belongs to Week 8, the series midpoint — not tonight.)
 
 **IJH source.** Vol 2 Second Exploration (Emotional Knots, including the Sin Knot type) and Vol 2 Fourth Exploration (Confession and Restoration); Vol 2 Eighth Exploration on container; Vol 2 Ninth Exploration on community amplification.
 
-## WATCH FOR (Week 5 specific risks)
+## WATCH FOR (Week 6 specific risks)
 
 - Confession misunderstood as detailed disclosure. The practice is naming where I want to walk in greater honesty, NOT confessing specific sins to the circle. Frame this three times before the split.
 - Catholic-style confession associations. For some teens, this will feel foreign or theologically charged. Frame it as Protestant practice grounded in James 5:16, not as sacramental.
@@ -47,9 +47,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Parents disclosing sins their teen does not know about. Plan for this. The parent cohort is the right place; do not bring it back to the room.
 - Performative confession — the spiritualized version designed to look humble. “I struggle with pride” as an answer to everything. Push gently for one specific concrete pattern.
 
-## CRISIS CONTINGENCIES (Week 5)
+## CRISIS CONTINGENCIES (Week 6)
 
-**Week 5 can surface confession of patterns that warrant follow-up. Standard Section 6 protocols apply.**
+**Week 6 can surface confession of patterns that warrant follow-up. Standard Section 6 protocols apply.**
 
 **If a teen confesses to self-harm or suicidal ideation.** Section 6 applies in full. Two-adult rule, immediate after-session check-in, parent notification, pastoral/clinical backup.
 
@@ -65,7 +65,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## Why this session, this week
 
-This is the architectural keystone of the Others' arc. Weeks 4 and 5 together teach the cohort what genuine community is for. Week 4 named the four conditions; Week 5 puts one of them (Safe) into operational load.
+This is the architectural keystone of the Others' arc. Weeks 5 and 6 together teach the cohort what genuine community is for. Week 5 named the four conditions; Week 6 puts one of them (Safe) into operational load.
 
 Confession is the most underused practice in evangelical formation. Most Christians know James 5:16 — “confess your sins to one another and pray for one another, that you may be healed” — and almost none of us actually do it. Tonight, we do an age-appropriate version of it in cohort circles for 10 minutes.
 
@@ -84,12 +84,12 @@ The IJH framework calls this addressing the Sin Knot — the type of blockage th
 - Week 1: Container is real. Confidentiality is real.
 - Week 2: Heart Soil diagnostic. Each participant has practiced honest self-knowledge once.
 - Week 3: Each participant has spoken something true about themselves to a small circle.
-- Week 4: The four conditions are now an explicit working concept. Week 5 puts Safe under specific load.
-- If any of those weeks were thin, slow Week 5’s opening accordingly.
+- Week 5: The four conditions are now an explicit working concept. Week 6 puts Safe under specific load.
+- If any of those weeks were thin, slow Week 6’s opening accordingly.
 
 ## Connect focus
 
-Others, deepened. The Self work of Weeks 2–3 was foundation. The Others work of Week 4 was structural. Tonight is operational — the first time the cohort uses what they have built to do something most Christian communities never actually do.
+Others, deepened. The Self work of Weeks 2–4 was foundation. The Others work of Week 5 was structural. Tonight is operational — the first time the cohort uses what they have built to do something most Christian communities never actually do.
 
 # Pre-Work for the Companion Team
 
@@ -101,7 +101,7 @@ Two reasons. First, the cohort needs the demo. The Cohort Companion goes first i
 
 ## Team pre-work
 
-The team meets 48 hours before Week 5. Two specific things:
+The team meets 48 hours before Week 6. Two specific things:
 
 1. Re-read Handbook §6 (mandatory reporting and crisis protocols). Out loud, together. Same as before Week 3. Some confession material can rise to crisis.
 2. Each Cohort Companion names — to the team only — the place they will name in their demo. The team prays over each other’s confession before the cohort does. This is itself the practice the cohort will do tonight.
@@ -109,11 +109,10 @@ The team meets 48 hours before Week 5. Two specific things:
 
 ## Logistics pre-work
 
-1. Print the confession-and-restoration handout (H5.1, three cohort versions).
-2. Print the blessing-of-restoration card (H5.2, all cohorts).
-3. Print the Mid-Series Pulse instrument (H5.3).
-4. Confirm cohort spaces.
-5. Tissues in every cohort space. This session can be tearful.
+1. Print the confession-and-restoration handout (H6.1, three cohort versions).
+2. Print the blessing-of-restoration card (H6.2, all cohorts).
+3. Confirm cohort spaces.
+4. Tissues in every cohort space. This session can be tearful.
 
 # Materials and Setup
 
@@ -122,9 +121,8 @@ The team meets 48 hours before Week 5. Two specific things:
 - Chairs in main room as single circle for opening.
 - Phone-box at the door.
 - Personal Heart Journals.
-- Confession-and-restoration handout: H5.1 (three cohort versions).
-- Blessing-of-restoration card: H5.2 (all cohorts).
-- Mid-Series Pulse: H5.3 (one per participant).
+- Confession-and-restoration handout: H6.1 (three cohort versions).
+- Blessing-of-restoration card: H6.2 (all cohorts).
 - Three private cohort spaces.
 - Tissues in every space.
 - Large-print Bible (ESV).
@@ -149,14 +147,14 @@ The team meets 48 hours before Week 5. Two specific things:
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Same arrival rhythm. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 5. |
-| 7:08–7:12 | Block 2: Wk 4 check-in | Shared | Lead Comp | Brief: how did the friendship practice land? |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
+| 7:08–7:12 | Block 2: Wk 5 check-in | Shared | Lead Comp | Brief: how did the friendship practice land? |
 | 7:12–7:25 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
 | 7:25–7:30 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of cohort. |
 | 7:30–7:32 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Pray. Split. |
 | 7:32–8:05 | Block 6: Confession-and-restoration in circles | Cohort | Cohort Facs | Each person names one place; circle blesses with restoration. |
 | 8:05–8:13 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 8:13–8:18 | Block 8: Mid-Series Pulse + between-session | Shared | Co-Comp (Parent) | Distribute Pulse. Introduce Five-Minute Examen. |
+| 8:13–8:18 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. |
 | 8:18–8:25 | Block 9: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 8:25–8:30 | Block 10: Pastoral availability | Floating | Lead Comp | Stay accessible 5+ minutes. |
 
@@ -168,13 +166,13 @@ The team meets 48 hours before Week 5. Two specific things:
 
 *“Welcome back. Phones in the box. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Container reminder: Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required.” “Tonight is Week 5. We are halfway through. The first four weeks were preparation. Tonight we use what we have built to do something most Christians never actually do, even though scripture commands it.”*
+*“Container reminder: Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required.” “Tonight is Week 6. We are halfway through. The first four weeks were preparation. Tonight we use what we have built to do something most Christians never actually do, even though scripture commands it.”*
 
 *“Here is what we are not going to do. We are not going to confess specific sins to each other in detail. That is not what tonight is about. That is also not what scripture asks of us.”*
 
 *“Here is what we are going to do. Each of us, in our cohort circle, will name one place where we want to walk in greater honesty. Not the whole sin. The place. The pattern. The pull. And then our cohort circle will speak a specific blessing of restoration over us. The whole thing takes about three minutes per person. The Spirit does the work; we hold the space.”*
 
-## Block 2 — Week 4 Check-in (7:08–7:12, 4 min)
+## Block 2 — Week 5 Check-in (7:08–7:12, 4 min)
 
 ## Script
 
@@ -274,15 +272,13 @@ This is the heart of the night. Each cohort circle runs the same structure.
 
 *“Father, every person in this room named a real place tonight. Not a fake place, not a polished place — a real place where they want to walk in greater honesty before you. We bless that work. We pray restoration into every place that was named. We pray that the courage shown in these circles tonight would carry into Wednesday morning, when the place that was named will still be the place. Holy Spirit, walk these brothers and sisters home. In Jesus’ name, amen.”*
 
-## Block 8 — Mid-Series Pulse and Between-Session Practice (8:13–8:18, 5 min)
+## Block 8 — Between-Session Practice (8:13–8:18, 5 min)
 
-Two pieces. The Pulse instrument is distributed and explained briefly; the between-session practice is introduced.
+The between-session practice is introduced. (The Mid-Series Pulse now belongs to Week 8, the series midpoint — do not distribute it tonight.)
 
 ## Script
 
-*“Two things between now and Tuesday. First, the Mid-Series Pulse. (Hold up H5.3.) One page, three questions. Anonymous if you want. We are halfway through. We want to know what is working and what is not so we can use the second half well. Bring it back next Tuesday.”*
-
-*“Second, this week’s practice. The Five-Minute Examen. Each evening this week, before bed, take five minutes with God. Three steps. One — thank Him for one specific thing from the day. Two — notice one place where you saw God moving. Three — ask Him about one place where you walked in less honesty than you wanted to today. That third one is the carryover from tonight. Just notice. No fixing. The Spirit does the work.”*
+*“This week’s practice: the Five-Minute Examen. Each evening this week, before bed, take five minutes with God. Three steps. One — thank Him for one specific thing from the day. Two — notice one place where you saw God moving. Three — ask Him about one place where you walked in less honesty than you wanted to today. That third one is the carryover from tonight. Just notice. No fixing. The Spirit does the work.”*
 
 ## Block 9 — Closing Container (8:18–8:25, 7 min)
 
@@ -359,11 +355,10 @@ Same as prior weeks. Tonight it lands different. Notice it. Do not comment on it
 - Daily morning question (carried forward).
 - Daily evening journal note (carried forward).
 - FIVE-MINUTE EXAMEN each evening (NEW). Three steps: thank, notice, ask. The third step — ask God about one place where you walked in less honesty than you wanted to today — is the carryover from tonight.
-- MID-SERIES PULSE (one-time). Complete and bring back next Tuesday.
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 5 for a 45-minute debrief. Like Week 3, this debrief is longer because there is more to surface.
+Companion team meets the day after Week 6 for a 45-minute debrief. Like Week 3, this debrief is longer because there is more to surface.
 
 ### Signs the session worked
 
@@ -372,21 +367,21 @@ Companion team meets the day after Week 5 for a 45-minute debrief. Like Week 3, 
 - The blessings were specific to the place named. Not generic prayers.
 - The merge was reflective and the one-word landings were varied and honest.
 - At least one or two participants stayed after the session to talk.
-- Mid-Series Pulse responses confirm participants feel safer than they did in Week 1.
+- The one-word landings and door conversations confirm participants feel safer than they did in Week 1.
 
 ### Signs the session did not work
 
 - Confessions were generic and spiritualized. Indicates demo did not push for specificity, or container is thinner than we thought.
-- Cohort circle ran out of time and someone did not name. Major failure mode for Week 5. Pastoral follow-up within 24 hours.
+- Cohort circle ran out of time and someone did not name. Major failure mode for Week 6. Pastoral follow-up within 24 hours.
 - Detailed sin disclosure happened despite framing. Indicates frame was not held three times. Adjust for any future iteration.
 - Parents auditing each other’s spouses or kids rather than naming their own place.
 - Crisis-level disclosure that the team was not ready for. Section 6 protocols and post-mortem.
 
-### Adjustments for Week 6
+### Adjustments for Week 7
 
-- Week 6 introduces PROAPT and shifts from Others to God. If Week 5 was heavy, Week 6 will feel like a deliberate exhale. Honor that.
-- If anyone was missed in their cohort circle, pastoral follow-up before Week 6.
-- Mid-Series Pulse responses inform pacing for Weeks 6–10.
+- Week 7 introduces PROAPT and shifts from Others to God. If Week 6 was heavy, Week 7 will feel like a deliberate exhale. Honor that.
+- If anyone was missed in their cohort circle, pastoral follow-up before Week 7.
+- Flag anything tonight surfaced that the Week 8 Mid-Series Pulse should watch for.
 
 ### People to follow up with this week
 
@@ -397,17 +392,17 @@ Companion team meets the day after Week 5 for a 45-minute debrief. Like Week 3, 
 
 ### Team prayer at the close
 
-Pray by name for each participant who named a place tonight. The Week 5 debrief is the team’s memory of what was named in trust.
+Pray by name for each participant who named a place tonight. The Week 6 debrief is the team’s memory of what was named in trust.
 
 # Handouts
 
-Three handouts for Week 5. The confession handout comes in three cohort versions; the blessing card is one version for all; the Pulse is one instrument for all.
+Two handouts for Week 6. The confession handout comes in three cohort versions; the blessing card is one version for all. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
 
-- H5.1 — The Place I Want to Walk in Greater Honesty (Junior, Senior, Parent)
-- H5.2 — Blessing of Restoration card (all cohorts)
-- H5.3 — Mid-Series Pulse (all cohorts)
+- H6.1 — The Place I Want to Walk in Greater Honesty (Junior, Senior, Parent)
+- H6.2 — Blessing of Restoration card (all cohorts)
+- H6.3 — Mid-Series Pulse (all cohorts)
 
-**Handout H5.1 — The Place (Junior, ages 12–14)**
+**Handout H6.1 — The Place (Junior, ages 12–14)**
 
 *Tonight in your cohort circle, each person will name ONE place where they want to walk in greater honesty before God. Not the whole sin in detail — the place. The pattern. The pull.*
 
@@ -441,7 +436,7 @@ Three handouts for Week 5. The confession handout comes in three cohort versions
 
 *The circle will speak a brief blessing of restoration over you. You don’t do anything. You receive it. Eye contact. “Thank you.” Sit down (or stay seated). The Spirit does the work.*
 
-**Handout H5.1 — The Place (Senior, ages 15–18)**
+**Handout H6.1 — The Place (Senior, ages 15–18)**
 
 *Tonight you will name ONE place where you want to walk in greater honesty before God — not the sin in detail, the place where the pattern lives. The naming is the practice; the resolution is the Spirit’s work.*
 
@@ -477,7 +472,7 @@ Three handouts for Week 5. The confession handout comes in three cohort versions
 
 *If naming your place surfaces something that needs more than the circle can hold — a struggle with self-harm, an eating disorder pattern, an addiction, abuse, suicidal thoughts — you do not have to put the full thing in the circle. Name the place at the level you can. After the session, talk to a Companion. The team is ready to walk with you offline.*
 
-**Handout H5.1 — The Place (Parent)**
+**Handout H6.1 — The Place (Parent)**
 
 *Tonight you will name one place where you want to walk in greater honesty before God. Not detailed sin disclosure — the place where formation has stalled, the pull you keep yielding to, the pattern you have stopped expecting to change.*
 
@@ -510,7 +505,7 @@ Three handouts for Week 5. The confession handout comes in three cohort versions
 
 *If what you are carrying is something that mandatory-reporting law obligates the team to address, the Lead Companion will tell you so directly and walk with you through the next step. The team’s job is to walk you toward freedom, not to manage your secret.*
 
-**Handout H5.2 — Blessing of Restoration**
+**Handout H6.2 — Blessing of Restoration**
 
 *How to bless a brother or sister after they have named their place*
 
@@ -542,42 +537,3 @@ Three handouts for Week 5. The confession handout comes in three cohort versions
 - Do not compare. “Me too” — not in this practice. Save it for after.
 - Do not preach. The blessing is three sentences. If you are in your fourth, stop.
 
-**Handout H5.3 — Mid-Series Pulse**
-
-*One page, three questions. Anonymous if you want. Bring back next Tuesday.*
-
-*We are halfway through the Getting Started series. We want to know what is working and what is not so we can use the second half well. Be honest. The team uses these to adjust pacing, depth, and emphasis.*
-
-### Question 1
-
-**On a scale of 1–10, how present have I actually been in these sessions so far?**
-
-*(1 = barely showing up; 5 = body in the room, mind elsewhere; 10 = fully engaged, doing the work)*
-
-My number: \_\_\_
-
-One sentence about why: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### Question 2
-
-**What is one thing that has surprised me — about myself, about God, or about someone in this room?**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### Question 3
-
-**What is one specific way I want to engage differently for the second half (Weeks 6–10)?**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*Optional: my name (skip if you prefer anonymous): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*

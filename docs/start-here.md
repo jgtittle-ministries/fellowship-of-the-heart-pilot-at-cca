@@ -12,7 +12,7 @@ You are at the front door of *Fellowship of the Heart*. This page is the short a
 
 *Fellowship of the Heart* (FotH) is what it looks like when a real cohort walks the work of the *Intentional Journey of the Heart* together. Three sequential series, across about a year of Tuesday evenings:
 
-- **[Getting Started](getting-started/index.md)** — ten weeks introducing the four Connects: Self → Others → God → Mission.
+- **[Getting Started](getting-started/index.md)** — fifteen weeks introducing the four Connects: Self → Others → God → Mission, with the Companion-in-Formation track (senior teens learning to lead) built into the map.
 - **[Going Deeper](going-deeper/index.md)** — twelve weeks of the harder interior work, and learning to hear God as a body.
 - **[Going Out](going-out/index.md)** — twelve weeks of the body sent: into household, vocational, third-place contexts, and sometimes into starting new formation groups.
 

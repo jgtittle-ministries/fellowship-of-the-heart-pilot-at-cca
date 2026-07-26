@@ -6,7 +6,7 @@ Getting Started series
 
 **The Four Connects**
 
-*A Ten-Week Journey into the Heart of God*
+*A Fifteen-Week Journey into the Heart of God*
 
 **FORMATION COMPANION HANDBOOK**
 
@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 If you have this handbook in your hand, it is because someone trusted you with something delicate.
 
-What follows is a ten-week club for teenagers, ages roughly twelve through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, ten weeks in a row, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when these ten weeks are over.
+What follows is a fifteen-week club for teenagers, ages roughly twelve through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, fifteen weeks in a row, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when these fifteen weeks are over.
 
 I want to say a few things before you turn the page.
 
@@ -56,7 +56,7 @@ That is enough preface. Read the handbook. Pray over it. Find a Co-Companion. An
 
 ## Title and theme
 
-**Title:** The Four Connects — A Ten-Week Journey into the Heart of God
+**Title:** The Four Connects — A Fifteen-Week Journey into the Heart of God
 
 **One-sentence aim:** By the end of the series, every teen and every parent in the room will know — from the inside, not from a handout — what it feels like to begin connecting honestly with themselves, with one another, with God, and with the work He has prepared for them.
 
@@ -76,19 +76,19 @@ These two commandments are the source of the four Connects. Loving God with all 
 
 ## Series outcomes
 
-By the end of the ten-week Getting Started series, we expect the following outcomes — recognizing that the Holy Spirit is the agent of all real movement, and that some teens and parents will move further than others.
+By the end of the fifteen-week Getting Started series, we expect the following outcomes — recognizing that the Holy Spirit is the agent of all real movement, and that some teens and parents will move further than others.
 
 ### For every participant
 
 - Has experienced — not just learned about — what genuine community feels like, and can articulate the difference between Christian socializing and Christian formation.
 - Has told their story (or a piece of it) in front of a small circle and has been heard, blessed, and reflected back.
 - Has practiced at least three core hearing exercises and can name which one most reliably opens their heart to scripture.
-- Owns a Personal Heart Journal with eight to ten weeks of entries, and a single-page Daily / Weekly / Monthly Rhythm Card they have actually used.
+- Owns a Personal Heart Journal with twelve to fifteen weeks of entries, and a single-page Daily / Weekly / Monthly Rhythm Card they have actually used.
 - Knows what the next step looks like — the Going Deeper series — and has either committed or made a clear decision.
 
 ### Affective Taxonomy goals by cohort
 
-Drawing on the five-stage taxonomy in Vol 2 Exp 7 (Receiving → Responding → Valuing → Organization → Characterization), we are not trying to push every participant to Level 3 in ten weeks. The honest target is to get the cohort to the threshold of the Level 2-to-Level 3 transition, where intrinsic motivation begins to take over from external structure. Specifically:
+Drawing on the five-stage taxonomy in Vol 2 Exp 7 (Receiving → Responding → Valuing → Organization → Characterization), we are not trying to push every participant to Level 3 in fifteen weeks. The honest target is to get the cohort to the threshold of the Level 2-to-Level 3 transition, where intrinsic motivation begins to take over from external structure. Specifically:
 
 **Junior cohort (12–14):** Move from Level 1 (Receiving — willing to attend) to a stable Level 2 (Responding — actively engaging when prompted, completing between-session practices, contributing in shared circles).
 
@@ -102,22 +102,27 @@ The goal at every cohort is *integrated* attainment of the target level, not jus
 
 ## Session map
 
-The full ten-session map. Detailed lesson plans live in a separate document; this is the architectural view.
+The full fifteen-session map — one map for the whole series, with the Companion-in-Formation second-runnings built in (see Section 11 for the teen-leadership track this map carries). Detailed lesson plans live in a separate document; this is the architectural view.
 
-| **Wk** | **Title** | **Connect** | **Anchor scripture** | **Key practice** |
-| --- | --- | --- | --- | --- |
-| 1 | Welcome to the Journey | All four (intro) | John 10:10b | Container intro; Why are we here |
-| 2 | The Soil of Your Heart | Self | Mark 4:1–20 | Heart Soil diagnostic, age-adapted |
-| 3 | Telling Your Story | Self | Psalm 139:23–24 | Ten-minute story (four-question version) |
-| 4 | Knowing and Being Known | Others | Eccl. 4:9–12 | Container conditions experienced fully |
-| 5 | Safe and Brave Together | Others | James 5:16 | Confession-and-restoration practice |
-| 6 | Hearing God in Scripture | God | Romans 10:17 | PROAPT, simplified six-step |
-| 7 | The Garden of Your Heart | God | John 15:1–11 | Garden of Your Heart, age-adapted |
-| 8 | Any Doubts? Bringing the Real Question | God | Mark 9:24 | Any Doubts? practice, age-adapted |
-| 9 | What Was Prepared for You | Mission | Ephesians 2:10 | Gifts inventory; downhill mission |
-| 10 | Sending and Blessing | All four (integration) | Numbers 6:24–26 | Family commissioning; transition |
+| **Wk** | **Title** | **Connect** | **Anchor scripture** | **Key practice** | **Who leads** |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Welcome to the Journey | All four (intro) | John 10:10b | Container intro; Why are we here | Adult models; seniors watch the container for the first time |
+| 2 | The Soil of Your Heart | Self | Mark 4:1–20 | Heart Soil diagnostic, age-adapted | Adult leads; teen assists (setup, scripture reading) |
+| 3 | Telling Your Story I | Self | Psalm 139:23–24 | Story — first batch tells; adult models listening + blessing | Adult-led; the seniors tell their own story here — they receive before they lead |
+| 4 | Telling Your Story II | Self | Psalm 139:23–24 | Story — rest of the group tells (second running) | Teen-led: container + story facilitation + blessing round; adult holds any heavy disclosure |
+| 5 | Knowing and Being Known | Others | Eccl. 4:9–12 | Container conditions experienced fully | Teen leads container open/close; center co-led (adult in room) |
+| 6 | Safe and Brave Together | Others | James 5:16 | Confession-and-restoration practice | Adult-held center; teen may lead the container scaffolding only |
+| 7 | Hearing God in Scripture — PROAPT I | God | Romans 10:17 | PROAPT, simplified six-step — first walk-through, taught | Adult-led; the seniors receive the practice |
+| 8 | Hearing God — PROAPT II | God | Romans 10:17 | PROAPT — second running, in pairs | Teen-led: the full PROAPT walk-through — the cleanest teen-led block |
+| 9 | The Garden of Your Heart I | God | John 15:1–11 | Garden — framing + first guided run | Adult-led; the seniors receive |
+| 10 | The Garden of Your Heart II | God | John 15:1–11 | Garden — second guided run | Teen leads the guided walk-through; adult holds the debrief and anything that surfaces |
+| 11 | Any Doubts? Bringing the Real Question | God | Mark 9:24 | Any Doubts? practice, age-adapted | Adult-held center; teen may lead the container scaffolding only |
+| 12 | What Was Prepared for You | Mission | Ephesians 2:10 | Gifts inventory; downhill mission | Teen co-leads; name leading-as-mission here |
+| 13 | The Rhythm and the Dry Season | All four (sustaining) | Gal. 6:9; Ps. 42:1–5 | Rhythm Card installed; Signs Card + Path Home Card taught; mission work completes | Teen-led marquee — the fourth clean senior-led block |
+| 14 | Sending and Blessing | All four (integration) | Numbers 6:24–26 | Family commissioning; Post-Series Survey; reflection circle | Adult-led; teens co-lead pieces |
+| 15 | Commissioning the Companions | All four | The FC1 exit gate as a witnessed rite; commissioning; first Leader Lab of the serving cycle scheduled | The seniors lead; the cohort witnesses |
 
-**A note on the sequence:** Weeks 2–3 establish Self before Weeks 4–5 ask anyone to connect with Others. Weeks 6–8 build God-connection on top of Self and Others. Week 9 (Mission) only works if the first three Connects have begun. Do not rearrange the weeks without a strong reason — the dependencies are part of the design.
+**A note on the sequence:** Weeks 2–4 establish Self before Weeks 5–6 ask anyone to connect with Others. Weeks 7–11 build God-connection on top of Self and Others. Week 12 (Mission) only works if the first three Connects have begun. Week 13 installs the long-walk rhythm before the sending, and Weeks 14–15 close the series in two movements — the whole cohort sent, then the Companions-in-Formation commissioned. Do not rearrange the weeks without a strong reason — the dependencies are part of the design. The second-running weeks (4, 8, 10) teach nothing new: they complete a practice the cohort has already begun, and they are the marquee slots a senior leads (Section 11).
 
 ## Series-to-claim mapping
 
@@ -127,14 +132,16 @@ For Companions who want to trace each session back to the IJH source. The claim 
 | --- | --- | --- |
 | 1 | Vol 2 Intro & Exploration 8 (Container) | V2.E8-S1 (Container conditions) |
 | 2 | Vol 2 Exp 1 (Heart Soil) | V2.E1-D1 (Heart Soil diagnostic) |
-| 3 | Vol 2 Exp 5 (Connecting with Self) & 7 (Footprints) | V2.E5-S1 (Four Connects sequence); V2.E7-O3 (Footprints) |
-| 4 | Vol 2 Exp 5 (Connecting with Others) & 8 (Container) | V2.E5-S1; V2.E8-S1 |
-| 5 | Vol 2 Exp 4 (Confession) & 9 (Community) | V2.E4-O1 (Confession law); V2.E9-S1 (Community amplification) |
-| 6 | Vol 1 Exp 1 (Faith from hearing) & Vol 2 Exp 7 (PROAPT) | V1.E1-O1 (Word→Hearing→Faith); V2.E7-O4 (PROAPT) |
-| 7 | Vol 2 Exp 7 (Garden of Your Heart) | V2.E7-O2 (Garden as encounter) |
-| 8 | Vol 2 Exp 7 (Any Doubts?) | V2.E7-O1 (Any Doubts? as faith development) |
-| 9 | Vol 2 Exp 5 (Connecting with Mission) | V2.E5-S2 (Uphill/downhill mission) |
-| 10 | Vol 2 Exp 10 (Training Plan) & integration | V2.E10-D1 (Sustainable training rhythm) |
+| 3–4 | Vol 2 Exp 5 (Connecting with Self) & 7 (Footprints) | V2.E5-S1 (Four Connects sequence); V2.E7-O3 (Footprints) |
+| 5 | Vol 2 Exp 5 (Connecting with Others) & 8 (Container) | V2.E5-S1; V2.E8-S1 |
+| 6 | Vol 2 Exp 4 (Confession) & 9 (Community) | V2.E4-O1 (Confession law); V2.E9-S1 (Community amplification) |
+| 7–8 | Vol 1 Exp 1 (Faith from hearing) & Vol 2 Exp 7 (PROAPT) | V1.E1-O1 (Word→Hearing→Faith); V2.E7-O4 (PROAPT) |
+| 9–10 | Vol 2 Exp 7 (Garden of Your Heart) | V2.E7-O2 (Garden as encounter) |
+| 11 | Vol 2 Exp 7 (Any Doubts?) | V2.E7-O1 (Any Doubts? as faith development) |
+| 12 | Vol 2 Exp 5 (Connecting with Mission) | V2.E5-S2 (Uphill/downhill mission) |
+| 13 | Vol 2 Exp 10 (Training Plan); the Signs Card's IJH grounding (desolation dynamics, Vol 2 Exp 7) | V2.E10-D1 (Sustainable training rhythm) |
+| 14 | Integration; Vol 2 Exp 10 | V2.E10-D1 |
+| 15 | Vol 5 The Formation Companion (FC1 level definition); Section 11 | V2.E8-S1 (container fluency as FC1's spine) |
 
 # Section 2 — Audience and Cohort Design
 
@@ -191,7 +198,7 @@ The parent’s job is to do the work, alongside their teen but not at them. A pa
 
 Three exceptions to the general rule that parents and teens do their work in separate circles:
 
-1. In Week 1 (orientation) and Week 10 (commissioning), parents and teens are together intentionally.
+1. In Week 1 (orientation) and Weeks 14–15 (commissioning), parents and teens are together intentionally.
 2. Some between-session practices are designed for parent and teen to do together at home (the Family Conversation Cards, the joint Footprints exercise in Week 3 prep). Those are explicitly bridge moments.
 3. If a teen specifically requests their parent’s presence for a difficult disclosure, that is the teen’s call. Companions support but do not arrange this.
 
@@ -220,7 +227,7 @@ Drawing on the Formation Companion framework in Volume 5 (developmental progress
 
 1. Personal practice. The Companion is currently engaged in their own Daily / Weekly / Monthly rhythm — not as someone who once did this work, but as someone who is doing it now. The teens and parents will perceive this within the first session whether they can articulate it or not.
 2. Container competence. Can establish and hold the four container conditions (Safe, Present, Clear, Intentional, see Section 5) under pressure, including when a participant is upset or when the room’s emotional temperature is climbing.
-3. Scripture facility. Knows the anchor passages of the ten sessions well enough to teach without reading from notes for the bulk of the time, and can hold the room when an unanticipated question lands.
+3. Scripture facility. Knows the anchor passages of the fifteen sessions well enough to teach without reading from notes for the bulk of the time, and can hold the room when an unanticipated question lands.
 4. Pastoral discretion. Knows when to follow a thread and when to pull back, when to refer out, when to call a parent, when to involve school or pastoral leadership.
 
 ### Specialized (covered by at least one team member)
@@ -241,6 +248,8 @@ The eight weeks before Week 1, every Companion works the following rhythm. This 
 | Wk -4 to -3 | Run through Garden of Your Heart on yourself; identify your own current Mission question. | Recruitment and parent informed consent finalized; orientation session date set. |
 | Wk -2 to -1 | PROAPT one passage daily; rehearse Week 1 lesson plan with Co-Companion. | Run a dress rehearsal of Week 1 with one or two trusted families; debrief; refine. |
 | Wk 1 | Begin. | Begin. |
+
+And for every cycle after the first: the long-arc hazard for a Companion is not burnout but quiet satisfaction — the drift that never misses a session. The [Keeping the Flame card](../shared/keeping-the-flame.md) is the team's standing defense (a personal self-check once a cycle, and the first Leader Lab of every serving cycle); it applies to the adult team exactly as much as to the FC1s.
 
 # Section 4 — Theological and Institutional Posture
 
@@ -302,7 +311,7 @@ The container is the prepared interior space inside which any meaningful spiritu
 
 ## Opening container protocol
 
-Every session opens with the same protocol. The repetition matters — it is part of how the container forms over the ten weeks. Read this script aloud or paraphrase from familiarity:
+Every session opens with the same protocol. The repetition matters — it is part of how the container forms over the fifteen weeks. Read this script aloud or paraphrase from familiarity:
 
 ## Opening Container — Spoken Protocol (5 minutes)
 
@@ -349,7 +358,7 @@ Each session’s lesson plan specifies which mode is used for which block. The g
 - Opening container and closing container, every week, no exceptions.
 - Teaching blocks. The teacher addresses the whole room.
 - Scripture readings and shared worship.
-- The Week 1 orientation and the Week 10 commissioning, in their entirety.
+- The Week 1 orientation and the Week 14–15 commissioning sessions, in their entirety.
 
 ### Parallel circles (split by cohort)
 
@@ -496,7 +505,7 @@ Begin recruitment ten weeks before Week 1. The series stands or falls on whether
 
 The single most important thing in recruitment is the parent-as-participant ask. Make it cleanly and early. The introductory letter (Appendix D) leads with it; the information meeting names it three times; the consent form requires the parent to acknowledge it explicitly.
 
-Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work, in the same room and the same building, but in their own circles. If you cannot commit to attending all ten sessions and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
+Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work, in the same room and the same building, but in their own circles. If you cannot commit to attending all fifteen sessions and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
 
 ## Family Orientation Night
 
@@ -516,7 +525,7 @@ Two weeks before Week 1, host a 90-minute Family Orientation Night for every com
 
 ## The Personal Heart Journal
 
-Each participant receives a Personal Heart Journal at orientation. The journal is theirs, private, and used throughout the year (not just during the series). The first ten weeks of pages are pre-printed with the session’s anchor scripture, between-session practice prompts, and three weekly journaling questions. Sample front matter and Week 1 page templates are in Appendix E.
+Each participant receives a Personal Heart Journal at orientation. The journal is theirs, private, and used throughout the year (not just during the series). The first fifteen weeks of pages are pre-printed with the session’s anchor scripture, between-session practice prompts, and three weekly journaling questions (second-running weeks continue the same practice pages as their first running). Sample front matter and Week 1 page templates are in Appendix E.
 
 The journal is not collected or graded. The Companions do not read entries unless the participant volunteers to share. The journal’s purpose is private formation and longitudinal personal record.
 
@@ -538,8 +547,8 @@ Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with opti
 | --- | --- | --- |
 | Pre-Series Survey | Current spiritual practice frequency; hopes and expectations for the series. (Participants are not asked to self-score an Affective Taxonomy stage.) | At Family Orientation Night. |
 | Personal Heart Journal | Longitudinal narrative reflection. Three weekly questions per session. | Daily / weekly throughout series. |
-| Mid-Series Pulse | Single-page check-in at end of Week 5: what is working, what is not, do you want to keep going. | Week 5 close. |
-| Post-Series Survey + Reflection Circle | Specific moments of formation; what changed; commitment to next steps. (No participant self-scoring of stage.) | Week 10 and the week after. |
+| Mid-Series Pulse | Single-page check-in at the series midpoint: what is working, what is not, do you want to keep going. | Week 8 close. |
+| Post-Series Survey + Reflection Circle | Specific moments of formation; what changed; commitment to next steps. (No participant self-scoring of stage.) | Week 14 and the week after. |
 | Companion Observation Notes | What Companions saw in each participant’s engagement, growth, areas of stuck. | Each week (private to Companion team). |
 
 ## What we do not measure
@@ -561,7 +570,7 @@ A 12-question, two-page instrument. Sample items follow:
 | 4 | When I read scripture, it sometimes lands in a way that changes what I do that day. | Same scale |
 | 5 | I bring real questions and doubts to God in prayer, not just polished requests. | Same scale |
 | 6 | I have a sense of what God might be calling me to do or be. | Same scale |
-| 7 | What do you most hope to get out of the next ten weeks? | Open-ended (3–5 sentences) |
+| 7 | What do you most hope to get out of the next fifteen weeks? | Open-ended (3–5 sentences) |
 | 8 | What are you most worried about as we begin? | Open-ended |
 
 (Items 9–12 in the actual instrument cover Heart Soil self-perception, current spiritual community, recent significant life events, and parent-only items on what they hope for their teen.)
@@ -570,21 +579,21 @@ A 12-question, two-page instrument. Sample items follow:
 
 Repeat items 1–6 from the pre-series instrument (compare baseline to endpoint). Add:
 
-1. Looking back at the ten weeks, what one moment do you remember most vividly? What happened?
+1. Looking back at the fifteen weeks, what one moment do you remember most vividly? What happened?
 2. What did you learn about yourself that you did not know in May?
 3. Which of the four Connects — Self, Others, God, Mission — grew the most for you? Which is still hardest?
 4. Will you continue with the Going Deeper series? Why or why not?
 5. What would you change about the Getting Started series for next year’s cohort?
 
-## Mid-Series Pulse (Week 5)
+## Mid-Series Pulse (Week 8)
 
-A one-page, three-question instrument distributed at the close of Week 5. The questions:
+A one-page, three-question instrument distributed at the close of Week 8 — the series midpoint. The questions:
 
 1. On a scale of 1–10, how present have I actually been in these sessions so far?
 2. What is one thing that has surprised me — about myself, about God, or about someone in this room?
 3. What is one specific way I want to engage differently for the second half?
 
-Returns are anonymous (or signed at the participant’s choice) and inform the Companion team’s adjustments for Weeks 6–10.
+Returns are anonymous (or signed at the participant’s choice) and inform the Companion team’s adjustments for Weeks 9–15.
 
 ## Companion observation notes
 
@@ -599,11 +608,11 @@ Notes are kept in CCA’s designated secure location and are not shared with par
 
 ## Reflection circle
 
-In Week 10’s session, the closing block is a reflection circle in which each participant briefly answers: “What is one specific thing you are taking from these ten weeks, and what is one thing you are committing to next?” This is not assessment data; it is the cohort’s shared closing. But the Companion team listens carefully and notes themes.
+In Week 14’s session, the closing block is a reflection circle in which each participant briefly answers: “What is one specific thing you are taking from these fifteen weeks, and what is one thing you are committing to next?” This is not assessment data; it is the cohort’s shared closing. But the Companion team listens carefully and notes themes.
 
 # Section 9 — Session-by-Session Sketch
 
-This section is the architectural sketch of all ten sessions. Full lesson plans — with run sheets, Companion scripts, handouts, and differentiation notes for the junior and senior cohorts — are produced as separate documents (delivered in batches of three to four sessions during curriculum development).
+This section is the architectural sketch of all fifteen sessions. Full lesson plans — with run sheets, Companion scripts, handouts, and differentiation notes for the junior and senior cohorts — are produced as separate documents (delivered in batches of three to four sessions during curriculum development). The three second-running sessions (Weeks 4, 8, 10) and the two closing additions (Weeks 13, 15) carry the Companion-in-Formation track (Section 11); each sketch notes who leads.
 
 The sketches below tell the Companion team what each week is for, what scripture grounds it, what the experiential center is, and what the between-session practice is. Use this as the planning view; use the per-session lesson plans as the running view.
 
@@ -635,9 +644,9 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Between-session practice.** Three times this week, journal: ‘Where did I notice rocky soil today? Thorny soil? Path soil? Good soil?’ No fix; just notice.
 
-## Week 3 — Telling Your Story
+## Week 3 — Telling Your Story I
 
-**Aim.** Each participant tells a piece of their story to a small circle, using the four-question version (footprints, wounds, battles, victories) age-adapted.
+**Aim.** The first batch of participants tells a piece of their story to a small circle, using the four-question version (footprints, wounds, battles, victories) age-adapted. The adult Companions model listening and blessing.
 
 **Primary Connect.** Self
 
@@ -645,11 +654,29 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Circle mode.** Shared opening; split into circles of 4–5 (cohort + Companion) for storytelling; merge for closing.
 
-**Experiential center.** Each person tells a 5–7 minute version of their story — the three things they want this circle to know about who they are. Listeners offer one specific blessing back.
+**Experiential center.** Each teller gives a 5–7 minute version of their story — the three things they want this circle to know about who they are. Listeners offer one specific blessing back. The Companions-in-Formation tell their own stories in this first running: they receive the practice before they lead it.
+
+**Who leads.** Adult-led throughout.
 
 **Between-session practice.** With your parent (or your teen), do the joint Footprints exercise from the journal: each of you writes down three places you can see God’s hand in your life looking backward. Trade. Read each other’s.
 
-## Week 4 — Knowing and Being Known
+## Week 4 — Telling Your Story II
+
+**Aim.** The rest of the group tells — the second running completes the practice for the whole cohort. Nothing new is taught; the completion is the point, and it is the first marquee slot a senior leads.
+
+**Primary Connect.** Self
+
+**Anchor scripture.** Psalm 139:23–24.
+
+**Circle mode.** As Week 3.
+
+**Experiential center.** The remaining tellers give their stories; the blessing rounds continue. The room has already learned the shape; this week it watches one of its own hold it.
+
+**Who leads.** Teen-led: the container open and close, the story facilitation, and the blessing round — with the adult Companion in the room holding anything heavy that surfaces (the bright line of Section 11.2). The Leader Feedback Round (Section 11.7) runs at the close.
+
+**Between-session practice.** Continue the Footprints pages; those who told this week do the joint exercise from Week 3.
+
+## Week 5 — Knowing and Being Known
 
 **Aim.** Move from Self into Others. The container is now the teacher — we explicitly examine what makes this room different from the rest of life.
 
@@ -661,9 +688,11 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Experiential center.** Each cohort circle does an exercise on the four container conditions — where does each one show up in my actual friendships, and where is each one missing? The discussion itself is the formation.
 
+**Who leads.** Teen leads the container open and close; the center is co-led with the adult Companion in the room.
+
 **Between-session practice.** Pick one friendship in your life. This week, practice one of the four conditions in that friendship more intentionally than usual. Journal what happens.
 
-## Week 5 — Safe and Brave Together
+## Week 6 — Safe and Brave Together
 
 **Aim.** Confession and restoration as a community practice (James 5:16). Age-adapted, not heavy.
 
@@ -675,9 +704,11 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Experiential center.** Age-adapted confession-and-restoration practice in cohort circles. No probing into specific sins. Each person identifies one place where they want to walk in greater honesty, names it briefly, receives a spoken blessing of restoration, and the circle moves on.
 
-**Between-session practice.** Mid-Series Pulse instrument. Plus: the Five-Minute Examen each evening for the next week (briefly review the day with God; thank, notice, ask).
+**Who leads.** Adult-held center — this is a disclosure-bearing session; the teen may lead the container scaffolding only.
 
-## Week 6 — Hearing God in Scripture
+**Between-session practice.** The Five-Minute Examen each evening for the next week (briefly review the day with God; thank, notice, ask).
+
+## Week 7 — Hearing God in Scripture — PROAPT I
 
 **Aim.** Introduce PROAPT as the most accessible practice for hearing God in scripture. Move from Self and Others into God.
 
@@ -687,11 +718,29 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Circle mode.** Shared teaching of PROAPT; split for first practice in cohort circles; merge for closing.
 
-**Experiential center.** PROAPT (Pray, Read, Observe, Apply, Pray again, Tell) walked through together with a single passage. Each cohort circle then does it in pairs. The Tell step is to a brother or sister in the circle.
+**Experiential center.** PROAPT (Pray, Read, Observe, Apply, Pray again, Tell) walked through together with a single passage. Each cohort circle then does it in pairs. The Tell step is to a brother or sister in the circle. The Companions-in-Formation receive the practice this week; they lead it next week.
 
-**Between-session practice.** PROAPT one short passage per day for the next week. The Personal Heart Journal Week 6–7 pages have a daily PROAPT template.
+**Who leads.** Adult-led throughout.
 
-## Week 7 — The Garden of Your Heart
+**Between-session practice.** PROAPT one short passage per day for the next week. The Personal Heart Journal Week 7–8 pages have a daily PROAPT template.
+
+## Week 8 — Hearing God — PROAPT II
+
+**Aim.** The second running: the full cohort works PROAPT in pairs again, led this time by a senior. The cleanest teen-led block in the series — a scripted practice, low disclosure risk, high repetition value.
+
+**Primary Connect.** God
+
+**Anchor scripture.** Romans 10:17.
+
+**Circle mode.** As Week 7.
+
+**Experiential center.** A Companion-in-Formation leads the full six-step walk-through with a new passage, then the pairs work. The Tell step lands again — by now the room expects it.
+
+**Who leads.** Teen-led end to end, adult in the room. Leader Feedback Round at the close.
+
+**Between-session practice.** Mid-Series Pulse instrument (the series midpoint). Plus: continue daily PROAPT with the journal template.
+
+## Week 9 — The Garden of Your Heart I
 
 **Aim.** An experiential encounter with Jesus in the heart’s interior space (Vol 2 Exp 7), age-adapted.
 
@@ -703,9 +752,27 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Experiential center.** The Garden of Your Heart exercise, lightly adapted: a guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Journal afterward. Sharing is by invitation only, never required.
 
+**Who leads.** Adult-led throughout; the seniors receive.
+
 **Between-session practice.** Return to the garden three times this week, briefly (5–10 minutes each). Journal what you notice each time.
 
-## Week 8 — Any Doubts? Bringing the Real Question
+## Week 10 — The Garden of Your Heart II
+
+**Aim.** The second guided run — participants return to the garden with a week of practice behind them, and a senior leads the guided walk-through.
+
+**Primary Connect.** God
+
+**Anchor scripture.** John 15:1–11 and Psalm 23.
+
+**Circle mode.** As Week 9.
+
+**Experiential center.** The guided imaginative prayer runs again, deeper for the week of practice between. Sharing remains by invitation only.
+
+**Who leads.** Teen leads the guided walk-through from the protocol; the adult Companion holds the debrief and anything that surfaces — the Garden can open deep water, and the debrief is disclosure-bearing by nature. Leader Feedback Round at the close.
+
+**Between-session practice.** Keep the garden rhythm — twice this week. Journal.
+
+## Week 11 — Any Doubts? Bringing the Real Question
 
 **Aim.** Practice naming the doubts and questions we usually do not say out loud, and bringing them to God honestly.
 
@@ -717,9 +784,11 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Experiential center.** Age-adapted Any Doubts? practice. Each participant identifies a scripture they say they believe but might privately doubt. They name the doubt to a partner in the circle, sit with it briefly, and then receive the scripture again. The naming is the practice; the resolution is the Spirit’s work.
 
+**Who leads.** Adult-held center; the teen may lead the container scaffolding only.
+
 **Between-session practice.** Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data.
 
-## Week 9 — What Was Prepared for You
+## Week 12 — What Was Prepared for You
 
 **Aim.** Begin Connecting with Mission. Distinguish uphill from downhill mission. Identify gifts, passions, and the question “What does the room get when I show up at my best?”
 
@@ -731,9 +800,27 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Experiential center.** Two paired exercises in cohort circles. (1) Gifts and Passions inventory: where am I alive, what comes naturally, where do others tell me I have something to offer. (2) Downhill Mission question: what does the room get when I am at my best, not performing? Each participant names one downhill answer to the circle.
 
+**Who leads.** Teen co-leads. Name leading-as-mission here: for the seniors who have led this series, standing up in front of the room *is* a downhill mission discovered.
+
 **Between-session practice.** Take one specific small action this week aligned with what you heard in your downhill mission. Journal what happens.
 
-## Week 10 — Sending and Blessing
+## Week 13 — The Rhythm and the Dry Season
+
+**Aim.** Install the long walk before the sending. The series' practices only matter if they survive the series — this session gives the cohort the rhythm that carries them, and the two mercy cards learned *before* the dry season rather than improvised inside it.
+
+**Primary Connect.** All four (sustaining)
+
+**Anchor scripture.** Galatians 6:9 ("let us not grow weary of doing good") and Psalm 42:1–5 (the downcast soul that still hopes).
+
+**Circle mode.** Shared teaching; split for the rhythm-building exercise; merge for closing.
+
+**Experiential center.** Three movements. (1) The [Rhythm Card](../shared/rhythm-card.md) is built out personally — each participant marks the daily, weekly, and monthly practices they are actually taking with them, not an idealized list. (2) The [Signs Card](../shared/signs-card.md) is taught: the four kinds of dry, and the one question that sorts them — *which way does the desire point?* Every participant should leave able to say why a dry season is not a verdict. (3) The [Path Home Card](../shared/path-home-card.md) is shown and placed in every folder: the door that never locks, explained while everyone is still in the room to hear it. Any unfinished gifts-and-mission work from Week 12 completes here.
+
+**Who leads.** Teen-led marquee — the fourth clean senior-led block. The mercy-card teaching is scripted and low-disclosure; the adult holds anything a card conversation surfaces.
+
+**Between-session practice.** Run the Rhythm Card as built, for real, this week. Note in the journal where it held and where it slipped — no fixing, just noticing.
+
+## Week 14 — Sending and Blessing
 
 **Aim.** Integration of all four Connects. Family commissioning. Bridge into the Going Deeper series.
 
@@ -745,7 +832,25 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Experiential center.** Family commissioning. Each parent-teen dyad stands in the center; each speaks a specific blessing over the other. The whole community speaks the Aaronic blessing over each family. Final reflection circle (each person’s one specific takeaway and next commitment). Post-Series Survey distributed for completion that week.
 
-**Between-session practice.** The Daily / Weekly / Monthly Rhythm Card is now the long-term practice. Sustain it through the interlude. Information about the Going Deeper series follows in the next week.
+**Who leads.** Adult-led; teens co-lead pieces.
+
+**Between-session practice.** The Rhythm Card, built in Week 13, is now the long-term practice. Sustain it through the interlude. Information about the Going Deeper series follows.
+
+## Week 15 — Commissioning the Companions
+
+**Aim.** The Companions-in-Formation are commissioned as FC1 — not a ceremony appended to the series close, but an exit gate run as a witnessed rite, so that the seniors leave this room having *begun*, not merely finished.
+
+**Primary Connect.** All four
+
+**Anchor scripture.** 2 Timothy 2:2 ("what you have heard from me… entrust to faithful men, who will be able to teach others also") and 1 Timothy 4:12.
+
+**Circle mode.** Shared circle entire session; the cohort and the families witness.
+
+**Experiential center.** Four movements. (1) **The final rep:** each Companion-in-Formation opens or closes the container *from memory, no script* — container fluency is FC1's spine competency, demonstrated publicly. (2) **The three unbending rules** (Section 11.6) are read aloud to the whole cohort, so the room the seniors will serve knows exactly the boundaries its young leaders keep — the bright line made public is part of everyone's safety. (3) **The covering is named:** each new FC1 names, aloud, the adult they will call when they are over their head — the standing covering relationship that FC1 formation requires. Parent and Lead Companion sign-off is confirmed. (4) **Commissioning:** the team and the cohort speak blessing over each new FC1; the cohort speaks the Aaronic over them. Before anyone leaves the room, the first Leader Lab of the serving cycle is scheduled — the new FC1s exit this series *into* their formation track, calendared, covered, and commissioned.
+
+**Who leads.** The seniors lead; the adults confirm and bless; the cohort witnesses.
+
+**Between-session practice.** For the new FC1s: the Leader Lab rhythm begins. For everyone: the Rhythm Card, and the Going Deeper interlude practices (Section 10).
 
 # Section 10 — Transition to the Going Deeper series
 
@@ -753,7 +858,7 @@ When Going Deeper does not follow immediately, a gap sits between the two series
 
 ## The threshold — name it before you reach it
 
-Be honest with the team about what the end of a cohort is: it is the moment of maximum load. For ten weeks a participant's new practices have been carried by the room — the weekly gathering, the faces, the shared momentum. At Week 10 the room stops, and everything the series built has to land in a container that can hold it without the weekly meeting: the rhythm, the friendship, the family table. Most falling-away in formation work happens not in the middle of a series but *at its edges* — at exactly this seam — and the interlude below is not filler between terms; it is the deliberate wineskin for that seam. So name the threshold out loud in Week 10, to participants and parents: "the next six weeks are the part of the journey most people lose; here is exactly what to hold onto, and here is when we gather again." A cohort that walks through the threshold *knowing it is a threshold* — with the [Rhythm Card](../shared/rhythm-card.md) in hand, an accountability friend named, and the Going Deeper date on the calendar — crosses it. One that simply ends, and hopes, mostly does not. And for anyone who does slip in the gap: the [Signs Card](../shared/signs-card.md) and the [Path Home Card](../shared/path-home-card.md) exist for exactly that person, and Week 10 is when the team makes sure every family knows both cards are in the folder.
+Be honest with the team about what the end of a cohort is: it is the moment of maximum load. For fifteen weeks a participant's new practices have been carried by the room — the weekly gathering, the faces, the shared momentum. At Week 15 the room stops, and everything the series built has to land in a container that can hold it without the weekly meeting: the rhythm, the friendship, the family table. Most falling-away in formation work happens not in the middle of a series but *at its edges* — at exactly this seam — and the interlude below is not filler between terms; it is the deliberate wineskin for that seam. So name the threshold out loud in Week 14, to participants and parents: "the next weeks are the part of the journey most people lose; here is exactly what to hold onto, and here is when we gather again." A cohort that walks through the threshold *knowing it is a threshold* — with the [Rhythm Card](../shared/rhythm-card.md) built in Week 13 and in hand, an accountability friend named, and the Going Deeper date on the calendar — crosses it. One that simply ends, and hopes, mostly does not. And for anyone who does slip in the gap: the [Signs Card](../shared/signs-card.md) and the [Path Home Card](../shared/path-home-card.md) were taught, not just filed, in Week 13 — every family knows both cards are in the folder and what they are for.
 
 ## The interlude
 
@@ -843,29 +948,18 @@ There are two different things happening in any session, and only one of them is
 
 The pilot revealed the mechanism, and it is beautifully simple. Most practice processes never get the whole group through in one session — storytelling, PROAPT in pairs, the Garden, even the container with a full circle all take more than one running to include everyone.
 
-So we run them twice. The first running is adult-led, and the teen is a participant in it — they receive it. On the second running, a senior leads it, protocol in hand, with an adult present. See one, do one, in the same series, in front of the cohort. This is also why the series grows from ten sessions to thirteen: the second runnings need room.
+So we run them twice. The first running is adult-led, and the teen is a participant in it — they receive it. On the second running, a senior leads it, protocol in hand, with an adult present. See one, do one, in the same series, in front of the cohort. This is why the series runs fifteen sessions: the second runnings need room, the long-walk rhythm needs its own week, and the commissioning needs to be an exit gate rather than a footnote to the sending.
 
-## 11.4 The thirteen-week session map
+## 11.4 The session map — one map, carried in Section 1
 
-| Wk | Session | Connect | Anchor scripture | Practice / center | Who leads |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Welcome to the Journey | All four (intro) | John 10:10b | Container intro; "one true sentence" | Adult models — teens watch the container for the first time |
-| 2 | The Soil of Your Heart | Self | Mark 4:1–20 | Heart Soil diagnostic | Adult leads; teen assists (setup, scripture reading) |
-| 3 | Telling Your Story I | Self | Ps. 139:23–24 | Story — first batch tells; adult models listening + blessing | Adult-led; the seniors tell their own story here — they receive before they lead |
-| 4 | Telling Your Story II | Self | Ps. 139:23–24 | Story — rest of the group tells (second running) | Teen-led: container + story facilitation + blessing round. Adult holds any heavy disclosure |
-| 5 | Knowing & Being Known | Others | Eccl. 4:9–12 | Container-conditions exercise | Teen leads the container open/close; center co-led (adult in room) |
-| 6 | Safe and Brave Together | Others | James 5:16 | Confession & restoration | Adult-held center. Teen may lead the container scaffolding only |
-| 7 | Hearing God / PROAPT I | God | Rom. 10:17 | PROAPT — first walk-through, taught | Adult-led; the seniors receive the practice |
-| 8 | Hearing God / PROAPT II | God | Rom. 10:17 | PROAPT — second running, in pairs | Teen-led: the full PROAPT walk-through — the cleanest teen-led block |
-| 9 | The Garden of Your Heart I | God | John 15:1–11 | Garden — framing + first guided run | Adult-led; the seniors receive |
-| 10 | The Garden of Your Heart II | God | John 15:1–11 | Garden — second guided run | Teen leads the guided walk-through; adult holds the debrief and anything that surfaces |
-| 11 | Any Doubts? | God | Mark 9:24 | Naming private doubts | Adult-held center. Teen may lead the container scaffolding only |
-| 12 | What Was Prepared for You | Mission | Eph. 2:10 | Gifts + downhill mission | Teen co-leads. Name leading-as-mission here |
-| 13 | Sending & Blessing + FC1 commissioning | All four (integration) | Num. 6:24–26 | Family commissioning; commission the seniors as FC1 | Teens co-lead pieces; the Companions-in-Formation are commissioned as FC1 |
+The full fifteen-week map, with the who-leads column, lives in [Section 1](#session-map) — one map for the whole series, because the second runnings serve everyone: the cohort completes practices that never finish in one session, and the seniors get their marquee slots. The shape, for this section's purposes:
 
-The three added sessions — Telling Your Story II (Week 4), PROAPT II (Week 8), and Garden of Your Heart II (Week 10) — teach nothing new. They complete a process the cohort has already begun, and they are the marquee slots a senior leads. The four-Connect sequence and its dependencies are preserved: Self runs through Weeks 2–4, Others through 5–6, God through 7–11, Mission at 12, and integration at 13. Heart Soil (Week 2) and the container-conditions exercise (Week 5) finish in one session and do not get a second running.
+- **The three second-runnings** — Telling Your Story II (Week 4), PROAPT II (Week 8), Garden of Your Heart II (Week 10) — teach nothing new. They complete a process the cohort has already begun, and they are the slots a senior leads. Heart Soil (Week 2) and the container-conditions exercise (Week 5) finish in one session and do not get a second running.
+- **Week 13 (The Rhythm and the Dry Season)** is the fourth teen-led marquee: scripted, low-disclosure teaching of the Rhythm Card and the two mercy cards — and the most important pastoral equipment an FC1 will ever carry, since misreading a dry season is the first hazard of peer leadership.
+- **Week 14** sends the whole cohort; **Week 15** commissions the Companions — the FC1 exit gate as a witnessed rite (final container rep from memory, the three rules read publicly, the covering named, the first Leader Lab scheduled). A senior leaves Week 15 having *begun* FC1, not merely completed a series.
+- The four-Connect sequence and its dependencies are preserved: Self through Weeks 2–4, Others through 5–6, God through 7–11, Mission at 12, sustaining at 13, integration at 14, commissioning at 15.
 
-**The container repeat-runs every week for free.** From Week 5 on, a senior takes the opening or the closing each week — by then they have watched it four or five times. This steady, low-risk repetition is what builds container fluency, which is the spine of FC1.
+**The container repeat-runs every week for free.** From Week 5 on, a senior takes the opening or the closing each week — by then they have watched it four or five times. This steady, low-risk repetition is what builds container fluency, which is the spine of FC1 — and it is exactly what Week 15's final rep demonstrates in public.
 
 ## 11.5 The Companion-in-Formation — the role
 
@@ -909,7 +1003,7 @@ So the readiness that matters most for the dorm is not whether they can run the 
 | The invite and gather skill | Can make the ask: gather a handful of peers, frame the covenant, set the container expectation. | Overlaps Inviting Others |
 | Knowing what to hold back | Holds the "what we hold back" discipline with no supervisor watching. | The Lab + the handbook |
 
-*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a ten-week output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader.*
+*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a fifteen-week output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader. And across that whole arc, the fire itself is tended deliberately: the [Keeping the Flame card](../shared/keeping-the-flame.md) and the standing serving-cycle Lab exist because the long road's hazard is not failure but satisfaction — a leader can drift with every session still running beautifully, and the defense is rhythm, not vigilance.*
 
 ## 11.9 Consent and the legal gate
 
@@ -917,7 +1011,7 @@ Two things must be in place before this runs.
 
 **Consent.** A teen leading their peers is a different thing from a teen participating, and it needs its own parental consent, added to the series consent packet (Appendix H).
 
-**The gate.** Because the in-cohort version has minors leading minors, it requires CCA leadership sign-off and a Virginia legal review before it runs — exactly the review the Inviting Others handbook already reserves for teen leadership. We build this ready, and we hold it behind that gate. The dorm version, being adults leading adults, does not carry that particular constraint — a genuinely lighter picture, and worth keeping distinct.
+**The gate.** Because the in-cohort version has minors leading minors, it requires CCA leadership sign-off and a Virginia legal review before it runs — exactly the review the Inviting Others handbook already reserves for teen leadership. We build this ready, and we hold it behind that gate. **Timing matters:** the first teen-led slot is Week 4, so for a mid-September start the sign-off and legal review must be complete before launch — in practice, moving by late summer. If the gate has not cleared by Week 4, the adult Companions simply lead the second-runnings themselves and the FC1 track waits for the next cycle; the fifteen-week map runs either way. The dorm version, being adults leading adults, does not carry that particular constraint — a genuinely lighter picture, and worth keeping distinct.
 
 *This section is informational, not legal advice. Confirm current Virginia law and CCA policy with qualified counsel before launch.*
 
@@ -933,25 +1027,25 @@ This form must be completed and signed by every participating parent or guardian
 
 ### About the program
 
-The Fellowship of the Heart Getting Started series is a 10-week formation program for teens (ages 12–18) and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Each session is 90 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+The Fellowship of the Heart Getting Started series is a 15-week formation program for teens (ages 12–18) and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the Week 14 family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
 
 ### Practices used in the series
 
 The following practices will be used in the series. Each practice is briefly described, with the option for a parent to opt their teen out of any specific practice while still participating in the rest of the program.
 
-**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (Week 3).
+**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (Weeks 3–4).
 
 **Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (Week 2).
 
-**Confession-and-restoration practice.** An age-adapted James 5:16 practice in which participants name a place they want to walk in greater honesty and receive a spoken blessing. Specific sins are not required to be disclosed (Week 5).
+**Confession-and-restoration practice.** An age-adapted James 5:16 practice in which participants name a place they want to walk in greater honesty and receive a spoken blessing. Specific sins are not required to be disclosed (Week 6).
 
-**PROAPT scripture engagement.** A six-step practice for personal scripture engagement: Pray, Read, Observe, Apply, Pray again, Tell (Week 6).
+**PROAPT scripture engagement.** A six-step practice for personal scripture engagement: Pray, Read, Observe, Apply, Pray again, Tell (Weeks 7–8).
 
-**Garden of Your Heart.** A guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Adapted for this age group with shorter duration and less personal disclosure expectation (Week 7).
+**Garden of Your Heart.** A guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Adapted for this age group with shorter duration and less personal disclosure expectation (Weeks 9–10).
 
-**Any Doubts? practice.** An exercise for naming honest doubts about scripture and bringing them to God in the spirit of Mark 9:24 (“I believe; help my unbelief”) (Week 8).
+**Any Doubts? practice.** An exercise for naming honest doubts about scripture and bringing them to God in the spirit of Mark 9:24 (“I believe; help my unbelief”) (Week 11).
 
-**Gifts and Mission inventory.** A reflective exercise on personal gifts, passions, and what each participant offers when they are at their best (Week 9).
+**Gifts and Mission inventory.** A reflective exercise on personal gifts, passions, and what each participant offers when they are at their best (Week 12).
 
 ### Acknowledgments and consent
 
@@ -1001,7 +1095,7 @@ Read aloud at orientation and at Week 1, signed by every participant including p
 
 ## Our covenant with one another
 
-We are choosing to spend ten weeks together as a small community where real interior work can happen. For that to be possible, we make these promises to each other:
+We are choosing to spend fifteen weeks together as a small community where real interior work can happen. For that to be possible, we make these promises to each other:
 
 1. What is shared in this circle stays in this circle. The stories, struggles, victories, and questions that are spoken in our sessions are not repeated outside the room — not at school, not at church, not at home, not on social media.
 2. What I share is mine to share later if I want. The circle does not share for me. But I am free to share my own story with anyone I choose. Other people’s stories are theirs alone.
@@ -1079,7 +1173,7 @@ Sent to CCA families approximately eight weeks before Week 1. Customize the brac
 
 Dear [CCA family name],
 
-Beginning [date range], CCA is hosting a new club for teens and their parents called Fellowship of the Heart. It is a ten-week journey — once a week for ninety minutes — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
+Beginning [date range], CCA is hosting a new club for teens and their parents called Fellowship of the Heart. It is a fifteen-week journey — once a week for ninety minutes — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
 
 This is not a youth group with parent permission. It is a family formation series. Each week, your teen will do real work alongside you — sometimes in the same circle, sometimes in their own circle while you are in your own — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when the series ends.
 
@@ -1087,12 +1181,12 @@ The series is based on the Intentional Journey of the Heart project (IJH), a bod
 
 Specifically:
 
-- Ten 90-minute sessions, [day of week], [start time], at CCA.
+- Fifteen 90-minute sessions, [day of week], [start time], at CCA — thirteen in the fall term, with the final two after the Christmas break.
 - Open to teens age 12–18. At least one parent (or grandparent, or guardian) attends every session as a participant.
 - Limited to about fifteen to twenty families. First-come, first-served.
 - Free.
 
-If you and your teen are willing to do real work together in these ten weeks — not just to attend, but to engage — we would love to have you. There is an information meeting at CCA on [date] at [time]. Please RSVP at [contact information] by [date] if you are interested.
+If you and your teen are willing to do real work together in these fifteen weeks — not just to attend, but to engage — we would love to have you. There is an information meeting at CCA on [date] at [time]. Please RSVP at [contact information] by [date] if you are interested.
 
 Blessings,
 
@@ -1168,18 +1262,18 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 # Appendix G — The FC1 Leader Lab (Facilitator Guide)
 
 
-The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the 13-week map). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
+The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the fifteen-week map in Section 1). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
 
-**Six sessions, run alongside the 13-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
+**Six sessions, run alongside the fifteen-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
 
 | Lab | Alongside cohort | Focus |
 |-----|------------------|-------|
 | 1 | Wks 1–2 | The call, the bright line, the container from the inside |
 | 2 | Wks 3–4 | Receiving feedback; leading yourself; the referral reflex |
 | 3 | Wks 5–7 | Leading a process; why the Connect order matters |
-| 4 | Wks 8–9 | **Scope, referral, covering — the dorm-safety session** |
-| 5 | Wks 10–11 | Adapting it to a peer-only world; making the ask |
-| 6 | Wks 12–13 | Mock full session + commissioning |
+| 4 | Wks 8–10 | **Scope, referral, covering — the dorm-safety session** |
+| 5 | Wks 11–13 | Adapting it to a peer-only world; making the ask |
+| 6 | Wks 14–15 | Mock full session + commissioning |
 
 ---
 
@@ -1227,11 +1321,12 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 2. **Lead PROAPT end-to-end.** Each senior walks the six steps — Pray, Read, Observe, Apply, Pray again, Tell — for the lab group. Debrief.
 3. **Teach the Four Connects back.** Each senior teaches the diagram in their own words. If you can teach *why* each connection makes the next one real, you can lead it anywhere.
 4. **Why the order.** Self before Others; Self and Others before a God-connection that goes past performance; all three before Mission. Understanding the *why* is what lets you flex the *how* without breaking it.
-5. **Close.**
+5. **Learn the Three Vital Signs.** Walk the [Three Vital Signs card](../shared/three-vital-signs.md) together, then re-run one senior's PROAPT segment with the rest of the lab group watching *the room* instead of the leader: who told something costly and what happened next; what the room did in the first ten seconds when something went sideways; who went quiet. Debrief with the card's three questions. A leader who can run the process but cannot read the room has learned half the job — this is where the other half starts.
+6. **Close.**
 
-**Take-home.** You'll lead PROAPT II in the cohort (Wk 8). Prepare it.
+**Take-home.** You'll lead PROAPT II in the cohort (Wk 8). Prepare it — and bring one vital-signs observation from your own cohort's next session (no names needed) to Lab 4.
 
-## Lab 4 — Scope, Referral, and Covering *(alongside Wks 8–9)* — the dorm-safety session
+## Lab 4 — Scope, Referral, and Covering *(alongside Wks 8–10)* — the dorm-safety session
 
 **Aim.** Build the two competencies that will one day replace the adults in the room. **This is the most important Lab.**
 
@@ -1247,7 +1342,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Take-home.** Complete the referral card and have the covering conversation before the series ends.
 
-## Lab 5 — Adapting It to Your World; Making the Ask *(alongside Wks 10–11)*
+## Lab 5 — Adapting It to Your World; Making the Ask *(alongside Wks 11–13)*
 
 **Aim.** Prepare for the peer-only reality and the skill of gathering a group.
 
@@ -1262,7 +1357,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Take-home.** Draft your own invitation, in your own words.
 
-## Lab 6 — Mock Full Session and Commissioning *(alongside Wks 12–13)*
+## Lab 6 — Mock Full Session and Commissioning *(alongside Wks 14–15)*
 
 **Aim.** Integrate everything; run a full leadable sequence; and be sent.
 
@@ -1272,10 +1367,27 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 1. **Open** — a senior leads it now.
 2. **The mock session.** Each senior leads a full leadable sequence for the lab group — open → a process of their choice → close — with the Leader Feedback Round after.
 3. **The road ahead.** FC1 is the floor. Going Deeper, Going Out, and Inviting Others are where it grows; the dorm is where it may one day stand on its own. Name honestly that this is a few years, not a finish line.
-4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week-13 Sending, in front of everyone — the same night the families are commissioned.
+4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week 15 session — Commissioning the Companions — as a witnessed rite of its own: the final container rep from memory, the three rules read to the room, the covering named, and the first Lab of the serving cycle scheduled before anyone leaves.
 5. **Close.**
 
 **Take-home.** Keep your own four-Connects rhythm going. You cannot lead from an empty well.
+
+## The Serving Cycle — Keeping the Flame *(the first Lab of every serving cycle, standing)*
+
+**Aim.** Commissioning is the start of the long road, and the long road's hazard is not failure but satisfaction — the drift that never misses a session (Rev. 2:4: works commended, first love left). This Lab is the standing rekindling rhythm: it opens every serving cycle, for FC1s and adult Companions alike, built on the [Keeping the Flame card](../shared/keeping-the-flame.md).
+
+**What it builds.** A leadership culture where tending your own flame is ordinary maintenance, not a crisis response — and where no Companion, however seasoned, is ever without an unmastered assignment, a sheep-room, and a fresh Rhythm Card.
+
+**The session.**
+1. **Open.**
+2. **Calling stories retold.** Each Companion, two minutes: why you said yes, and what the room felt like the first time you led and God showed up. Ephesus's first step — remember — as fuel, not nostalgia.
+3. **Rhythm Cards rebuilt.** Fresh cards, own handwriting, honest — *what am I actually practicing now?* Same discipline the cohort learns in Week 13; leaders go first.
+4. **The unmastered assignment.** Each Companion names, and the Lab confirms, one assignment for this cycle they have not yet mastered — a new block, an adaptation, forming the next Companion. Nobody leaves carrying only what they have already mastered.
+5. **The sheep-room confirmed.** Each Companion names where they are only a member — the standing room where they tell costly things. Anyone without one makes finding it their first assignment, ahead of everything else.
+6. **The vital signs, first person.** The card's self-check walked quietly, alone, in the room — not shared unless someone chooses to. The card is a mirror, never a lever.
+7. **Close.**
+
+**Take-home.** The Keeping the Flame card goes in every Companion's folder. The self-check is personal, once a cycle. The three recovery steps (remember, repent, do the first works) are ordinary maintenance — use them early, not late.
 
 ---
 

@@ -12,7 +12,7 @@
 
 # Why this card exists
 
-Every formation journey worth taking has people who fall away from it. Some drift (the [Signs Card](signs-card.md) names that quiet fade). Some burn out. Some blow it — really blow it — and conclude the room they used to sit in would not want them back. And most churches, without ever meaning to, leave the way back unwritten: there are ten weeks of material for starting the journey and not one page for *returning* to it. So the returner has to improvise the hardest walk of their life, alone, guessing at the reception.
+Every formation journey worth taking has people who fall away from it. Some drift (the [Signs Card](signs-card.md) names that quiet fade). Some burn out. Some blow it — really blow it — and conclude the room they used to sit in would not want them back. And most churches, without ever meaning to, leave the way back unwritten: there are shelves of material for starting the journey and not one page for *returning* to it. So the returner has to improvise the hardest walk of their life, alone, guessing at the reception.
 
 Not here. This card is the written door. If you have been away — a month, a year, a decade; quietly or spectacularly — this is the way back in, and you should know before you take the first step how it ends: it ends with a feast, not a hearing. "But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him" (Luke 15:20, ESV). The father runs. That is the reception. Everything below is just the road.
 
