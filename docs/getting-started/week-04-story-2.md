@@ -64,6 +64,8 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **If you, the Companion, are not okay.** Tap the Co-Companion. Step out. The team is built so this is possible. The same is true for the Companion-in-Formation: if the senior is unsteady, the adult takes the block without ceremony, and nothing is lost. The Lab has more slots; the series has more runnings.
 
+**If a practice overwhelms someone.** Run the Settle Protocol (Handbook §6): stop with plain directive words, bring them back to the room, breathe and anchor, do not resume the practice with them tonight, and nobody leaves activated — a Companion stays until their body has settled, and settling that doesn’t come is a same-evening call to the backup. The adult runs the Settle Protocol, never the senior.
+
 # Session at a Glance
 
 ## Why this session, this week

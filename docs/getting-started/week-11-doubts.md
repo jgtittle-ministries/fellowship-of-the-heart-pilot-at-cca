@@ -60,6 +60,8 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **If you, the Companion, find yourself in a doubt of your own during the exercise.** That is not a disqualification. It is data. Continue facilitating. Bring your own doubt to the team debrief.
 
+**If a practice overwhelms someone.** Run the Settle Protocol (Handbook §6): stop with plain directive words, bring them back to the room, breathe and anchor, do not resume the practice with them tonight, and nobody leaves activated — a Companion stays until their body has settled, and settling that doesn’t come is a same-evening call to the backup.
+
 # **Session at a Glance**
 
 ## **Why this session, this week**

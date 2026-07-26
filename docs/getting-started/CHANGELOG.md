@@ -2,6 +2,17 @@
 
 *Fellowship of the Heart — Series 1 of 3*
 
+# July 2026 — Safety additions (the Settle Protocol)
+
+A five-piece safety strengthening, adapted from a risk-stratified safety framework shared by an outside reviewer and translated into the series' own architecture:
+
+- **The Settle Protocol** (Handbook Section 6): five in-the-moment moves when a practice overwhelms a participant — stop with directive words, come back to the room, breathe and anchor, do not resume, support before they go. With it, two companion principles: **stopping is success**, and **nobody leaves activated** (no participant goes to the parking lot before their body has settled; settling that doesn't come is a same-evening backup call).
+- **The four levels** (Section 6 + the Appendix C card): the escalation ladder condensed to a card — hold-and-note / Lead Companion within 24 hours / backup same evening / emergency services now.
+- **Seasons that call for extra care** (Pre-Cohort Discernment Guide): five listening flags — recent deep loss, care already underway (with a counselor-coordination path), a named history of coming apart under intensity, active self-harm thoughts, unsafe home — with team-triage disposition, explicitly not a clinical screening.
+- **A Settle line in the heavy-week contingencies** (Wks 3, 4, 6, 9, 10, 11), phrased per session; in the Garden weeks the stop is for the person, not the circle, and in the teen-led weeks the adult runs it, never the senior.
+- **Consent form** (Appendix A): participants may pause or step out of any practice at any time; Companions stop a practice for anyone who appears overwhelmed, and it is not resumed that evening.
+- **FC1 Leader Lab 4** gains the settle drill — the same five moves as reflex for the world with no adult in the room.
+
 # July 2026 — The fifteen-week consolidation
 
 For the mid-September 2026 CCA launch, the series consolidated from two documented structures (the ten-week base map and Section 11's thirteen-week teen-leadership map) into **one fifteen-week map**, carried in Handbook Section 1. What changed:

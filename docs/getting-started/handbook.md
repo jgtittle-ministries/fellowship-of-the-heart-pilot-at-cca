@@ -466,6 +466,35 @@ Examples: a teen who shares a deep loss; a parent who breaks down naming a marri
 3. After session: the relevant Companion follows up individually (two adults present for any teen — never alone) and, if needed, refers to pastoral or clinical care.
 4. If the disclosure has significance for the parent-teen relationship, work with the family on how and when to bring the parent in. Generally, do this within a week.
 
+### If a practice overwhelms someone — the Settle Protocol
+
+Sometimes a practice — the story circle, the confession practice, the Garden — touches something in a participant faster and harder than they can hold: tears that turn to shaking, a blank frozen look, breathing gone short, a participant who seems to leave the room behind their own eyes. This is not failure — theirs or yours. It is the signal to stop the practice for that person and help their body settle. Five moves, in order:
+
+1. **Stop.** Plain, directive words: *“Let’s stop here. You don’t have to go any further.”* Do not ask open-ended questions — *“what are you feeling?”* sends them back in. Statements bring them out.
+2. **Come back to the room.** Feet flat on the floor, eyes open. *“Look at me. You’re at CCA. It’s Tuesday evening. You’re safe. I’m right here.”* Name three ordinary things in the room together if needed.
+3. **Breathe and anchor.** Slow breath, the out-breath longer than the in. A hand flat on the table; a cold glass of water. The body settles first; words come later.
+4. **Do not resume.** That participant is done with the practice tonight — not as a penalty, as care. They stay in the circle if they want or sit apart if they want; a Companion stays close either way. Do not restart the exercise with them “now that they’re okay.”
+5. **Support before they go.** Nobody leaves activated (below). The Cohort Companion checks in before they leave the building; the Lead Companion follows up within 48 hours; and if anything surfaced that touches the limits-of-confidentiality list, the Section 6 protocols run as written.
+
+**Stopping is success.** A Companion who stops a practice early has done the job well, not poorly. Say that out loud in team training until every Companion believes it.
+
+### Nobody leaves activated
+
+The evening ends for a participant only when their body has actually settled. Someone who was overwhelmed during the session — tears that ran deep, a hard disclosure, a practice stopped under the Settle Protocol — does not walk to the parking lot in that state, and a shaken teen does not ride home beside a parent who has no idea what happened (within the limits of what the teen agrees can be shared, and the Section 6 limits that override that agreement). Practically: the closing blessing and the ordinary end-of-evening logistics already give you ten unhurried minutes; use them. A Companion sits with the person — no agenda, no debrief — until the shaking is done and their words are ordinary again. If settling does not come, that is a **same-evening call to the pastoral / clinical backup**, not a “see how they’re doing Thursday.”
+
+### The four levels — who is told, and when
+
+Every response in this section reduces to four levels. The card version:
+
+| Level | What | Who is told, and when |
+|---|---|---|
+| **1 — Hold and note** | Heavy-but-not-crisis moments; a practice stopped and settled well | Held in the room; named at the team debrief that night |
+| **2 — Lead Companion, within 24 hours** | Anything that stopped a practice; any follow-up owed a family; a pattern a Companion is starting to see | The Lead carries the follow-up list |
+| **3 — Pastoral / clinical backup, same evening** | Settling that doesn’t come; disclosures at or near the limits-of-confidentiality list; any Companion’s honest “this is past us” | The backup is on-call every Tuesday for exactly this call |
+| **4 — Emergency services, now** | Immediate danger to life or safety: **911**. Acute suicidal crisis: **988** plus the Section 6 protocol. Abuse: **CPS** per the mandatory-reporting protocol | Level 4 is never delayed to consult Levels 2–3 first |
+
+A Companion is never wrong for escalating one level too high. The only error is escalating too late.
+
 ## Pastoral and clinical referral list
 
 Before Week 1, build a referral list of three to five qualified resources, with names, contact information, and the kinds of issues each is best suited to. Recommended categories:
@@ -1033,6 +1062,8 @@ The Fellowship of the Heart Getting Started series is a 15-week formation progra
 
 The following practices will be used in the series. Each practice is briefly described, with the option for a parent to opt their teen out of any specific practice while still participating in the rest of the program.
 
+Any participant may pause or step out of any practice at any time, without explanation and without penalty. Companions are trained to stop a practice for any participant who appears overwhelmed, and a stopped practice is never resumed with that participant the same evening.
+
 **Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (Weeks 3–4).
 
 **Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (Week 2).
@@ -1166,6 +1197,25 @@ Print on cardstock and laminate. Every Companion carries one in their session ba
 3. Follow up individually (two adults present, never alone) within 48 hours.
 4. Refer out as needed.
 5. Loop in parent within a week unless safety concerns dictate otherwise.
+
+## If a practice overwhelms someone — the Settle Protocol (Handbook §6)
+
+1. **Stop.** Plain, directive words: “Let’s stop here. You don’t have to go any further.” No open-ended questions.
+2. **Come back to the room.** Feet on the floor, eyes open. “Look at me. You’re at CCA. You’re safe. I’m right here.”
+3. **Breathe and anchor.** Slow breath, out-breath longer than in. Hand flat on the table; cold water.
+4. **Do not resume** the practice with them tonight.
+5. **Support before they go.** Nobody leaves activated — a Companion stays until they have settled. Settling that doesn’t come = same-evening call to the backup.
+
+Stopping is success.
+
+## The four levels
+
+1. **Hold and note** — named at the team debrief tonight.
+2. **Lead Companion** — within 24 hours.
+3. **Pastoral / clinical backup** — same evening.
+4. **Emergency services — now.** 911 / 988 / CPS. Never delayed to consult Levels 2–3 first.
+
+Never wrong to escalate one level too high; the only error is too late.
 
 # Appendix D — Recruitment Letter Template
 
@@ -1338,7 +1388,8 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 3. **Build your referral map.** Each senior fills in a real card for wherever they are or will be: campus counseling, 988, a trusted pastor, an RA, the parents they can still call. *The blank card is not ready; the filled card is.*
 4. **Name your covering.** Each senior names the person they will call when they are over their head — a youth pastor, a mentor, a parent with the posture. Before you ever lead alone, that relationship is set up, not hoped for.
 5. **The "route it" drill, for the dorm.** No adult in the room. A friend discloses. Walk it out loud: pause the process, be present without probing, route to your map, follow up with your covering.
-6. **Close.**
+6. **The settle drill.** A friend goes under mid-practice — shaking, frozen, gone behind their own eyes. Walk the five moves out loud until they are reflex: stop with plain words; bring them back to the room; breathe and anchor; do not resume; stay until they are settled. Then it becomes the drill you already know: route it to your map, tell your covering. You hold the container; the care goes to someone with more shoulders.
+7. **Close.**
 
 **Take-home.** Complete the referral card and have the covering conversation before the series ends.
 

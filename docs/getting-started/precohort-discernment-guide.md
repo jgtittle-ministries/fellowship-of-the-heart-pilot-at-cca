@@ -194,6 +194,7 @@ The Companion team meets weekly during the recruitment window to triage 1:1 outc
 - Of the yes-and-ready applicants, who is the cohort composed of? The team’s decision is about the cohort as a whole, not individual yes/no.
 - Are there yes-but-not-yet applicants the team should hold for the next cycle?
 - Any pastoral concerns the conversations surfaced — acute material, family dynamics, relational ruptures — that need attention regardless of the cohort decision?
+- Any extra-care flags surfaced — see Seasons That Call for Extra Care below. The team decides the disposition with the pastoral / clinical backup in the conversation.
 
 The decision to extend a formal invitation is the team’s, not the inviting Companion’s. The inviting Companion’s pastoral judgment is weighted but not unilateral.
 
@@ -231,6 +232,18 @@ No major adaptation; the school connection is implicit. The Companion may briefl
 ## For a non-CCA applicant
 
 Add brief framing in Block 2: ‘Although Fellowship of the Heart is hosted at CCA, the cohort welcomes participants from beyond the school community when the fit is right. Many of you won’t have a school connection at all; that’s honest and fine. The cohort’s spine is the four Connects, not the school.’
+
+# Seasons That Call for Extra Care
+
+The conversation is not a clinical screening, and the Companion never administers a checklist — that would break the very thing the thirty minutes is for. But some seasons change what a wise yes looks like, and the four questions will usually surface them if the Companion is listening for them:
+
+- **A recent deep loss** — a death, a divorce, a rupture — still in its first months. Grief is not a disqualifier; raw grief may need a season of pastoral care before a cohort’s practices ask more of it.
+- **Care already underway.** The applicant or teen is actively working with a counselor or therapist. This is not a barrier — it is a coordination point. With the family’s permission, the practices list from the consent packet goes to the treating counselor, so the cohort’s work and the clinical work don’t collide.
+- **A named history of coming apart under intensity** — dissociation, panic, ‘losing time,’ or episodes the family describes in their own words. The imaginative practices (the Garden) and the confession practice ask more of a person with this history than they ask of others.
+- **Active thoughts of self-harm**, in the applicant or in the home. This is the acute-crisis path (see Common Situations below): pastoral and clinical care first; the cohort is a future season.
+- **An unsafe home situation.** Mandatory-reporting obligations apply to this conversation exactly as they do inside the cohort.
+
+Apart from the last two, none of these is an automatic no. They are *walk-with-extra-care* flags: name them in the Companion notes, bring them to team triage, and let the team decide with the pastoral / clinical backup in the conversation — sometimes yes with the counselor looped in, sometimes yes with a named Companion quietly watching that participant’s load week to week, sometimes yes-but-not-yet, held with real warmth.
 
 # Common Situations and Pastoral Notes
 

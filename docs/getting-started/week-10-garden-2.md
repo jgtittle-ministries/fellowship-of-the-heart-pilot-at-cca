@@ -63,6 +63,8 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **If a participant reports an encounter that contradicts scripture.** As Week 9: receive kindly, do not amplify, and the Lead Companion follows up privately within the week. We do not litigate in the circle.
 
+**If the overwhelm goes past what the two-role protocol holds.** For that participant, the adult runs the Settle Protocol (Handbook §6) — stop for them, not for the circle: plain directive words, back to the room, breathe and anchor, no return to the exercise tonight. The senior keeps the walk-through steady for everyone else. Nobody leaves activated — a Companion stays until their body has settled, and settling that doesn’t come is a same-evening call to the backup.
+
 # Session at a Glance
 
 ## Why this session, this week

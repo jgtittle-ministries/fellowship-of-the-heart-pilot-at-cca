@@ -59,6 +59,8 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **If a participant reports an encounter that contradicts scripture.** Receive their experience kindly. Do not amplify. Privately, with pastoral support, the Lead Companion follows up within the week. We do not litigate in the circle.
 
+**If the overwhelm goes past what quiet reassurance holds.** For that participant, run the Settle Protocol (Handbook §6) — stop for them, not for the circle: plain directive words, back to the room, breathe and anchor, no return to the exercise tonight. Nobody leaves activated — a Companion stays until their body has settled, and settling that doesn’t come is a same-evening call to the backup.
+
 # Session at a Glance
 
 ## Why this session, this week
