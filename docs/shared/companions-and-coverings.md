@@ -50,10 +50,10 @@ Do not wait for someone certified to arrive. No such person exists, and the wait
 
 Sometimes a formed Companion arrives from elsewhere — moving to your town, offering to help you start. (I am that person to every body except my own.) Receive them the way the early church received Apollos: he was already able, and still Priscilla and Aquila drew him close and filled in what was lacking — and when he moved on, *the brothers wrote a letter* so the next community could welcome him (Acts 18:24–28). A letter from their covering is the right way for standing to begin traveling. It is never a substitute for what must happen next:
 
-**know them before you trust them.** Not their materials — their life. Paul's credential to the Thessalonians was not a document; it was *you know what kind of men we proved to be among you* (1 Thess. 1:5, 2:8). So take the time. Ask, and check:
+**Know them before you trust them.** Not their materials — their life. Paul's credential to the Thessalonians was not a document; it was *you know what kind of men we proved to be among you* (1 Thess. 1:5, 2:8). So take the time. Ask, and check:
 
 - *Who is your covering, and when did you last sit with them?* (A Companion without a live covering is not ready, whatever their history.)
-- *Where have you led with someone watching — and who received before you led?*
+- *Where have you led with someone watching — and what did you first receive as a participant, before you led it?* (In this pattern no one leads a practice they have not first received in the circle themselves, and first leads happen with a seasoned Companion in the room. Only-ever-led — or only-ever-led-alone — is its own answer.)
 - *May we speak with your covering ourselves?*
 - Then: table, time, and the ordinary tests of a life seen up close — before any room is entrusted to them.
 
