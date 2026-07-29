@@ -251,6 +251,8 @@ The eight weeks before Week 1, every Companion works the following rhythm. This 
 
 And for every cycle after the first: the long-arc hazard for a Companion is not burnout but quiet satisfaction — the drift that never misses a session. The [Keeping the Flame card](../shared/keeping-the-flame.md) is the team's standing defense (a personal self-check once a cycle, and the first Leader Lab of every serving cycle); it applies to the adult team exactly as much as to the FC1s.
 
+One more thing about the team, worth saying before anyone asks: no one certifies a Formation Companion, and no one ever will from here. Standing comes from a named covering close enough to see the life — the Companion levels are safety floors the team assigns to itself honestly, not ranks anyone issues. [Companions and Coverings](../shared/companions-and-coverings.md) says what this work is and is not, how a body builds its own Companions, and how to receive one from outside.
+
 # Section 4 — Theological and Institutional Posture
 
 ## Faithful to IJH
@@ -1418,7 +1420,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 1. **Open** — a senior leads it now.
 2. **The mock session.** Each senior leads a full leadable sequence for the lab group — open → a process of their choice → close — with the Leader Feedback Round after.
 3. **The road ahead.** FC1 is the floor. Going Deeper, Going Out, and Inviting Others are where it grows; the dorm is where it may one day stand on its own. Name honestly that this is a few years, not a finish line.
-4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week 15 session — Commissioning the Companions — as a witnessed rite of its own: the final container rep from memory, the three rules read to the room, the covering named, and the first Lab of the serving cycle scheduled before anyone leaves.
+4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week 15 session — Commissioning the Companions — as a witnessed rite of its own: the final container rep from memory, the three rules read to the room, the covering named, and the first Lab of the serving cycle scheduled before anyone leaves. The rite is a *sending*, not a certificate — its meaning lives in the household that witnessed it, and it travels only by introduction (see [Companions and Coverings](../shared/companions-and-coverings.md)).
 5. **Close.**
 
 **Take-home.** Keep your own four-Connects rhythm going. You cannot lead from an empty well.

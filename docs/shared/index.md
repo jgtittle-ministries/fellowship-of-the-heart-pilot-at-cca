@@ -26,6 +26,8 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Keeping the Flame**](keeping-the-flame.md) — *team-facing*: for every Companion, adult or FC1 — how a calling survives its own success. The Ephesus drift (works commended, first love left), the leader's self-check, the five defenses, and the recovery protocol. A mirror, never a lever; walked at the first Leader Lab of every serving cycle.
 
+- [**Companions and Coverings**](companions-and-coverings.md) — *team-facing*: what this work is, and is not — no licenses, no registry, no title that travels; the covering is the unit of trust. How a body builds its own Companions from its own people, and how to receive one from outside (know them before you trust them).
+
 ---
 
 ## How they fit together

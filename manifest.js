@@ -266,6 +266,10 @@ window.SERIES = [
         "title": "Shared participant materials"
       },
       {
+        "path": "docs/shared/companions-and-coverings.md",
+        "title": "Companions and Coverings"
+      },
+      {
         "path": "docs/shared/family-conversation-cards.md",
         "title": "Family Conversation Cards"
       },
@@ -775,6 +779,14 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Shared participant materials",
     "indexPath": "docs/shared/index.md",
+    "next": "docs/shared/companions-and-coverings.md"
+  },
+  "docs/shared/companions-and-coverings.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Companions and Coverings",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/index.md",
     "next": "docs/shared/family-conversation-cards.md"
   },
   "docs/shared/family-conversation-cards.md": {
@@ -782,7 +794,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Family Conversation Cards",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/index.md",
+    "prev": "docs/shared/companions-and-coverings.md",
     "next": "docs/shared/interrogating-reality-card.md"
   },
   "docs/shared/interrogating-reality-card.md": {
