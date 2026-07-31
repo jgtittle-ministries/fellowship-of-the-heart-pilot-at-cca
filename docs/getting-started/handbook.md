@@ -1058,7 +1058,9 @@ This form must be completed and signed by every participating parent or guardian
 
 ### About the program
 
-The Fellowship of the Heart Getting Started series is a 15-week formation program for teens (ages 12–18) and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the Week 14 family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+The Fellowship of the Heart Getting Started series is a 15-session formation program for high-school teens and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+
+Parents and teens participate together in the same circles, with families kept together, and on sharing practices the parents speak first. Parents receive a briefing at orientation on appropriate sharing in front of teens. Teens are also offered — never required — a rotating turn at low-risk leadership moments (such as opening the session or reading scripture), always with adults present and leading the evening.
 
 ### Practices used in the series
 
@@ -1086,7 +1088,9 @@ Initial each acknowledgment to indicate consent.
 
 \_\_\_\_ I have read the description of the program and the practices used.
 
-\_\_\_\_ I understand that as a parent or guardian, I am expected to attend every session as a participant, not just as a chaperone, and to engage in the parent circle as appropriate.
+\_\_\_\_ I understand that as a parent or guardian, I am expected to attend every session as a participant, not just as a chaperone — sharing a circle with my teen, and going first on the sharing practices as briefed at orientation.
+
+\_\_\_\_ I consent to my teen taking rotating low-risk leadership turns (opening the session, reading scripture, leading a check-in round), always with adults present and leading the evening.
 
 \_\_\_\_ I understand that confidentiality has limits, and that Companions are required to break confidentiality in cases of disclosed or suspected abuse, suicidal ideation, self-harm, or threats to others.
 
