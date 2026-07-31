@@ -1058,7 +1058,7 @@ This form must be completed and signed by every participating parent or guardian
 
 ### About the program
 
-The Fellowship of the Heart Getting Started series is a 15-session formation program for high-school teens and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+The Fellowship of the Heart Getting Started series is a 22-session formation program for high-school teens and their parents, meeting Wednesday evenings across CCA's four club quarters (September through spring), hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the family-commissioning session near the year's end extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
 
 Parents and teens participate together in the same circles, with families kept together, and on sharing practices the parents speak first. Parents receive a briefing at orientation on appropriate sharing in front of teens. Teens are also offered — never required — a rotating turn at low-risk leadership moments (such as opening the session or reading scripture), always with adults present and leading the evening.
 
@@ -1068,19 +1068,19 @@ The following practices will be used in the series. Each practice is briefly des
 
 Any participant may pause or step out of any practice at any time, without explanation and without penalty. Companions are trained to stop a practice for any participant who appears overwhelmed, and a stopped practice is never resumed with that participant the same evening.
 
-**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (Weeks 3–4).
+**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (first quarter).
 
-**Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (Week 2).
+**Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (first quarter).
 
-**Confession-and-restoration practice.** An age-adapted James 5:16 practice in which participants name a place they want to walk in greater honesty and receive a spoken blessing. Specific sins are not required to be disclosed (Week 6).
+**Confession-and-restoration practice.** An age-adapted James 5:16 practice in which participants name a place they want to walk in greater honesty and receive a spoken blessing. Specific sins are not required to be disclosed (first quarter).
 
-**PROAPT scripture engagement.** A six-step practice for personal scripture engagement: Pray, Read, Observe, Apply, Pray again, Tell (Weeks 7–8).
+**PROAPT scripture engagement.** A six-step practice for personal scripture engagement: Pray, Read, Observe, Apply, Pray again, Tell (second quarter).
 
-**Garden of Your Heart.** A guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Adapted for this age group with shorter duration and less personal disclosure expectation (Weeks 9–10).
+**Garden of Your Heart.** A guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Adapted for this age group with shorter duration and less personal disclosure expectation (second quarter).
 
-**Any Doubts? practice.** An exercise for naming honest doubts about scripture and bringing them to God in the spirit of Mark 9:24 (“I believe; help my unbelief”) (Week 11).
+**Any Doubts? practice.** An exercise for naming honest doubts about scripture and bringing them to God in the spirit of Mark 9:24 (“I believe; help my unbelief”) (second quarter).
 
-**Gifts and Mission inventory.** A reflective exercise on personal gifts, passions, and what each participant offers when they are at their best (Week 12).
+**Gifts and Mission inventory.** A reflective exercise on personal gifts, passions, and what each participant offers when they are at their best (third quarter).
 
 ### Acknowledgments and consent
 
