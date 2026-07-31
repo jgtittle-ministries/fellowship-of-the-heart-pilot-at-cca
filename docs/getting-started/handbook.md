@@ -1070,7 +1070,7 @@ The following practices will be used in the series. Each practice is briefly des
 
 Any participant may pause or step out of any practice at any time, without explanation and without penalty. Companions are trained to stop a practice for any participant who appears overwhelmed, and a stopped practice is never resumed with that participant the same evening.
 
-**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (first quarter).
+**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, opened by a single question — what has shaped you into who you are today? — with each person choosing their own depth (first quarter).
 
 **Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (first quarter).
 
