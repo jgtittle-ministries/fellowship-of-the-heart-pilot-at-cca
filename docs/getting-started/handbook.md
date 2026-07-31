@@ -1062,6 +1062,8 @@ The Fellowship of the Heart Getting Started series is a 22-session formation pro
 
 Parents and teens participate together in the same circles, with families kept together, and on sharing practices the parents speak first. Parents receive a briefing at orientation on appropriate sharing in front of teens. Teens are also offered — never required — a rotating turn at low-risk leadership moments (such as opening the session or reading scripture), always with adults present and leading the evening.
 
+This first year is a pilot. We expect to learn as we go, and sessions will be adapted to address what we learn. What will not change without notice to parents: the practices described below, the safety protocols, and the commitments on this form. What may flex: timing, emphasis, and supporting materials. The complete curriculum — every session plan, the team handbook, and all participant materials — is published openly at **jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca**, and families are welcome to read as much of it as they wish, before signing and at any point in the year. Its change log records anything that shifts.
+
 ### Practices used in the series
 
 The following practices will be used in the series. Each practice is briefly described, with the option for a parent to opt their teen out of any specific practice while still participating in the rest of the program.
@@ -1087,6 +1089,8 @@ Any participant may pause or step out of any practice at any time, without expla
 Initial each acknowledgment to indicate consent.
 
 \_\_\_\_ I have read the description of the program and the practices used.
+
+\_\_\_\_ I understand that this is a pilot year: the team will learn as it goes and sessions may be adapted accordingly, and material changes will be communicated to parents.
 
 \_\_\_\_ I understand that as a parent or guardian, I am expected to attend every session as a participant, not just as a chaperone — sharing a circle with my teen, and going first on the sharing practices as briefed at orientation.
 
