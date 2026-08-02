@@ -6,7 +6,7 @@ Week 3
 
 **Telling Your Story I**
 
-*Four questions, one circle, and the practice of being known — the first batch tells; Week 4 completes the round*
+*One question, one circle, and the practice of being known — the parents tell first; the teens’ night is Week 4*
 
 ![An open page, waiting for your story.](images/wk03-story.jpg)
 
@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v2, May 2026 (Going Out → Sent rename applied)*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -24,15 +24,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 3 — TELLING YOUR STORY I (90 minutes)
 
-**Aim.** Each participant tells a portion of their personal story to a small circle of 4–5 using the four-question frame, and each receives a spoken blessing from the circle. The session moves Connecting with Self into Connecting with Others.
+**Aim.** Each parent — plus any Companion-in-Formation, who tells before they lead — tells a portion of their personal story to their family cluster in answer to a single open question, and each receives a spoken blessing from the circle. Teens witness and bless this week; their telling night is Week 4. The session moves Connecting with Self into Connecting with Others.
 
 **Anchor scripture.** Psalm 139:23–24 — “Search me, O God, and know my heart”.
 
 **Connect focus.** Self and Others, in that order. Self goes first because you cannot be known by another until you are honest with yourself.
 
-**Mode.** Shared opening and teaching; SPLIT into circles of 4–5 for storytelling; MERGE for closing.
+**Mode.** Shared opening and teaching; FAMILY CLUSTERS for the storytelling — two or three whole families with a Cluster Companion, own family always together; MERGE for closing. If the room is about ten or fewer, the whole room stays as one circle.
 
-**Center.** Each person tells a 5–7 minute story shaped by four questions: footprints, hard places, what I am working on, and victories. After each story, the circle blesses the teller in 1–2 sentences. No fixing, no comparing, no advice.
+**Center.** Each parent (and any Companion-in-Formation) tells a 5–7 minute story in answer to one open question: *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* After each story, the circle — teens included — blesses the teller in 1–2 sentences. No fixing, no comparing, no advice.
 
 **Between-session practice.** The Joint Footprints exercise: each parent and teen pair sits together once this week and walks each other through the footprints question. Twenty minutes total.
 
@@ -45,18 +45,18 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Fixing in the listener role. Teens — and parents — will want to fix, advise, or relate-back. The listener role is to receive and bless. That is the practice.
 - The over-discloser. One person who tells everything, far past the seven-minute mark. The Lead Companion must be willing to gently time-bound.
 - The under-discloser. “I don’t really have a story.” Honor it. Do not push. Their courage may show up in Week 6 or Week 9. Do not make Week 3 the test.
-- Parent stories that name family events the teen is processing in another room. Plan in advance for parents whose stories may need to be sequenced with what their teen is hearing or telling.
-- First time the cohort circles have run without the Lead Companion in them. Each cohort circle needs an experienced Co-Companion.
+- Parent stories that name family events the teen is hearing about for the first time — this year the teen is in the circle, listening. Plan in advance with any parent whose story may carry weight their teen has not yet been handed; some weight belongs in a different room first. During each parent’s telling, the Companion watches that teen’s face — weight received is a Settle Protocol matter (Handbook §6).
+- First time the family clusters have run without the Lead Companion in them. Each cluster needs an experienced Cluster Companion.
 
 ## CRISIS CONTINGENCIES (Week 3)
 
 **Week 3 is the highest-probability session for crisis disclosures. Every Companion in every circle reads Handbook Section 6 within the 48 hours before this session, not as review but as preparation.**
 
-**If a participant discloses suicidal ideation.** Stay in the circle. Do not move them out alone. At the end of the block, the Cohort Companion and one other Companion (two-adult rule) walk with them to a private space. The pastoral / clinical backup is called within the hour. Parents are notified per Handbook §6 protocol.
+**If a participant discloses suicidal ideation.** Stay in the circle. Do not move them out alone. At the end of the block, the Cluster Companion and one other Companion (two-adult rule) walk with them to a private space. The pastoral / clinical backup is called within the hour. Parents are notified per Handbook §6 protocol.
 
-**If a teen discloses abuse.** Affirm them in the circle. Do not interrogate. Do not promise confidentiality. After the session, the Cohort Companion and the Lead Companion step aside with the teen. Mandatory reporting timeline begins within 24 hours per Virginia Code §63.2-1509.
+**If a teen discloses abuse.** Affirm them in the circle. Do not interrogate. Do not promise confidentiality. After the session, the Cluster Companion and the Lead Companion step aside with the teen. Mandatory reporting timeline begins within 24 hours per Virginia Code §63.2-1509.
 
-**If a participant breaks down.** The circle holds the silence. The Cohort Companion reaches out a hand or sits closer if welcomed. We do not rush to comfort or to fix. Tears in this room are appropriate; we are not catastrophizing them. After the breakdown passes, the Cohort Companion quietly checks in within ten minutes.
+**If a participant breaks down.** The circle holds the silence. The Cluster Companion reaches out a hand or sits closer if welcomed. We do not rush to comfort or to fix. Tears in this room are appropriate; we are not catastrophizing them. After the breakdown passes, the Cluster Companion quietly checks in within ten minutes.
 
 **If something heavy surfaces that is not crisis.** A divorce in process. A grandparent dying. A friend who attempted suicide last spring. Receive the story. Bless the teller. The Lead Companion follows up within 48 hours offline.
 
@@ -68,80 +68,80 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## Why this session, this week
 
-Week 1 built the container. Week 2 introduced honest self-knowledge through the Heart Soil diagnostic. Week 3 takes the next step: each person speaks themselves into the room. We are not yet asking them to tell their hardest story; we are asking each person to walk a small circle through four questions about who they are and how they got here.
+Week 1 built the container. Week 2 introduced honest self-knowledge through the Heart Soil diagnostic. Week 3 takes the next step — and in this pilot, the parents go first. Each parent speaks themselves into the room while their family listens. We are not asking anyone to tell their hardest story; we are asking each parent to answer one open question in a small circle: tell the story of how you got here — today, as you are. What has shaped you into who you are today? The single question lets every teller choose their own depth. Nothing in it demands a wound or a battle; a teller who goes deep does so freely. The teens tell in Week 4. Tonight the parents show them the way, for the same reason a parent opens every sharing round in this series: the adults set the depth and the safety before the teens are asked to step in.
 
-The work of Week 3 is double. First, that each participant practices being known by a few specific people — a thing many of them have never done. Second, that each participant practices being a listener who blesses rather than fixes — a thing all of them have to learn. Both halves are the practice.
+The work of Week 3 is double. First, that each parent practices being known by a few specific people — including their own teen — a thing many of them have never done. Second, that everyone else, teens above all, practices being a listener who blesses rather than fixes — a thing all of them have to learn. Both halves are the practice, and the teens’ listening this week is the apprenticeship for their telling next week.
 
-This is the first session in which the cohort circles run independently of the Lead Companion. Each cohort circle is held by a Co-Companion who has prepared. The Lead Companion floats; the role is to notice rather than to lead.
+This is the first session in which the family clusters run independently of the Lead Companion. Each cluster is held by a Cluster Companion who has prepared. The Lead Companion floats; the role is to notice rather than to lead.
 
 ## Dependencies
 
 ## From prior sessions
 
-- Week 1: container is established. Phones in the box. Single-circle norms. The Aaronic blessing is familiar.
-- Week 2: cohort circles have functioned once. The lift this week is that each cohort circle now runs longer and with deeper material. If Week 2’s circles were unsteady, slow Week 3’s opening to re-anchor before splitting.
-- Each participant has worked the morning question and the evening journal note for two weeks. Some will be ready to tell a story; some will not. Both are honored.
+- Week 1: container is established. Single-circle norms. The Aaronic blessing is familiar.
+- Week 2: the family clusters have functioned once. The lift this week is that each cluster now runs longer and with deeper material. If Week 2’s clusters were unsteady, slow Week 3’s opening to re-anchor before moving into clusters.
+- Each participant has worked the morning question and the evening journal note for two weeks. Some parents will be ready to tell a story; some will not. Both are honored — pass-anytime holds for parents too.
 
 ## Connect focus
 
-Self leads, Others arrives. The four questions are about Self — footprints, hard places, what I am working on, victories. The circle that hears the story practices Others. Both Connects are at the center of this session, and the move from one to the other is the design.
+Self leads, Others arrives. The story question is about Self — how you got here, and what has shaped you. The parents work that half aloud tonight; the circle that hears each story — teens especially — practices Others. Both Connects are at the center of this session, and the move from one to the other is the design.
 
 # Pre-Work for the Companion Team (this week)
 
 ## Personal pre-work — you tell your own story first
 
-Before this session, the Lead Companion and every Cohort Companion writes out their own four-question story. Not to read aloud — to know it. The teens will know within thirty seconds whether their Companion has done this work.
+Before this session, the Lead Companion, every Cluster Companion, and any Companion-in-Formation writes out their own answer to the story question — how you got here, and what has shaped you. Not to read aloud — to know it. The room will know within thirty seconds whether their Companion has done this work. (A Companion-in-Formation who will help lead Week 4 tells their own story in their cluster this week — telling comes before leading.)
 
-Set aside ninety minutes this week for your own four-question writing. Use the Personal Heart Journal pages for Week 3. Be specific. Where you would normally generalize — “my parents’ divorce was hard” — keep going. “The sound of my mother crying in the bathroom in 1994.” That is the depth at which you write to yourself. You will not share that depth in the circle. But you will not tell a true story unless you have first told a true story to yourself.
+Set aside ninety minutes this week for your own story writing. Use the Personal Heart Journal pages for Week 3. Be specific. Where you would normally generalize — “my parents’ divorce was hard” — keep going. “The sound of my mother crying in the bathroom in 1994.” That is the depth at which you write to yourself. You will not share that depth in the circle. But you will not tell a true story unless you have first told a true story to yourself.
 
 ## Team pre-work
 
 Forty-eight hours before Week 3, the Companion team meets for ninety minutes:
 
 1. Re-read Handbook Section 6 in full. Out loud. Together.
-2. Each Cohort Companion names the participants in their circle and identifies one or two who they are watching for. “Watching for” is not predicting harm; it is noticing who has been quieter, who hinted at hard material in Week 2, who emailed the Lead Companion this week.
+2. Each Cluster Companion names the families in their cluster and identifies one or two people they are watching for. “Watching for” is not predicting harm; it is noticing who has been quieter, who hinted at hard material in Week 2, who emailed the Lead Companion this week.
 3. Walk through the four crisis scenarios above. Each Companion says aloud what they would do.
 4. Confirm pastoral / clinical backup availability for the night of and the 24 hours after.
 5. Pray for each participant by name.
 
 ## Logistics pre-work
 
-1. Confirm cohort circle assignments. Junior teens (12–14) in one circle. Senior teens (15–18) in one or two circles depending on size. Parents in one circle.
-2. If the senior teen group is over six, split into two senior circles and assign two Co-Companions. Six is the upper bound for a story circle that can finish in forty minutes.
-3. Print the three storytelling cards (junior / senior / parent), the listener’s role card, and the joint footprints handout. See handouts at the back of this document.
-4. Confirm that each cohort circle has a separate physical space that is private (no door windows; no traffic). Map it before the night of.
+1. Confirm family-cluster assignments: two or three whole families per cluster with a Cluster Companion; a family is never divided. If total attendance will be about ten or fewer, plan for the whole room to stay as one circle instead.
+2. Count the tellers, not the chairs. This week’s tellers are the parents plus any Companion-in-Formation. Four tellers is the upper bound for a cluster that can finish in thirty-five minutes; if the math runs over, rebalance the clusters.
+3. Arrange in advance which parent tells first in each cluster — arranged with that parent before the session, never a cold call, and never a cold call on a teen. The Cluster Companion still opens with their own story to model the form.
+4. Print the storytelling cards (teen and parent), the listener’s role card, and the joint footprints handout. The teen card (H3.2) goes home tonight for Week 4. See handouts at the back of this document.
+5. Confirm that each cluster has a separate physical space that is private (no door windows; no traffic). Map it before the night of.
 
 # Materials and Setup
 
 ### Materials checklist
 
 - Chairs in the main room as a single circle for the opening (same as Weeks 1 and 2).
-- Phone-box at the door.
 - Personal Heart Journals (each participant brings their own). Have 4–5 spares.
-- Storytelling cards: H3.1 junior version, H3.2 senior version, H3.3 parent version. One per participant in their cohort.
-- Listener’s role card: H3.4. One per participant, all cohorts.
+- Storytelling cards: H3.3 parent version, one per parent tonight; H3.2 teen version, one per teen, to go home for Week 4.
+- Listener’s role card: H3.4. One per participant, everyone.
 - Joint footprints handout: H3.5. One per family.
-- Three private spaces for cohort circles — a separate room or clearly bounded section per cohort. Chairs in each room set in a small tight circle.
-- Tissues in every cohort space.
+- A private space for each family cluster — a separate room or clearly bounded section per cluster. Chairs in each set in a small tight circle. (One circle in the main room if the night is running whole-room.)
+- Tissues in every cluster space.
 - Large-print Bible (ESV). Read aloud from the physical book.
-- A wall clock or visible timer in each cohort space, only the Cohort Companion needs to see it.
+- A wall clock or visible timer in each cluster space, only the Cluster Companion needs to see it.
 - Crisis Quick-Reference Card (Appendix C of the Handbook) printed and in the pocket of every Companion.
 - Pastoral / clinical backup person on call from 6:30 PM through 11:00 PM.
 
 ### Room arrangement
 
-Open in the main room as a single circle (Weeks 1 and 2). After the bridge, each cohort moves to its own space. The Lead Companion does not have a circle; the Lead Companion floats and is reachable.
+Open in the main room as a single circle (Weeks 1 and 2). After the bridge, each cluster moves to its own space, families together. The Lead Companion does not have a cluster; the Lead Companion floats and is reachable.
 
-In each cohort space, chairs are in a tight circle, knees almost touching. The intimacy of the geometry is intentional. There is no table in the middle. No phones. The Cohort Companion sits in the circle, not at the head.
+In each cluster space, chairs are in a tight circle, knees almost touching. The intimacy of the geometry is intentional. There is no table in the middle. No phones. The Cluster Companion sits in the circle, not at the head.
 
 ### Pre-session preparation timeline
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Confirm cohort assignments and room assignments. Print all handouts. Verify pastoral / clinical backup availability. | Lead Comp |
+| Week before | Confirm cluster assignments, first-teller arrangements (which parent opens in each cluster), and room assignments. Print all handouts. Verify pastoral / clinical backup availability. | Lead Comp |
 | Day before | Walk every space — lighting, chair count, tissues, timer visibility. Phone the pastoral / clinical backup. | Lead Companion + Co-Comp |
 | T-90 min | Companion team meets in the main room. Re-read crisis scenarios aloud. Pray for each participant by name. | All Companions |
-| T-30 min | Each Cohort Companion sets up their cohort space — chair circle, tissues, handouts at each chair, timer. | All Companions |
+| T-30 min | Each Cluster Companion sets up their cluster space — chair circle, tissues, handouts at each chair, timer. | All Companions |
 | T-15 min | Door opens. Same arrival rhythm as Weeks 1–2. | Co-Comp (Teen) |
 | T-0 | Doors close. The Lead Companion opens. | Lead Comp |
 
@@ -151,17 +151,18 @@ In each cohort space, chairs are in a tight circle, knees almost touching. The i
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Lead Companion greets each participant by name. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Lead Companion greets each participant by name. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
 | 7:10–7:15 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
 | 7:15–7:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
-| 7:25–7:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own four-question story in five minutes. Models the form. |
-| 7:30–7:32 | Block 5: Bridge to the split | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Split. |
-| 7:32–8:12 | Block 6: Stories in circles | Cohort circles | Cohort Facs | Each participant: 5–7 min story, 1–2 min blessing, brief silence. Cohort Companion goes first. |
-| 8:12–8:20 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
-| 8:20–8:25 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Joint Footprints assigned. Each family takes one handout. |
-| 8:25–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm confidentiality. Re-state the practice. Final blessing. |
-| 8:30+ | After | Floating | Lead Companion + cohort facs | Stay accessible for ten minutes. Do not pack up immediately. |
+| 7:25–7:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own story — the single question — in five minutes. Models the form. |
+| 7:30–7:32 | Block 5: Bridge to the clusters | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Move to clusters. |
+| 7:32–8:07 | Block 6: Stories in family clusters | Family clusters | Cluster Comps | Each parent (and any Companion-in-Formation): 5–7 min story, 1–2 min blessing, brief silence. Cluster Companion goes first; the arranged parent follows. |
+| 8:07–8:15 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
+| 8:15–8:20 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Joint Footprints assigned. Each family takes one handout. |
+| 8:20–8:25 | Block 9: The Leader Feedback Round | Shared circle | Lead Comp | The leader’s two questions, then the room’s. Received without defending. |
+| 8:25–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm confidentiality. Re-state the practice. Final blessing. |
+| 8:30+ | After | Floating | Lead Companion + Cluster Comps | Stay accessible for ten minutes. Do not pack up immediately. |
 
 # Block-by-Block: Scripts and Notes
 
@@ -171,13 +172,13 @@ Same physical opening as Weeks 1 and 2. The container is now familiar; do not re
 
 ## Script
 
-*“Welcome back. Phones in the box, please. Find a seat. We’ll start in ninety seconds.”*
+*“Welcome back. Find a seat. We’ll start in ninety seconds.”*
 
 *(Wait for everyone to settle. Do not rush. The settling is part of the work.)*
 
 *“Let me speak this blessing over us first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 3. The first two weeks were preparation. Tonight is the work — the first practice of the four connects we named in Week 1. Tonight, each of us is going to tell a piece of our story to a small circle. And each of us is going to listen to four other stories and bless the people who told them. That is the practice.”*
+*“Tonight is Week 3. The first two weeks were preparation. Tonight is the work — the first practice of the four connects we named in Week 1. And tonight the parents go first. Each parent is going to tell a piece of their story to a small circle that includes their own family. Teens, your telling night is next week. Tonight your work is listening and blessing — and that is not the small half. That is the practice.”*
 
 *“Before we start, three things to remember from Week 1. The container is real — Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required. And we are walking each other home — we are not performing for each other, and we are not fixing each other. We are listening, and we are blessing.”*
 
@@ -219,29 +220,33 @@ Read aloud from the physical Bible. Slow. The teaching is short — the goal is 
 
 • We cannot live this prayer in front of God if we cannot live a smaller version of it in front of one or two trusted people. The opposite of being known is being hidden. The opposite of being hidden is not being exposed — it is being seen and being safe at the same time. That is what the circle is.
 
-• Tonight is a small practice of Psalm 139. We are going to ask each other four questions, and we are going to answer with what we are willing to say. Not everything. What we are willing to say. And the people in our circle are going to look at us and bless us, not fix us. That is what being known and being safe at the same time looks like, in practice.
+• Tonight is a small practice of Psalm 139. Our parents will each answer one question — the story of how they got here, and what has shaped them — with what they are willing to say. Not everything. What they are willing to say. And the people in the circle — teens included — are going to look at them and bless them, not fix them. That is what being known and being safe at the same time looks like, in practice.
 
 ## Block 4 — Companion Demo Story (7:25–7:30, 5 min)
 
-The Lead Companion now tells their own four-question story in five minutes. This is the most important five minutes of the night. The teens — and the parents — will calibrate everything they do in the next forty minutes against what they just saw modeled.
+The Lead Companion now answers the story question in five minutes — *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* This is the most important five minutes of the night. The parents — and the teens watching for their own night next week — will calibrate everything against what they just saw modeled.
 
 ## How to do this well
 
 - Be specific. “My parents fought” is not specific. “I grew up in a house where I learned to read a slammed cabinet door” is specific.
 - Be honest about hard places. Not graphic, but honest. If you say “oh, life had its bumps” you are giving the cohort permission to be evasive. If you name one real hard place specifically, you are giving them permission to do the same.
-- Do not center yourself as the hero. Do not center yourself as the victim either. Tell what happened, name the work in progress, name a victory.
+- Do not center yourself as the hero. Do not center yourself as the victim either. Tell what happened, and where you see God in it now, looking back.
 - Time it. Five minutes. Practice this with your spouse or Co-Companion first. Five minutes is shorter than you think and longer than you fear.
-- Close with: “That is the form. You’ll do this in your circle. Yours doesn’t have to look like mine.”
+- Close with: “That is the form. Parents, you’ll do this in your cluster tonight. Teens, this is yours next week. Yours doesn’t have to look like mine.”
 
-## Block 5 — Bridge to the Split (7:30–7:32, 2 min)
+*What a story at the right depth sounds like — the founder’s own opening story, as told in the pilot. Real, unhurried, no forensics; a spoken telling breathes and runs longer:*
 
-Two minutes. Move quickly through the cards, pray, and split. Do not over-explain.
+> I grew up in church — Sunday school every Sunday, gold stars for attendance — until I was fifteen, and I walked away from the Lord. I spent many years wandering dark hallways: atheism, agnosticism, humanism. When my daughter was born, I told my wife I’d like to have her raised up in church, to get that good moral teaching like I did — and when she was a teenager, she could make her own choice. So we started attending church every now and then, but I couldn’t settle on one, because every time I heard a preacher I wanted to argue with the points being made. Eventually I found a TV evangelist who talked about a personal walk and relationship with Jesus in a way that didn’t raise any yeah-buts from inside me. And one night at the kitchen table I heard Jesus ask me: “Well, John — when are you going to make a decision?” I realized this was a pivotal point. And I knew who it was. So at that kitchen table I asked Jesus into my life, and it has been an unfolding miracle ever since.
+
+## Block 5 — Bridge to the Clusters (7:30–7:32, 2 min)
+
+Two minutes. Move quickly through the cards, pray, and move to the clusters. Do not over-explain.
 
 ## Script
 
-*“Okay. (Hold up the card.) Each of you has the storytelling card and the listener’s card. Three things to remember.”*
+*“Okay. (Hold up the card.) Parents, you have the storytelling card; everyone has the listener’s card. Teens, your own storytelling card goes home with you tonight — next Wednesday is your night. Three things to remember.”*
 
-*“First: take what helps from the questions. You don’t have to use all four. You don’t have to answer them in order. The questions are scaffolding, not a quiz. The card has a starter for you in case you need it.”*
+*“First: the question is one question — tell the story of how you got here, and what has shaped you. There’s no list to get through, and the depth is yours to choose. The card has a few starting places in case you need one — use any of them, or none.”*
 
 *“Second: when you’re listening — do not fix. Do not advise. Do not say ‘that happened to me too.’ You are listening to receive. After each story, the circle will offer one or two sentences of blessing. The listener card has examples. Read them. Use them.”*
 
@@ -249,45 +254,48 @@ Two minutes. Move quickly through the cards, pray, and split. Do not over-explai
 
 *“Let me pray. Father, you have searched us and you have known us. Make this circle a small place where we can be known and safe at the same time. Give us courage to speak true things. Give us tenderness to hear true things. Cover us with your love. Amen.”*
 
-*“Junior teens, you’re with [name]. Senior teens, with [name]. Parents, with [name]. Forty minutes. We come back here at 8:12. Go.”*
+*“You know your clusters — two or three families together, with [name], [name], or [name]. Your own family stays with you. Thirty-five minutes. We come back here at 8:07. Go.”*
 
-## Block 6 — Stories in Circles of 4–5 (7:32–8:12, 40 min)
+*(If the room is about ten or fewer tonight, skip the move — the whole room stays as one circle, the Lead Companion holds it, and the night runs the same way, the arranged parent telling after the Companion.)*
 
-This is the heart of the night. Each cohort circle runs in parallel. The structure inside each circle is identical.
+## Block 6 — Stories in Family Clusters (7:32–8:07, 35 min)
 
-### Inside the cohort circle — Companion script
+This is the heart of the night. Each cluster runs in parallel. The structure inside each cluster is identical. The tellers this week are the parents, plus any Companion-in-Formation — telling comes before leading Week 4.
+
+### Inside the cluster — Companion script
 
 ## Opening (90 seconds)
 
-*“We have forty minutes. Five of us, including me. Each person will have about seven minutes for their story, and the rest of us will offer one or two sentences of blessing. I’ll go first so you can see what it looks like.”*
+*“We have thirty-five minutes. Tonight the tellers are our parents — and me. I’ll go first so you can see what it looks like, and then [arranged parent’s name] has agreed to go next. Each teller has about seven minutes, and after each story the rest of us — teens, this is your work tonight — will offer one or two sentences of blessing.”*
 
-*“Two agreements before we start. Inside this circle, what is said stays in this circle. Not even back to the main room. And inside this circle, when someone is telling their story, we are not crossing legs and looking at the wall — we are looking at them. We are receiving. That’s the practice.”*
+*“Two agreements before we start. Inside this cluster, what is said stays in this cluster. Not even back to the main room, and not back up in the car this week. And when someone is telling their story, we are not crossing legs and looking at the wall — we are looking at them. We are receiving. That’s the practice.”*
 
 *“Okay. I’m going first.”*
 
 ## How each story turn runs
 
-**Story (5–7 minutes). The teller speaks. Nobody interrupts. Even with silence in the middle. The Cohort Companion watches the timer privately. At six minutes, if the teller is still going, gentle eye contact. At seven, gentle: “Let’s land it together.” Almost never necessary if the demo was well-modeled.**
+**Story (5–7 minutes). The teller speaks. Nobody interrupts. Even with silence in the middle. The Cluster Companion watches the timer privately — and, while a parent tells, watches that parent’s teen’s face. A teen receiving more weight than they can hold is a Settle Protocol matter (Handbook §6); see the intervention notes below. At six minutes, if the teller is still going, gentle eye contact. At seven, gentle: “Let’s land it together.” Almost never necessary if the demo was well-modeled.**
 
 **Silence (10 seconds).**
 
-**Blessing round (1–2 minutes total). The Cohort Companion goes first or invites the next person on the right. Each circle member offers one or two sentences. “What I want to bless about your story is...” “What I noticed about you is...” “What I will be praying for you is...” Examples are on the listener card.**
+**Blessing round (1–2 minutes total). The Cluster Companion goes first or invites the next person on the right. Each circle member offers one or two sentences. “What I want to bless about your story is...” “What I noticed about you is...” “What I will be praying for you is...” Examples are on the listener card. When a parent has told, gently invite their own teen’s blessing too — one sentence from their own kid often lands deepest. Invite, never force.**
 
 **Brief breath. Move to next teller.**
 
-## Cohort Companion: when to intervene
+## Cluster Companion: when to intervene
 
 - If a teller is shaming themselves — “this is so dumb compared to what you all said” — quietly: “Your story is not in competition with anyone’s. Tell us yours.”
 - If a listener offers advice or relates back — “Let’s come back to blessing. We can talk about parallels later. Right now we’re receiving.”
 - If a teller starts and freezes — “We’ll wait. Take your time.” Do not rescue. Wait fifteen seconds. If still stuck: “Would you like to come back at the end? You can pass.”
 - If something heavy surfaces (suicidal ideation, abuse, family violence) — receive it in the circle. Affirm. Bless gently. Do not rush. After the circle ends, you and one other Companion step aside with the participant. Crisis protocol begins.
-- If you run out of time before the last person tells — do not skip them. Compress the blessing rounds for the last two stories to one sentence each. Get every person told. Better to be three minutes late than to send a participant home untold.
+- If a teen’s face tells you they are receiving more weight than they can carry during their parent’s telling — that is a Settle Protocol matter (Handbook §6). At the next natural pause, quiet check-in. Do not press the family further tonight, and nobody leaves activated — a Companion stays until the teen’s body has settled.
+- If you run out of time before the last parent tells — do not skip them. Compress the blessing rounds for the last two stories to one sentence each. Get every teller told. Better to be three minutes late than to send a parent home untold.
 
 ### After every story has been told
 
-If you finish before 8:12, do not start a new topic. Sit with what was said. Optional: Cohort Companion offers one closing sentence. “Thank you for what each of you brought into this circle.” Then a brief silence. Then walk back to the main room together.
+If you finish before 8:07, do not start a new topic. Sit with what was said. Optional: Cluster Companion offers one closing sentence. “Thank you for what each of you brought into this circle.” Then a brief silence. Then walk back to the main room together.
 
-## Block 7 — Merge and Shared Closing (8:12–8:20, 8 min)
+## Block 7 — Merge and Shared Closing (8:07–8:15, 8 min)
 
 Reconvene in the main room as a single circle. The texture in the room will be different than it was at 7:30. Honor it. Do not break it with energy.
 
@@ -303,29 +311,41 @@ Reconvene in the main room as a single circle. The texture in the room will be d
 
 *“Thank you. Each of you brought something true into this room tonight, and each of you received something true. That’s rare. It’s also the kind of room God shows up in.”*
 
-## Block 8 — Between-Session Practice (8:20–8:25, 5 min)
+## Block 8 — Between-Session Practice (8:15–8:20, 5 min)
 
 This is the first session in which the practice is explicitly relational and explicitly cross-generational. The Joint Footprints exercise is a parent-and-teen pair sitting together once during the week and walking each other through the footprints question. Twenty minutes.
 
 ## Script
 
-*“One practice between now and next Tuesday. Each family takes one of these handouts.” (Hold up H3.5.)*
+*“One practice between now and next Wednesday. Each family takes one of these handouts.” (Hold up H3.5.)*
 
-*“Here’s what it is. Sometime between now and Tuesday, each parent and teen pair sits together for twenty minutes — not in the car, not at dinner, not while the TV is on. At a table or on a porch. Phones away.”*
+*“Here’s what it is. Sometime between now and Wednesday, each parent and teen pair sits together for twenty minutes — not in the car, not at dinner, not while the TV is on. At a table or on a porch. Phones away.”*
 
-*“One of you walks the other through the first question on the storytelling card — the footprints question. Just that one. Where did you grow up, who shaped you, what places and people made you who you are. Five minutes telling. The other person listens, asks one or two follow-up questions, and at the end says one sentence: ‘What I love about your footprints is...’”*
+*“One of you walks the other through the footprints question. Just that one. Where did you grow up, who shaped you, what places and people made you who you are. Five minutes telling. The other person listens, asks one or two follow-up questions, and at the end says one sentence: ‘What I love about your footprints is...’”*
 
 *“Then swap. The other person tells their footprints, the first person listens and blesses.”*
 
-*“Two rules. The teen does not have to disclose anything they didn’t disclose tonight. The parent does not turn this into a lecture or a teaching moment. We are practicing what we did tonight, in our own homes, with the most important relationship in this room.”*
+*“Two rules. The teen does not have to disclose anything they aren’t ready to say — teens, your telling night is next Wednesday, and this is a gentle warm-up for it. The parent does not turn this into a lecture or a teaching moment. We are practicing what we did tonight, in our own homes, with the most important relationship in this room.”*
 
 *“The handout has the questions and the rules in writing. Take one per family.”*
 
-## Block 9 — Closing Container (8:25–8:30, 5 min)
+## Block 9 — The Leader Feedback Round (8:20–8:25, 5 min)
+
+*The evening’s leader closes the working part of the evening the same way every week.*
 
 ## Script
 
-*“One more thing before we go. What was said tonight in your cohort circle is yours. You can take your own story home. You cannot take anyone else’s home. Not to a sibling. Not to a friend. Not to a spouse who isn’t in this room. The container holds because we hold it.”*
+*“Before we close — two things from me, same as every week. What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+
+Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
+
+*(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
+
+## Block 10 — Closing Container (8:25–8:30, 5 min)
+
+## Script
+
+*“One more thing before we go. What was said tonight in your cluster is yours. You can take your own story home. You cannot take anyone else’s home. Not to a sibling. Not to a friend. Not to a spouse who isn’t in this room. The container holds because we hold it.”*
 
 *“Second — if anything that came up tonight is sitting heavy on you, please reach out. Email, text, knock on my door. The team is here. You don’t have to carry tonight alone. There’s also a Crisis Quick-Reference Card in your folder. If you or someone you love needs more than tonight could give, those numbers are real and someone is there.”*
 
@@ -333,53 +353,41 @@ This is the first session in which the practice is explicitly relational and exp
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Go gently this week. We’re here. See you Tuesday.”*
+*“Go gently this week. We’re here. See you Wednesday.”*
 
 *After the blessing, do not pack up immediately. Stay accessible for ten minutes. Some participants will want to talk. Some parents will want a minute alone with you. Make yourself available. The work after the closing is sometimes the work.*
 
-# Differentiation by Cohort
+# Role Notes — Teens as Witnesses, Parents as Tellers
 
-## Junior teens (12–14)
+## Teens (witnesses this week)
 
-The four-question frame is softened. “Wounds” becomes “hard times.” “Battles” becomes “what I am working on.” The junior cohort needs concrete prompts and shorter time slots.
-
-## Adjustments
-
-- Storytelling card uses softer language (see Handout H3.1).
-- Story turns are 4–5 minutes, not 5–7. Six junior teens times five minutes plus blessings still fits in forty.
-- Cohort Companion may briefly help with prompts: “Tell us where you grew up first — the place you remember most.” Then pause and let the teen go.
-- Watch for the teen who tells the story they think the adults want to hear. Affirm specificity over polish: “The specific thing you just said — about your grandfather’s shed — that’s the gold.”
-- Watch for the teen who narrates a parent’s story instead of their own. Gentle: “That sounds like an important part of your family. Where are you in this story?”
-- Watch for the teen who says nothing. They are listening; they are learning. Do not pressure them. They may speak in Week 6 or Week 9. Do not make Week 3 the test of their participation.
-
-## Senior teens (15–18)
-
-The senior frame uses the IJH language directly: footprints, wounds, battles, victories. Senior teens are old enough to handle the gravity of the words and young enough to need the Cohort Companion to model courage.
+Teens do not tell tonight; Week 4 is theirs. Tonight their whole assignment is the listener’s card — and witnessing a parent tell a true story is not the light half of the work.
 
 ## Adjustments
 
-- Storytelling card uses the full IJH four-question language (see Handout H3.2).
-- Story turns are 5–7 minutes. With six seniors plus the Companion, this is the upper bound; if the cohort is 7+, split into two senior circles.
-- Watch for the over-disclosing senior — the one who turns the circle into a confession. Affirm what they said and gently time-bound. “Thank you for trusting us. Let’s pause and let your circle bless you, and we’ll honor what you said by not pulling more out tonight.”
-- Watch for the performative senior — the one whose story is too neat. Affirm and ask one specific question: “What was the worst part of that for you?” Often the real story is one layer below.
-- Senior teens may surface material that involves their parents in another room. Plan for this in pre-work. The Cohort Companion does not bring it back to the room; the Lead Companion may follow up offline within 48 hours.
+- Every teen holds the listener’s role card (H3.4) and the blessing starters. Their own storytelling card (H3.2) goes home tonight so they can begin writing for next week.
+- Watch each teen’s face during their parent’s telling. A teen receiving more weight than they can hold is a Settle Protocol matter (Handbook §6) — quiet check-in at the next pause, and nobody leaves activated.
+- Watch for the teen who wants to comfort or rescue their parent mid-story. Gentle, afterward: “Your stillness was the gift. She didn’t need rescuing; she needed you to hear it.”
+- Watch for the teen who goes quiet after a hard telling. Note it for follow-up; do not process it in the circle.
+- Some teens will start measuring their own Week 4 telling against what they heard tonight (“mine has to be that deep?”). Name it before dismissal if you sense it: depth is chosen, not required. The question asks for your story, not a bar to clear.
 
-## Parents
+## Parents (tellers this week)
 
-Parents have the hardest task tonight. They have to tell true stories without performing competence to their teen who is in another room. The parent Cohort Companion must go first and go honestly.
+Parents have the hardest task tonight. They have to tell true stories with their own teen sitting in the circle — true, not tidied, and not more weight than their teen can carry. The Cluster Companion must go first and go honestly.
 
 ## Adjustments
 
-- Storytelling card uses adult IJH language with the recognition that the listening circle is also adult (see Handout H3.3).
-- Story turns are 5–7 minutes.
-- Frame at the start: “Your kids are doing the same work in another room. The most generous thing you can do for them tonight is be honest in here. They can’t hear you. But the room they walk into next Tuesday is shaped by the room you sit in tonight.”
+- Storytelling card carries the single story question (see Handout H3.3). Story turns are 5–7 minutes.
+- Frame at the start: “Your teen is in the circle with you. The most generous thing you can do for them tonight is be honest at a depth they can receive. They will know if you are tidying — and next Wednesday, when it is their turn, they will tell at the depth you told tonight.”
+- Any parent whose story names family events their teen has not yet been handed talks with the Lead Companion before tonight. Some weight belongs in a different room first. This was planned in pre-work; hold the plan.
+- Watch for the over-disclosing parent — the one who turns the circle into a confession. Affirm what they said and gently time-bound. “Thank you for trusting us. Let’s pause and let your circle bless you, and we’ll honor what you said by not pulling more out tonight.”
 - Watch for the parent who sermonizes — the parent who turns their story into a lesson for the room. Affirm the experience and gently invite the personal: “What did that cost you, specifically?”
-- Watch for the parent who weaponizes their own story — “This is why I worry about my daughter.” Honor the love and gently redirect: “Tonight we’re telling our own stories. The story about your daughter is hers to tell.”
-- If a parent breaks down, slow the room. Tears in the parent circle in Week 3 are normal and not a problem. Often they are a turning point.
+- Watch for the parent who weaponizes their own story — “This is why I worry about my daughter.” Honor the love and gently redirect: “Tonight we’re telling our own stories. The story about your daughter is hers to tell — next week, if she chooses.”
+- If a parent breaks down, slow the room. Tears in Week 3 are normal and not a problem. Often they are a turning point — and often it is the teen who reaches out a hand. Let that happen.
 
 # Closing Practice in Detail
 
-Three layers in the closing, same pattern as Week 1 and Week 2 with one addition.
+Three layers in the closing, same pattern as Week 1 and Week 2 with one addition. The Leader Feedback Round (Block 9) sits between the practice assignment and this closing, as it does every week.
 
 ### Layer 1 — The one-word landing
 
@@ -387,7 +395,7 @@ Each participant offers one word about what the night was like. The word is not 
 
 ### Layer 2 — The closing of the circles
 
-Reaffirm what stays in the cohort circle. This is critical for Week 3. The container is not a slogan; it is a discipline. Re-state it explicitly.
+Reaffirm what stays in the cluster. This is critical for Week 3. The container is not a slogan; it is a discipline. Re-state it explicitly.
 
 ### Layer 3 — The Aaronic blessing
 
@@ -411,9 +419,9 @@ Companion team meets the day after Week 3 for a 45-minute debrief. Week 3 debrie
 
 ### Signs the session worked
 
-- Every participant in every cohort told a story. Even the briefest, most cautious version is success in Week 3.
-- Cohort Companions report at least one moment of real disclosure in their circle — a sentence that the participant probably had not said out loud before.
-- The blessing rounds were specific, not generic. “What I want to bless about your story is...” was specific to that story.
+- Every parent — and any Companion-in-Formation — told a story. Even the briefest, most cautious version is success in Week 3.
+- Cluster Companions report at least one moment of real disclosure in their cluster — a sentence the teller probably had not said out loud before, with their family hearing it.
+- The blessing rounds were specific, not generic — and the teens blessed, not just the adults. “What I want to bless about your story is...” was specific to that story.
 - The merge was quiet and honest. The one-word landings were varied and not all positive.
 - Parents and teens left treating each other with more attention than usual. Watch the parking lot.
 - At least one participant stayed for ten minutes after to talk.
@@ -422,139 +430,90 @@ Companion team meets the day after Week 3 for a 45-minute debrief. Week 3 debrie
 
 - Stories were generic — “life had its bumps.” Indicates the demo did not model specificity.
 - Listeners offered advice or related back. Indicates the listener’s card was not walked through.
-- A cohort circle ran out of time and someone did not get to tell. This is the most painful failure mode of Week 3 and the team must own it.
-- The merge felt rushed or cheerful. Cheerful means the cohort circles did not actually go deep, or the Lead Companion imposed lightness on a heavy room. Both are issues.
+- A cluster ran out of time and a parent did not get to tell. This is the most painful failure mode of Week 3 and the team must own it.
+- The merge felt rushed or cheerful. Cheerful means the clusters did not actually go deep, or the Lead Companion imposed lightness on a heavy room. Both are issues.
 - A participant left without a word and you did not catch them. The team must follow up within 24 hours.
 
 ### If the session did not work — what to adjust for Week 5
 
 - If specificity was the issue, talk in the team debrief about whether the demo modeled it. If not, the Lead Companion owes the cohort a brief acknowledgment in Week 5.
-- If a circle ran out of time, the team must reach out to the participant who did not tell within 24 hours. Offer a 1:1 with the Cohort Companion within the week.
-- If a circle struggled with the listener role, the Lead Companion can briefly re-frame in Week 4's opening — the second running is exactly where the re-frame lands: “Something we noticed last week that’s worth saying again — listening to receive is its own discipline.”
-- If a Cohort Companion was struggling, do not change them mid-series. Pair them more closely with the Lead Companion for Week 4. Reassess at the Week 8 mid-point.
+- If a cluster ran out of time, the team must reach out to the parent who did not tell within 24 hours. Offer a 1:1 with the Cluster Companion within the week.
+- If a cluster struggled with the listener role, the Lead Companion can briefly re-frame in Week 4's opening — the teens' telling night is exactly where the re-frame lands: “Something we noticed last week that’s worth saying again — listening to receive is its own discipline.”
+- If a Cluster Companion was struggling, do not change them mid-series. Pair them more closely with the Lead Companion for Week 4. Reassess at the Week 8 mid-point.
 
 ### People to follow up with this week
 
 - Anyone who disclosed crisis-level material — within 24 hours per Section 6 protocol.
-- Anyone whose parent (or whose teen) surfaced something that may resonate at home this week. Do not break confidentiality across the cohort line, but the team can pray and watch.
-- Anyone who stayed silent in their cohort circle. Brief, warm, no pressure check-in: “How did Tuesday land for you?”
-- Anyone whose Cohort Companion noticed a moment they want the Lead Companion aware of.
+- Any teen who heard their parent surface something heavy — this year the family heard it together, and home may be tender this week. The team can pray and watch, and the Cluster Companion confirms the teen left settled.
+- Any teen who went quiet after their parent’s telling, and any parent who stayed guarded in their cluster. Brief, warm, no pressure check-in: “How did Wednesday land for you?”
+- Anyone whose Cluster Companion noticed a moment they want the Lead Companion aware of.
 
 ### Team prayer at the close of the debrief
 
-Pray by name for each participant. The Week 3 debrief is the night the Companion team learns the texture of every participant’s story. That texture should be carried forward in prayer for the rest of Getting Started.
+Pray by name for each participant. The Week 3 debrief is the night the Companion team learns the texture of every parent’s story. That texture should be carried forward in prayer for the rest of Getting Started.
 
 # Handouts
 
-Five handouts for Week 3. Each is on its own page below. Print as needed for your cohort sizes.
+Four handouts for Week 3. Each is on its own page below. Print as needed for your cluster sizes.
 
-- H3.1 — Story-Telling Card (Junior, ages 12–14)
-- H3.2 — Story-Telling Card (Senior, ages 15–18)
+- H3.2 — Story-Telling Card (Teen) — goes home tonight; the teens tell in Week 4
 - H3.3 — Story-Telling Card (Parent)
-- H3.4 — Listener’s Role Card (all cohorts)
+- H3.4 — Listener’s Role Card (everyone)
 - H3.5 — Joint Footprints (parent-and-teen between-session practice)
 
-**Handout H3.1 — Story-Telling Card (Junior, ages 12–14)**
+**Handout H3.2 — Story-Telling Card (Teen)**
 
-*Tonight, in your cohort circle, you’ll have about five minutes to tell a piece of your story. You can use these four questions as a starting place. You don’t have to use all four. You don’t have to answer them in order. They’re a help, not a test.*
+*Your telling night is Week 4 — next Wednesday you’ll have about six or seven minutes to tell a piece of your story to your cluster. Tonight you watched the form; this card goes home with you so you can begin. The question below is a frame, not a script. You choose the depth. Be specific where you would normally generalize.*
 
-## 1. Footprints — the places and people that made you
+## The question
 
-**Where did you grow up? Where do you live now? Who in your family has shaped you most — grandparents, parents, siblings, anyone? What’s a place that feels like home to you, and why?**
+**Tell the story of how you got here — today, as you are. What has shaped you into who you are today?**
 
-*Pick one or two specific people or places. Specific is better than general. “My grandmother’s kitchen” is better than “my family is important.”*
+*That is the whole frame. Nothing in it demands a hard thing, and nothing in it forbids one. You decide what belongs in your telling; what you choose to say freely is worth more in this circle than anything pulled out of you.*
 
-## 2. Hard times — something that wasn’t easy
+## If you’re not sure where to start
 
-**What’s a time in your life that was hard? Could be recent, could be when you were younger. Could be something that happened to you, or a season you went through, or a thing you’re still carrying.**
+*A few optional stepping stones — use any of these, or none:*
 
-*You decide how much detail. You can name it without telling everything. “When my parents got divorced” is enough; you don’t have to tell the whole divorce.*
-
-## 3. What I am working on — something I want to grow in
-
-**What’s something you’re actually working on right now? Not what you think you should be working on — what you actually are. Could be patience, anxiety, a friendship, your phone, your faith, your relationship with a parent or sibling.**
-
-*Be specific. “I’m trying to be on my phone less in the evenings” is better than “I want to be a better person.”*
-
-## 4. Victories — something good that’s actually growing
-
-**Where in your life is something good actually happening that you didn’t make happen by yourself? A friendship that’s real. A change in how you handle something. A thing about you that you didn’t used to like and you’re starting to.**
-
-*Don’t skip this question. The point of telling your story isn’t just the hard parts. God is doing real things in you. Name one.*
-
-## If you don’t know where to start
-
-*Try this opener: “The place I think of when I think about home is \_\_\_\_\_\_\_\_\_. The person who shaped me most is \_\_\_\_\_\_\_\_\_. A hard time for me was \_\_\_\_\_\_\_\_\_. Something I’m working on is \_\_\_\_\_\_\_\_\_. And one thing that’s actually growing is \_\_\_\_\_\_\_\_\_.”*
-
-*That’s a story. Add three sentences to each one and you’re at five minutes.*
-
-**Handout H3.2 — Story-Telling Card (Senior, ages 15–18)**
-
-*Tonight you have about six or seven minutes to tell a piece of your story to your cohort circle. The four questions below are a frame, not a script. Use what helps. Skip what doesn’t. Be specific where you would normally generalize.*
-
-## 1. Footprints — the places and people that shaped you
-
-**Where did you grow up? What were the formative places — a particular house, school, town, church, friendship? Who shaped your sense of who you are? Be specific. The grandfather who sat with you in his shed. The friend you met at fifth grade camp. The teacher who saw you. The neighborhood you moved away from.**
-
-*Footprints are the soil you grew up in. They aren’t destiny, but they are real. Naming them is part of being honest about who you are.*
-
-## 2. Wounds — the hard places
-
-**Where in your story did real damage happen? A loss. A betrayal. A long season of feeling unseen, or invisible, or compared. A wound from a parent, a sibling, a friend group, a coach. A thing you carried for a long time before you had words for it.**
-
-*You decide how specific. You can name a wound without describing every detail. The work in this circle is not full disclosure; it is honesty about the existence and shape of the thing.*
-
-## 3. Battles — what you are fighting now
-
-**What is actually contested ground in your life right now? Anxiety. Comparison. The voice in your head when you look at Instagram. Performance and the cost of it. Faith doubts you don’t feel safe naming. A pattern you keep falling into. The pull of something you know is unhealthy.**
-
-*Battles are not finished. The point isn’t to report a victory; it’s to name what you are actually fighting. The naming is part of how the fighting changes.*
-
-## 4. Victories — where the story is bearing fruit
-
-**Where in your life is real fruit appearing that you didn’t produce on your own? A friendship that has been a refuge. A capacity you didn’t have at fourteen. A piece of character that grew through something hard. A way you respond to your family now that surprises you.**
-
-*Do not skip this. Your story is not just the wounds and the battles. God has been at work. Name one piece of fruit.*
+- The places and people that shaped you. The grandfather who sat with you in his shed. The friend you met at fifth grade camp. The teacher who saw you. The neighborhood you moved away from.
+- A turning point — a moment after which things were different.
+- A hard season you’re willing to name. You can name that a season was hard without describing every detail.
+- Where you see God in it now, looking back.
 
 ## Specificity is the door
 
-*“My parents fought” is not specific. “I grew up reading the slammed cabinet door” is. “I struggle with anxiety” is not specific. “I stopped sleeping Sent of sophomore year, and I haven’t fully gotten that back” is. The cohort can receive the second; the first leaves us nodding.*
+*“My parents fought” is not specific. “I grew up reading the slammed cabinet door” is. “I struggle with anxiety” is not specific. “I stopped sleeping the fall of sophomore year, and I haven’t fully gotten that back” is. The cohort can receive the second; the first leaves us nodding.*
 
 *If you find yourself generalizing, stop and pick one specific scene, person, or moment. That’s the door into the room.*
 
 **Handout H3.3 — Story-Telling Card (Parent)**
 
-*Tonight you have about six or seven minutes to tell a piece of your own story to a circle of other parents. Your kids are doing the same work in another room. The most generous thing you can do for them tonight is to be honest with these adults so the room they walk into next Tuesday is shaped by the room you sit in tonight.*
+*Tonight you have about six or seven minutes to tell a piece of your own story to your family cluster — other parents, other teens, and your own teen, listening. The most generous thing you can do for them tonight is to be honest at a depth they can receive, because the depth they tell at next Wednesday will be the depth you tell at tonight.*
 
-## 1. Footprints — the places and people that made you
+## The question
 
-**Where did you grow up? What kind of family? What was the texture of your parents’ marriage, your church, your town? Who saw you and named what was inside you? Who didn’t? What did you bring out of that childhood that you are still carrying — for good and for ill?**
+**Tell the story of how you got here — today, as you are. What has shaped you into who you are today?**
 
-## 2. Wounds — the hard places
+*That is the whole frame. You choose the depth. You can name that a season was hard without giving details you don’t want in this room — honor your own boundaries; honor the other parents in the circle. And tell it true at whatever depth you choose. Your kids will know if you are tidying.*
 
-**Where did real damage happen in your story? A parent’s absence or anger. A loss in young adulthood. A betrayal in marriage or friendship or church. A season of depression. A wound you didn’t name for years.**
+## If you’re not sure where to start
 
-*You can name the existence of a wound without giving details that you don’t want in this room. Honor your own boundaries; honor the other parents in the circle.*
+*A few optional stepping stones — use any of these, or none:*
 
-## 3. Battles — what you are fighting now
-
-**Not abstract. What are you actually fighting in midlife? The marriage you have versus the one you imagined. The work pressure. Aging parents. The shape of your own faith now versus the certainty you used to feel. The question of whether you have given your kids what they actually need. Quiet despair. The deceitfulness of comfort.**
-
-*Tell what is actually contested. Your kids will know if you are tidying.*
-
-## 4. Victories — where the fruit is real
-
-**Where has there been actual fruit in your life that you didn’t produce yourself? A character change. A repaired relationship. An overcome pattern. A capacity that was not there at twenty-five. A way you parent that you didn’t inherit and had to learn.**
+- The places and people that made you — your family, your town, your church; who saw you and named what was inside you, and who didn’t.
+- A turning point — a decision, a loss, a door that opened or closed.
+- A hard season you’re willing to name.
+- Where you see God in it now, looking back.
 
 ## A note for parents
 
-*Parents have the hardest task tonight. You have to tell true stories without performing competence. The Cohort Companion goes first; follow their lead. Be specific. Do not sermonize. Do not turn your story into a lesson for the room — your story is enough.*
+*Parents have the hardest task tonight. You have to tell true stories without performing competence — with your teen in the circle. If part of your story is news your teen has not yet been handed, talk with the Lead Companion before tonight; some weight belongs in a different room first. The Cluster Companion goes first; follow their lead. Be specific. Do not sermonize. Do not turn your story into a lesson for the room — your story is enough.*
 
-*If something heavy surfaces that you weren’t expecting, that is not a failure of the practice. That is the practice. Stay with the Cohort Companion after the session if you need to.*
+*If something heavy surfaces that you weren’t expecting, that is not a failure of the practice. That is the practice. Stay with the Cluster Companion after the session if you need to.*
 
 **Handout H3.4 — Listener’s Role Card**
 
-*Half of the practice tonight is telling. The other half is listening. Listening to receive is harder than it sounds. Read this before your circle starts.*
+*Half of the practice tonight is telling. The other half is listening — and teens, tonight the listening half is all yours. Listening to receive is harder than it sounds. Read this before your cluster starts.*
 
 ### What listening to receive looks like
 
@@ -584,7 +543,7 @@ After each story, the circle offers one or two sentences each. Use one of these 
 - “The thing I am taking from your story is \_\_\_\_\_.”
 - “What I see in you that you may not see is \_\_\_\_\_.”
 
-Specific is better than generic. “Your courage to name that wound” is better than “thanks for sharing.”
+Specific is better than generic. “Your courage to name that hard season” is better than “thanks for sharing.”
 
 Brief is better than long. One or two sentences each. The teller needs to receive five blessings, not five mini-sermons.
 
@@ -592,14 +551,14 @@ Brief is better than long. One or two sentences each. The teller needs to receiv
 
 *Between-session practice for parent-and-teen pairs*
 
-*Once between now and next Tuesday, each parent and teen pair sits together for twenty minutes and walks each other through the footprints question — the first of the four questions from tonight’s circle.*
+*Once between now and next Wednesday, each parent and teen pair sits together for twenty minutes and walks each other through the footprints question — the places and people that shaped you.*
 
 ### How it works
 
 1. Find a place that is not the car, not the dinner table, not in front of a screen. A porch, a kitchen table after dishes, a walk.
 2. Phones away. Both of you. Twenty minutes.
 3. One person tells first. Five minutes telling about their footprints — where they grew up, who shaped them, places that mattered.
-4. The other person listens. Same rules as the cohort circle. No fixing. No advice. No relating back.
+4. The other person listens. Same rules as the cluster. No fixing. No advice. No relating back.
 5. After five minutes of telling, the listener asks one or two follow-up questions. “Tell me more about \_\_\_\_\_.” “What do you wish I knew about \_\_\_\_\_ that I might not?”
 6. After the follow-ups, the listener offers one sentence: “What I love about your footprints is \_\_\_\_\_.”
 7. Switch. The other person tells. The first person listens and blesses.
@@ -610,12 +569,12 @@ Brief is better than long. One or two sentences each. The teller needs to receiv
 
 - This is not a teaching moment. Resist the urge to use your turn to instruct. Tell your story to your kid as a person.
 - This is not a counseling session. Do not lecture, advise, or correct what your teen says. You are listening to receive, not to fix.
-- If your teen tells you something that surprises or worries you, hold it. The cohort and the Lead Companion are walking with both of you. You can email later if you need to.
+- If your teen tells you something that surprises or worries you, hold it. The Companion team and the Lead Companion are walking with both of you. You can email later if you need to.
 
 ## For the teen
 
-- Tell what you are willing to tell. Not what you said in your circle (that stays in the circle), and not necessarily everything. What you are willing to tell.
-- Listen the way your circle listened to you tonight. That is real practice.
+- Tell what you are willing to tell — not necessarily everything. Your telling night in the club is next Wednesday; this is a gentle practice run at home first.
+- Listen the way your cluster listened to your parent tonight. That is real practice.
 - If a question arises that is hard to answer in front of your parent, say so: “I don’t want to answer that one.” That is honest, and it is allowed.
 
 ### If it doesn’t happen
@@ -624,6 +583,6 @@ If the week gets away from you and you don’t do this, that is data, not failur
 
 ### If it goes well
 
-If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series has fifteen weeks; it doesn’t have to all happen tonight.
+If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series runs the whole club year; it doesn’t have to all happen tonight.
 
 *Bring this handout back to Week 5 if you want, or keep it. The questions don’t expire.*

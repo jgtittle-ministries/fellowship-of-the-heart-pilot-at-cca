@@ -4,6 +4,10 @@
 
 *Editorial pass per the user's May 2026 review decisions*
 
+# August 2026 — The phone box retired
+
+Sessions no longer collect phones in a box at the door (founder's field ruling, applied across all three series). The Present condition stands — phones silenced and put away, attention in the room — but as a simple ask, not a ritual. Week 7 (corporate listening) keeps its stronger norm: phones off that night, not just silenced.
+
 # What this delivery is
 
 16 Going Deeper documents after a two-phase editorial pass:

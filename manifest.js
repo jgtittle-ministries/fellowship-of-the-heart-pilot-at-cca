@@ -88,20 +88,52 @@ window.SERIES = [
         "title": "Week 11 — Any Doubts?"
       },
       {
-        "path": "docs/getting-started/week-12-mission.md",
-        "title": "Week 12 — What Was Prepared for You"
+        "path": "docs/getting-started/week-12-return.md",
+        "title": "Week 12 — The Return"
       },
       {
-        "path": "docs/getting-started/week-13-rhythm.md",
-        "title": "Week 13 — The Rhythm and the Dry Season"
+        "path": "docs/getting-started/week-13-mission.md",
+        "title": "Week 13 — What Was Prepared for You"
       },
       {
-        "path": "docs/getting-started/week-14-sending.md",
-        "title": "Week 14 — Sending and Blessing"
+        "path": "docs/getting-started/week-14-second-running-a.md",
+        "title": "Week 14 — Second Running: Block A"
       },
       {
-        "path": "docs/getting-started/week-15-commissioning.md",
-        "title": "Week 15 — Commissioning the Companions"
+        "path": "docs/getting-started/week-15-rhythm.md",
+        "title": "Week 15 — The Rhythm and the Four Questions"
+      },
+      {
+        "path": "docs/getting-started/week-16-family-night.md",
+        "title": "Week 16 — Family Conversation Night"
+      },
+      {
+        "path": "docs/getting-started/week-17-float.md",
+        "title": "Week 17 — The Float"
+      },
+      {
+        "path": "docs/getting-started/week-18-return-2.md",
+        "title": "Week 18 — The Return II"
+      },
+      {
+        "path": "docs/getting-started/week-19-second-running-b.md",
+        "title": "Week 19 — Second Running: Block B"
+      },
+      {
+        "path": "docs/getting-started/week-20-long-walk.md",
+        "title": "Week 20 — The Long Walk"
+      },
+      {
+        "path": "docs/getting-started/week-21-sending.md",
+        "title": "Week 21 — Sending and Blessing"
+      },
+      {
+        "path": "docs/getting-started/week-22-commissioning.md",
+        "title": "Week 22 — Commissioning the Companions"
+      },
+      {
+        "path": "docs/getting-started/cca-2026-27-calendar.md",
+        "title": "The CCA 2026-27 Dates"
       },
       {
         "path": "docs/getting-started/CHANGELOG.md",
@@ -453,42 +485,114 @@ window.PATH_TO_INFO = {
     "title": "Week 11 — Any Doubts?",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-10-garden-2.md",
-    "next": "docs/getting-started/week-12-mission.md"
+    "next": "docs/getting-started/week-12-return.md"
   },
-  "docs/getting-started/week-12-mission.md": {
+  "docs/getting-started/week-12-return.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 12 — What Was Prepared for You",
+    "title": "Week 12 — The Return",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-11-doubts.md",
-    "next": "docs/getting-started/week-13-rhythm.md"
+    "next": "docs/getting-started/week-13-mission.md"
   },
-  "docs/getting-started/week-13-rhythm.md": {
+  "docs/getting-started/week-13-mission.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 13 — The Rhythm and the Dry Season",
+    "title": "Week 13 — What Was Prepared for You",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-12-mission.md",
-    "next": "docs/getting-started/week-14-sending.md"
+    "prev": "docs/getting-started/week-12-return.md",
+    "next": "docs/getting-started/week-14-second-running-a.md"
   },
-  "docs/getting-started/week-14-sending.md": {
+  "docs/getting-started/week-14-second-running-a.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 14 — Sending and Blessing",
+    "title": "Week 14 — Second Running: Block A",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-13-rhythm.md",
-    "next": "docs/getting-started/week-15-commissioning.md"
+    "prev": "docs/getting-started/week-13-mission.md",
+    "next": "docs/getting-started/week-15-rhythm.md"
   },
-  "docs/getting-started/week-15-commissioning.md": {
+  "docs/getting-started/week-15-rhythm.md": {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 15 — Commissioning the Companions",
+    "title": "Week 15 — The Rhythm and the Four Questions",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-14-sending.md",
+    "prev": "docs/getting-started/week-14-second-running-a.md",
+    "next": "docs/getting-started/week-16-family-night.md"
+  },
+  "docs/getting-started/week-16-family-night.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 16 — Family Conversation Night",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-15-rhythm.md",
+    "next": "docs/getting-started/week-17-float.md"
+  },
+  "docs/getting-started/week-17-float.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 17 — The Float",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-16-family-night.md",
+    "next": "docs/getting-started/week-18-return-2.md"
+  },
+  "docs/getting-started/week-18-return-2.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 18 — The Return II",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-17-float.md",
+    "next": "docs/getting-started/week-19-second-running-b.md"
+  },
+  "docs/getting-started/week-19-second-running-b.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 19 — Second Running: Block B",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-18-return-2.md",
+    "next": "docs/getting-started/week-20-long-walk.md"
+  },
+  "docs/getting-started/week-20-long-walk.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 20 — The Long Walk",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-19-second-running-b.md",
+    "next": "docs/getting-started/week-21-sending.md"
+  },
+  "docs/getting-started/week-21-sending.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 21 — Sending and Blessing",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-20-long-walk.md",
+    "next": "docs/getting-started/week-22-commissioning.md"
+  },
+  "docs/getting-started/week-22-commissioning.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "Week 22 — Commissioning the Companions",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-21-sending.md",
+    "next": "docs/getting-started/cca-2026-27-calendar.md"
+  },
+  "docs/getting-started/cca-2026-27-calendar.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "The CCA 2026-27 Dates",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-22-commissioning.md",
     "next": "docs/getting-started/CHANGELOG.md"
   },
   "docs/getting-started/CHANGELOG.md": {
@@ -497,7 +601,7 @@ window.PATH_TO_INFO = {
     "edition": "v3",
     "title": "Change Log",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-15-commissioning.md"
+    "prev": "docs/getting-started/cca-2026-27-calendar.md"
   },
   "docs/going-deeper/index.md": {
     "seriesId": "going-deeper",

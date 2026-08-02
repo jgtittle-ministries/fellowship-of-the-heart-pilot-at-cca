@@ -117,7 +117,6 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 ### **Materials checklist**
 
 - Chairs in main room as one large circle for opening; three cohort spaces ready for the split.
-- Phone-box at the door.
 - Personal Heart Journals (each brings their own; have spares for new participants).
 - Whiteboard with Mark 4 reference and a simple four-quadrant diagram for the soils — pre-drawn before the session.
 - Handouts H2.1, H2.2, H2.3 stacked at each chair.
@@ -142,7 +141,7 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic. 60-second silent settle. One-word landings. |
 | 7:08–7:13 | Block 2: Wk 1 check-in | Shared circle | Lead Comp | Brief check on the rhythm card resumed; Connect-pick observations from the week. Voluntary. |
 | 7:13–7:30 | Block 3: Mark 4:14–20 — the parable as diagnostic | Shared circle | Lead Comp | Read the passage. Walk Jesus’ own interpretation. Re-frame the four soils as four regions, not four people. |
@@ -158,7 +157,7 @@ Forty-eight hours before Week 2, the Companion team meets for forty-five minutes
 
 ## Script
 
-*“Welcome back. Phones in the box. Settle.”*
+*“Welcome back. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

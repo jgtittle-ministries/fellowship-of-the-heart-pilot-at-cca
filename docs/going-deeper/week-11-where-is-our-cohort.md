@@ -174,7 +174,6 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 **•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split; back to one circle for the merge.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -211,7 +210,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight is honest assessment, not celebration.’ |
 | 7:08–7:13 | Block 2: Wk 10 landing — the Asker briefly | Shared circle | Lead Comp | Asker speaks briefly if welcomed (60–90 sec) about how integration is going. |
 | 7:13–7:25 | Block 3: 1 Cor 13 + Phil 1:6 + the taxonomy returning (teaching) | Shared circle | Lead Comp | Read passages. Re-walk the five-level taxonomy. Frame the assessment architecture. |
@@ -227,7 +226,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes. The
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

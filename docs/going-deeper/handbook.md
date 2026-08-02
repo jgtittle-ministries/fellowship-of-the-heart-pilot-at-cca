@@ -195,7 +195,7 @@ Going Deeper makes co-processing visible. Wk 4 is the explicit teaching of the m
 
 The opening sequence holds across all twelve weeks:
 
-**1.** Door, name tags, phone-box. Co-Companion (typically Teen cohort Co-Companion) holds this from T-15 min.
+**1.** Door, name tags. Co-Companion (typically Teen cohort Co-Companion) holds this from T-15 min.
 
 **2.** At T-0, doors close. Lead Companion opens with the Aaronic blessing.
 
@@ -1218,7 +1218,7 @@ The first hour is the existing vocabulary content; the second hour is the new st
 
 | **Time** | **Block** | **Notes** |
 | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Door, name tags, phone-box. Each new participant is greeted by a Getting Started alumnus (the assigned onboarding anchor). |
+| 6:45–7:00 | Arrival window | Door, name tags. Each new participant is greeted by a Getting Started alumnus (the assigned onboarding anchor). |
 | 7:00–7:08 | Block 1: Welcome and centering | Aaronic blessing. Frame: vocabulary, then story, then a first taste of the practice. |
 | 7:08–7:50 | Block 2: Vocabulary teaching | Four Connects (15 min). Four conditions (10 min). The five-level group taxonomy briefly (5 min). The Personal Heart Journal and Rhythm Card introduced (12 min). |
 | 7:50–8:00 | Break (10 min) | Coffee, restroom. Veterans and new participants intermingle informally. |

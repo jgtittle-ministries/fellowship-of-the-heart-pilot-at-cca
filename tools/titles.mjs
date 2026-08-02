@@ -38,7 +38,8 @@ export const TITLE_OVERRIDES = {
   'shared/measurement-covenant.md': 'Measurement Covenant',
   'shared/three-vital-signs.md': 'Three Vital Signs',
   'shared/keeping-the-flame.md': 'Keeping the Flame',
-  'shared/companions-and-coverings.md': 'Companions and Coverings'
+  'shared/companions-and-coverings.md': 'Companions and Coverings',
+  'getting-started/cca-2026-27-calendar.md': 'The CCA 2026-27 Dates'
 };
 
 const SMALL = new Set(['a','an','and','the','of','to','in','on','for','at','by','or','as','is','it']);

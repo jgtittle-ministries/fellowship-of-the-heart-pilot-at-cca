@@ -164,7 +164,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **•** Chairs in ONE large single circle, 20–32 chairs. Standing pairs pre-arranged side by side.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -203,7 +202,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Warm welcome — last session. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Warm welcome — last session. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight closes Going Deeper.’ |
 | 7:08–7:13 | Block 2: Wk 11 landing (one word) | Shared circle | Lead Comp | ONE word about how the cohort’s honest assessment last week landed across this week. |
 | 7:13–7:25 | Block 3: 2 Tim 4 + Hebrews 12 + the architecture returning | Shared circle | Lead Comp | Read passages. Walk Hebrews 12:1–2 across Going Deeper. Frame the closing. |
@@ -220,7 +219,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

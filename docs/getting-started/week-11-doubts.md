@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, May 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
@@ -28,13 +28,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Anchor scripture.** Mark 9:24 — “I believe; help my unbelief!”
 
-**Connect focus.** God, primary. Self is the lens — each participant identifies a specific scripture they say they believe but might privately doubt. The cohort is the holding container.
+**Connect focus.** God, primary. Self is the lens — each participant identifies a specific scripture they say they believe but might privately doubt. The family cluster is the holding container.
 
-**Mode.** Shared teaching of the practice; SPLIT into pairs within cohort circles for the Any Doubts? exercise; MERGE for closing.
+**Mode.** Shared teaching of the practice; SPLIT into family clusters — two or three whole families with a Cluster Companion, own family always together — and into pairs within families for the Any Doubts? exercise; MERGE for closing. (If total attendance is about ten or fewer, skip the clustering — the whole room stays as one circle and the pairs form within it.) The Leader Feedback Round runs just before the final blessing.
 
-**Center.** Age-adapted Any Doubts? practice. Each participant identifies a scripture they want to believe more than they currently do, names the doubt to a partner in the circle, sits with the doubt briefly, and receives the scripture again. Three to four cycles per pair.
+**Center.** The Any Doubts? practice, in pairs within the family — a parent paired with their own teen wherever possible. In every pair the parent names an honest doubt first, arranged with that parent before the session; the teen chooses their own depth after, and pass-anytime holds. Each participant identifies a scripture they want to believe more than they currently do, names the doubt to their partner, sits with the doubt briefly, and receives the scripture again. Two to three cycles per pair.
 
-**Between-session practice.** Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data.
+**Between-session practice.** Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data. Over the quarter break, one chosen daily practice carries the rhythm. And the Quarterly Pulse (H11.4) goes home tonight — one page, five minutes, back in the bin at The Return’s door in January.
 
 **IJH source.** Vol 2 Seventh Exploration (the Any Doubts? process); Vol 1 Word→Hearing→Faith chain (Romans 10:17); Mark 9:14–29 in full as the scriptural ground.
 
@@ -43,16 +43,17 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Doubt confused with disbelief. The exercise is not about faith crises or apostasy. It is about the gap between what we say and what we actually trust. Frame this three times before the split.
 - Performative doubts. “I doubt that God exists” is rarely the real one. The real ones are smaller and more personal: “I doubt God actually likes me.” “I doubt He hears prayer about my brother.” Push gently for specificity.
 - The participant who insists they have no doubts. Honor it. Do not press. The practice does not require finding a doubt; it requires honesty. “I don’t notice any right now” is a complete answer.
-- Theologizing-in-the-circle. Partners will want to fix doubts with answers. The practice is not apologetics. The partner’s job is to receive, exaggerate gently, and re-read the scripture. Frame this explicitly.
-- Junior teens drifting into hypotheticals. “What if dinosaurs?” Redirect: “One thing you say you believe, that something in you isn’t fully sure about. Not a debate question — a heart question.”
+- Theologizing-in-the-pair. Partners will want to fix doubts with answers. The practice is not apologetics. The partner’s job is to receive, exaggerate gently, and re-read the scripture. Frame this explicitly.
+- Teens drifting into hypotheticals. “What if dinosaurs?” Redirect: “One thing you say you believe, that something in you isn’t fully sure about. Not a debate question — a heart question.”
 - Parents importing apologetics-class instincts. Especially in CCA’s context, parents may feel responsible to argue their children out of doubts. The Any Doubts? practice is the opposite of that. The team must model receiving without arguing.
-- The doubt that surfaces is bigger than the exercise. Sometimes the named doubt is the door to a deeper unbelief. The Cohort Companion does not chase it tonight; they bless the naming and follow up offline.
+- The doubt that surfaces is bigger than the exercise. Sometimes the named doubt is the door to a deeper unbelief. The Cluster Companion does not chase it tonight; they bless the naming and follow up offline.
+- The Pulse framing stirs something. Rare, but the midpoint question (“how present have I actually been?”) can land hard on someone who knows the answer. Watch faces during the close. Follow up offline within 48 hours.
 
 ## CRISIS CONTINGENCIES (Week 11)
 
 **Week 11 is moderate-risk. Most of what surfaces will be small honest doubts. Occasionally the practice surfaces something larger — a crisis of faith, a wound that has hardened into specific unbelief, a quiet despair about prayer.**
 
-**If a participant surfaces a larger crisis of faith.** Receive without alarm. Do not preach. Do not promise resolution by Week 14. The Cohort Companion blesses the naming, completes the round if possible, and the Lead Companion follows up offline within 48 hours. Real questions deserve real conversation — not in the cohort circle.
+**If a participant surfaces a larger crisis of faith.** Receive without alarm. Do not preach. Do not promise resolution by Week 21. The Cluster Companion blesses the naming, completes the round if possible, and the Lead Companion follows up offline within 48 hours. Real questions deserve real conversation — not in the cluster.
 
 **If a participant becomes distressed during the exaggeration step.** Stop the exaggeration. Re-read the scripture. Sit with the participant. The exercise is not therapy; we do not push past distress.
 
@@ -101,9 +102,9 @@ Do not skip this. The teens will know within thirty seconds whether you have don
 Forty-eight hours before Week 11, the Companion team meets for forty-five minutes:
 
 1. Each Companion briefly names what scripture and what doubt they worked with this week. Optional; may be private. The team does not interpret or fix.
-2. Walk the cohort exercise script (below) so each Cohort Companion is comfortable holding the pairs.
+2. Walk the cluster exercise script (below) so each Cluster Companion is comfortable holding the pairs.
 3. Re-read the crisis contingencies aloud. Walk through each scenario.
-4. Pair selection: each Cohort Companion pre-considers the pair groupings for their cohort. (See “Pairing logic” in the Materials section below.) Do not improvise pairings on the night.
+4. Pair selection and the parents-first arrangements: each Cluster Companion pre-considers the pair groupings for their cluster — pairs form within the family, a parent with their own teen wherever possible (see “Pairing logic” in the Materials section below) — and arranges with each parent, before the night, that the parent will name an honest doubt first. Never a cold call on a teen. Do not improvise pairings on the night.
 5. Confirm pastoral / clinical backup.
 6. Pray for each participant by name.
 
@@ -119,37 +120,37 @@ Forty-eight hours before Week 11, the Companion team meets for forty-five minute
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals (each brings their own; have spares).
 - Whiteboard with the four steps of the practice pre-written: NAME / EXAGGERATE / SIT / RE-READ.
 - Handouts H11.1, H11.2, H11.3 stacked at each chair.
-- Three private spaces for cohort circles. Within each cohort space, enough room for pairs to sit knee-to-knee with a small buffer of physical space between pairs.
-- Tissues in every cohort space.
-- Large-print Bible (ESV) in each cohort space.
-- Wall clock or visible timer in each cohort space.
+- A private space for each family cluster — two or three whole families with their Cluster Companion. Within each cluster space, enough room for pairs to sit knee-to-knee with a small buffer of physical space between pairs. (If total attendance is about ten or fewer, skip the clustering; the whole room stays as one circle and the pairs spread out within it.)
+- Tissues in every cluster space.
+- Large-print Bible (ESV) in each cluster space.
+- Wall clock or visible timer in each cluster space.
 - Crisis Quick-Reference Card in every Companion pocket.
 - Pastoral / clinical backup on call.
 
 ### **Pairing logic**
 
-Pairs matter tonight more than in any prior session. The Cohort Companion pre-considers pairs and announces them at the split. Do not let participants pick partners on the night.
+Pairs matter tonight more than in any prior session. The Cluster Companion pre-considers pairs and announces them at the split. Do not let participants pick partners on the night.
 
 ## Pairing principles
 
-- Pair within the cohort, not across cohorts.
-- In the parent cohort: do not pair spouses with each other. Pair each parent with another parent.
-- In the senior cohort: avoid pairing dating couples or close best-friends if possible. Some emotional separation makes the practice work better.
-- In the junior cohort: pair across friendship groups when possible. Two best friends doing this together can drift into giggles or self-protection.
-- If a cohort has an odd number, the Cohort Companion pairs with one participant and another participant joins as a third (a triad of three works — the third person is a silent witness who reads the scripture aloud each time).
+- Pair within the family. A parent with their own teen is the first-choice pairing — a teen hearing their own parent name a real doubt, in the spirit of Mark 9:24, is one of the most formative moments in Getting Started.
+- In every pair, the parent goes first — arranged with that parent before the session, never sprung on the night, and never a cold call on a teen. The teen chooses their own depth after; pass-anytime holds.
+- A family with two parents and two teens splits into two parent-teen pairs. Do not pair spouses with each other.
+- A family with one parent and two teens forms a triad: the parent still goes first, and the second teen joins as a silent witness who reads the scripture aloud each time. (A triad of three works — the third person is a witness, not an audience.)
+- A teen whose parent is not in the room tonight pairs with the Cluster Companion, or joins another family's pair as the silent-witness reader — whichever the teen prefers. Ask them quietly before the split, not in front of the cluster.
+- The Cluster Companion floats between the pairs of their cluster, holds the center, and receives anything heavier than a pair can hold.
 
 ### **Pre-session preparation timeline**
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Each Companion runs the practice on themselves. Print all handouts. Pastoral backup confirmed. | All Companions |
-| Day before | Walk every space. Confirm pair groupings. | Lead Comp |
+| Day before | Walk every space. Confirm pair groupings and the parents-first arrangements. | Lead Comp |
 | T-45 min | Team gathers. Walk crisis scenarios. Pray for each participant. | All Companions |
-| T-30 min | Each Cohort Companion preps their cohort space. Handouts placed. | All Companions |
+| T-30 min | Each Cluster Companion preps their cluster space. Handouts placed. | All Companions |
 | T-15 min | Door opens. | Co-Comp (Teen) |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
@@ -159,16 +160,17 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
 | 7:08–7:13 | Block 2: Week 9 check-in | Shared circle | Lead Comp | Brief check on garden returns. One-sentence shares. |
 | 7:13–7:25 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
 | 7:25–7:35 | Block 4: The Any Doubts? practice — teaching | Shared circle | Lead Comp | Walk the four steps on the whiteboard. Demo with a Co-Companion. 10 min. |
 | 7:35–7:38 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
-| 7:38–8:13 | Block 6: Any Doubts? in pairs | Cohort circles → pairs | Cohort Facs | Each pair runs 2–3 cycles, alternating roles. 35 min. |
-| 8:13–8:22 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
-| 8:22–8:27 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. |
-| 8:27–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Mention next Tuesday closes Getting Started. |
+| 7:38–8:08 | Block 6: Any Doubts? in pairs within families | Family clusters → pairs | Cluster Comps | Each pair runs 2 cycles, alternating roles — the parent's turn first in every pair. 30 min. |
+| 8:08–8:17 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
+| 8:17–8:22 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. Quarterly Pulse (H11.4) distributed and framed — the year’s midpoint. |
+| 8:22–8:27 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
+| 8:27–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Announce the quarter break, The Return in January, and the Pulse going home tonight. |
 
 # **Block-by-Block: Scripts and Notes**
 
@@ -176,11 +178,11 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 
 ## Script
 
-*“Welcome back. Phones in the box. Settle.”*
+*“Welcome back. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 11. We have two weeks left in Getting Started. Tonight we are going to do something that goes against most of what we have been taught about how spiritual people should sound. We are going to bring our actual doubts — the small, quiet ones we usually do not say out loud — and we are going to bring them honestly to God in front of one other person.”*
+*“Tonight is Week 11 — the last gathering of the quarter, and the exact midpoint of our year: eleven Wednesdays behind us, eleven ahead. Tonight we are going to do something that goes against most of what we have been taught about how spiritual people should sound. We are going to bring our actual doubts — the small, quiet ones we usually do not say out loud — and we are going to bring them honestly to God in front of one other person.”*
 
 *“Container reminders: what is said in your pair stays in your pair. Nothing is required. Specificity is the practice; honesty is the goal.”*
 
@@ -190,7 +192,7 @@ Pairs matter tonight more than in any prior session. The Cohort Companion pre-co
 
 *“Last week was the Garden of Your Heart. The practice for this week was three returns to the garden. Anyone want to say one sentence about how that went — the garden visits, or what surfaced, or that you didn’t get to it?”*
 
-*(Take 3–4 voluntary contributions. Receive without commentary. Move on with: “Good. The garden is still there. You can return any time. We continue.”)*
+*(A parent you arranged with before the session offers the first sentence — never a cold call on a teen. Then take 2–3 more voluntary contributions. Receive without commentary. Move on with: “Good. The garden is still there. You can return any time. We continue.”)*
 
 ## **Block 3 — Mark 9:14–29 — The Scripture Ground (7:13–7:25, 12 min)**
 
@@ -246,13 +248,15 @@ Stand at the whiteboard. The four steps are pre-written: NAME / EXAGGERATE / SIT
 
 *Example. Lead Comp: “[Co-Comp], read me Romans 8:28.” Co-Comp reads. Lead Comp: “What I notice is a flicker. The doubt is something like ‘He works it for the good of others, maybe — but a particular thing in my life, I have not seen Him work for good. I have seen Him allow it to keep going.’ Bigger: ‘He has not worked that for good. He won’t. That part is just lost.’ What that feels like: tired. Old-tired. Like a settled grief. Sitting with it. ... Read it again, please.” Co-Comp re-reads. Lead Comp: “What I notice this time is the phrase ‘we know that.’ Paul is not saying everyone agrees. He is saying something about what he himself knows from inside the gospel. That makes it land differently. I don’t feel like the doubt is solved. I feel like Paul wasn’t pretending either.”*
 
-Watch for: the demo is the most important three minutes of the night. The cohort circles will calibrate everything against what they just saw. Be specific, be honest, be brief, and — critically — do not resolve the doubt at the end. Modeling unresolved-but-honest is the gift.
+Watch for: the demo is the most important three minutes of the night. The pairs will calibrate everything against what they just saw — and so will the parents who go first. Be specific, be honest, be brief, and — critically — do not resolve the doubt at the end. Modeling unresolved-but-honest is the gift.
 
 ## **Block 5 — Bridge to the Split (7:35–7:38, 3 min)**
 
 ## Script
 
-*“The practice card is on your chair. H11.1. Take it with you. Inside your cohort circle, your Companion will pair you up. You’ll have about thirty-five minutes. Each pair runs the practice 2–3 times — alternating who tells the doubt and who reads the scripture.”*
+*“The practice card is on your chair. H11.1. Take it with you. Inside your family cluster, your Cluster Companion will pair you up — within your own family, a parent with their own teen wherever we can. You’ll have about thirty minutes. Each pair runs the practice twice — alternating who tells the doubt and who reads the scripture.”*
+
+*“One more thing, and it matters. In every pair, the parent goes first. We arranged that with the parents this week — nobody is being put on the spot tonight, least of all you teens. Mark 9:24 is a father’s sentence. Tonight the fathers and mothers in this room say their own version of it first — ‘I believe; help my unbelief’ — out loud, in front of their own kids. Teens: you go second, and you choose your own depth. A small doubt is enough. Passing is enough. Watching your parent do this honestly is already the work.”*
 
 *“If you don’t have a scripture in mind, H11.3 has examples. Pick one that has a flicker for you. Don’t pick one that has a hurricane for you — that is a different conversation. Pick one with a small honest hesitation.”*
 
@@ -260,23 +264,23 @@ Watch for: the demo is the most important three minutes of the night. The cohort
 
 *“Pray with me. Father, you knew the father in Mark 9 was honest. We come honestly tonight too. Where there is unbelief in us we have not named, give us courage to name it. Where there is faith we have not yet trusted, breathe on it. Help our unbelief. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Thirty-five minutes. Go.”*
+*“Family clusters: [name each cluster’s families and its Companion]. Thirty minutes. Go.”*
 
-## **Block 6 — Any Doubts? in Pairs (7:38–8:13, 35 min)**
+## **Block 6 — Any Doubts? in Pairs, within Families (7:38–8:08, 30 min)**
 
-Each cohort circle splits into pairs. The Cohort Companion floats between pairs, observes, intervenes only when needed.
+Each family cluster splits into its pairs — within families, a parent with their own teen wherever possible. The Cluster Companion floats between pairs, observes, holds the center, intervenes only when needed. This block runs thirty minutes — it gave five to the Leader Feedback Round — so aim for one full cycle in each direction, with a partial second if time allows.
 
-### **Inside the cohort circle — Companion script**
+### **Inside the family cluster — Companion script**
 
 ## Opening (3 min)
 
-*“We have thirty-five minutes. Pairs are: [announce specific pairings]. Find your partner; pull two chairs together so your knees almost touch. Take a card.”*
+*“We have thirty minutes. Pairs are: [announce the pairings — within families]. Find your partner; pull two chairs together so your knees almost touch. Take a card.”*
 
-*“Here is the rhythm. One person picks a scripture, names a doubt, exaggerates it, sits with the feeling, and asks for the re-read. Six to eight minutes. Then switch. The other person goes. Six to eight minutes. Then if there is time, run a second cycle each — same scripture or a different one. I’ll keep time. I’ll call the switches.”*
+*“Here is the rhythm. The parent goes first — that was arranged, and it is on purpose. The parent picks a scripture, names a doubt, exaggerates it, sits with the feeling, and asks for the re-read. Six to eight minutes. Then switch. The teen goes — at whatever depth you choose; a small doubt is enough, and passing is enough. Six to eight minutes. Then if there is time, run a partial second cycle — same scripture or a different one. I’ll keep time. I’ll call the switches.”*
 
-*“Two agreements. One: you are not arguing the doubt. You are not fixing the doubt. You are reading the scripture, hearing the doubt, exaggerating gently if needed, re-reading. That is your job. Two: nothing leaves your pair. Not even back to the cohort circle when we regroup.”*
+*“Two agreements. One: you are not arguing the doubt. You are not fixing the doubt. You are reading the scripture, hearing the doubt, exaggerating gently if needed, re-reading. That is your job. Two: nothing leaves your pair. Not even back to the cluster when we regroup — and not around the dinner table this week, unless the one who named the doubt brings it up first.”*
 
-## How each pair turn runs (≈ 7 min)
+## How each pair turn runs (≈ 7 min — the parent’s turn first)
 
 **First person picks a scripture. Says it aloud, or asks partner to read.**
 
@@ -294,9 +298,9 @@ Each cohort circle splits into pairs. The Cohort Companion floats between pairs,
 
 **First person: “What I notice this time is \_\_\_\_\_.” Brief.**
 
-**Then switch. Other person goes through the same rhythm.**
+**Then switch. The other person goes through the same rhythm — the teen at their own depth. Pass-anytime holds.**
 
-### **Cohort Companion: when to intervene**
+### **Cluster Companion: when to intervene**
 
 - If a pair drifts into apologetics — “Well, the verse actually means \_\_\_\_\_.” — quietly: “We’re not arguing the doubt. Just read the scripture, listen, re-read.”
 - If the partner cannot help offering advice or comfort — redirect: “Tell them with your face. Not with words. Just witness what they’re saying.”
@@ -304,18 +308,20 @@ Each cohort circle splits into pairs. The Cohort Companion floats between pairs,
 - If the exaggeration step won’t come — do not push. “Name the doubt as it is, then sit with it.” Some participants are not ready for the exaggeration; the named doubt alone is plenty of work.
 - If a participant becomes distressed — stop the exaggeration. Re-read the scripture. Sit with them. Do not finish the cycle if they need to stop.
 - If a participant surfaces something larger than the practice — a real crisis of faith, a wound revealed underneath the doubt — receive, bless, and end their cycle gently. The Lead Companion follows up offline within 48 hours. Do not chase it tonight.
+- If a parent's doubt is about the very teen across from them (“I doubt God will protect you from \_\_\_\_\_”) — it is real, but tonight is not the pair to work it in. Quietly help the parent pick a different honest doubt for this round, and bring that one to a 1:1 with the Lead Companion.
+- If a teen is visibly shaken by hearing their parent's doubt — rare; the far more common fruit is relief — the Cluster Companion names the frame quietly afterward: “Your mom did what the father in Mark 9 did. That is what faith sounds like when it is honest.” A quiet word to the parent too, so nobody drives home anxious.
 
 ### **Time-keeping**
 
-The Cohort Companion calls switches at the seven-minute mark. “Switch when ready.” If a pair is in mid-cycle, finish the cycle, then switch. Do not interrupt a re-read. Aim for two cycles per pair (one each direction); a third pair if time allows. Most pairs will get one full round each plus a partial second.
+The Cluster Companion calls switches at the seven-minute mark. “Switch when ready.” If a pair is in mid-cycle, finish the cycle, then switch. Do not interrupt a re-read. Aim for one full cycle in each direction — the parent's turn first — with a partial second if time allows.
 
-## **Block 7 — Merge and Surface (8:13–8:22, 9 min)**
+## **Block 7 — Merge and Surface (8:08–8:17, 9 min)**
 
 ## Script
 
 *“Welcome back. Take a breath.”*
 
-*“What happened in your pair stays in your pair. Not back to the cohort circle, not to your spouse if they’re in another room, not even to me. So I’m not going to ask anyone to share a doubt or a scripture.”*
+*“What happened in your pair stays in your pair. Not back to your cluster, not around the dinner table on the way home — unless the one who named the doubt brings it up first — not even to me. So I’m not going to ask anyone to share a doubt or a scripture.”*
 
 *“What I am going to ask: one word about what the practice was like. Not the doubt — the practice. ‘Surprising.’ ‘Heavy.’ ‘Quiet.’ ‘Awkward.’ ‘Honest.’ ‘Tired.’ ‘Lighter.’ Whatever the true word is. Pass anytime.”*
 
@@ -323,7 +329,7 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“Thank you. Two things to remember as we close. First — the practice you just learned tonight is something you can do alone in five minutes, or with a friend in twenty. It is not a workshop technique. It is a way of bringing your real questions to God for the rest of your life. Second — the resolution is the Spirit’s work. The naming is yours. We do the naming. He does what only He can.”*
 
-## **Block 8 — Between-Session Practice (8:22–8:27, 5 min)**
+## **Block 8 — Between-Session Practice (8:17–8:22, 5 min)**
 
 ## Script
 
@@ -333,9 +339,21 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“For the two or three with the most hesitation — write a sentence about what the doubt is, specifically. Then sit with it. You can run the practice on yourself if you want to. You can also just notice. The noticing alone changes things.”*
 
-*“You will not turn this in. The team will not see it. It is yours. Bring it to next Tuesday only if it has shaped how you think about your week. The list itself stays with you.”*
+*“You will not turn this in. The team will not see it. It is yours. Bring it to The Return — our first gathering back — only if it has shaped how you think about your break. The list itself stays with you.”*
 
-## **Block 9 — Closing Container (8:27–8:30, 3 min)**
+*“One more thing goes home with you tonight — the Quarterly Pulse.”* (Hold up H11.4; hand the stack around.) *“Same one page as the end of the fall quarter: three questions, five minutes at home, honest. Tonight is the exact midpoint of our year — eleven weeks behind us, eleven ahead — and the team uses these to steer the half that remains. It comes back to the bin at the door at The Return, our first night back in January. Be honest on it. ‘Body in the room, mind on the mortgage’ is exactly the kind of answer the page is for.”*
+
+## **Block 9 — The Leader Feedback Round (8:22–8:27, 5 min)**
+
+*The evening's leader closes the working part of the evening the same way every week.*
+
+Leader: *“Before we close — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+
+Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
+
+*(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
+
+## **Block 10 — Closing Container (8:27–8:30, 3 min)**
 
 ## Script
 
@@ -343,53 +361,46 @@ The Cohort Companion calls switches at the seven-minute mark. “Switch when rea
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you.”*
 
-*“One note: next Tuesday is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the family commissioning and the commissioning of our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
+*“One note before the blessing: tonight closes the quarter. When we gather again in January, the first evening is The Return — we rebuild the room and find out, honestly and without shame, what the break did with our practices. Then Week 13 turns us outward to Mission, and the year runs on toward the Rhythm week and, at the end, the two commissionings — the families, and our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Tuesday.”*
+*“Keep one practice alive over the break — just one, your choice. See you in January, at The Return. Merry Christmas to every house in this room.”*
 
-# **Differentiation by Cohort**
+# **One Band, Whole Families: Notes for Teens and Parents**
 
-## **Junior teens (12–14)**
+*Getting Started runs as a single high-school band, and tonight's pairs sit inside whole families. The practice card (H11.1) has a teen version and a parent version — the same four steps, in two registers.*
 
-## Adjustments
+## **Teens (high school)**
 
-- The practice card for juniors uses simpler language and a shorter rhythm. The exaggeration step is softened to “say it stronger.” See Handout H11.1 (junior version).
-- Sample scriptures (H11.3) for juniors include shorter, more concrete texts: Psalm 139:14, Romans 8:38–39, 1 John 4:19, Matthew 11:28–30.
-- Pair turns are 5 minutes, not 7. Junior pair-work runs faster.
-- Watch for: junior teens drifting into hypotheticals (“what if dinosaurs”). Redirect to a heart-doubt: “Something you say you believe — about you, about God — that something inside you isn’t fully sure about.”
-- Watch for: silliness from pair partners. Two best friends can drift into giggles. The Cohort Companion may need to re-pair on the night if it’s clear a pairing isn’t holding.
-- Watch for: the junior teen who insists they have no doubts and seems anxious about it. Affirm: “Only the most honest people I know name doubts. You’re in good company either way.”
+## Notes
 
-## **Senior teens (15–18)**
-
-## Adjustments
-
-- The practice card for seniors uses the full IJH language. See Handout H11.1 (senior version).
-- Sample scriptures (H11.3) include texts seniors often quietly doubt: Romans 8:28, Jeremiah 29:11, Psalm 139:13–16, John 14:1–3, Romans 8:38–39, James 1:5.
-- Pair turns are 7 minutes.
-- Watch for: the senior who wants to debate their partner’s doubt. Redirect: “You’re not the apologetics class tonight. Read, listen, re-read.”
-- Watch for: the senior whose doubt is bigger than the exercise. (“I’m not sure I believe any of this anymore.”) Receive without alarm. The Cohort Companion does not chase it. Lead Companion follows up within 48 hours. Real doubts of that scale deserve real conversation.
-- Watch for: the senior who performs honesty — produces a doubt that sounds impressive but is not actually theirs. Gently: “That sounds true in general. What’s the smaller, more personal version of that?”
+- The practice card for teens uses the full IJH language. See Handout H11.1 (teen version).
+- Sample scriptures (H11.3) include texts teens often quietly doubt: Romans 8:28, Jeremiah 29:11, Psalm 139:13–16, John 14:1–3, Romans 8:38–39, James 1:5.
+- Pair turns are 7 minutes — and the teen's turn comes second, at whatever depth the teen chooses. A small doubt is enough; passing is enough.
+- Watch for: the teen who wants to debate their partner’s doubt — even, tonight, a parent's. Redirect: “You’re not the apologetics class tonight. Read, listen, re-read.”
+- Watch for: the teen whose doubt is bigger than the exercise. (“I’m not sure I believe any of this anymore.”) Receive without alarm. The Cluster Companion does not chase it. Lead Companion follows up within 48 hours. Real doubts of that scale deserve real conversation.
+- Watch for: the teen who performs honesty — produces a doubt that sounds impressive but is not actually theirs. Gently: “That sounds true in general. What’s the smaller, more personal version of that?”
+- Watch for: the teen drifting into hypotheticals (“what if dinosaurs”). Redirect to a heart-doubt: “Something you say you believe — about you, about God — that something inside you isn’t fully sure about.”
+- Watch for: the teen who insists they have no doubts and seems anxious about it. Affirm: “Only the most honest people I know name doubts. You’re in good company either way.”
 
 ## **Parents**
 
-## Adjustments
+## Notes
 
 - The practice card for parents uses the full adult IJH language. See Handout H11.1 (parent version).
 - Sample scriptures (H11.3) include texts midlife parents often quietly doubt: Romans 8:28, Philippians 4:6–7, Psalm 23:1, James 1:2–4, Matthew 6:33, Romans 5:3–5.
-- Pair turns are 7 minutes.
+- Pair turns are 7 minutes — and the parent's turn comes first, arranged before the session. Going first in front of your own teen is the assignment: Mark 9:24 is a parent's sentence before it is anyone else's.
 - Watch for: the parent who imports apologetics. “You know, scholars have shown that \_\_\_\_\_.” Redirect: “You are not the answer-man tonight. You are the witness.”
-- Watch for: the parent whose doubt centers on their child. “I doubt God will protect my daughter from \_\_\_\_\_.” This is real and appropriate; honor it. The pair partner just listens and re-reads.
-- Watch for: the parent who realizes mid-practice that they have been carrying a significant doubt about a specific painful event for years. The naming may be heavy. Cohort Companion stays close; Lead Companion follows up within the week.
-- In the parent cohort, the Cohort Companion may want to pre-name: “Tonight is not about converting your child’s doubts away. Tonight you are dealing with your own. The most useful thing you can do for your child’s faith is be honest about your own.”
+- Watch for: the parent whose doubt centers on their child. “I doubt God will protect my daughter from \_\_\_\_\_.” This is real and appropriate — but not for the pair where that child is the partner. Help the parent pick a different honest doubt for tonight's round, and bring that one to a 1:1 with the Lead Companion.
+- Watch for: the parent who realizes mid-practice that they have been carrying a significant doubt about a specific painful event for years. The naming may be heavy. Cluster Companion stays close; Lead Companion follows up within the week.
+- The Cluster Companion may want to pre-name to the parents: “Tonight is not about converting your child’s doubts away. Tonight you are dealing with your own — in front of them. The most useful thing you can do for your child’s faith is be honest about your own.”
 
 # **Closing Practice in Detail**
 
-Same three-layer pattern. Tonight the merge’s one-word landing carries the emotional weight; the closing is intentionally short. Resist the urge to add length. The room is full. Bless and release.
+Same three-layer pattern. Tonight the merge’s one-word landing carries the emotional weight; the closing is intentionally short. Resist the urge to add length. The room is full. The Leader Feedback Round sits just before the blessing, brief and steady, same as every week. Bless and release.
 
 # **Between-Session Practice**
 
@@ -407,9 +418,10 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 ### **Signs the session worked**
 
 - Each pair completed at least one full cycle (one cycle each direction).
-- Cohort Companions report at least one specific, honest doubt named in their cohort — something the participant probably had not said aloud before.
+- Cluster Companions report at least one specific, honest doubt named in their cluster — something the participant probably had not said aloud before.
+- At least one teen heard their own parent name a real doubt, and the pair held — no fixing, no alarm, just the naming and the re-read.
 - The merge one-word landings were varied and specific — not all positive.
-- At least one participant left able to say “I know what I want to bring to next Tuesday” about their own faith.
+- At least one participant left able to say “I know what I want to bring to The Return” about their own faith.
 - Tears appeared somewhere; tonight they are appropriate.
 
 ### **Signs the session did not work as well as it could have**
@@ -420,10 +432,10 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 - A participant left distressed without being checked on.
 - The demo at Block 4 was rushed or felt rehearsed.
 
-### **If the session did not work — what to adjust for Week 12**
+### **If the session did not work — what to adjust for Week 13**
 
-- If the demo was rushed, the Lead Companion owns it. Week 12 still has time for the team to model honesty more carefully.
-- If pairs drifted, the Lead Companion may want to briefly reframe at Week 12’s opening: “The move from apologetics to witness is one of the harder shifts in this work. Several of us tried it last week.”
+- If the demo was rushed, the Lead Companion owns it. Week 13 still has time for the team to model honesty more carefully.
+- If pairs drifted, the Lead Companion may want to briefly reframe at Week 13’s opening: “The move from apologetics to witness is one of the harder shifts in this work. Several of us tried it last week.”
 - If a participant left distressed, 24-hour contact protocol per Section 6.
 
 ### **People to follow up with this week**
@@ -435,29 +447,18 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 
 # **Handouts**
 
-Three handouts for Week 11.
+Four handouts for Week 11.
 
-- H11.1 — Any Doubts? Practice Card (junior, senior, and parent versions)
+- H11.1 — Any Doubts? Practice Card (teen and parent versions)
 - H11.2 — Personal Doubts Inventory (between-session work)
 - H11.3 — Sample Scriptures (for participants who don’t have one in mind)
+- H11.4 — The Quarterly Pulse (the same one-page instrument as Week 6; structure in Handbook Section 8; one per participant plus spares — returns at The Return’s door)
 
 **Handout H11.1 — Any Doubts? Practice Card**
 
-*The four steps. Use this card during the pair work tonight, and any time afterward. Three versions on this page — use the one for your cohort.*
+*The four steps. Use this card during the pair work tonight, and any time afterward. Two versions on this page — teens use the teen version; parents the parent version.*
 
-## **Junior version (ages 12–14)**
-
-## The four steps
-
-**1. NAME. Your partner reads a scripture you picked. After they read, notice what stirs. If something inside you says ‘yes, but...’ — that’s the doubt. Say it out loud. Specific. “I doubt this applies to me.” Or, “I doubt God hears me when I pray about \_\_\_\_\_.”**
-
-**2. SAY IT STRONGER. Make the doubt bigger. Not smaller. “He doesn’t hear me at all.” This isn’t saying you believe it. It’s saying out loud what your heart has been quietly afraid of.**
-
-**3. FEEL IT. What does the doubt feel like in your body? Sad? Mad? Tired? Just sit with the feeling for a few seconds. Don’t try to make it go away.**
-
-**4. RE-READ. Ask your partner to read the scripture again. Slowly. Notice what is different now.**
-
-## **Senior version (ages 15–18)**
+## **Teen version (high school)**
 
 ## The four steps
 
@@ -527,7 +528,7 @@ This list is yours. The team will not see it. You will not turn it in. Keep it i
 
 *If you don’t have a scripture in mind for tonight’s practice, here are options. Pick one with a flicker for you — not a hurricane.*
 
-## **For all cohorts**
+## **For everyone**
 
 ## Common ones
 
@@ -558,3 +559,39 @@ This list is yours. The team will not see it. You will not turn it in. Keep it i
 - If a scripture is loaded for you because of a specific event in your life, it may be the right one — but watch for distress. If it is more than tonight can hold, pick a different scripture and bring this one to a 1:1 with the Lead Companion.
 - You do not have to use the same scripture both rounds. Some pairs use a different scripture for the second cycle.
 - If none of these is right, pick your own. The list is a starting place, not a menu.
+
+**Handout H11.4 — The Quarterly Pulse (Midpoint)**
+
+*One page. Three questions. Fold it and drop it in the bin at the door at The Return — our first gathering back in January.*
+
+**We are at the midpoint of the year — eleven weeks behind us, eleven ahead. We want to know what is working and what is not so we can use the half that remains well. Be honest. The team uses these to adjust pacing, depth, and emphasis.**
+
+### **1. On a scale of 1–10, how present have I actually been in these sessions so far?**
+
+*(1 = barely showing up; 5 = body in the room, mind elsewhere; 10 = fully engaged, doing the work)*
+
+My number: \_\_\_\_\_\_\_\_
+
+One sentence about why:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. What is one thing that has surprised me — about myself, about God, or about someone in this room?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **3. What is one specific way I want to engage differently for the half that remains (Weeks 12–22)?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Optional: my name (skip if you prefer anonymous)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

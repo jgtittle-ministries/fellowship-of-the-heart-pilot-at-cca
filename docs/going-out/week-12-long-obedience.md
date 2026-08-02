@@ -168,7 +168,6 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 **•** Chairs in ONE large circle.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -219,7 +218,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

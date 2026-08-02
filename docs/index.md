@@ -4,7 +4,7 @@ title: "Home"
 
 # Fellowship of the Heart — CCA Pilot
 
-*Three series, walked across a year of Tuesday evenings.*
+*Three series, walked one weekly evening at a time.*
 
 ![Light through autumn woods.](images/home-path.jpg)
 
@@ -16,7 +16,7 @@ The pilot is organized as three sequential series the cohort walks together, wit
 
 | # | Series | Length | Focus |
 |---|---|---|---|
-| 1 | [**Getting Started**](getting-started/index.md) | 15 weeks | The Four Connects — Self, Others, God, Mission |
+| 1 | [**Getting Started**](getting-started/index.md) | 22 weeks (a club year) | The Four Connects — Self, Others, God, Mission |
 | 2 | [**Going Deeper**](going-deeper/index.md) | 12 weeks | Diagnostic, therapeutic, developmental work of IJH Volume 2 |
 | 3 | [**Going Out**](going-out/index.md) | 12 weeks | The body sent — discerning and equipping leaders for new groups |
 
@@ -50,9 +50,9 @@ The lesson plans are written for the Companion team. They are detailed on purpos
 
 ## Cadence and logistics
 
-- **Series length.** Getting Started is 15 weeks; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across a year and a half.
+- **Series length.** Getting Started is a twenty-two-week club year; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across two school years.
 - **Session length.** Standard sessions are 90 minutes. Specific commissioning and family-night sessions extend to 120 minutes — flagged in each lesson plan.
-- **Companion team.** A Lead Companion plus a Co-Companion team. Most working weeks use a split-and-merge structure — shared opening and teaching, SPLIT into cohort circles (junior, senior, parent) for the experiential center, MERGE for closing.
+- **Companion team.** A Lead Companion plus a Co-Companion team. In Getting Started (the v1.4 family-integrated pilot edition), working weeks share opening and teaching whole-room, move into FAMILY CLUSTERS — whole families together, parents first on sharing practices — for the experiential center, and merge for closing. Going Deeper and Going Out retain the split-and-merge structure with age-and-role circles.
 - **Participants.** Parent–teen pairs, individuals, and households. See each series landing page for the specific fit of that series.
 
 ---

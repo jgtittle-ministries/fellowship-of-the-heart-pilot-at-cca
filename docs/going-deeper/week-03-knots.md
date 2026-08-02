@@ -128,7 +128,6 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Whiteboard with the four knot types pre-written: GRIEF / SHAME / FEAR / ANGER. Below: “the lie at the root.”
 - Handouts H3.1, H3.2, H3.3, H3.4 stacked at each chair.
@@ -168,7 +167,7 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic blessing. Container reframe. Frame Wk 3 explicitly: ‘Tonight is diagnostic, not therapeutic.’ |
 | 7:08–7:13 | Block 2: One-word landing on Wk 2’s practice | Shared circle | Lead Comp | Each person, around: one word about how the soil-sit-with practice landed across the week. |
 | 7:13–7:30 | Block 3: Hebrews 12 and the knot architecture (teaching) | Shared circle | Lead Comp | Read Heb 12:1–3. Teach the four knot types. 17 min — the largest teaching block of the series so far. |
@@ -185,7 +184,7 @@ Forty-eight hours before Wk 3, the Companion team meets for sixty minutes (longe
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

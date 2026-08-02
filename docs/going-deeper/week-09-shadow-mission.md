@@ -160,7 +160,6 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 **•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -196,7 +195,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the Mission block.’ |
 | 7:08–7:13 | Block 2: Wk 8 landing (one word) | Shared circle | Lead Comp | ONE word about the cohort’s hearing about itself — the LISTENING posture, not content. |
 | 7:13–7:32 | Block 3: Gifts + Shadow (teaching) | Shared circle | Lead Comp | Read 1 Cor 12 + Romans 12 + Matt 23 selectively. Teach the four-by-four. Pharisee case. |
@@ -212,7 +211,7 @@ Forty-eight hours before Wk 9, the Companion team meets for sixty minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

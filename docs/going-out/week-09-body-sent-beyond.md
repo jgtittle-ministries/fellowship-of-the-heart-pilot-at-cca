@@ -154,7 +154,6 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **•** Chairs in ONE large circle, with space in the centre for laying-on-of-hands.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -178,7 +177,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door, phone-box. |
+| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:08 | Block 1: Open + Wk 8 landing review | Shared circle | Lead Companion | Aaronic. Re-read Wk 8’s landing; orient tonight’s adaptation. |
 | 7:08–7:18 | Block 2: Acts 13 sending architecture (teaching) | Shared circle | Lead Companion | Read Acts 13:3–4 and Acts 14:21–23. The sending shape. |
 | 7:18–7:38 | Block 3: Walking the cost (pair work + cohort circle) | Shared circle (in pairs) | Cohort Companions float | 8 min per direction in pairs; 4 min cohort patterns. |
@@ -192,7 +191,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

@@ -105,13 +105,13 @@ Now the Companion names what Getting Started is, in a specific architectural way
 
 ## ONE — The four Connects as the spine.
 
-‘Getting Started’s fifteen weeks walk through what the Intentional Journey of the Heart calls the four Connects: Self, Others, God, and Mission. Each Connect gets its own stretch of weeks, and by the closing sessions we’ve touched all four together. The four Connects aren’t a checklist — they’re the architecture of how Scripture says formation actually happens.’
+‘Getting Started’s twenty-two-week club year walks through what the Intentional Journey of the Heart calls the four Connects: Self, Others, God, and Mission. Each Connect gets its own stretch of the year, and by the closing sessions we’ve touched all four together. The four Connects aren’t a checklist — they’re the architecture of how Scripture says formation actually happens.’
 
 Brief enough; do not over-explain. The applicant doesn’t need to understand the four Connects fully tonight; they need to know that the cohort has a spine.
 
 ## TWO — The container conditions as the working culture.
 
-‘Each session has four container conditions — Safe, Present, Clear, Intentional. Safe means what is named in the room stays in the room. Present means phones go in a basket and we’re actually here. Clear means we’re honest about what is and isn’t happening. Intentional means we’re here for specific work, not generic spiritual fellowship. The container is what makes the conversation real.’
+‘Each session has four container conditions — Safe, Present, Clear, Intentional. Safe means what is named in the room stays in the room. Present means phones are silenced and put away and we’re actually here. Clear means we’re honest about what is and isn’t happening. Intentional means we’re here for specific work, not generic spiritual fellowship. The container is what makes the conversation real.’
 
 Naming the container often produces relief in applicants who have been in groups that lacked it. Watch the applicant’s body language; this naming sometimes lands as the moment they decide yes.
 
@@ -119,7 +119,7 @@ Naming the container often produces relief in applicants who have been in groups
 
 ‘Getting Started uses what we call kitchen-table language — specific, honest, slow. We don’t spiritualize. If something happened to you this week that mattered, we ask what specifically happened, not what God was teaching you through it. The specificity is what does the work.’
 
-If the applicant looks puzzled by this, briefly give one example: ‘Last week’s session, someone was telling us about being frustrated with their teenager. Instead of saying ‘the Lord is teaching me patience,’ they described the specific Tuesday afternoon when their teen slammed a door and what they wanted to say back. That’s the specificity. The Spirit does the patience work; we do the noticing.’ (Adapt example as appropriate.)
+If the applicant looks puzzled by this, briefly give one example: ‘Last week’s session, someone was telling us about being frustrated with their teenager. Instead of saying ‘the Lord is teaching me patience,’ they described the specific Wednesday afternoon when their teen slammed a door and what they wanted to say back. That’s the specificity. The Spirit does the patience work; we do the noticing.’ (Adapt example as appropriate.)
 
 ## And what Getting Started is NOT
 
@@ -133,7 +133,7 @@ After naming the three things, the Companion names three things Getting Started 
 
 Before closing Block 2, the Companion names the practical commitments:
 
-- Fifteen Tuesday evenings, 90 minutes each (Wk 14 is 120 minutes — the Family Commissioning). Thirteen run in the fall term; the final two land in January, after the Christmas break.
+- Twenty-two Wednesday evenings across the club year's four quarters (6/5/6/5), 90 minutes each (Week 21 is 120 minutes — the Family Commissioning). A re-entry evening opens each quarter after the break.
 - About 15 minutes a day between sessions for a journal practice.
 - One pre-cohort conversation — this one. One Family Pre-Cohort Conversation Worksheet to complete with your pair partner the week before Wk 1.
 - After Getting Started, Going Deeper in the next series cycle is invited but not assumed. Many participants do Getting Started and stop there; that is honest and good. The architecture honors both continuing and not.

@@ -158,7 +158,6 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 **•** Three cohort spaces with chairs in small circles. Shared circle for opening / closing.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -180,7 +179,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door, phone-box. |
+| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is the costliest close-to-home witness.’ |
 | 7:08–7:18 | Block 2: Shema + household theology (teaching) | Shared circle | Lead Companion | Read Deut 6, Acts 16, 1 Tim 5, 1 Pet 3. Walk household-as-unit. |
 | 7:18–7:23 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
@@ -196,7 +195,7 @@ Forty-eight hours before Wk 5, the Companion team meets for ninety minutes. The 
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

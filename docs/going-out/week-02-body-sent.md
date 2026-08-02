@@ -158,7 +158,6 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 **•** Chairs in ONE large single circle.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -182,7 +181,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle | Co-Companion (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle | Co-Companion (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name what it means to be sent.’ |
 | 7:08–7:13 | Block 2: Wk 1 landing (one word) | Shared circle | Lead Companion | ONE word about the past week — the noticing question and the Tell. |
 | 7:13–7:33 | Block 3: Acts 2 + 1 Peter 2 + the three distinctions (teaching) | Shared circle | Lead Companion | Read passages. Walk the architecture. Three distinctions. |
@@ -198,7 +197,7 @@ Forty-eight hours before Wk 2, the Companion team meets for sixty minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

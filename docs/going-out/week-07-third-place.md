@@ -156,7 +156,6 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 **•** Chairs in ONE large circle.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -178,7 +177,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door, phone-box. |
+| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Mission far opens. The geography widens.’ |
 | 7:08–7:23 | Block 2: Acts 8 + Eph 2:10 + downhill/uphill (teaching) | Shared circle | Lead Companion | Read passages. Walk third-place architecture. Introduce Vol 2 downhill/uphill. |
 | 7:23–7:30 | Block 3: Worksheet preparation | Shared circle | Cohort Companions float | 7 min silent: H7.1 third-place mapping + this week’s Tell. |
@@ -193,7 +192,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

@@ -121,7 +121,7 @@ Two practices. The first is the most important practice in this entire card. The
 
 ### Why this practice is the most important on the card
 
-From Vol 2 (the obedience-channel law in community form): a man who hears regularly but never reports his hearing to another person hears at a fraction of the depth of a man who knows he will report this week’s hearing next Tuesday. The reporting changes the listening. The accountability is not about behavior; it is about hearing.
+From Vol 2 (the obedience-channel law in community form): a man who hears regularly but never reports his hearing to another person hears at a fraction of the depth of a man who knows he will report this week’s hearing next Wednesday. The reporting changes the listening. The accountability is not about behavior; it is about hearing.
 
 This is also why isolated spirituality — even the disciplined kind — has limits. The Lone Christian Hero, hearing privately, acting privately, is a particularly American figure but not a New Testament one. The New Testament knows only Christians-in-community. The weekly partner is the smallest scriptural unit of that community.
 
@@ -147,7 +147,7 @@ Some weekly partnerships last three months; some last thirty years. The team can
 
 ### On the day you choose
 
-Sunday for many Christians. Saturday for some, especially those who work Sundays. A Tuesday for those whose work week falls otherwise. The day is less important than the weekly recurrence and the differentness of the day.
+Sunday for many Christians. Saturday for some, especially those who work Sundays. A Wednesday for those whose work week falls otherwise. The day is less important than the weekly recurrence and the differentness of the day.
 
 ### On what counts
 

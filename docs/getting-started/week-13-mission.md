@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 12
+Week 13
 
 **What Was Prepared for You**
 
@@ -16,13 +16,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, May 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
-*Print this page on cardstock. Two copies in the room. Week 12 is a turn outward — from the interior work of the prior weeks toward the question of what we were made for.*
+*Print this page on cardstock. Two copies in the room. Week 13 is a turn outward — from the interior work of the prior weeks toward the question of what we were made for.*
 
-## WEEK 12 — WHAT WAS PREPARED FOR YOU (90 minutes)
+## WEEK 13 — WHAT WAS PREPARED FOR YOU (90 minutes)
 
 **Aim.** Begin Connecting with Mission. Distinguish uphill mission (what I do) from downhill mission (what I am). Each participant identifies gifts, passions, and one downhill answer to: “What does the room get when I show up at my best?”
 
@@ -30,29 +30,29 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** Mission, primary. The first three connects (Self, Others, God) have been the work of Weeks 2–11. Tonight begins the fourth.
 
-**Mode.** Shared teaching of the uphill/downhill distinction; SPLIT into cohort circles for two paired exercises (Gifts and Passions inventory; Downhill Mission question); MERGE for closing.
+**Mode.** Shared teaching of the uphill/downhill distinction; SPLIT into family clusters — two or three whole families with a Cluster Companion, own family always together — for two paired exercises (Gifts and Passions inventory; Downhill Mission question); MERGE for closing. (If total attendance is about ten or fewer, skip the clustering — the whole room stays as one circle.) The Leader Feedback Round runs just before the final blessing.
 
-**Center.** Two paired exercises in cohort circles. (1) Gifts and Passions: where am I alive, what comes naturally, where do others tell me I have something to offer? (2) Downhill Mission: what does the room get when I am at my best, not performing? Each participant names one downhill answer to the circle.
+**Center.** Two paired exercises in family clusters. (1) Gifts and Passions: where am I alive, what comes naturally, where do others tell me I have something to offer? (2) Downhill Mission: what does the room get when I am at my best, not performing? Each participant names one downhill answer to the cluster — a parent naming theirs first (arranged before the session), teens choosing their own depth after, and family members free to speak to what they have seen in each other.
 
 **Between-session practice.** Take one specific small action this week aligned with what you heard in your downhill mission. One thing. Journal what happens.
 
 **IJH source.** Vol 2 Fifth Exploration (Connecting with Mission, the four Connects sequence); Bilgere’s uphill/downhill distinction integrated into IJH Vol 2; Vol 5 Bramer (cognitive/affective/psychomotor integration as practice grounding).
 
-## WATCH FOR (Week 12 specific risks)
+## WATCH FOR (Week 13 specific risks)
 
 - Career-talk drift. “What do you want to do for a living?” Mission is bigger than career and not the same as career. Frame this explicitly.
 - Performance instincts. Senior teens and parents will be tempted to give the polished, college-essay version of their gifts. Push for specificity.
-- The teen who says “I don’t have any gifts.” This is rarely true and often the inversion of pride. Honor it; do not rescue. Ask the cohort: “What do the rest of us notice about [name]?”
-- The parent who turns the exercise into vocational guidance for their teen-in-another-room. Tonight is your own mission, not your kid’s.
+- The teen who says “I don’t have any gifts.” This is rarely true and often the inversion of pride. Honor it; do not rescue. Ask the cluster: “What do the rest of us notice about [name]?”
+- The parent who turns the exercise into vocational guidance for their teen across the circle. Tonight is your own mission, not your kid’s.
 - The shadow-mission detection. From Vol 2: every genuine calling has a shadow mission — the same gifts, opposite direction, self-serving. The downhill question is the surest revealer of which one is operating. Honor what surfaces; do not rush.
 - The senior who already knows their mission and presents a polished answer. Affirm, then ask the harder question: “What does the room get when you’re not performing that mission — just being you?”
 - Drift into uphill talk only. The exercise is two-part. The downhill question is the more formative half; do not let the gifts inventory consume the time.
 
-## CRISIS CONTINGENCIES (Week 12)
+## CRISIS CONTINGENCIES (Week 13)
 
-*Week 12 is low-to-moderate risk. The most likely heavy material: a participant realizing they have spent significant life-energy on shadow mission rather than real mission. This is not a crisis; it is a turning. Receive without alarm.*
+*Week 13 is low-to-moderate risk. The most likely heavy material: a participant realizing they have spent significant life-energy on shadow mission rather than real mission. This is not a crisis; it is a turning. Receive without alarm.*
 
-**If a teen surfaces that they feel they have no gifts and seems anxious.** Affirm: “You do. You may not have language for them yet. Tonight we ask the cohort to help.” Invite the cohort to name what they see. Brief warm follow-up within the week.
+**If a teen surfaces that they feel they have no gifts and seems anxious.** Affirm: “You do. You may not have language for them yet. Tonight we ask the cluster to help.” Invite the cluster to name what they see. Brief warm follow-up within the week.
 
 **If a parent surfaces deep mid-life vocational grief.** Honor it. Do not promise resolution. Pastoral 1:1 within the week if welcomed.
 
@@ -68,16 +68,16 @@ Week 1 named the four Connects. Weeks 2–4 were Self. Weeks 5–6 were Others. 
 
 Ephesians 2:10 is the architecture: the works are prepared. We do not invent them; we walk into them. The uphill mission is what we do with goal and plan. The downhill mission is what we are when we are most ourselves and most aligned with the Spirit. The downhill question is often the more formative — because the downhill is where the gifts already flow without effort, which is where what was prepared for us is most likely already operating.
 
-This is also the beginning of the series’ close. Tonight we open the question; next Tuesday the Rhythm week grounds what was opened and builds the long walk; then the sending, and the commissioning. The architecture is intentional.
+This is also the beginning of the series’ close. Tonight we open the question; next Wednesday a second-running evening puts another teen in the lead; then the Rhythm week (Week 15) grounds what was opened and builds the long walk; and at the year’s end, the sending and the commissioning. The architecture is intentional.
 
 ## **Dependencies**
 
 ## From prior sessions
 
 - Weeks 2–4: Self — the soil and the story. Tonight’s gifts inventory rests on what each participant has already named about themselves.
-- Weeks 5–6: Others — the four conditions and confession. Tonight asks: where in this circle have we already seen each other’s gifts? The cohort can speak now in ways they could not have in Week 1.
+- Weeks 5–6: Others — the four conditions and confession. Tonight asks: where in this room have we already seen each other’s gifts? The room can speak now in ways it could not have in Week 1 — and tonight, families speak to each other’s gifts inside their own cluster.
 - Weeks 7–11: God — PROAPT, the garden, the doubts. Tonight’s downhill question requires a participant who can listen for what God says about them, not just what they say about themselves. Without that, the exercise becomes self-help.
-- All three Connects feed into tonight. If any participant is still stuck in Self-work, the Cohort Companion may need to pace them gently — the Mission question lands differently when Self is unfinished.
+- All three Connects feed into tonight. If any participant is still stuck in Self-work, the Cluster Companion may need to pace them gently — the Mission question lands differently when Self is unfinished.
 
 ## **Connect focus**
 
@@ -99,35 +99,34 @@ Optional but powerful: ask one trusted person who knows you well — spouse, clo
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 12, the Companion team meets for forty-five minutes:
+Forty-eight hours before Week 13, the Companion team meets for forty-five minutes:
 
 1. Each Companion briefly names their own downhill answer to the circle. The team listens. Nobody comments — just witnesses.
-2. Walk the cohort exercise structure (below).
+2. Walk the cluster exercise structure (below), and arrange the parents-first openings: for each family cluster, ask a parent ahead of time to open both sharing rounds — the gifts round and the downhill round. Never a cold call on a teen.
 3. Identify any participant the team is watching for. Most relevant tonight: anyone whose Self/Others/God work is still unfinished, anyone whose Week 9 or 8 surfaced significant material.
 4. Confirm pastoral / clinical backup.
 5. Pray for each participant by name, specifically for what was prepared for them.
 
 ## **Logistics pre-work**
 
-1. Print the Gifts and Passions inventory (Handout H12.1).
-2. Print the Downhill Mission card (Handout H12.2).
-3. Print the between-session practice card (Handout H12.3).
+1. Print the Gifts and Passions inventory (Handout H13.1).
+2. Print the Downhill Mission card (Handout H13.2).
+3. Print the between-session practice card (Handout H13.3).
 4. Confirm pastoral / clinical backup availability.
-5. Begin printing for Week 14 — Family Commissioning. (Some Week 14 prep takes lead-time; see Week 14 plan.)
+5. Begin printing for Week 21 — Family Commissioning. (Some Week 21 prep takes lead-time; see Week 21 plan.)
 
 # **Materials and Setup**
 
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Whiteboard with two columns pre-drawn: UPHILL (what I do) and DOWNHILL (what I am).
-- Handouts H12.1, H12.2, H12.3 stacked at each chair.
-- Three private spaces for cohort circles.
-- Tissues in every cohort space.
+- Handouts H13.1, H13.2, H13.3 stacked at each chair.
+- A private space for each family cluster — two or three whole families with their Cluster Companion. (If total attendance is about ten or fewer, skip the clustering; the whole room stays as one circle.)
+- Tissues in every cluster space.
 - Large-print Bible (ESV).
-- Wall clock or visible timer in each cohort space.
+- Wall clock or visible timer in each cluster space.
 - Crisis Quick-Reference Card.
 - Pastoral / clinical backup on call.
 
@@ -138,7 +137,7 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 | Week before | Each Companion answers the two pre-work questions. Print all handouts. | All Companions |
 | Day before | Walk every space. Whiteboard columns drawn. | Lead Comp |
 | T-45 min | Team gathers. Each names their own downhill answer briefly. Pray for each participant. | All Companions |
-| T-30 min | Each Cohort Companion preps their cohort space. | All Companions |
+| T-30 min | Each Cluster Companion preps their cluster space. | All Companions |
 | T-15 min | Door opens. | Co-Comp (Teen) |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
@@ -148,15 +147,16 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 12 as the turn outward. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 13 as the turn outward. |
 | 7:08–7:13 | Block 2: Week 11 check-in | Shared circle | Lead Comp | Brief check on Doubts Inventory. One-sentence shares. |
 | 7:13–7:25 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Shared circle | Lead Comp | Read scripture. Walk both columns on whiteboard. Demo with own downhill answer. |
 | 7:25–7:28 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the two exercises. Pray. Split. |
-| 7:28–8:08 | Block 5: Gifts and Downhill in cohort circles | Cohort circles | Cohort Facs | Two paired exercises, ~20 minutes each. The downhill round closes with each person naming their answer to the cohort. |
-| 8:08–8:18 | Block 6: Merge and surface | Shared circle | Lead Comp | One downhill answer per cohort, named by the Cohort Companion. Then a brief observation. |
-| 8:18–8:25 | Block 7: Between-session practice and closing-weeks logistics | Shared circle | Co-Comp (Parent) | One small action. Then the road ahead: Wk 13 Rhythm, Wk 14 family commissioning (bring family), Wk 15 Companion commissioning. |
-| 8:25–8:30 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
+| 7:28–8:08 | Block 5: Gifts and Downhill in family clusters | Family clusters | Cluster Comps | Two paired exercises, ~20 minutes each, a parent opening each sharing round. The downhill round closes with each person naming their answer to the cluster. |
+| 8:08–8:13 | Block 6: Merge and surface | Shared circle | Lead Comp | One general observation per cluster, named by the Cluster Companion — a sentence each. Then a brief observation across the room. |
+| 8:13–8:20 | Block 7: Between-session practice and closing-weeks logistics | Shared circle | Co-Comp (Parent) | One small action. Then the road ahead: Wk 15 Rhythm, Wk 21 family commissioning (bring family), Wk 22 Companion commissioning. |
+| 8:20–8:25 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
+| 8:25–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
@@ -164,11 +164,11 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 ## Script
 
-*“Welcome back. Phones in the box. Settle.”*
+*“Welcome back. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 12. The first eleven weeks were what scripture calls a turning inward and upward — the soil of our hearts, our story, our friendships, our doubts, our garden encounters with Jesus. Tonight we turn outward. The question is: what was prepared for us to do, and to be?”*
+*“Tonight is Week 13. The first eleven weeks were what scripture calls a turning inward and upward — the soil of our hearts, our story, our friendships, our doubts, our garden encounters with Jesus. Tonight we turn outward. The question is: what was prepared for us to do, and to be?”*
 
 *“Container reminders: what is said here stays here. Nothing is required.”*
 
@@ -176,9 +176,9 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 ## Script
 
-*“Last week was Any Doubts? The practice between weeks was the Personal Doubts Inventory. Anyone want to say one sentence about how that landed — the inventory, or anything that surfaced this week, or that you didn’t get to it?”*
+*“Before the break we did Any Doubts?, and last week at The Return we saw what the break did with our practices. The practice carried across was the Personal Doubts Inventory. Anyone want to say one sentence about how that landed — the inventory, or anything that surfaced, or that you didn’t get to it?”*
 
-*(Take 3–4 voluntary contributions. Receive without commentary.)*
+*(A parent you arranged with before the session offers the first sentence — never a cold call on a teen. Then take 2–3 more voluntary contributions. Receive without commentary.)*
 
 ## **Block 3 — Ephesians 2:10 and the Uphill/Downhill Distinction (7:13–7:25, 12 min)**
 
@@ -216,21 +216,21 @@ Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your
 
 ## Script
 
-*“Two exercises in your cohort circle. About forty minutes total.”*
+*“Two exercises in your family cluster. About forty minutes total.”*
 
-*“First: Gifts and Passions. About twenty minutes. Each of you, working alone with H12.1 for ten minutes, then sharing what you wrote with the cohort for the next ten. Where are you alive? What comes naturally? Where do others tell you you have something to offer?”*
+*“First: Gifts and Passions. About twenty minutes. Each of you, working alone with H13.1 for ten minutes, then sharing what you wrote with your cluster for the next ten. Where are you alive? What comes naturally? Where do others tell you you have something to offer?”*
 
-*“Second: Downhill Mission. About twenty minutes. Each of you sits with H12.2 for five minutes alone, then names your answer to the cohort. One sentence. ‘When I am at my best, what the room gets is \_\_\_\_\_.’ The cohort listens and may add what they have noticed. We close with each person having named one downhill answer.”*
+*“Second: Downhill Mission. About twenty minutes. Each of you sits with H13.2 for five minutes alone, then names your answer to the cluster. One sentence. ‘When I am at my best, what the room gets is \_\_\_\_\_.’ In each round a parent goes first — we arranged that this week; teens, you choose your own depth, and passing holds. The cluster listens and may add what they have noticed — and in a family cluster that includes your own family: a parent may speak to a teen’s gifts, and a teen to a parent’s. We close with each person having named one downhill answer.”*
 
 *“Pray with me. Father, you prepared works for each of us beforehand. Help us name what you have already given us. Show us where we are alive. Show us what the room around us gets when we are most ourselves and most yours. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Forty minutes. Go.”*
+*“Family clusters: [name each cluster’s families and its Companion]. Forty minutes. Go.”*
 
-## **Block 5 — Gifts and Downhill in Cohort Circles (7:28–8:08, 40 min)**
+## **Block 5 — Gifts and Downhill in Family Clusters (7:28–8:08, 40 min)**
 
-Each cohort circle runs in parallel. The structure inside each circle is identical.
+Each family cluster runs in parallel. The structure inside each cluster is identical. (When the whole room stays as one circle — attendance about ten or fewer — the Lead Companion holds this same structure for the room.)
 
-### **Inside the cohort circle — Companion script**
+### **Inside the family cluster — Companion script**
 
 ## Opening (90 sec)
 
@@ -240,48 +240,50 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 
 ## Phase 1 — Gifts and Passions (≈20 min)
 
-**Quiet writing time (10 min). Each person works H12.1 in their journal alone. Cohort Companion works it too.**
+**Quiet writing time (10 min). Each person works H13.1 in their journal alone. Cluster Companion works it too.**
 
-**Sharing round (10 min). Each person 60 seconds. “The three things I noticed are \_\_\_\_\_. The one I’m most surprised by is \_\_\_\_\_.” Cohort Companion goes first. Pass anytime. Cohort Companion does not summarize. After each share, cohort can affirm what they’ve seen — briefly. “Yes — we see that in you. Specifically: \_\_\_\_\_.”**
+**Sharing round (10 min). Each person 60 seconds. “The three things I noticed are \_\_\_\_\_. The one I’m most surprised by is \_\_\_\_\_.” The parent arranged before the session goes first — never a cold call on a teen; teens choose their own depth after. Pass anytime. The Cluster Companion does not summarize. After each share, the cluster can affirm what they’ve seen — briefly. “Yes — we see that in you. Specifically: \_\_\_\_\_.” Family members may speak to each other’s gifts here; a parent’s specific word about their own teen, or a teen’s about their own parent, often lands deeper than anyone else’s.**
 
 ## Phase 2 — Downhill Mission (≈20 min)
 
-**Quiet writing time (5 min). Each person works H12.2 alone. The question: “When I am at my most genuinely myself, what does the room get?” One sentence. Specific.**
+**Quiet writing time (5 min). Each person works H13.2 alone. The question: “When I am at my most genuinely myself, what does the room get?” One sentence. Specific.**
 
 **Sharing round, by name, around the circle (15 min). Each person 90 seconds.**
 
 **Step 1 (the participant): “What I noticed is that when I’m at my best, what the room gets is \_\_\_\_\_.” Specific. One or two sentences.**
 
-**Step 2 (the cohort): One or two voices add what they have noticed in this person across Getting Started. “What I’ve seen in you is \_\_\_\_\_.” Specific. Brief. Not vague affirmation — something concrete the cohort has actually seen.**
+**Step 2 (the cluster): One or two voices add what they have noticed in this person across Getting Started. “What I’ve seen in you is \_\_\_\_\_.” Specific. Brief. Not vague affirmation — something concrete the cluster has actually seen. In a family cluster this includes — especially — each other’s family: a parent naming what the room gets when their teen is at their best, or a teen naming it for a parent. Keep it specific and brief; do not invent beyond what has actually been seen.**
 
-**Step 3 (the Cohort Companion): briefly affirms and moves to the next person. Do not over-process. The naming is the gift.**
+**Step 3 (the Cluster Companion): briefly affirms and moves to the next person. Do not over-process. The naming is the gift.**
 
-**Cohort Companion goes first to model.**
+**The arranged parent goes first — never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.**
 
-### **Cohort Companion: when to intervene**
+### **Cluster Companion: when to intervene**
 
 - If a participant’s downhill answer is generic (“I help people”, “I care about others”), gently push: “What’s the more specific version of that? When you’re helping people — what specifically does the person you’re helping get to be?”
-- If a participant says “I don’t know” and seems anxious about it, ask the cohort: “What have we noticed about [name] across Getting Started?” Have two or three voices contribute. The participant adopts what fits.
+- If a participant says “I don’t know” and seems anxious about it, ask the cluster: “What have we noticed about [name] across Getting Started?” Have two or three voices contribute — family first, when the family has words. The participant adopts what fits.
 - If a participant performs a polished mission statement, redirect: “That sounds like an uphill answer. What’s the downhill version — what does the room get when you’re not running the mission, just being you?”
-- If the cohort’s witness step drifts into general flattery (“you’re so kind”), redirect: “Can you say what specifically you’ve seen — a moment, an instance, a quality you’ve noticed across Getting Started?”
+- If the cluster’s witness step drifts into general flattery (“you’re so kind”), redirect: “Can you say what specifically you’ve seen — a moment, an instance, a quality you’ve noticed across Getting Started?”
 - If a participant surfaces grief (“I realized I have not been doing this for years”), receive without rushing. The grief is part of the recognition. Bless it. Move on gently.
 - Watch the time. The downhill round is the more formative; if you have to compress, compress the gifts inventory, not the downhill.
 
-## **Block 6 — Merge and Surface (8:08–8:18, 10 min)**
+## **Block 6 — Merge and Surface (8:08–8:13, 5 min)**
+
+*This block runs five minutes in the pilot edition — it gave its other five to the Leader Feedback Round (Block 8). Keep the Companion observations to a sentence each.*
 
 ## Script
 
 *“Welcome back. Take a breath.”*
 
-*“What was named in your circle stays in your circle. So I am not going to ask anyone to repeat their downhill answer. I am going to ask each Cohort Companion to name one general thing they noticed about the cohort — not a specific person, the cohort. And then I’ll name one observation across all three.”*
+*“What was named in your cluster stays in your cluster. So I am not going to ask anyone to repeat their downhill answer. I am going to ask each Cluster Companion for one sentence — one general thing they noticed about their cluster, not a specific person. Then one observation from me.”*
 
-*(Each Cohort Companion names one general observation, 60 seconds.)*
+*(Each Cluster Companion names one general observation, 30 seconds each.)*
 
-*“What I notice across all three cohorts is \_\_\_\_\_. (Be specific and brief. Often: ‘Many of you described what the room gets in similar terms — honesty, presence, courage. The downhill mission is more shared than we might guess.’ Or: ‘There is a striking specificity in this room tonight that wasn’t there in Week 1.’ Whatever the actual observation is.)”*
+*“What I notice across the room is \_\_\_\_\_. (Be specific and brief. Often: ‘Many of you described what the room gets in similar terms — honesty, presence, courage. The downhill mission is more shared than we might guess.’ Or: ‘There is a striking specificity in this room tonight that wasn’t there in Week 1.’ Whatever the actual observation is.)”*
 
 *“One thing to remember. The downhill mission you named is not a final answer. It is the working draft you are walking in this season. It will deepen. It will sharpen. But what you named tonight is closer to true than the resume version, and the room can witness it.”*
 
-## **Block 7 — Between-Session Practice and Closing-Weeks Logistics (8:18–8:25, 7 min)**
+## **Block 7 — Between-Session Practice and Closing-Weeks Logistics (8:13–8:20, 7 min)**
 
 ## Script
 
@@ -289,64 +291,69 @@ Each cohort circle runs in parallel. The structure inside each circle is identic
 
 *“First, the practice this week. One small action, aligned with your downhill answer. One. This week. Not a campaign. One specific thing. If your downhill answer is ‘the room gets honest with each other when I show up,’ maybe you say something true to someone this week you would normally have edited. If your downhill is ‘the room gets calmer when I show up,’ maybe you sit with a friend in distress this week instead of trying to fix them. Specific. Small. This week.”*
 
-*“Your Personal Heart Journal has Week 12 pages. Handout H12.3 is the practice card.”*
+*“Your Personal Heart Journal has Week 13 pages. Handout H13.3 is the practice card.”*
 
-*“Second — the road from here. Next Tuesday, Week 13, is the Rhythm week: we build the practices you will carry when the Tuesdays stop, and we finish tonight’s mission work. Then Week 14 is the family commissioning — bring your whole family, even family members who have not been here. Spouses, siblings, grandparents who can come — invite them. And Week 15 is the commissioning of our Companions-in-Formation — the seniors who have been leading us. That one is their night; come to witness it.”*
+*“Second — the road from here. Next Wednesday, Week 15, is the Rhythm week: we build the practices you will carry when the Wednesdays stop, and we finish tonight’s mission work. Then Week 21 is the family commissioning — bring your whole family, even family members who have not been here. Spouses, siblings, grandparents who can come — invite them. And Week 22 is the commissioning of our Companions-in-Formation — the seniors who have been leading us. That one is their night; come to witness it.”*
 
-*“For the Week 14 commissioning: come early. We start at 6:30 that week, not 7:00 — we extend the session by thirty minutes. Light food at 6:00. Details are coming in an email.”*
+*“For the Week 21 commissioning: come early. We start at 6:30 that week, not 7:00 — we extend the session by thirty minutes. Light food at 6:00. Details are coming in an email.”*
 
 *(Adjust the specifics above to your actual closing-weeks plan if it differs.)*
 
-## **Block 8 — Closing Container (8:25–8:30, 5 min)**
+## **Block 8 — The Leader Feedback Round (8:20–8:25, 5 min)**
+
+*The evening's leader closes the working part of the evening the same way every week.*
+
+Leader: *“Before we close — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+
+Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
+
+*(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
+
+## **Block 9 — Closing Container (8:25–8:30, 5 min)**
 
 ## Script
 
-*“What was named tonight in your circle is yours. Carry it gently. The downhill answer you named will keep deepening across the week.”*
+*“What was named tonight in your cluster is yours. Carry it gently. The downhill answer you named will keep deepening across the week.”*
 
-*“If anything that surfaced tonight feels heavier than tonight could hold — if you noticed a place you have been spending energy on shadow mission rather than real mission, or if mid-life vocational grief surfaced — please reach out. The team is walking with you, especially this week, especially before next Tuesday.”*
+*“If anything that surfaced tonight feels heavier than tonight could hold — if you noticed a place you have been spending energy on shadow mission rather than real mission, or if mid-life vocational grief surfaced — please reach out. The team is walking with you, especially this week, especially before next Wednesday.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Tuesday — 6:30 — with your family.”*
+*“See you Wednesday — 6:30 — with your family.”*
 
-# **Differentiation by Cohort**
+# **One Band, Whole Families: Notes for Teens and Parents**
 
-## **Junior teens (12–14)**
+*Getting Started runs as a single high-school band, and tonight's clusters hold whole families. The inventory (H13.1) has a teen version and a parent version — the same work, in two registers.*
 
-## Adjustments
+## **Teens (high school)**
 
-- Gifts and Passions inventory uses concrete prompts (school subjects you love, things you do for fun, things people thank you for). See Handout H12.1 (junior version).
-- Downhill question is reframed: “When you’re really being you — not trying to impress anyone, not performing for the camera — what do your friends and family get?”
-- Watch for: junior teens drifting into career fantasies. “I want to be a YouTuber.” Honor; redirect to the downhill question: “Okay, but if you were already that — what would the people watching get?”
-- Watch for: the junior teen who can’t name a single gift. The cohort circle is the gift here — the rest of the cohort can name what they’ve seen. “[Name], I’ve noticed you’re the one who notices when somebody is left out.” Receive specifics from the room.
-- Watch for: junior teens performing modesty (“I don’t really have any gifts” as social code). Affirm: “Tonight isn’t bragging. It’s noticing what God put in. Try one.”
+## Notes
 
-## **Senior teens (15–18)**
-
-## Adjustments
-
-- Gifts and Passions inventory uses fuller prompts (where you come most alive, what others tell you you do well, what you would do without being paid). See Handout H12.1 (senior version).
-- Senior teens are most likely of any cohort to have already constructed a polished college-essay version of their gifts. Push for the unpolished, downhill version.
-- Watch for: the senior with a mission statement. Affirm; ask the harder question: “When you’re not running that mission — just being you — what does the room get?”
-- Watch for: the senior facing college decisions and wanting tonight to give vocational direction. Re-frame: “Tonight is bigger than what you study. What will be true of you on a Tuesday afternoon ten years from now? That’s the downhill question.”
-- Watch for: the senior whose downhill answer reveals shadow mission (gifts directed inward, performance-shaped). The Cohort Companion names this gently if it surfaces clearly: “What I want to bless is the gift. The shadow direction is yours to keep watching in Going Deeper.”
+- Gifts and Passions inventory uses full prompts (where you come most alive, what others tell you you do well, what you would do without being paid). See Handout H13.1 (teen version).
+- Teens are the most likely to have already constructed a polished college-essay version of their gifts. Push for the unpolished, downhill version.
+- Watch for: the teen with a mission statement. Affirm; ask the harder question: “When you’re not running that mission — just being you — what does the room get?”
+- Watch for: the teen facing college decisions and wanting tonight to give vocational direction. Re-frame: “Tonight is bigger than what you study. What will be true of you on a Wednesday afternoon ten years from now? That’s the downhill question.”
+- Watch for: the teen whose downhill answer reveals shadow mission (gifts directed inward, performance-shaped). The Cluster Companion names this gently if it surfaces clearly: “What I want to bless is the gift. The shadow direction is yours to keep watching in Going Deeper.”
+- Watch for: the teen who can’t name a single gift, or who performs modesty (“I don’t really have any gifts”). The cluster is the gift here — and family first: “[Parent’s name], what have you seen?” A parent’s specific word often lands where anyone else’s cannot. Affirm: “Tonight isn’t bragging. It’s noticing what God put in.”
 
 ## **Parents**
 
-## Adjustments
+## Notes
 
-- Gifts and Passions inventory uses adult prompts (where you come alive in midlife, what your closest friends say you do well, what would be true of you across vocations). See Handout H12.1 (parent version).
+- Gifts and Passions inventory uses adult prompts (where you come alive in midlife, what your closest friends say you do well, what would be true of you across vocations). See Handout H13.1 (parent version).
+- Parents open both sharing rounds in their cluster — arranged before the session. A parent doing this work honestly, in front of their own teens, is half of what tonight teaches.
 - Parents may surface grief about gifts they have not used in a long time, or seasons of shadow mission. This is part of the work. Honor without rushing.
 - Watch for: the parent who frames mission as career. Re-frame: “Mission in scripture is bigger than work. What does the room get when you’re at your best, regardless of what you’re paid to do?”
-- Watch for: the parent whose downhill answer involves their family in another room (“when I’m at my best, my kids get \_\_\_\_\_”). This is real. Honor it.
+- Watch for: the parent who steers their teen’s answers instead of doing their own work. Gently: “Tonight is your own mission. Your teen’s is theirs to name — you’ll get your chance to witness it in the round.”
+- Watch for: the parent whose downhill answer involves their family (“when I’m at my best, my kids get \_\_\_\_\_”). This is real — and tonight the kids are in the circle to hear it. Honor it; it is often the evening’s quietest heavy moment.
 - Watch for: the parent who realizes mid-exercise that their primary downhill mission for the last fifteen years has been parenting, and is approaching the threshold where that season changes. This is appropriate; the next downhill mission is part of what tonight begins to surface.
 - Watch for: the parent with mid-life vocational grief. Pastoral 1:1 within the week if welcomed.
 
 # **Closing Practice in Detail**
 
-Same three-layer pattern. Tonight’s closing carries a logistical weight (Week 14 framing) that the prior weeks have not had. Be explicit and warm about Week 14. Some participants will not realize until the closing how seriously the team is treating the family commissioning.
+Same three-layer pattern. Tonight’s closing carries a logistical weight (Week 21 framing) that the prior weeks have not had. Be explicit and warm about Week 21. Some participants will not realize until the closing how seriously the team is treating the family commissioning. The Leader Feedback Round sits just before the blessing, brief and steady, same as every week.
 
 # **Between-Session Practice**
 
@@ -355,34 +362,34 @@ Same three-layer pattern. Tonight’s closing carries a logistical weight (Week 
 - The morning question (5 min, daily) — carried forward.
 - The evening journal note (1–2 min, daily) — carried forward.
 - Personal Doubts Inventory (carry forward as a living practice; not new this week).
-- One small action aligned with downhill mission (NEW this week). One specific thing. This week. See Handout H12.3.
+- One small action aligned with downhill mission (NEW this week). One specific thing. This week. See Handout H13.3.
 
 Note: this week’s practice is the smallest of Getting Started. Resist the urge to inflate it. The point is one specific small action that is shaped by what was named tonight. The goal is to walk in what was prepared, not to launch a project.
 
 # **Companion Debrief Prompts**
 
-Companion team meets the day after Week 12 for a 30-minute debrief. Plus an additional 60 minutes specifically on Week 14 logistics (the commissioning is the most logistically complex session of Getting Started).
+Companion team meets the day after Week 13 for a 30-minute debrief. Plus an additional 60 minutes specifically on Week 21 logistics (the commissioning is the most logistically complex session of Getting Started).
 
 ### **Signs the session worked**
 
-- Each participant in each cohort named at least one specific downhill answer.
-- The cohort’s witness step contributed specific, concrete observations — not generic affirmations.
+- Each participant in each cluster named at least one specific downhill answer.
+- The cluster’s witness step contributed specific, concrete observations — not generic affirmations — including family members speaking to each other’s gifts.
 - At least one participant left visibly clearer about something they had been carrying loosely before.
 - The merge surfaced a pattern — the room is more specific than it was in Week 1.
-- Participants are visibly preparing for Week 14 (asking about logistics, talking about who’s coming, rehearsing what they want to say).
+- Participants are visibly preparing for Week 21 (asking about logistics, talking about who’s coming, rehearsing what they want to say).
 
 ### **Signs the session did not work as well as it could have**
 
 - Downhill answers were generic or unchanged from Week 1’s self-introduction language.
 - The exercise became a discussion of careers and college plans.
-- The cohort’s witness step gave only flattery.
-- The teaching block ran long; the cohort circle ran short.
-- Week 14 logistics weren’t framed clearly and participants left uncertain about who to bring.
+- The cluster’s witness step gave only flattery.
+- The teaching block ran long; the cluster work ran short.
+- Week 21 logistics weren’t framed clearly and participants left uncertain about who to bring.
 
-### **If the session did not work — what to adjust for Week 14**
+### **If the session did not work — what to adjust for Week 21**
 
-- If downhill answers were generic, re-touch at Week 13's opening — the Rhythm session completes any unfinished mission work by design: “Some of you wrote downhill answers last week that have probably deepened across the week.” The deepened answers then carry into the Week 14 commissioning.
-- If logistics weren’t clear, send a follow-up email Wednesday with the Week 14 specifics.
+- If downhill answers were generic, re-touch at Week 15's opening — the Rhythm session completes any unfinished mission work by design: “Some of you wrote downhill answers in the Mission week that have probably deepened since.” The deepened answers then carry into the Week 21 commissioning.
+- If logistics weren’t clear, send a follow-up email Wednesday with the Week 21 specifics.
 
 ### **People to follow up with this week**
 
@@ -390,37 +397,21 @@ Companion team meets the day after Week 12 for a 30-minute debrief. Plus an addi
 - Any parent facing mid-life vocational uncertainty.
 - Any senior teen who is in the middle of college decisions and seemed activated by tonight.
 - Anyone who could not name a single gift and seemed troubled by it.
-- Anyone whose family member is hesitant to come to Week 14 — the team’s warm invitation may be needed.
+- Anyone whose family member is hesitant to come to Week 21 — the team’s warm invitation may be needed.
 
 # **Handouts**
 
-Three handouts for Week 12.
+Three handouts for Week 13.
 
-- H12.1 — Gifts and Passions Inventory (junior, senior, and parent versions)
-- H12.2 — Downhill Mission Card
-- H12.3 — Between-Session Practice (one small action this week)
+- H13.1 — Gifts and Passions Inventory (teen and parent versions)
+- H13.2 — Downhill Mission Card
+- H13.3 — Between-Session Practice (one small action this week)
 
-**Handout H12.1 — Gifts and Passions Inventory**
+**Handout H13.1 — Gifts and Passions Inventory**
 
-*Ten minutes alone with these prompts. Three versions on this page — use the one for your cohort. Be specific. “I’m good with people” is not specific. “I’m the one my friends call when they’re crying at midnight” is specific.*
+*Ten minutes alone with these prompts. Two versions on this page — teens use the teen version; parents the parent version. Be specific. “I’m good with people” is not specific. “I’m the one my friends call when they’re crying at midnight” is specific.*
 
-## **Junior version (ages 12–14)**
-
-## Quick prompts
-
-**1. What activities or subjects make you lose track of time? (At school, at home, anywhere.)**
-
-**2. What do people who know you well thank you for? (“Thanks for noticing,” “Thanks for making me laugh,” “Thanks for fixing this.”)**
-
-**3. What can you do that surprises adults sometimes? (Even small things.)**
-
-**4. When you imagine being grown up and doing something well, what is the doing? (Not the title — the doing.)**
-
-**5. After all of these: pick the THREE things on your list that feel most true. Put a star next to them.**
-
-**6. Of those three, which one are you most surprised by? Underline it.**
-
-## **Senior version (ages 15–18)**
+## **Teen version (high school)**
 
 ## Inventory prompts
 
@@ -458,9 +449,9 @@ Three handouts for Week 12.
 
 **8. Of those three, which one are you most surprised by, or most wishing you had named years ago? Underline it.**
 
-**Handout H12.2 — Downhill Mission Card**
+**Handout H13.2 — Downhill Mission Card**
 
-*Five minutes alone. Then you’ll name your answer to the cohort circle.*
+*Five minutes alone. Then you’ll name your answer to your family cluster.*
 
 ## The downhill question
 
@@ -479,7 +470,7 @@ Three handouts for Week 12.
 
 ### **If you can’t find one**
 
-That is fine. The cohort will help. Some of us see ourselves more clearly through other people’s eyes than our own. That is what witnessing community is for.
+That is fine. The cluster will help — often your own family first. Some of us see ourselves more clearly through other people’s eyes than our own. That is what witnessing community is for.
 
 ## Caution — the shadow
 
@@ -487,7 +478,7 @@ That is fine. The cohort will help. Some of us see ourselves more clearly throug
 
 *If the answer you find is mostly about what people give you (recognition, attention, identity), watch — you may have found the shadow rather than the downhill. Both feel like passion from the inside. The downhill mission goes out.*
 
-**Handout H12.3 — Between-Session Practice (Week 12)**
+**Handout H13.3 — Between-Session Practice (Week 13)**
 
 ## This week’s practice — one small action
 
@@ -516,4 +507,4 @@ After the action, write three or four sentences in your Personal Heart Journal:
 - What did I do, specifically?
 - What happened in the other person, in me, in the room?
 - What did I notice about myself when I was walking in this gift on purpose?
-- What is one thing I want to bring into Week 14’s commissioning?
+- What is one thing I want to bring into Week 21’s commissioning?

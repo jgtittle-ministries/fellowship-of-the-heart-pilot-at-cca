@@ -158,7 +158,6 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 **•** Three cohort spaces, each with chairs in a small circle. Shared circle space at the close (the chairs may not need to move — cohort circles can flow into the larger shared circle).
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -182,7 +181,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival | Single circle (forming) | Co-Companion | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival | Single circle (forming) | Co-Companion | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight we name where Going Out’s witness is specific.’ |
 | 7:08–7:18 | Block 2: Acts 13 + tonight’s architecture | Shared circle | Lead Companion | Read passage. Walk the discernment template. |
 | 7:18–7:23 | Transition to cohort spaces | All | All Companions | Brief move into cohort circles. |
@@ -199,7 +198,7 @@ Forty-eight hours before Wk 3, the Companion team meets for ninety minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

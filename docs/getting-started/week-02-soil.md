@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, May 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -30,9 +30,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** Self.
 
-**Mode.** Shared teaching block, then SPLIT into three cohort circles for the diagnostic, MERGE for closing.
+**Mode.** Shared teaching block, then FAMILY CLUSTERS for the diagnostic — two or three whole families per circle with a Cluster Companion, own family always together — MERGE for closing. If the room is about ten or fewer, stay together as one circle instead.
 
-**Center.** Heart Soil diagnostic: four gentle questions about where each kind of soil shows up in my life. Age-adapted for junior, senior, and parent cohorts. Not a test — a mirror.
+**Center.** Heart Soil diagnostic: four gentle questions about where each kind of soil shows up in my life. Worked in family clusters, a parent naming their soil first on every round; teens choose their own depth after. Not a test — a mirror.
 
 **Between-session practice.** Three times this week, journal: where did each kind of soil show up today? No fixing. Just noticing.
 
@@ -40,15 +40,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WATCH FOR (Week 2 specific risks)
 
-- The first parallel-circle split. Some seniors will be self-conscious about their parents being in another room. Frame it confidently. “You’re doing the same work. Different rooms is for honesty, not for hiding.”
-- Junior teens defaulting to “social media” for everything. Push gently for one specific incident, not a category.
-- Parents trying to perform competence. Honest parents this week create permission for honest teens in Week 3.
+- The first move into family clusters. Some teens will be self-conscious about doing this work with their parents in the same circle. Frame it confidently. “Your family stays together. A parent goes first every time. You choose your own depth.”
+- Teens defaulting to “social media” for everything. Push gently for one specific incident, not a category.
+- Parents trying to perform competence. Honest parents this week create permission for honest teens in the same circle — and set the table for the parents’ telling night in Week 3.
 - Treating the diagnostic as a test. It is not a test. It is a mirror. Re-frame any time someone starts grading themselves.
-- Surfacing material that needs more than the diagnostic can hold. If a 13-year-old says “rocky soil is when my parents fight,” that is real and may need follow-up. Note it; follow up after.
+- Surfacing material that needs more than the diagnostic can hold. If a teen says “rocky soil is when my parents fight,” that is real and may need follow-up — and their parent may be sitting in the same circle. Note it; follow up after.
 
 ## CRISIS CONTINGENCIES (Week 2)
 
-The diagnostic is gentle by design but can surface heavier material than expected, especially with juniors disclosing family or peer dynamics. Default to Section 6 of the Handbook if you encounter:
+The diagnostic is gentle by design but can surface heavier material than expected, especially with teens disclosing family or peer dynamics. Default to Section 6 of the Handbook if you encounter:
 
 - Disclosure of physical or sexual abuse, current or past.
 - Suicidal ideation or self-harm, even hinted.
@@ -82,9 +82,9 @@ Vol 2 sources for tonight:
 1. Vol 2 Sixth Exploration — the Heart Soil practice as a recurring self-assessment for adult small groups.
 2. Vol 4 Section 3 — the Pilot Ready core testing instruments and the adaptation logic for younger participants.
 
-**Dependencies.** Week 2 depends on the container having formed in Week 1. If it didn’t, slow down at the open. Spend a full extra five minutes re-establishing the four conditions before moving into Mark 4. The split for the diagnostic will not be safe if the container is not real.
+**Dependencies.** Week 2 depends on the container having formed in Week 1. If it didn’t, slow down at the open. Spend a full extra five minutes re-establishing the four conditions before moving into Mark 4. The move into family clusters for the diagnostic will not be safe if the container is not real.
 
-**Setup for Week 3.** Tonight’s diagnostic gives every participant material that will surface again in Week 3’s storytelling. The “where have I noticed thorny soil” answer often becomes the “battles” in Week 3. Frame the practice without making it sound like homework for next week.
+**Setup for Week 3.** Tonight’s diagnostic gives every participant material that will surface again in the storytelling of Weeks 3 and 4. The “where have I noticed thorny soil” answer often becomes the “battles” — for parents in Week 3, for teens in Week 4. Frame the practice without making it sound like homework for next week.
 
 # Pre-Work for Participants
 
@@ -103,31 +103,29 @@ This is the only joint pre-work this week. Each, separately, picks one of the fo
 
 ### Materials checklist
 
-- Chairs in single circle for the open and close. Three separate circle areas (or rooms) for the parallel split.
-- Phone-box at the door.
+- Chairs in single circle for the open and close. A separate circle area for each family cluster.
 - Personal Heart Journals. Pens.
-- Junior Heart Soil Diagnostic handout (H2.1) — enough copies for the junior cohort.
-- Senior Heart Soil Diagnostic handout (H2.2) — enough for the senior cohort.
+- Teen Heart Soil Diagnostic handout (H2.2) — enough copies for the teens.
 - Parent Heart Soil Diagnostic handout (H2.3) — enough for parents.
 - Large-print Bible (ESV).
 - Whiteboard or flip chart with the four soils pre-drawn (path / rocky / thorny / good).
 - Aaronic blessing card if anyone’s gone missing.
-- Tissues in each cohort space.
+- Tissues in each cluster space.
 - Light snacks at door for arrival window.
 
-### Room arrangement for the split
+### Room arrangement for the clusters
 
-Three separate circles. Ideal: three different rooms. Acceptable: one large room with three corners marked off, far enough apart that each circle can hear its own voice, not its neighbor’s. The senior teens should not feel they are within earshot of their parents during the diagnostic share.
+One small circle of chairs per family cluster — two or three whole families plus their Cluster Companion. A family always sits together; a family is never divided across clusters. Ideal: separate corners of one large room, far enough apart that each cluster can hear its own voice, not its neighbor’s.
 
-Each cohort circle has a Companion. Recommended: a male and female Companion pair in the senior circle if the senior cohort is mixed-gender. The junior circle and parent circle each have one Companion. The Lead Companion floats between rooms during the split, doing nothing except being present.
+Each cluster has a Cluster Companion. The Lead Companion floats between clusters, doing nothing except being present. If the room is about ten or fewer tonight, skip the clusters entirely — the whole room stays as one circle and the Lead Companion runs the diagnostic there, a parent still opening every round.
 
 ### Pre-session preparation timeline
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Each Cohort Companion does the diagnostic on themselves. They bring one specific real example to share if they go first in their cohort. Print all three diagnostic handouts. | Each Co-Comp |
-| Day before | Walk the room. Confirm the three split spaces. Confirm pastoral / clinical backup is on-call tonight. Re-read Section 6 of the Handbook — even if you read it last week. | Lead Comp |
-| T-30 min | All Companions in the room. Pre-draw the four soils diagram. Set up the three split spaces. Pray together as a team specifically for tonight’s split. | All Companions |
+| Week before | Each Cluster Companion does the diagnostic on themselves. They bring one specific real example to share when they open their cluster. Print both diagnostic handouts. Lead Companion arranges, cluster by cluster, which parent will open the first sharing round — arranged with that parent, never a cold call. | Each Cluster Comp + Lead Comp |
+| Day before | Walk the room. Confirm the cluster spaces. Confirm pastoral / clinical backup is on-call tonight. Re-read Section 6 of the Handbook — even if you read it last week. | Lead Comp |
+| T-30 min | All Companions in the room. Pre-draw the four soils diagram. Set up the cluster spaces. Pray together as a team specifically for tonight’s first move into clusters. | All Companions |
 | T-15 min | Door opens. | Teen Comp |
 | T-0 | Begin on time. | Lead Comp |
 
@@ -138,15 +136,16 @@ Times below assume a 7:00 PM start.
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
 | 6:30 | Setup. All Companions in the room. | — | Team | 30 |
-| 6:45 | Door opens. Greet, phone-box, light snacks. | Open | Teen Comp | 15 |
+| 6:45 | Door opens. Greet, light snacks. | Open | Teen Comp | 15 |
 | 7:00 | Opening container — full eight-step protocol. | Shared | Lead Comp | 10 |
 | 7:10 | Check-in on Week 1 between-session practice. | Shared | Parent Comp | 5 |
-| 7:15 | Teaching: Mark 4 and the four soils. | Shared | Lead Comp | 20 |
-| 7:35 | Transition to split. Move to cohort circles. | Transition | Lead Comp | 2 |
-| 7:37 | SPLIT: Heart Soil diagnostic in cohort circles. | Parallel | Each Co-Comp | 28 |
-| 8:05 | Re-merge. Return to single circle. | Transition | Lead Comp | 3 |
-| 8:08 | Shared debrief and re-reading of Mark 4:20. | Shared | Lead Comp | 12 |
-| 8:20 | Between-session practice introduced. | Shared | Parent Comp | 5 |
+| 7:15 | Teaching: Mark 4 and the four soils. | Shared | Lead Comp | 15 |
+| 7:30 | Transition to clusters. Move to family clusters. | Transition | Lead Comp | 2 |
+| 7:32 | FAMILY CLUSTERS: Heart Soil diagnostic. | Clusters | Each Cluster Comp | 28 |
+| 8:00 | Re-merge. Return to single circle. | Transition | Lead Comp | 3 |
+| 8:03 | Shared debrief and re-reading of Mark 4:20. | Shared | Lead Comp | 12 |
+| 8:15 | Between-session practice introduced. | Shared | Parent Comp | 5 |
+| 8:20 | The Leader Feedback Round. | Shared | Lead Comp | 5 |
 | 8:25 | Closing container + Aaronic blessing. | Shared | Lead Comp | 5 |
 | 8:30 | End. | — | — | — |
 
@@ -176,7 +175,7 @@ By Week 2, run the full eight-step opening protocol from the Handbook. The cohor
 
 Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor it. “Thanks for the honesty. Pick it back up tomorrow.” Do not lecture about consistency.
 
-## Block 3 — Teaching: Mark 4 and the Four Soils (7:15–7:35, 20 min)
+## Block 3 — Teaching: Mark 4 and the Four Soils (7:15–7:30, 15 min)
 
 ## Opening script
 
@@ -186,7 +185,7 @@ Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor i
 
 ### Teaching outline (use any format — do not read this verbatim)
 
-After reading, walk the cohort through the four soils. Aim for 10 minutes maximum after the reading. Hit these points in your own words:
+After reading, walk the cohort through the four soils. Aim for seven minutes maximum after the reading — the bridge into the clusters needs the rest. Hit these points in your own words:
 
 **· The path soil.** Hard, packed earth. The seed lands but never penetrates. Birds eat it before it has a chance. The interior is too compacted to receive what God is offering. Jesus says: when this happens, Satan immediately comes and takes the word away. (We don’t dramatize the spiritual warfare here — and we don’t deny it either. Jesus names a real enemy who takes the word away; we note it plainly and move on.)
 
@@ -198,115 +197,69 @@ After reading, walk the cohort through the four soils. Aim for 10 minutes maximu
 
 ### The pivot — from teaching to diagnostic
 
-## Script (the bridge into the split)
+## Script (the bridge into the clusters)
 
 “Here is what we want to do with this tonight. We are not going to ask you, as if it were a personality test, ‘which soil are you?’ That’s the wrong question. The right question, and the one we’re going to spend the next half-hour with, is: ‘Where in my life right now does each of these four soils show up?’
 
 “You have all four. So do I. So does everyone in this room. The path is real. The rocks are real. The thorns are real. And the good soil is real. The work tonight is to notice where each one shows up specifically. Not in general. In your actual week.
 
-“In a minute we’re going to split into three smaller circles — our junior teens with \_\_\_\_\_, our senior teens with \_\_\_\_\_ and \_\_\_\_\_, and our parents with \_\_\_\_\_. Each circle will work through the same four questions, adapted slightly. We’ll come back together at 8:08 to share what surfaced and re-read one verse together.
+“In a minute we’re going to move into our family clusters — two or three families together, each cluster with \_\_\_\_\_, \_\_\_\_\_, or \_\_\_\_\_ as its Companion. Your own family stays with you; that is the design. Each cluster will work through the same four questions. And in every cluster, a parent answers first — we’ve already arranged who opens. Teens, you choose your own depth after, and passing is always allowed. We’ll come back together at 8:00 to share what surfaced and re-read one verse together.
 
-“One thing before we move. The container conditions still apply in the small circles — maybe more so. Safe, present, clear, intentional. What is shared in the small circle stays in the small circle, including from your parents and your teens. We do not bring tonight’s sharing home as ammunition. Are we all clear on that?”
+“One thing before we move. The container conditions still apply in the clusters — maybe more so, because our own families are hearing us. Safe, present, clear, intentional. What is shared in the cluster stays in the cluster. What your parent or your teen says tonight is a gift, not ammunition — it does not come back up in the car or at breakfast. Are we all clear on that?”
 
-(Wait for nods or verbal yes from each cohort. Do not move forward until you have it.)
+(Wait for nods or verbal yes from each family. Do not move forward until you have it.)
 
-“Okay. Junior teens with \_\_\_\_\_, this side. Senior teens with \_\_\_\_\_, that side. Parents with \_\_\_\_\_, follow me. Take your journal and your handout. We have twenty-eight minutes.”
+“Okay. You know your clusters — find your Companion and take your family with you. Take your journal and your handout. We have twenty-eight minutes.”
 
-## Block 4 — Split: Junior Cohort Diagnostic (7:37–8:05, 28 min)
+(If tonight’s room is about ten or fewer, skip the move entirely: “We’re small enough tonight to stay right here as one circle.” The Lead Companion runs the same diagnostic in the whole room, a parent still opening every round.)
 
-**Cohort Companion (Junior, 12–14):** Run the diagnostic in your cohort circle. Aim for 28 minutes total. Use Handout H2.1 (Junior).
+## Block 4 — Family Clusters: The Heart Soil Diagnostic (7:32–8:00, 28 min)
 
-## Script (Junior cohort)
+**Cluster Companion:** Run the diagnostic in your cluster — two or three whole families, everyone in one small circle, own family together. Aim for 28 minutes total. Teens use Handout H2.2; parents use Handout H2.3. The four questions are the same; the wording on each card is fitted to its reader.
 
-“Okay. We’re here. Same circle rules — nobody fixes anybody, nobody makes fun, nobody interrupts. We’re going to do something pretty simple. I’m going to ask four questions, one at a time. After each question, we’ll take 90 seconds to write in our journals, then 4 or 5 minutes to share what we wrote — if you want to. ‘I’d rather not share that one’ is a totally fine answer.
+## Script (in the cluster)
 
-“Here’s the trick. We’re not asking, ‘Are you the path or the rocky soil?’ That’s a dumb question. We have all four going on. We’re asking, ‘Where does the path show up in your life? Where does the rocky show up? Where do the thorns show up? Where is the good soil?’
+“Okay. We’re here, families together. Same circle rules as the big room — nobody fixes anybody, nobody makes fun, nobody interrupts. And one rule that matters extra in this circle: what your family members say tonight is a gift, not ammunition. It does not come back up in the car.
 
-“Get specific. Not ‘sometimes school is hard.’ More like: ‘This week in math class, when Mr. \_\_\_ called on me and I didn’t know the answer, I felt this thing.’ Specific. We start in 30 seconds. Get your journal open.”
+“I’m going to ask four questions, one at a time. After each question, we’ll take about two minutes to write in our journals, then four or five minutes to share what we wrote — if you want to. ‘I’d rather not share that one’ is a complete answer.
 
-(Allow 30 seconds for journals to open. Then read each question one at a time. After each, give 90 seconds to write, then ~5 minutes to share around the circle.)
+“Here’s the trick. We’re not asking, ‘Which soil are you?’ That’s the wrong question. We have all four going on, in different parts of our lives. We’re asking where each one shows up — specifically. Not ‘sometimes life is busy.’ More like: ‘Thorny was when I scrolled for forty minutes after dinner instead of talking to anyone.’ Specific.
 
-### The four questions — junior version
+“On every question, one of our parents will answer first. Teens, you choose your own depth after — and passing is always allowed. Get your journals open. Question one.”
 
-Each question is read aloud, journaled, and then shared. Read exactly as written. Junior teens respond best to concrete language and to questions that don’t feel like a test.
+(Read each question theme below, one at a time. After each: about two minutes to write, then the arranged parent opens, then around the circle. Watch the clock privately — four questions in twenty-eight minutes.)
 
-1. **Path soil.** Some seeds fell on the path and birds came and ate them. The seeds never even got into the dirt. Where in your life does God’s word feel like that — like it bounces off without ever sinking in? At school, at church, in your family, when you’re alone with your phone, somewhere else? Be specific. Pick one place this week.
-2. **Rocky soil.** Some seeds sprang up quickly because the dirt was shallow, but when the sun came out they withered because they had no roots. Where in your life have you been excited about something with God for a while — maybe at a camp, a retreat, a worship night, a great conversation — but it didn’t last? What was the sun that came up? (“Sun” meaning: what difficulty or pressure or distraction made the excitement disappear?)
-3. **Thorny soil.** Some seeds grew but the thorns choked them. What things in your life are the loudest right now — the things that fill up so much space that other things don’t have room to grow? Be honest. Could be your phone, social media, a friend group situation, a sport, school stress, comparison to other kids, anxiety about something specific.
-4. **Good soil.** Some seeds grew and produced 30, 60, 100 times what was planted. Where in your life has something God planted actually grown? Be specific — a friendship that’s deeper than friendships used to be, a way you’re kinder than you used to be, a habit that has actually changed something. Don’t be modest. Just notice.
+### The four questions — cluster version
 
-### Junior cohort facilitation notes
+Each question is read aloud, journaled, and then shared, a parent opening every round. Read the theme; each participant answers from the wording on their own card (H2.2 for teens, H2.3 for parents).
 
-- After each question, 90 seconds to journal silently. Watch the room — if anyone is staring at the page panicking, gently: “It’s OK if you’ve got nothing yet. Sit with the question.”
-- For sharing, go around the circle in order. Each person reads one sentence from their journal or paraphrases. Then move on. No comments, no advice.
-- Junior teens often default to “my phone” for thorny soil. Push gently for one specific incident this week, not the category.
-- If a junior says something heavier than expected (“rocky is when my parents fight”), do not process it in the circle. Acknowledge: “Thank you. That’s a hard one. We’ll hold that.” Move on. Note the disclosure for follow-up.
-- If you finish the four questions early (likely — juniors share more concisely), use the remaining time for one extra round: “Which of the four soils landed first when you read Mark 4 yesterday?”
+1. **Path soil.** Where in my life right now is the ground hard — where does God’s word arrive and never penetrate? One specific place, this week.
+2. **Rocky soil.** Where have I had a season with God that didn’t last? What was the sun that came up and revealed there were no roots?
+3. **Thorny soil.** What is choking me right now? Jesus names the thorns: the cares of the world, the deceitfulness of riches, and the desires for other things. Which is loudest? Be specific.
+4. **Good soil.** Where has something God planted actually grown — 30, 60, 100 fold? Name one real piece of fruit. Don’t be modest. Just notice.
 
-## Block 4b — Split: Senior Cohort Diagnostic (7:37–8:05, 28 min)
+### Cluster facilitation notes
 
-**Cohort Companion (Senior, 15–18):** Run the diagnostic in your cohort circle. Use Handout H2.2 (Senior). Senior teens respond to more abstract framing and depth questions.
+- The parent who opens the first round was arranged before the session — never a cold call, and never a cold call on a teen. After the first round, any parent may open.
+- An honest parent is the most powerful thing in this circle. If the parents name real soil, the teens will. If the parents perform, the teens will perform.
+- After each question, about two minutes to journal silently. Watch the room — if anyone is staring at the page panicking, gently: “It’s OK if you’ve got nothing yet. Sit with the question.”
+- For sharing, go around the circle. Each person reads one sentence from their journal or paraphrases. Then move on. No comments, no advice — and nobody fixes anybody across the family line. If a parent starts responding to their teen’s answer, even kindly: “Just receive it. We’re noticing tonight, not fixing.”
+- Teens often default to “my phone” for thorny soil. Push gently for one specific incident this week, not the category.
+- Teens may try to be impressive, or funny. Honor it briefly, then gently: “What’s the truer one underneath that one?”
+- Parents may give their teen-relevant answer (“the rocky soil is my son’s faith”). That is a valid answer but it is about someone else. Gently: “What’s the rocky soil that’s in your own heart?”
+- Some parents will be doing this kind of work for the first time. Honor it. “Thanks for going. That was a real answer.”
+- If a parent surfaces marital strain or addiction or grief that is heavier than the cluster can hold: acknowledge briefly, plan to follow up after, do not turn the circle into a counseling session — and watch the teen’s face while their parent shares. A teen carrying weight out of the circle gets a quiet check-in before they leave.
+- If someone says something heavier than expected (“rocky is when we fight at home”), do not process it in the circle. Acknowledge: “Thank you. That’s a hard one. We’ll hold that.” Move on. Note the disclosure for follow-up per Section 6.
+- If someone wants to debate the parable (“Is the path soil saved or not?”), redirect quickly. “Good question for another day. Tonight we’re working on noticing.”
+- If you finish the four questions early, use the remaining time for one extra round: “Which of the four soils landed first when you read Mark 4 yesterday?”
 
-## Script (Senior cohort)
+## Block 5 — Re-Merge and Shared Debrief (8:03–8:15, 12 min)
 
-“We just heard the parable. Here’s the move I want us to make. Most of us, when we hear that parable, instinctively try to figure out which soil we are. That’s the wrong question. You’re not one soil. You’re all four, in different parts of your life, and the work of being honest with yourself starts with naming where each one shows up specifically.
-
-“Four questions. We journal for two minutes after each, then share. The sharing rule: be specific. Not ‘the cares of the world’ — ‘the comparison loop I run in my head whenever I open Instagram.’ Specific.
-
-“Two additional notes. One — you’re old enough to be honest about complicated things. We are not going to interrupt or fix you. Two — if a question goes somewhere you’re not ready to share, that’s a complete answer. Just say so. We move on.
-
-“Okay. Question one.”
-
-### The four questions — senior version
-
-1. **Path soil.** Where am I hearing without listening? Specifically: where in my interior life is the ground hard right now — where does God’s word arrive and never penetrate? Could be a category of scripture I tune out. Could be a part of my own life I refuse to bring before God. Could be a relationship I’ve hardened myself in. Name one specific place.
-2. **Rocky soil.** What spiritual experiences have I had that didn’t stick? What was the sun that came up that revealed there were no roots? Cost. Social pressure. Doubt. A season of life. The transition from middle to high school. The transition out of a youth group culture into something more demanding.
-3. **Thorny soil.** What is choking me right now? Jesus names three: the cares of the world, the deceitfulness of riches, and the desires for other things. At your age, the deceitfulness of riches usually doesn’t mean money — it means the lie that more achievement, more recognition, more visibility, more followers, more validation, will satisfy. Which thorn is loudest in your life right now? Be specific.
-4. **Good soil.** Where has there been real fruit? Not what I’m supposed to say. Where has something God planted actually produced 30, 60, 100 fold? An actual change in how I treat someone. An actual habit that has reshaped how I think. An actual conviction that has cost me something and is still standing.
-
-### Senior cohort facilitation notes
-
-- Senior teens will sometimes try to be impressive in their answers. Honor the impressive answer briefly, then gently: “What’s the truer one underneath that one?”
-- Senior teens may want to debate the parable (“Is the path soil saved or not?”). Redirect quickly. “Good question for another day. Tonight we’re working on noticing.”
-- If the senior cohort is mixed-gender, watch for performance dynamics — boys impressing girls, girls deflecting depth around boys. Name it gently if it shows up. “Is there a more honest answer than the one you just gave?”
-- If a senior says something heavier than expected (suicidal hint, abuse hint, eating-disorder hint), follow Section 6 of Handbook. Acknowledge briefly in circle. Pull aside after.
-- Run all four questions; do not skip thorny because of time. Thorny is the most diagnostic for this age group.
-
-## Block 4c — Split: Parent Circle Diagnostic (7:37–8:05, 28 min)
-
-**Cohort Companion (Parent):** Run the diagnostic in the parent circle. Use Handout H2.3 (Parent). Parents are old enough for adult depth and may need permission to take it.
-
-## Script (Parent circle)
-
-“Something I want to name out loud. We’re here without our kids in the room. That is on purpose. Some of you have not done this kind of work in a long time. Some of you have never done it. Some of you do this regularly with a small group. Whatever your starting point, the four questions are the same.
-
-“The difference for us tonight is that we have decades of life to draw from, which means we get to be specific in ways our teens can’t yet. The deceitfulness of riches isn’t a category for us — it is something that has actually deceived us for years and we know it by name. The cares of the world aren’t abstract — we are carrying them right now, this week.
-
-“Two container reminders. First, this circle stays in this circle, including from our kids. Second, your kids are doing the same work down the hall. Be honest tonight so they can be honest with their own circle.
-
-“Okay. Four questions. Two minutes journaling, four to five minutes sharing. We start.”
-
-### The four questions — parent version
-
-1. **Path soil.** Where in my life right now is the ground hard — where does God’s word arrive and not penetrate? In what specific area have I stopped expecting God to actually speak? Marriage. Parenting. Career. Body. Money. A specific old wound. Pick one and be specific.
-2. **Rocky soil.** Where in my life have I had spiritual seasons that didn’t last? What was the sun that came up that revealed the shallowness? A difficult life event. A career transition. A loss. Disillusionment with a church or a leader. The fatigue of midlife. Be specific about the season and about what burned away.
-3. **Thorny soil.** What is choking me right now? Cares of the world: career intensity, financial pressure, kids’ schedules, aging parents, marriage strain. Deceitfulness of riches: the achievements I have pursued that have not satisfied the way I thought they would. Desires for other things: what am I privately wishing for that, if I got it, would crowd out what God is trying to grow?
-4. **Good soil.** Where has there been real fruit in my life that I could not have produced myself? Not what looks good from the outside — actual fruit. A character change. A repaired relationship. An overcome addiction or compulsion. A capacity that wasn’t there ten years ago. Name one and notice that God planted it.
-
-### Parent circle facilitation notes
-
-- Some parents will try to give their teen-relevant answer (“the rocky soil is when my son walked away from his faith”). That is a valid answer but it is about someone else. Gently: “What’s the rocky soil that’s in your own heart, separate from your kid’s?”
-- Some parents will be doing this for the first time. Honor it. “Thanks for going. That was a real answer.”
-- If a parent surfaces marital strain or addiction or grief that is heavier than the circle can hold: acknowledge briefly, plan to follow up after, do not turn the circle into a counseling session.
-- If a parent is more advanced than the rest of the room and wants to teach or expand, gently: “Save that for the share-out at the merge. For now, just one specific answer to the question.”
-
-## Block 5 — Re-Merge and Shared Debrief (8:08–8:20, 12 min)
-
-After the split, the cohort returns to the single circle. The merge is short and intentional. Do not allow detailed sharing across cohorts — the diagnostic stays in the cohort circle. The merge is for landing, not for repeating.
+After the cluster work, the cohort returns to the single circle. The merge is short and intentional. Do not allow detailed sharing across clusters — the diagnostic stays in the cluster. The merge is for landing, not for repeating.
 
 ## Script
 
-“Welcome back. We are not going to share the specifics of what came up in your circle. That stays in your circle. We’re going to do two things. First, one word from each of you — just a word that captures what tonight surfaced. Could be ‘thorny.’ Could be ‘path.’ Could be ‘good’ if you saw something good. Could be ‘tired.’ Whatever is true.
+“Welcome back. We are not going to share the specifics of what came up in your cluster. That stays in your cluster. We’re going to do two things. First, one word from each of you — just a word that captures what tonight surfaced. Could be ‘thorny.’ Could be ‘path.’ Could be ‘good’ if you saw something good. Could be ‘tired.’ Whatever is true.
 
 (Round the circle. Each person says one word. Hold each word for a beat.)
 
@@ -318,19 +271,31 @@ After the split, the cohort returns to the single circle. The merge is short and
 
 “Here’s what I want you to take from tonight. The good soil is the one Jesus calls fruitful. Not soil that has no rocks. Not soil that has no thorns. Soil that hears, accepts, and produces. Some of you are tonight noticing rocks and thorns. That noticing is not the opposite of being good soil. It is what good soil does — it pays attention. The next two weeks of practice are about staying with the noticing, not fixing it.”
 
-## Block 6 — Between-Session Practice (8:20–8:25, 5 min)
+## Block 6 — Between-Session Practice (8:15–8:20, 5 min)
 
 **Co-Comp (Parent) leads.** Keep it short and clear.
 
 ## Script
 
-“Here’s the practice for this week. Three times between now and next Tuesday — not every day, three times — take five minutes with your journal and ask yourself: today, where did the path show up? Where did the rocky show up? Where did the thorny show up? Where did the good soil show up? One sentence per soil. Specific. Not general.
+“Here’s the practice for this week. Three times between now and next Wednesday — not every day, three times — take five minutes with your journal and ask yourself: today, where did the path show up? Where did the rocky show up? Where did the thorny show up? Where did the good soil show up? One sentence per soil. Specific. Not general.
 
 “The rule is the same as last week’s: no fixing. We are noticing. The Spirit fixes. Our job is to pay attention.
 
 “Keep last week’s morning practice going too if you can — asking the Father, ‘What are you up to today?’ question. The two practices stack. Five minutes morning, sixty seconds evening, plus three soil journals across the week.”
 
-## Block 7 — Closing Container and Aaronic Blessing (8:25–8:30, 5 min)
+## Block 7 — The Leader Feedback Round (8:20–8:25, 5 min)
+
+*The evening’s leader closes the working part of the evening the same way every week.*
+
+## Script
+
+“Before we close — two things from me, same as every week. What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”
+
+Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
+
+*(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
+
+## Block 8 — Closing Container and Aaronic Blessing (8:25–8:30, 5 min)
 
 Run the six-step closing protocol from the Handbook, abbreviated for the 5-minute window. Hit:
 
@@ -342,27 +307,20 @@ Run the six-step closing protocol from the Handbook, abbreviated for the 5-minut
 
 # Differentiation Notes
 
-## Junior cohort (12–14)
+## Teens (high school)
 
-- Concrete, specific, this-week language. “Name one specific thing that happened on Tuesday” rather than “tell me about your spiritual life.”
-- The sample answers in the diagnostic should be one sentence each, not paragraphs.
-- Watch for the kid who tries to give the “right” answer because they are at church. Gently: “That’s a great church answer. What’s a more real one?”
-- Junior teens may be the most concrete and incisive in the room. Honor it when it happens — do not assume juniors will always be shallowest.
-- If a junior surfaces something heavy (family conflict, friend in crisis, body image issue), Section 6 protocol applies. Quiet acknowledgment, follow up after.
-
-## Senior cohort (15–18)
-
-- Senior teens can hold abstraction — the diagnostic questions for them can include identity, performance, and the specific adolescent versions of the deceitfulness of riches.
+- Teens can hold abstraction — the diagnostic questions for them can include identity, performance, and the specific adolescent versions of the deceitfulness of riches.
+- Concrete, specific, this-week language still wins. “Name one specific thing that happened on Wednesday” rather than “tell me about your spiritual life.”
 - The thorny soil question is the most powerful for this age group. Spend the most time there if you have to choose.
-- Senior teens may try to perform competence. Stay gentle but firm: “What’s the truer answer?”
-- Senior teens may have done some real spiritual work already and have language for it. Let them use it. Do not dumb things down for them.
-- The senior cohort is most at risk for surfacing material that needs follow-up: anxiety, depression, eating disorder behaviors, identity questions, doubts about faith. Section 6 protocol applies. Two-adult rule for any post-session conversation.
+- Teens may try to perform competence, or give the “right” answer because they are at church. Stay gentle but firm: “That’s a great church answer. What’s a more real one?”
+- Some teens have done real spiritual work already and have language for it. Let them use it. Do not dumb things down for them.
+- Teens are most at risk for surfacing material that needs follow-up: anxiety, depression, eating disorder behaviors, identity questions, doubts about faith. Section 6 protocol applies. Two-adult rule for any post-session conversation.
 
 ## Parents
 
-- Parents need permission to be honest, especially about marriage and money.
-- Some parents will try to make it about their kids (“My rocky soil is watching my daughter walk away from her faith”). Redirect to the parent’s own heart.
-- Parents who are recovering from addictions or losses may surface deep material. Honor it without turning the circle into a recovery group.
+- Parents need permission to be honest, especially about marriage and money — and this year they are being honest with their own teen in the circle. That is the design, not a hazard: the parent’s honesty is what buys the teen’s.
+- Some parents will try to make it about their kids (“My rocky soil is watching my daughter walk away from her faith”). Redirect to the parent’s own heart — especially with the kid sitting three chairs away.
+- Parents who are recovering from addictions or losses may surface deep material. Honor it without turning the cluster into a recovery group.
 - If a parent’s answers consistently feel surfacy, do not force depth in Week 2. The trust is still building. Week 5 (Confession and Restoration) is the natural place for deeper parental work.
 
 # Closing Practice Details
@@ -395,69 +353,40 @@ Companion team meets the day after Week 2 for a 30-minute debrief.
 
 ### Signs the session worked
 
-- The cohort moved into the split spaces without resistance. (Indicates the container is real.)
-- Each cohort circle had at least one person say something genuinely honest — not just the right answer.
+- The room moved into the family clusters without resistance. (Indicates the container is real.)
+- Each cluster had at least one person say something genuinely honest — not just the right answer — and the opening parents went first and went real.
 - At the merge, the one-word landings were varied and specific (“thorny,” “seen,” “stuck,” “relieved”), not all generic.
 - Parents and teens left treating each other with more attention than usual. (Watch the parking lot.)
-- At least one participant in each cohort had a moment of recognition — the visible “oh” when something landed.
+- At least one participant in each cluster had a moment of recognition — the visible “oh” when something landed.
 
 ### Signs the session did not work as well as it could have
 
-- The split felt awkward or self-conscious. (May indicate insufficient container in Week 1.)
-- All the answers in a cohort were generic (“my phone,” “being busy”). Indicates the Companion did not push for specificity.
+- The move into clusters felt awkward or self-conscious. (May indicate insufficient container in Week 1.)
+- All the answers in a cluster were generic (“my phone,” “being busy”). Indicates the Companion did not push for specificity.
+- A parent was cold-called to open, or a teen was asked to go first. The parents-first arrangement is made before the session, every time.
 - Anyone gave a polished testimony instead of an honest answer.
 - The teaching block ran long and the diagnostic got rushed.
-- The merge debriefed details from the cohort circles, breaking the within-cohort confidentiality.
+- The merge debriefed details from the clusters, breaking the within-cluster confidentiality.
 
 ### If the session did not work — what to adjust for Week 3
 
 - If specificity was the issue, model harder in Week 3. The Companion goes first in storytelling and goes specifically.
-- If the split felt unsafe, slow Week 3’s opening. Re-name the container conditions before the split into circles of 4–5.
+- If the clusters felt unsafe, slow Week 3’s opening. Re-name the container conditions before the move into clusters.
 - If pacing was off, cut the teaching in Week 3. Storytelling is the experiential, and storytelling cannot be cut.
-- If a Cohort Companion pushed too hard or too softly, adjust pairings in Week 3 if needed.
+- If a Cluster Companion pushed too hard or too softly, adjust cluster assignments in Week 3 if needed.
 
 ### People to follow up with
 
 - Anyone who surfaced material that approached crisis-level (suicidal ideation, abuse hint, eating disorder behavior, family violence). Section 6 protocol within 48 hours, two-adult rule for teens.
 - Any parent who broke down or surfaced something heavy. Pastoral 1:1 within the week.
-- Any teen whose parent surfaced something heavy in the parent circle — the teen does not know, but the team should be aware that home dynamics may be tender for the next week.
-- Any participant who gave only generic answers and seemed to be holding back. Informal contact, no pressure, just “How did Tuesday land?”
+- Any teen who heard their parent surface something heavy in the cluster — home dynamics may be tender for the next week. The Cluster Companion confirms the teen left settled, and the team stays aware and watching.
+- Any participant who gave only generic answers and seemed to be holding back. Informal contact, no pressure, just “How did Wednesday land?”
 
 # Handouts
 
-Three diagnostic handouts — one per cohort. Each is on its own page below. Print as needed.
+Two diagnostic handouts — teen and parent. In the cluster, each participant works from their own card. Each is on its own page below. Print as needed.
 
-**Handout H2.1 — Heart Soil Diagnostic (Junior, ages 12–14)**
-
-*This is not a test. It is a way of paying attention. Jesus tells us in Mark 4 that there are four kinds of soil. We have all four going on at once, in different parts of our lives. The work is to notice where each one shows up.*
-
-*For each question, write one or two sentences in your journal. Be specific — about this week, this month, this place. We’ll share what we want with the circle.*
-
-## 1. Path soil
-
-Some seeds fell on the path and birds came and ate them up. The seeds never even got into the dirt.
-
-**Where in your life does God’s word feel like that — like it bounces off without ever sinking in? Pick one specific place this week. (At school? At church? In your family? When you’re alone with your phone? Somewhere else?)**
-
-## 2. Rocky soil
-
-Some seeds sprang up quickly because the dirt was shallow, but when the sun came out they withered because they had no roots.
-
-**Where in your life have you been excited about something with God for a while — maybe at a camp, a retreat, a worship night, a great conversation — but it didn’t last? What was the sun that came up?**
-
-## 3. Thorny soil
-
-Some seeds grew but the thorns choked them.
-
-**What things in your life are the loudest right now — the things that fill up so much space that other things don’t have room to grow? Be honest. (Phone, social media, friend group drama, sport, school stress, comparison to other kids, anxiety about something specific.)**
-
-## 4. Good soil
-
-Some seeds grew and produced 30, 60, 100 times what was planted.
-
-**Where in your life has something God planted actually grown? Be specific. (A friendship that’s deeper than friendships used to be? A way you’re kinder than you used to be? A habit that has actually changed something?) Don’t be modest. Just notice.**
-
-**Handout H2.2 — Heart Soil Diagnostic (Senior, ages 15–18)**
+**Handout H2.2 — Heart Soil Diagnostic (Teen)**
 
 *This is not a personality test. The wrong question is “which soil are you?” — we are all four, in different parts of our lives. The right question is: where does each soil show up specifically right now?*
 
@@ -481,7 +410,7 @@ Some seeds grew and produced 30, 60, 100 times what was planted.
 
 **Handout H2.3 — Heart Soil Diagnostic (Parent)**
 
-*This is the same diagnostic our teens are doing in their cohort circles, with adult specificity. Your kids are doing the same work. Be honest tonight so they can be honest with their own circle.*
+*This is the same diagnostic our teens are working through beside us, with adult specificity. In the cluster, a parent answers first on every round. Be honest tonight so your teen can be honest after you.*
 
 *Two minutes journaling per question. Specific, not abstract. The deceitfulness of riches isn’t a category for us — it is something that has actually deceived us, and we know it by name.*
 

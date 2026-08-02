@@ -36,7 +36,7 @@ We are not a licensing body, a credentialing organization, or a certifying insti
 
 # The unit of trust is the covering
 
-A Formation Companion's standing is exactly this: **a named covering, close enough to see their life, says so — and keeps saying so only as long as they can see it.** The commissioning at the end of a series (the Week 15 rite, and its like) is that covering's public word about a person they watched form. It is a *sending*, not a certificate. It means everything inside the household that witnessed it. It claims nothing anywhere else.
+A Formation Companion's standing is exactly this: **a named covering, close enough to see their life, says so — and keeps saying so only as long as they can see it.** The commissioning at the end of a series (the Week 22 rite, and its like) is that covering's public word about a person they watched form. It is a *sending*, not a certificate. It means everything inside the household that witnessed it. It claims nothing anywhere else.
 
 The same nearness that grants standing can withdraw it. The covering that laid hands on a Companion can take them off — quietly, locally, restoratively where possible. No distant board is needed for this, and none could do it as well.
 

@@ -162,7 +162,6 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 **•** Three cohort spaces with chairs in small circles. Shared circle for opening / closing / merge.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -184,7 +183,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door, phone-box. |
+| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. |
 | 7:00–7:08 | Block 1: Open + 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Tonight is honest cohort assessment.’ |
 | 7:08–7:18 | Block 2: 1 Cor 12 + five-level taxonomy (teaching) | Shared circle | Lead Companion | Read passage. Walk the taxonomy briefly; H11.2 walked. |
 | 7:18–7:23 | Transition to cohort spaces | All | All Companions | Move into cohort circles. |
@@ -200,7 +199,7 @@ Forty-eight hours before Wk 11, the Companion team meets for ninety minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

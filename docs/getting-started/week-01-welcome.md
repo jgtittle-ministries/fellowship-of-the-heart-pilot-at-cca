@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, May 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -30,7 +30,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** All four (introductory level).
 
-**Mode.** Shared circle the entire session. No parallel split in Week 1.
+**Mode.** Shared circle the entire session. Family clusters begin in Week 2 — two or three whole families per circle, own family always together.
 
 **Center.** First experience of the full container protocol with this cohort. Each participant says one true sentence about why they are here.
 
@@ -75,7 +75,7 @@ Vol 2 sources for tonight:
 2. Vol 2 Fifth Exploration — the four Connects sequence: Self → Others → God → Mission.
 3. Vol 2 Eighth Exploration — the four container conditions (Safe, Present, Clear, Intentional).
 
-**Dependencies.** Week 1 depends only on the Family Orientation Night having happened. Week 1 is itself the dependency for Weeks 2–15 — the container experienced tonight is what the rest of the series will build on. If the container does not form tonight, slow down before you accelerate.
+**Dependencies.** Week 1 depends only on the Family Orientation Night having happened. Week 1 is itself the dependency for Weeks 2–22 — the container experienced tonight is what the rest of the series will build on. If the container does not form tonight, slow down before you accelerate.
 
 # Pre-Work for Participants
 
@@ -101,7 +101,6 @@ Do not share with each other. The first sharing happens in the circle.
 ### Materials checklist
 
 - Chairs in a single circle, one per participant. No table in the middle.
-- Phone-box at the door (a labeled wooden or cardboard box). Sign on the box: “Phones rest here for the next 90 minutes.”
 - Name tags + markers (first names only).
 - Personal Heart Journal for each participant. (Distributed at orientation; remind participants to bring tonight.)
 - Welcome packet (one page) — see Handout H1.1.
@@ -123,9 +122,9 @@ If you have more than 24 participants, use two concentric semicircles rather tha
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Final RSVP confirmations; print welcome packets and blessing cards; verify all Personal Heart Journals are distributed. | Lead Comp |
-| Day before | Walk the room. Confirm phone-box, name tags, snacks, journals, Bible, board markers, tissues. Phone the pastoral / clinical backup person to confirm availability. | Lead Companion + Co-Comp |
+| Day before | Walk the room. Confirm name tags, snacks, journals, Bible, board markers, tissues. Phone the pastoral / clinical backup person to confirm availability. | Lead Companion + Co-Comp |
 | T-30 min | All Companions in the room. Pre-draw the four Connects diagram on the board. Set out chairs. Set name tags and markers at the door. Pray together as a team. | All Companions |
-| T-15 min | Door opens. One Co-Companion at the door welcoming, handing out name tags, pointing to the phone-box. | Co-Comp (Teen) |
+| T-15 min | Door opens. One Co-Companion at the door welcoming, handing out name tags. | Co-Comp (Teen) |
 | T-0 | Begin on time. | Lead Comp |
 
 # Detailed 90-Minute Run Sheet
@@ -135,7 +134,7 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
 | 6:30 | Setup. All Companions in the room. Final walk-through. | — | Team | 30 |
-| 6:45 | Door opens. Greet, name tags, phone-box, light snacks. | Open | Teen Comp | 15 |
+| 6:45 | Door opens. Greet, name tags, light snacks. | Open | Teen Comp | 15 |
 | 7:00 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 5 |
 | 7:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
 | 7:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
@@ -144,9 +143,9 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 | 7:55 | Scripture: John 10:10b — short reading and reflection. | Shared | Lead Comp | 10 |
 | 8:05 | Between-session practice introduced. | Shared | Parent Comp | 5 |
 | 8:10 | Closing container — first full closing protocol. | Shared | Lead Comp | 10 |
-| 8:20 | Aaronic blessing and dismissal. | Shared | Lead Comp | 5 |
-| 8:25 | Buffer / dismissal / cleanup. | — | Team | 5 |
-| 8:30 | End. | — | — | — |
+| 8:20 | The Leader Feedback Round — debut. | Shared | Lead Comp | 5 |
+| 8:25 | Aaronic blessing and dismissal. | Shared | Lead Comp | 5 |
+| 8:30 | End. Dismissal and cleanup follow. | — | Team | — |
 
 # Block-by-Block Scripts and Notes
 
@@ -158,29 +157,27 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 ## Script
 
-“Welcome to the first night of Fellowship of the Heart. My name is \_\_\_\_\_, and along with \_\_\_\_\_ and \_\_\_\_\_ I’ll be facilitating the next fifteen weeks with you. We’re glad you’re here. We mean that. Before we go any further, let me say three things:
+“Welcome to the first night of Fellowship of the Heart. My name is \_\_\_\_\_, and along with \_\_\_\_\_ and \_\_\_\_\_ I’ll be facilitating this club year with you. We’re glad you’re here. We mean that. Before we go any further, let me say three things:
 
 “One. Tonight is the doorway, not the destination. We’re going to do something tonight that some of you may not have done before — we’re going to take real time, in a real circle, with real people, and we’re going to start a journey. The work of Getting Started comes later. Tonight is the door.
 
 “Two. This is not a youth group with parent permission. Every single person in this room — teens, parents, all of us — is here as a participant. There are no chaperones tonight. There are no observers. We are all in this.
 
-“Three. Phones are in the box at the door. If yours is not yet, take a minute now and walk it over. We’ll wait.”
+“Three. For these ninety minutes, silence your phone and put it away. Not because phones are the enemy — because the people in this room deserve our full attention.”
 
-(Pause. Wait. Let people walk to the box. Do not rush this.)
-
-Watch for: parents who try to keep their phones for “emergencies.” If asked, say: “Your spouse and your school have the building’s number. If something is on fire, someone will come and get you. The phone goes in the box.”
+(Pause a moment while phones are silenced. The ask is enough — no collecting, no policing.)
 
 ## Block 2 — What This Is and Isn’t (7:05–7:10, 5 min)
 
 ## Script
 
-“For ninety minutes a week for fifteen weeks, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
+“For ninety minutes at a time across this club year, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
 
 “Here’s what this is. This is a structured chance to do real interior work as a family and as a community. We are going to ask honest questions. We are going to give you a frame for them. We are going to invite the Holy Spirit to do what only the Holy Spirit can do, and we are going to try to get out of His way.
 
 “Here’s what this isn’t. This isn’t a Bible study where we read a chapter and discuss it. It isn’t a youth group where you play games and have a snack and go home. It isn’t therapy. We aren’t licensed, and we aren’t pretending to be. If something heavy comes up for you across Getting Started, we have a list of qualified counselors who can help, and we’ll connect you.
 
-“What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend the next fifteen weeks practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
+“What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend this year together practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
 
 ## Block 3 — The Four Connects, Kitchen-Table Version (7:10–7:20, 10 min)
 
@@ -198,11 +195,11 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 “So there are four. (Point to the diagram.) Connecting with Self. Connecting with Others. Connecting with God. Connecting with Mission. They aren’t separate topics. They’re a sequence. You can’t connect with others until you’re honest with yourself. You can’t connect with God in a way that goes beyond performance until you’re honest with yourself and have at least one person who knows your interior life. And you can’t live the mission God prepared for you until the first three connections are real.
 
-“Over the next fifteen weeks, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next three weeks are about Self. Two weeks after that, about Others. Five weeks after that, about God — including learning to hear Him, which we’ll practice until it’s yours. Then Mission. Then a week to build the rhythm you’ll carry when the Tuesdays end. Then we send each other out.
+“Over this year together, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next three sessions are about Self. Two sessions after that, about Others. Five sessions after that, about God — including learning to hear Him, which we’ll practice until it’s yours. Then Mission. Then a session to build the rhythm you’ll carry when the Wednesdays end. Then we send each other out.
 
-“That’s the map. Don’t worry about memorizing it. These fifteen weeks will teach it to you.”
+“That’s the map. Don’t worry about memorizing it. These twenty-two weeks will teach it to you.”
 
-Watch for: junior teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
+Watch for: teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 
 ## Block 4 — Container Introduction — First Full Opening Protocol (7:20–7:35, 15 min)
 
@@ -210,7 +207,7 @@ This is the most important block of Week 1. Do not rush it.
 
 ## Script
 
-“We’re going to do something tonight, and every week for the next fifteen weeks, that we call ‘the container.’ The container is what makes a meeting different from real interior work. Without the container, this is just a class. With the container, this becomes a place where the Spirit is invited to move.
+“We’re going to do something tonight, and every session this year, that we call ‘the container.’ The container is what makes a meeting different from real interior work. Without the container, this is just a class. With the container, this becomes a place where the Spirit is invited to move.
 
 “There are four conditions for a real container. I’ll name them once. (Reads from board or holds up card.) Safe. Present. Clear. Intentional.
 
@@ -246,7 +243,9 @@ Have the cohort stand. Walk through the eight-step opening container protocol fr
 
 “I’ll go first. (Then go first. Use a short, true sentence — not a polished one. Model the depth and length you want.)
 
-“Okay. We’ll go around to my left. Take your time. We have twenty minutes for this and we’ll fill them all if we need to.”
+“Okay. \_\_\_\_\_ has agreed to go next, and then we’ll go around the circle from there. Take your time. We have twenty minutes for this and we’ll fill them all if we need to.”
+
+(The person who goes second is a parent, arranged with them before the session — never a cold call, and never a cold call on a teen. A parent opens every sharing round in this series; teens choose their own depth after, and passing always holds.)
 
 ### Companion goes first — example sentences
 
@@ -258,8 +257,8 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 ### What to watch for
 
-- Junior teens may freeze. Have a small sentence stem ready: “One reason I’m here tonight is \_\_\_.” Offer it gently if a 12-year-old goes silent for more than 5 seconds.
-- Senior teens may try to be funny or deflect. Honor it briefly, then gently: “Is there a true sentence under that one?”
+- Some teens may freeze. Have a small sentence stem ready: “One reason I’m here tonight is \_\_\_.” Offer it gently if a teen goes silent for more than 5 seconds.
+- Some teens may try to be funny or deflect. Honor it briefly, then gently: “Is there a true sentence under that one?”
 - Parents may try to give a speech. After the second sentence, hold up two fingers gently — “one sentence.”
 - Anyone who passes — acknowledge with “Thanks. We’re glad you’re here.” Move on without ceremony.
 - If someone says something heavier than expected (“I’m here because I’m drowning”), do NOT process in the circle. Simple: “Thank you for trusting us with that. We will hold that. Let’s keep going.” Follow up after.
@@ -280,7 +279,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “Here is the question I want you to take home with you tonight. Not to answer right now. To carry. ‘Where in my life am I living abundantly, and where am I living some thinner version of life that Jesus did not come to give me?’
 
-“We will spend the next fifteen weeks unpacking that. For tonight, just hold the question.”
+“We will spend the rest of this year unpacking that. For tonight, just hold the question.”
 
 ## Block 7 — Between-Session Practice (8:05–8:10, 5 min)
 
@@ -308,7 +307,19 @@ Adaptations for Week 1 closing:
 - For blessings, in Week 1, do not press. People do not yet know each other well enough to bless specifically. If anyone does offer one, honor it. If no one does, that is fine.
 - For closing prayer, the Lead Companion prays briefly. 30 seconds, naming the Holy Spirit specifically.
 
-## Block 9 — Aaronic Blessing and Dismissal (8:20–8:25, 5 min)
+## Block 9 — The Leader Feedback Round (8:20–8:25, 5 min)
+
+*The evening’s leader closes the working part of the evening the same way every week. Tonight is the debut, and the Lead Companion models it on themselves.*
+
+## Script
+
+“One more thing before the blessing. We’re going to end every week the same way, and I go first. Two things from me, same as every week from here on: What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”
+
+Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
+
+*(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
+
+## Block 10 — Aaronic Blessing and Dismissal (8:25–8:30, 5 min)
 
 ## Script
 
@@ -330,21 +341,17 @@ Adaptations for Week 1 closing:
 
 # Differentiation Notes
 
-Week 1 runs as a single shared circle, so differentiation is in how Companions engage rather than in separate content. The same material lands differently for each cohort; the Companion team adjusts in real time.
+Week 1 runs as a single shared circle, so differentiation is in how Companions engage rather than in separate content. The same material lands differently for teens and parents; the Companion team adjusts in real time.
 
-## Junior cohort (12–14)
+## Teens (high school)
 
 - Speak in concrete examples, not abstractions. Instead of “interior life,” say “what’s actually going on inside your head when you’re lying in bed at night.”
-- Watch for the 12-year-old who freezes during “one true sentence.” Be ready with the sentence stem.
-- Honor passing without ceremony — do not make a 12-year-old feel like passing was a failure. “Thanks. We’re glad you’re here” and move on.
-- Eye contact matters. Junior teens read your face more than your words. If you are stressed or rushed, they will mirror it.
-
-## Senior cohort (15–18)
-
-- Senior teens will test you. They want to see if you actually mean what you say about safety, judgment, and being real. The first deflective or sarcastic comment in the circle is a test. Honor it briefly, then gently invite the truth underneath.
-- Senior teens may pre-write polished sentences. The first time you hear one, gently: “That’s a great sentence. What’s the truer one underneath it?”
-- Senior teens are watching their parents to see how the parents engage. If the parents are real, the teens will be real. If the parents are performing, the teens will perform.
-- Several seniors will be self-conscious about the parallel-circles design starting in Week 2. Acknowledge it tonight: “We’ll be in separate circles for some of the work starting next week. That is on purpose. Trust the design.”
+- Teens will test you. They want to see if you actually mean what you say about safety, judgment, and being real. The first deflective or sarcastic comment in the circle is a test. Honor it briefly, then gently invite the truth underneath.
+- Some teens may pre-write polished sentences. The first time you hear one, gently: “That’s a great sentence. What’s the truer one underneath it?”
+- Watch for the teen who freezes during “one true sentence.” Be ready with the sentence stem, and honor passing without ceremony — “Thanks. We’re glad you’re here” and move on.
+- Teens are watching their parents to see how the parents engage. If the parents are real, the teens will be real. If the parents are performing, the teens will perform.
+- Eye contact matters. Teens read your face more than your words. If you are stressed or rushed, they will mirror it.
+- Some teens will be self-conscious about the family clusters starting in Week 2. Acknowledge it tonight: “Starting next week we’ll do some of the work in smaller circles of two or three families — your own family always together. That is on purpose. Trust the design.”
 
 ## Parents
 
@@ -355,11 +362,11 @@ Week 1 runs as a single shared circle, so differentiation is in how Companions e
 
 # Closing Practice Details
 
-The closing practice for Week 1 has three layers, all part of the standard closing container plus the Aaronic blessing:
+The closing practice for Week 1 has three layers, all part of the standard closing container plus the Aaronic blessing. (The Leader Feedback Round sits between the closing container and the blessing — see Block 9. It debuts tonight and will close the working part of every evening from here on.)
 
 ### Layer 1: One thing I am taking with me
 
-Each participant briefly names what they are taking from tonight. Tonight, expect short answers — “the phone box”, “standing in a circle”, “the word abundantly”, “that I’m really here”. All are valid.
+Each participant briefly names what they are taking from tonight. Tonight, expect short answers — “standing in a circle”, “the word abundantly”, “that I’m really here”. All are valid.
 
 ### Layer 2: One practice I am committing to
 
@@ -383,7 +390,7 @@ Spoken parent-to-teen and teen-to-parent. Use Numbers 6:24–26. The card goes h
 
 **Evening practice.** One sentence in the journal: what did I notice today? Specific. Not “God is good” — “My sister apologized to me before lunch and I think the Spirit prompted her.”
 
-**Why this practice.** It is the simplest entry into the listening posture that the rest of Getting Started is built on. It does not require advanced spiritual technique. A 12-year-old can do it. A 50-year-old can do it. The asking shapes the heart over a week even if no “answer” arrives.
+**Why this practice.** It is the simplest entry into the listening posture that the rest of Getting Started is built on. It does not require advanced spiritual technique. A 15-year-old can do it. A 50-year-old can do it. The asking shapes the heart over a week even if no “answer” arrives.
 
 **Volume 2 source.** Tenth Exploration (Daily / Weekly / Monthly Training Plan).
 
@@ -399,6 +406,7 @@ The Companion team meets the day after Week 1 for a 30-minute debrief. Use these
 - At least one parent said something more honest than they expected to.
 - The cohort stood for the closing without prompting after the first opening.
 - People stayed and talked for at least five minutes after dismissal.
+- The first Leader Feedback Round drew at least two honest voices from the room — even “I’d shorten the teaching” counts as a win.
 
 ### Signs the session did not work as well as it could have
 
@@ -411,7 +419,6 @@ The Companion team meets the day after Week 1 for a 30-minute debrief. Use these
 
 ### If the session did not work — what to adjust for Week 2
 
-- If phones were a problem, address it directly at the open of Week 2. “Last week we had some trouble with this. Tonight, all phones in the box. No exceptions.”
 - If safety was an issue, slow down the container in Week 2 — spend extra time in the open. Re-name the four conditions explicitly. The investment pays back.
 - If parents tried to manage teens, name it gently in Week 2 once — then enforce by redirection on the moment.
 - If pacing was off, cut something. The teaching is always cuttable. The experiential is not.
@@ -419,8 +426,8 @@ The Companion team meets the day after Week 1 for a 30-minute debrief. Use these
 ### People to follow up with
 
 - Anyone who said something heavier than expected during “one true sentence” — gentle 1:1 contact within 48 hours. Two adults present if a teen.
-- Any teen who froze and could not say a sentence at all — informal contact, not formal. Sometimes a 12-year-old just needs to know you remember they were there.
-- Any parent who seemed defensive or dismissive — informal contact from the parent Co-Companion before Week 2. “How did Tuesday land for you?”
+- Any teen who froze and could not say a sentence at all — informal contact, not formal. Sometimes a teen just needs to know you remember they were there.
+- Any parent who seemed defensive or dismissive — informal contact from the parent Co-Companion before Week 2. “How did Wednesday land for you?”
 
 # Handouts
 
@@ -430,7 +437,7 @@ Each handout is on its own page below. Print as needed.
 
 *Fellowship of the Heart — Getting Started series*
 
-Welcome to the journey. Over the next fifteen Tuesday evenings, we will walk together through the four Connects — the spine of the Intentional Journey of the Heart.
+Welcome to the journey. Across this club year together, we will walk through the four Connects — the spine of the Intentional Journey of the Heart.
 
 ### The Four Connects
 

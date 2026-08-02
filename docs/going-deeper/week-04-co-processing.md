@@ -150,7 +150,6 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 **•** Chairs in ONE large single circle, 20–32 chairs with two additional chairs face-to-face in the geometric centre.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -186,7 +185,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Container reframe. Frame: ‘Tonight the room is the practice.’ |
 | 7:08–7:15 | Block 2: Wk 3 landing + standing-pair check | Shared circle | Lead Comp | One word about how the named knot lived this week. Pair partners briefly named to room. |
 | 7:15–7:30 | Block 3: 1 Cor 12 + co-processing teaching | Shared circle | Lead Comp | Read passage. Teach co-processing. Frame the demonstrations to come. |
@@ -203,7 +202,7 @@ Forty-eight hours before Wk 4, the Companion team meets for sixty minutes. The d
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

@@ -180,7 +180,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 **•** Lead Companion’s chair adjacent to the centre chair (about 2 feet to the Bringer’s right). Bringer’s standing pair partner’s chair on the Bringer’s left.
 
-**•** Phone-box at the door. Phones off, not just silent.
+**•** Phones off tonight, not just silenced — this session is listening work.
 
 **•** Personal Heart Journals.
 
@@ -217,7 +217,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, phone-box (off, not silent). |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door; remind: phones off tonight, not silent. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight the cohort listens for one of us.’ |
 | 7:08–7:13 | Block 2: Wk 6 landing | Shared circle | Lead Comp | One word about extended PROAPT and the daily Tells. |
 | 7:13–7:30 | Block 3: 1 Cor 14 + corporate listening teaching | Shared circle | Lead Comp | Read passage. Teach the architecture. Frame the Bringer. |
@@ -234,7 +234,7 @@ Forty-eight hours before Wk 7, the Companion team meets for sixty minutes. The s
 
 ## Script
 
-*“Welcome. Phones off and in the box — not silent, off. Settle.”*
+*“Welcome. Phones off tonight — not silent, off. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

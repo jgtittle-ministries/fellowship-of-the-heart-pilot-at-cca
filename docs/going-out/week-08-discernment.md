@@ -158,7 +158,6 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 **•** Chairs in ONE large circle.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -182,7 +181,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door, phone-box. Confirm fasting (optional). |
+| 6:45–7:00 | Arrival | Single circle | Co-Companion | Door. Confirm fasting (optional). |
 | 7:00–7:08 | Block 1: Open + corporate prayer + 60-second settling | Shared circle | Lead Companion | Aaronic. Acts 13 fasting frame named. Settling. |
 | 7:08–7:18 | Block 2: Acts 13 + cohort-scaled architecture (teaching) | Shared circle | Lead Companion | Read passages. Walk tonight’s scaled architecture. Disciplines named. |
 | 7:18–7:25 | Block 3: Silent settling + contribution preparation | Shared circle | Lead Companion | 7 min silent: each member fills H8.1 with what surfaced in pair conversation. |
@@ -197,7 +196,7 @@ Forty-eight hours before Wk 8, the Companion team meets for ninety minutes. The 
 
 ## Script
 
-*“Welcome. Phones in the box.”*
+*“Welcome.”*
 
 *“If you fasted lunch in preparation for tonight, thank you. The fasting opened hearing in ways our usual rhythms cannot. If you didn’t fast or weren’t able to, we welcome you exactly as you are; the body works with whoever shows up.”*
 

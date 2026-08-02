@@ -4,6 +4,10 @@
 
 *Editorial pass — superseding the prior round's GO/Inviting Others changelog*
 
+# August 2026 — The phone box retired
+
+Sessions no longer collect phones in a box at the door (founder's field ruling, applied across all three series). The Present condition stands — phones silenced and put away, attention in the room — but as a simple ask, not a ritual.
+
 # June 2026 — Architectural conflict resolved (Design B chosen for Going Out)
 
 The Design A vs Design B conflict described below under 'Architectural status' is now **resolved**, via the "both, clearly distinguished" path:

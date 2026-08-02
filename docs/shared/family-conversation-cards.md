@@ -409,7 +409,7 @@ Card 31 • **MISSION**
 
 **Anchor —** *Ephesians 2:10*
 
-**Use it —** Half-yearly. Big decisions. After Wk 12 of Getting Started.
+**Use it —** Half-yearly. Big decisions. After Wk 13 of Getting Started.
 
 Card 32 • **MISSION**
 

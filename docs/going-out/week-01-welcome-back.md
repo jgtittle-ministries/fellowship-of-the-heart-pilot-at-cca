@@ -158,7 +158,6 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 **•** Chairs in ONE large single circle, 20–32 chairs depending on cohort composition.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals (carried over from Going Deeper; new ones for any new continuers).
 
@@ -194,7 +193,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Companion (Teen) | Door, name tags, phone-box. Warm welcome. Brief private check-in with Wk 10 Discerner. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Companion (Teen) | Door, name tags. Warm welcome. Brief private check-in with Wk 10 Discerner. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Companion | Aaronic. Frame: ‘Welcome back. Tonight is honest landing.’ |
 | 7:08–7:18 | Block 2: New continuer introductions (if any) | Shared circle | Lead Companion | Brief introductions of any new continuers; gap-period story-share substitute. |
 | 7:18–7:28 | Block 3: Acts 1:1–8 + Going Out architecture (teaching) | Shared circle | Lead Companion | Read passage. Walk the four blocks. Frame the posture shift. |
@@ -210,7 +209,7 @@ Forty-eight hours before Wk 1 of Going Out, the Companion team meets for ninety 
 
 ## Script
 
-*“Welcome back. Phones in the box. Settle.”*
+*“Welcome back. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

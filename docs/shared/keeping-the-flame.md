@@ -39,7 +39,7 @@ One of these, in a tired season, is a tired season. Three or more, holding stead
 
 # The five defenses
 
-**1. Rebuild your own Rhythm Card every cycle — in your own handwriting.** The first competency of a Companion is that your own formation is real and ongoing, not technique over an empty interior. So do what the cohort does in Week 13: a fresh card, honest, not idealized — *what am I actually practicing now?* A leader running last year's rhythm from memory is already coasting.
+**1. Rebuild your own Rhythm Card every cycle — in your own handwriting.** The first competency of a Companion is that your own formation is real and ongoing, not technique over an empty interior. So do what the cohort does in Week 15: a fresh card, honest, not idealized — *what am I actually practicing now?* A leader running last year's rhythm from memory is already coasting.
 
 **2. Stay a sheep somewhere.** Every shepherd needs a room where they are only a member — a standing cadence, outside every line of consequence, where *you* tell the costly things. Being under authority is not the same as having such a room; you can be covered and still have nowhere to be honest. If you lead and have no room like this, finding one outranks everything else on this card. Drift is caught in that room months before your cohort could see it — because the first thing satisfaction kills is the leader's own costly telling.
 

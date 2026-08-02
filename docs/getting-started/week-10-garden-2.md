@@ -6,7 +6,7 @@ Week 10
 
 **The Garden of Your Heart II**
 
-*The second guided run — the cohort returns to the garden deeper for a week of practice; a Companion-in-Formation leads the walk-through, and the adult holds the debrief*
+*The second guided run — the room returns to the garden deeper for a week of practice; a Companion-in-Formation leads the walk-through, and the adults hold the debrief*
 
 ![A green path through the trees.](images/wk07-garden.jpg)
 
@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -28,23 +28,23 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Anchor scripture.** John 15:1–11 (the vine and the branches) and Psalm 23 (the Shepherd in the green pastures). Same anchors as Week 9, on purpose. The room hears them differently now.
 
-**Connect focus.** God. The third of the Connect-with-God sessions. Week 7 taught a hearing posture; Week 9 opened the garden; tonight the cohort walks back in on legs that have already walked there.
+**Connect focus.** God. The third of the Connect-with-God sessions. Week 7 taught a hearing posture; Week 9 opened the garden; tonight the room walks back in on legs that have already walked there.
 
-**Mode.** Shared framing (brief — the room is practiced); SPLIT into cohort circles for the guided exercise; MERGE for one-word landing and closing. The Leader Feedback Round (Section 11.7) runs after the closing container.
+**Mode.** Shared framing (brief — the room is practiced); the guided walk-through runs WHOLE ROOM, senior-led; after the journaling, SPLIT into family clusters — two or three whole families with a Cluster Companion, own family always together — for the sharing; MERGE for one-word landing and closing. (If total attendance is about ten or fewer, skip the clustering — the whole room stays as one circle for the sharing.) The Leader Feedback Round (Section 11.7) runs just before the final blessing.
 
-**Center.** The guided imaginative prayer runs again, 12–15 minutes, read from the same protocol as Week 9 — but tonight, in the circles with a Companion-in-Formation assigned, a senior teen reads it. The adult Cohort Companion is in the circle the whole time, and the moment the walk-through ends, the room passes visibly to the adult for journaling and sharing. Sharing remains by invitation only — silence is a complete answer.
+**Center.** The guided imaginative prayer runs again, 12–15 minutes, read from the same protocol as Week 9 — but tonight a senior teen reads it, for the whole room. The adult Companions are in the room the whole time, and the moment the walk-through ends, the room passes visibly to the adult for journaling — then into family clusters for the sharing, where a parent opens each round (arranged with that parent before the session, never a cold call on a teen). Teens choose their own depth after; sharing remains by invitation only — silence is a complete answer.
 
 **The bright line, in one sentence.** The walk-through is process leadership — scripted, repeatable, a teen's to lead once they have received it. The debrief is care leadership — disclosure-bearing by nature — and it is NEVER the teen's to hold (Section 11.2; the three rules, Section 11.6).
 
 **Between-session practice.** Keep the garden rhythm — two returns this week, 5–10 minutes each. Journal each visit.
 
-**IJH source.** Vol 2 Seventh Exploration; Vol 4 Section 3 on age-appropriate adaptation; handbook Section 11 on the second-running mechanism (see one, do one, in the same series, in front of the cohort).
+**IJH source.** Vol 2 Seventh Exploration; Vol 4 Section 3 on age-appropriate adaptation; handbook Section 11 on the second-running mechanism (see one, do one, in the same series, in front of the room).
 
 ## WATCH FOR (Week 10 specific risks)
 
 - The senior rushing the silences. This is the single most common failure of a first-time guide. The words are easy; the pauses are the work. Rehearse the silences in pre-work by counting them out, and watch for it live.
 - Participants comparing gardens. "My garden was just a backyard." "Hers had a whole orchard." Honor every garden. Jesus meets each person in the garden they actually have — the backyard garden is not the junior varsity garden. Say this at the open if you heard comparison language during the week.
-- The participant whose garden was dark or empty in Week 9 and who is anxious about returning. The Cohort Companion checks in with them BEFORE the session — a quiet word at the door or a message the day before. Going back in is optional. They may sit in the room and pray instead, fully honored, no explanation owed to anyone.
+- The participant whose garden was dark or empty in Week 9 and who is anxious about returning. Their Cluster Companion checks in with them BEFORE the session — a quiet word at the door or a message the day before. Going back in is optional. They may sit in the room and pray instead, fully honored, no explanation owed to anyone.
 - Over-interpretation in the sharing. A week of practice produces confidence, and confidence produces commentary. Receive, never interpret. "Thank you for sharing that" is a complete response.
 - The room treating the second run as a rerun. It is not less than Week 9; it is deeper than Week 9. Frame it that way. The first visit finds the garden; the second visit begins the tending.
 - The spotlight distorting the senior's lead. Tonight is not a performance and must not be framed as one. A script read slowly is completely acceptable — say so out loud to the senior before the night and to the room at the split.
@@ -53,7 +53,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Everything in Week 9's contingencies still holds, at full Section 6 readiness. The garden surfaces grief, wounds, and occasionally significant disclosures — and the second visit sometimes surfaces what the first visit only located.**
 
-**If something surfaces DURING the guided walk-through — crying that is more than tears, visible distress.** Two roles, both rehearsed in pre-work. The senior keeps the room steady: same pace, same volume, do not stop reading, do not look up sharply — the walk-through continues for everyone else. The adult moves to the person: quietly alongside them, a whisper — "I'm here. You can open your eyes whenever you want. Jesus is not in a hurry." If they need to step away, the adult steps to the doorway with them, in sight of the room, and signals the Lead Companion if more is needed. The senior's only job in that moment is the rest of the circle. The adult's only job is the one person. Neither covers for the other.
+**If something surfaces DURING the guided walk-through — crying that is more than tears, visible distress.** Two roles, both rehearsed in pre-work. The senior keeps the room steady: same pace, same volume, do not stop reading, do not look up sharply — the walk-through continues for everyone else. The adult moves to the person: quietly alongside them, a whisper — "I'm here. You can open your eyes whenever you want. Jesus is not in a hurry." If they need to step away, the adult steps to the doorway with them, in sight of the room, and signals the Lead Companion if more is needed. The senior's only job in that moment is the rest of the room. The adult's only job is the one person. Neither covers for the other.
 
 **If something painful surfaces in the sharing.** The sharing is already the adult's room. Receive without interpreting. Bless. Follow up offline within 48 hours. Section 6 protocol for any disclosure that crosses the safety threshold.
 
@@ -69,9 +69,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## Why this session, this week
 
-Getting Started runs its deepest practices twice. The first running is adult-led, and the cohort receives it. The second running completes it — most participants only get all the way in on the second visit — and the second running is the slot a senior leads, protocol in hand, with an adult in the room. See one, do one, in the same series, in front of the cohort (handbook Section 11.3).
+Getting Started runs its deepest practices twice. The first running is adult-led, and the room receives it. The second running completes it — most participants only get all the way in on the second visit — and the second running is the slot a senior leads, protocol in hand, with an adult in the room. See one, do one, in the same series, in front of the room (handbook Section 11.3).
 
-Tonight is that mechanism at its most important, because the Garden is the deepest water in the series. And so tonight is also the clearest illustration of the bright line the whole leadership pathway rests on: the teen leads the scripted, repeatable shape — the guided walk-through — and the adult holds the disclosure-bearing center — the debrief, the sharing, and anything that surfaces. The Garden can open deep water. The debrief is disclosure-bearing by nature. It is never the teen's to hold, and tonight the whole cohort watches that line honored in real time. That witness is itself formation: the juniors learn that leadership has a shape, and the seniors learn that the shape is what keeps everyone safe.
+Tonight is that mechanism at its most important, because the Garden is the deepest water in the series. And so tonight is also the clearest illustration of the bright line the whole leadership pathway rests on: the teen leads the scripted, repeatable shape — the guided walk-through — and the adult holds the disclosure-bearing center — the debrief, the sharing, and anything that surfaces. The Garden can open deep water. The debrief is disclosure-bearing by nature. It is never the teen's to hold, and tonight the whole room watches that line honored in real time. That witness is itself formation: the teens learn that leadership has a shape, the parents watch the shape kept, and the senior learns that the shape is what keeps everyone safe.
 
 One more thing tonight teaches without a word of teaching: a week has passed. Most of the room has been back to the garden between sessions. The guide talks less tonight and the silences run longer, because the room already knows the way.
 
@@ -80,19 +80,19 @@ One more thing tonight teaches without a word of teaching: a week has passed. Mo
 ## From prior sessions
 
 - Week 9: the garden was opened, adult-led. Every participant has been there once; most have returned during the week. Tonight assumes the place is known and goes deeper into it.
-- Week 8: PROAPT II — the cohort has already watched one second running, senior-led. The shape of tonight is familiar even though the depth is not.
+- Week 8: PROAPT II — the room has already watched one second running, senior-led. The shape of tonight is familiar even though the depth is not.
 - Week 6: confession-and-restoration. The second garden visit often walks toward what the first visit only saw at a distance. Honor the resonance.
 - The container is ten weeks old. Tonight leans on it harder than any session so far.
 
 ## Connect focus
 
-God, primary. Self is the lens (your interior). Others (the cohort) provides the holding container — and tonight, for the first time in deep water, one of the cohort's own is holding part of it. Mission is quietly present too: for the senior reading the protocol, standing in that slot is a first taste of what Week 12 will name out loud.
+God, primary. Self is the lens (your interior). Others (the room) provides the holding container — and tonight, for the first time in deep water, one of the room's own is holding part of it. Mission is quietly present too: for the senior reading the protocol, standing in that slot is a first taste of what Week 13 will name out loud.
 
 # Pre-Work for the Companion Team (this week)
 
 ## Personal pre-work
 
-Every Companion returns to the garden at least twice this week themselves, briefly. You led or received it seven days ago; do not let it go cold in you while you ask the cohort to keep it warm. Journal each visit. You will not share this in the room. But you have to know the second-visit texture — what changes, what deepens, what resists — to hold a room full of second visits.
+Every Companion returns to the garden at least twice this week themselves, briefly. You led or received it seven days ago; do not let it go cold in you while you ask the room to keep it warm. Journal each visit. You will not share this in the room. But you have to know the second-visit texture — what changes, what deepens, what resists — to hold a room full of second visits.
 
 ## Coaching the Companion-in-Formation
 
@@ -107,7 +107,7 @@ This is the heart of the week's pre-work. Three parts, none optional.
 Forty-eight hours before Week 10, the Companion team meets for forty-five minutes:
 
 1. Each Companion briefly names their own garden returns this week. (Optional; may be private.)
-2. Confirm the leading assignments: which circle the Companion-in-Formation leads, and which adult Cohort Companion holds each circle's debrief. In circles without a Companion-in-Formation, the adult leads the walk-through as in Week 9.
+2. Confirm the leading assignments: the Companion-in-Formation reads the walk-through for the whole room; name which adult moves if distress surfaces mid-walk-through; and confirm which Cluster Companion holds each family cluster's sharing. Arrange the parents-first openings now: for each cluster, ask a parent ahead of time to open the sharing round — never a cold call on a teen. If no Companion-in-Formation is ready this cycle, an adult leads the walk-through from H9.1 as in Week 9.
 3. Walk the handoff beat out loud — the visible pass from senior to adult at the end of the walk-through. It should be rehearsed enough to be unhurried.
 4. Walk through the crisis contingencies above, including the two-role distress protocol. Each Companion says aloud what they would do.
 5. Name the participants who need a check-in before the session — especially anyone whose Week 9 garden was dark, empty, or painful. Assign the check-ins.
@@ -117,22 +117,21 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 ## Logistics pre-work
 
 1. Print Handout H10.1 — the Companion-in-Formation's Garden Guide Card — on cardstock for the senior, plus one spare. It is the Week 9 protocol with pacing marks and the two handoff rules on one card.
-2. Reprint Week 9's handouts as needed: H9.1 for any adult-led circle, H9.2 (Garden Journal page) for every participant, H9.3 (Note for the Skeptic) for anyone who asks.
-3. Prepare each cohort space for stillness, as Week 9. Lower the lights if possible — tonight runs softer than even Week 9 did. Soft instrumental music remains optional and Companion's-choice.
+2. Reprint Week 9's handouts as needed: H9.1 if an adult leads the walk-through this cycle, H9.2 (Garden Journal page) for every participant, H9.3 (Note for the Skeptic) for anyone who asks.
+3. Prepare the main room for stillness — the walk-through runs there, whole room — and each family-cluster space for the sharing, as Week 9. Lower the lights if possible — tonight runs softer than even Week 9 did. Soft instrumental music remains optional and Companion's-choice.
 
 # Materials and Setup
 
 ### Materials checklist
 
 - Chairs in main room as a single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals.
-- Handout H10.1 for the Companion-in-Formation (plus a spare); H9.1 for adult-led circles; H9.2 for every participant.
-- Three private spaces for cohort circles, comfortable seating in a tight circle. Lights low if possible.
-- Tissues in every cohort space.
+- Handout H10.1 for the Companion-in-Formation (plus a spare); H9.1 if an adult leads the walk-through; H9.2 for every participant.
+- A private space for each family cluster — two or three whole families with their Cluster Companion, comfortable seating in a tight circle. (If total attendance is about ten or fewer, skip the clustering; the whole room stays as one circle for the sharing.) Lights low if possible.
+- Tissues in the main room and every cluster space.
 - Large-print Bible (ESV).
-- Optional instrumental playlist on a phone in airplane mode — Cohort Companion's choice, not required.
-- Clock or timer in each cohort space.
+- Optional instrumental playlist on a phone in airplane mode — Lead Companion's choice, not required.
+- Clock or timer in the main room and each cluster space.
 - Crisis Quick-Reference Card in every Companion pocket.
 - Pastoral / clinical backup on call.
 
@@ -141,10 +140,10 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Senior's three garden returns confirmed. Full-pace rehearsal with the Lead Companion, silences counted out. Distress protocol walked once. Handouts printed. Pastoral backup confirmed. | Lead Comp + CiF |
-| Days before | Check-ins with anyone anxious about returning to the garden — especially a dark or empty Week 9 garden. | Cohort Comps |
+| Days before | Check-ins with anyone anxious about returning to the garden — especially a dark or empty Week 9 garden. Confirm the arranged parent opener for each cluster's sharing. | Cluster Comps |
 | Day before | Walk every space. Lights tested low. Music tested if using. | Lead Comp |
 | T-45 min | Team gathers. Walk the handoff beat and the crisis scenarios. Pray for each participant and for the senior. | All Companions |
-| T-30 min | Each cohort space quietly prepped — tight circle, handouts placed. | All Companions |
+| T-30 min | Main room set for the whole-room walk-through; each cluster space quietly prepped — tight circle, handouts placed. | All Companions |
 | T-15 min | Door opens. | Co-Comp (Teen) |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
@@ -154,16 +153,16 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the second run and name, simply, that a senior leads the walk-through tonight. |
 | 7:08–7:14 | Block 2: Garden week check-in | Shared circle | Lead Comp | One-sentence shares on the week's returns. Honor every garden. |
 | 7:14–7:26 | Block 3: Scripture and brief re-framing | Shared circle | Lead Comp | Re-read Psalm 23 and John 15:1–11. Shorter framing than Week 9 — the room is practiced. |
-| 7:26–7:29 | Block 4: Bridge to split | Shared circle | Lead Comp | Pray. Split. |
-| 7:29–8:02 | Block 5: The Garden exercise in cohort circles | Cohort circles | CiF + Cohort Comps | Senior-led guided walk-through (12–15 min, longer silences); the visible handoff; silent journaling (5 min); adult-held sharing by invitation only (10–12 min). |
+| 7:26–7:29 | Block 4: Bridge to the exercise | Shared circle | Lead Comp | Pray. The room stays together for the walk-through; the move to clusters comes after the journaling. |
+| 7:29–8:02 | Block 5: The Garden exercise — whole room, then family clusters | Whole room → family clusters | CiF + Lead Comp + Cluster Comps | Senior-led guided walk-through, whole room (12–15 min, longer silences); the visible handoff; silent journaling (5 min); then family clusters for adult-held sharing by invitation only, a parent opening each round (10–12 min). |
 | 8:02–8:12 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | One-word landings, optional. Receive without commentary. |
 | 8:12–8:18 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Two returns to the garden this week. Journal each visit. |
-| 8:18–8:24 | Block 8: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
-| 8:24–8:30 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7, full order. Placed AFTER the closing container — see the note in Block 9. If the debrief ran heavy, this moves to the team debrief and the senior is told why. |
+| 8:18–8:23 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing — one merged round, the senior first, the adult second. If the debrief ran heavy, this moves to the team debrief and the senior is told why. See the note in Block 8. |
+| 8:23–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
 
@@ -173,29 +172,29 @@ Tonight opens even quieter than Week 9 did. The room knows where it is going. Le
 
 ## Script
 
-*“Welcome back. Phones in the box. Find a seat.”*
+*“Welcome back. Find a seat.”*
 
 *(Wait. Take the long breath. Lights low if the room allows it.)*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight we go back to the garden. Most of you have been back already this week — some once, some three times, some not at all, and all of that is fine. Tonight is not a rerun of last Tuesday. The first visit finds the garden. The second visit begins the tending.”*
+*“Tonight we go back to the garden. Most of you have been back already this week — some once, some three times, some not at all, and all of that is fine. Tonight is not a rerun of last Wednesday. The first visit finds the garden. The second visit begins the tending.”*
 
-*“One thing is different tonight, and I want to name it simply. In the circles, the guided walk-through will be read by [name] — one of our seniors, who has been preparing for this, and who has been back to their own garden this week to get ready. The words are the same words. They will read from the card, slowly, the same way I did. And when the walk-through is finished, your Cohort Companion takes the room for the journaling and the sharing, same as last week. Nothing about the container changes. What is said in your circle stays in your circle. Nothing is required — not even doing the exercise.”*
+*“One thing is different tonight, and I want to name it simply. The guided walk-through will be read by [name] — one of our seniors, who has been preparing for this, and who has been back to their own garden this week to get ready. The words are the same words. They will read from the card, slowly, the same way I did — and we stay together as one room for the walk-through. When it is finished, the room passes back to me for the journaling, and then we move into our family clusters for the sharing, same as last week. Nothing about the container changes. What is said in your cluster stays in your cluster. Nothing is required — not even doing the exercise.”*
 
 *“Listen to receive.”*
 
 ### Note for the Lead Companion
 
-Name the senior once, warmly, and move on. Do not build it up — a spotlight distorts the very thing the slot is meant to form. The cohort should hear it the way they would hear any other assignment of parts.
+Name the senior once, warmly, and move on. Do not build it up — a spotlight distorts the very thing the slot is meant to form. The room should hear it the way they would hear any other assignment of parts.
 
 ## Block 2 — Garden Week Check-in (7:08–7:14, 6 min)
 
 ## Script
 
-*“Before we go back in: anyone want to say one sentence about a garden visit this week? Not what happened in it — just how the going was. ‘I went twice and it was quieter than Tuesday.’ ‘I meant to and didn’t.’ ‘I went once and it was hard.’ One sentence.”*
+*“Before we go back in: anyone want to say one sentence about a garden visit this week? Not what happened in it — just how the going was. ‘I went twice and it was quieter than Wednesday.’ ‘I meant to and didn’t.’ ‘I went once and it was hard.’ One sentence.”*
 
-*(Take 4–5 voluntary contributions. Receive each one identically.)*
+*(A parent you arranged with before the session offers the first sentence — never a cold call on a teen. Then take 3–4 more voluntary contributions. Receive each one identically.)*
 
 *“Thank you. One thing I want to say back to what I’ve been hearing this week. Some of you have been comparing gardens. ‘Mine was just a backyard.’ Listen: there is no junior varsity garden. Jesus meets each person in the garden they actually have. The backyard He walks into is holy ground because He walked into it. Yours is yours, and He likes it there.”*
 
@@ -221,35 +220,35 @@ Read both passages again, slowly. The framing tonight is much shorter than Week 
 
 • Going back changes things. Some of you found last week that the garden was different on your return — something had grown, or moved, or He was standing somewhere new. That is normal. The garden is not a photograph; it is a living place, because your heart is a living place.
 
-• And some of you found last week that your garden was a hard place to be — dark, or empty, or walled. If that is you, hear this clearly: going back in tonight is optional. You may sit in your circle with your eyes open and simply pray while the others walk. That is not sitting out; that is a faithful way to spend the half hour, and it is fully honored. Nobody will ask you why. He is not in a hurry, and neither are we.
+• And some of you found last week that your garden was a hard place to be — dark, or empty, or walled. If that is you, hear this clearly: going back in tonight is optional. You may sit right where you are with your eyes open and simply pray while the others walk. That is not sitting out; that is a faithful way to spend the half hour, and it is fully honored. Nobody will ask you why. He is not in a hurry, and neither are we.
 
 • Tonight the guide will talk less and the silences will run longer than last week. That is on purpose. You know the way now. The words get you to the gate; the silence is where He meets you.
 
-## Block 4 — Bridge to the Split (7:26–7:29, 3 min)
+## Block 4 — Bridge to the Exercise (7:26–7:29, 3 min)
 
 ## Script
 
-*“Same shape as last week. Guided walk-through, about twelve to fifteen minutes — read slowly, with longer quiet than last time. Then five minutes with your journal, then sharing by invitation only. Silence is a complete answer.”*
+*“Same shape as last week. Guided walk-through, about twelve to fifteen minutes — read slowly, with longer quiet than last time, all of us together in this room. Then five minutes with your journal, then we move into our family clusters for sharing by invitation only. Silence is a complete answer.”*
 
 *“Pray with me. Father, You are the vinedresser. We are going back into the gardens You already know. Walk where You want to walk. Tend what You want to tend. Where it is hard, be tender. Where it is closed, be patient. Where it is opening, keep opening it. Amen.”*
 
-*“Junior teens with [name]. Senior teens with [name]. Parents with [name]. Quieter than usual on the way out.”*
+*“Stay where you are for the walk-through — we go into the garden together tonight. Your family clusters for the sharing are the same as last week; I’ll send you out after the journaling. Quieter than usual, please, as we settle.”*
 
-## Block 5 — The Garden Exercise in Cohort Circles (7:29–8:02, 33 min)
+## Block 5 — The Garden Exercise: Whole Room, then Family Clusters (7:29–8:02, 33 min)
 
-Each cohort circle runs in parallel. In the circle (or circles) with a Companion-in-Formation assigned, the senior reads the guided walk-through from Handout H10.1; the adult Cohort Companion sits in the circle throughout. In circles without a Companion-in-Formation, the adult leads from H9.1 exactly as in Week 9.
+The walk-through runs once, for the whole room, senior-led: the Companion-in-Formation reads the guided walk-through from Handout H10.1, and the adult Companions sit in the room throughout — the pre-named adult ready to move if someone needs them. After the walk-through and the journaling, the room moves into family clusters for the sharing, each cluster held by its Cluster Companion, with the arranged parent opening. (If no Companion-in-Formation is ready this cycle, an adult leads from H9.1 exactly as in Week 9. If attendance is about ten or fewer, there is no move — the whole room stays as one circle for the sharing.)
 
-### Structure inside the cohort circle
+### Structure of the block
 
 ## Phase 1 — Settle (2 min)
 
-**The adult Cohort Companion opens the circle — the container is theirs to set. “Take a breath. Settle. Eyes open or closed. Whatever feels honest. We have time.” Then, simply: “[Name] will read for us tonight.” Two minutes of quiet.**
+**The Lead Companion opens — the container is theirs to set. “Take a breath. Settle. Eyes open or closed. Whatever feels honest. We have time.” Then, simply: “[Name] will read for us tonight.” Two minutes of quiet.**
 
 ## Phase 2 — Guided walk-through, senior-led (12–15 min)
 
 **The Companion-in-Formation reads the protocol from H10.1, slowly, with the marked pauses held at full length — tonight's pauses run longer than Week 9's, and the card marks them. Reading from the card is not a fallback; it is the design. The protocol carries the room; the senior's job is pace and presence, not performance.**
 
-**The adult Cohort Companion's job during the walk-through is the room, not the reader. Do not mouth along, do not conduct, do not audibly approve. Watch bodies. You are the one who moves if someone needs you.**
+**The adult Companions' job during the walk-through is the room, not the reader. Do not mouth along, do not conduct, do not audibly approve. Watch bodies. The pre-named adult is the one who moves if someone needs them.**
 
 **If distress surfaces mid-walk-through — crying that is more than tears, visible distress — both roles hold: the senior keeps reading, same pace, same volume, eyes on the card; the adult moves quietly to the person. The walk-through continues for everyone else. This was rehearsed. Trust the rehearsal.**
 
@@ -259,17 +258,17 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 **The senior, turning to the adult, unhurried: *“[Name], the room is yours.”***
 
-**The adult, receiving it: *“Thank you, [name]. That was well led.”* One sentence of thanks — no more, this is not the feedback round — and then the adult carries everything from here: the journaling, the sharing, and anything that surfaces.**
+**The adult, receiving it: *“Thank you, [name]. That was well led.”* One sentence of thanks — no more, this is not the feedback round — and then the adults carry everything from here: the Lead Companion holds the journaling, and the Cluster Companions hold the sharing and anything that surfaces.**
 
-**The cohort watches this pass happen every second running, and it teaches them the bright line better than any explanation: the one who reads the walk-through and the one who holds what opens are two different roles, and the handing between them is honorable, not embarrassed.**
+**The room watches this pass happen every second running, and it teaches them the bright line better than any explanation: the one who reads the walk-through and the one who holds what opens are two different roles, and the handing between them is honorable, not embarrassed.**
 
 ## Phase 3 — Silent journaling (5 min)
 
-**Adult-led from here. “Take five minutes. Write in your journal what you noticed. What was the same as last week, what was different, and whatever else is true.”**
+**Adult-led from here, still one room. “Take five minutes. Write in your journal what you noticed. What was the same as last week, what was different, and whatever else is true.” At the five-minute mark, the Lead Companion sends the room quietly into its family clusters.**
 
-## Phase 4 — Sharing by invitation (10–12 min)
+## Phase 4 — Sharing by invitation, in family clusters (10–12 min)
 
-**“We have a few minutes for sharing. By invitation only. Silence is a complete answer.” The adult Cohort Companion goes first, briefly — two sentences, simple — and then around the circle.**
+**In each cluster, the Cluster Companion sets the frame: “We have a few minutes for sharing. By invitation only. Silence is a complete answer.” Then the parent arranged before the session opens, briefly — two sentences, simple — and the round goes from there. A parent opens every sharing round; it is arranged beforehand, never a cold call, and never a cold call on a teen. Teens choose their own depth after the parent has gone, and pass-anytime holds for everyone.**
 
 **Receive without interpreting. A week of practice makes everyone braver about commentary; do not allow it, starting with yourself. “Thank you for sharing that.” Do not analyze. Do not say “God was telling you \_\_\_\_\_.” That is between Him and them.**
 
@@ -285,11 +284,11 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 - If someone opens their eyes, do not react. If someone softly cries, do not stop — the tears are often the work. If someone is in real distress, the adult moves; you keep reading, same pace, same volume.
 - When the walk-through ends, hand the room to the adult, out loud, without hurry. The handing is part of the leading.
 
-### Adult Cohort Companion: special considerations
+### Adult Companions: special considerations
 
-- The container is yours before the reading, the room is yours during the reading (watch bodies, be ready to move), and everything after the reading is yours. The senior carries only the card.
-- Receive the handoff cleanly and warmly. The circle takes its cue from how you receive it.
-- Everything Week 9 said about receiving without interpreting holds double tonight, because the second visit tends to go deeper than the first.
+- The container is the adults' before the reading, the room is the adults' during the reading (watch bodies; the pre-named adult is ready to move), and everything after the reading is the adults': the Lead Companion receives the handoff and holds the journaling; the Cluster Companions hold the sharing. The senior carries only the card.
+- Receive the handoff cleanly and warmly. The room takes its cue from how you receive it.
+- In the clusters, everything Week 9 said about receiving without interpreting holds double tonight, because the second visit tends to go deeper than the first.
 
 ## Block 6 — Merge and One-Word Landing (8:02–8:12, 10 min)
 
@@ -299,9 +298,9 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 *(Wait. The room will be quieter than last week. Honor it.)*
 
-*“What happened in your circle stays in your circle. One word each, when you’re ready — not what was said, but what you noticed. ‘Deeper.’ ‘Same.’ ‘Tender.’ ‘Quiet.’ ‘Harder.’ ‘Found.’ Whatever the true word is. You can pass.”*
+*“What happened in your cluster stays in your cluster. One word each, when you’re ready — not what was said, but what you noticed. ‘Deeper.’ ‘Same.’ ‘Tender.’ ‘Quiet.’ ‘Harder.’ ‘Found.’ Whatever the true word is. You can pass.”*
 
-*(Let the words come. Receive each one. Eye contact. Slight nod. Say nothing else.)*
+*(A parent you arranged with offers the first word. Then let the words come. Receive each one. Eye contact. Slight nod. Say nothing else.)*
 
 *“Thank you. A garden visited twice is a garden being tended. Whatever He is doing in yours, He will keep doing it this week.”*
 
@@ -311,15 +310,27 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 *“The practice this week: keep the garden rhythm. Two returns, five to ten minutes each. You know the way now — you don’t need the script. Go back, walk a little, notice what is the same and what has changed, notice where He is. Journal each visit — even two sentences. The journaling matters more than it seems; the garden speaks slowly, and the journal is how you hear it across weeks instead of only across minutes.”*
 
-*“Same gentle word as last week: if a return surfaces something heavy, you can stop, open your eyes, and come back another day. And tell a trusted adult — your Cohort Companion, a parent, someone you trust. You are not meant to carry the heavy things alone.”*
+*“Same gentle word as last week: if a return surfaces something heavy, you can stop, open your eyes, and come back another day. And tell a trusted adult — your Cluster Companion, a parent, someone you trust. You are not meant to carry the heavy things alone.”*
 
 *“Fresh Garden Journal pages are at the door if you want them.”*
 
-## Block 8 — Closing Container (8:18–8:24, 6 min)
+## Block 8 — The Leader Feedback Round (8:18–8:23, 5 min)
+
+*The evening's leader closes the working part of the evening the same way every week (handbook Section 11.7). Tonight it is one merged round, not two: a senior led the room's deepest practice, so the senior answers first, the adult second, and the room's feedback covers them both.*
+
+Leader: *“Before we close — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+
+Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both. For a first-time guide, pace and the held silences are usually the honest headline; one thing to try differently — one, not a list — is enough.
+
+*(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
+
+**And if the debrief ran heavy** — if the sharing surfaced something that is still visibly in the room at 8:18 — drop this block entirely. The feedback round moves to the team debrief tomorrow, and the Lead Companion tells the senior why, in exactly these terms: protecting the room came first tonight. That sentence is not a consolation; it is the lesson. A leader who watches their own feedback round yielded to the care of the room has learned the bright line from the inside. The blessing still closes the evening either way.
+
+## Block 9 — Closing Container (8:23–8:30, 7 min)
 
 ## Script
 
-*“What happened in your circle is yours. Carry it gently. Don’t debrief it on the way home unless your heart is fully ready to.”*
+*“What happened in your cluster is yours. Carry it gently. Don’t debrief it on the way home unless your heart is fully ready to.”*
 
 *“If something heavy surfaced tonight, please reach out. The team is walking with you.”*
 
@@ -327,50 +338,32 @@ Each cohort circle runs in parallel. In the circle (or circles) with a Companion
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-## Block 9 — Leader Feedback Round (8:24–8:30, 6 min)
-
-The Leader Feedback Round (handbook Section 11.7) runs after the closing container tonight — not, as in other teen-led weeks, immediately after the teen has led. The placement is deliberate: the Garden debrief must not be interrupted by process feedback. The room comes out of Block 5 carrying tender things, and asking it to evaluate a leader before those things are sealed under the closing blessing would break the very container the senior helped hold.
-
-**And if the debrief ran heavy** — if the sharing surfaced something that is still visibly in the room at 8:24 — skip this block entirely. The feedback round moves to the team debrief tomorrow, and the Lead Companion tells the senior why, in exactly these terms: protecting the room came first tonight. That sentence is not a consolation; it is the lesson. A leader who watches their own feedback round yielded to the care of the room has learned the bright line from the inside.
-
-When it runs, it runs in the fixed order:
-
-1. The team names what the senior did well and would want to see again — pace and the held silences are usually the honest headline.
-2. The team names one thing — one, not a list — to try differently next time.
-3. Ask the senior: *“Would you like feedback from the group too?”* The senior decides. If no, the round ends here. No pressure, no exposure.
-4. If yes, popcorn-style to the group: *“What worked well for you? What is one suggestion for them to consider next time?”*
-
 *Stay accessible after the close for at least fifteen minutes, with the two-adult rule held for any teen. Tonight, like Week 9, some will need to talk.*
 
-# Differentiation by Cohort
+# Notes Across the Room (one band, whole families)
 
-## Junior teens (12–14)
+## Teens
 
-## Adjustments
+## Notes
 
-- If the Companion-in-Formation leads the junior circle, they read the junior version of the protocol — more concrete imagery, shorter sentences, the same arc. A senior reading for juniors is often the most natural assignment: the juniors are watching someone only a few years ahead of them do this, and that seeing plants something.
-- Junior teens comparing gardens is most likely in this circle. Land the “no junior varsity garden” line here again if needed, privately and lightly.
-- Watch for the junior whose second visit was flatter than the first and who concludes they “did it wrong.” Affirm: “The garden has quiet weeks. Showing up is the practice.”
-
-## Senior teens (15–18)
-
-## Adjustments
-
-- If the Companion-in-Formation is leading their own peer circle, name the oddness once, lightly, at the settle — “Yes, it’s [name] reading; yes, that’s allowed” — and then treat it as normal, because it is. The peers will follow the adults' lead on how seriously to take it.
-- Seniors are the most likely cohort to go deeper on the second visit — the intellectual guard that was up in Week 9 has usually come down by now. Be ready for weightier shares in this circle, and hold the receive-don't-interpret line firmly.
-- Watch for the senior who spent the walk-through evaluating the reader instead of walking. Gently, afterward: “Next visit, let someone else hold the room. You go into the garden.”
+- The Companion-in-Formation is reading for a room that includes their own friends. Name the oddness once, lightly, at the settle — “Yes, it’s [name] reading; yes, that’s allowed” — and then treat it as normal, because it is. The room will follow the adults' lead on how seriously to take it.
+- Teens often go deeper on the second visit — the intellectual guard that was up in Week 9 has usually come down by now. Be ready for weightier shares in the clusters, and hold the receive-don't-interpret line firmly.
+- Watch for the teen who spent the walk-through evaluating the reader instead of walking. Gently, afterward: “Next visit, let someone else hold the room. You go into the garden.”
+- Watch for the teen whose second visit was flatter than the first and who concludes they “did it wrong.” Affirm: “The garden has quiet weeks. Showing up is the practice.”
+- Watch for comparison language among the teens. Land the “no junior varsity garden” line again if needed, privately and lightly.
 
 ## Parents
 
-## Adjustments
+## Notes
 
-- A parent watching a teenager — possibly their own — lead the room's deepest practice will feel something. Let them feel it. More than one pilot-generation parent has named this sight as the moment the whole series made sense.
-- Parents are the most likely cohort to have skipped the between-session returns (“the week got away from me”). No shame; tonight is the return. The second guided run exists partly for exactly this.
+- A parent watching a teenager — tonight, in the same room, possibly their own — lead the room's deepest practice will feel something. Let them feel it. More than one pilot-generation parent has named this sight as the moment the whole series made sense.
+- Parents are the most likely to have skipped the between-session returns (“the week got away from me”). No shame; tonight is the return. The second guided run exists partly for exactly this.
 - The parent whose Week 9 garden surfaced a wound may arrive braced. The pre-session check-in matters most here; the sit-and-pray option is for parents too, and a parent may need explicit permission to take it.
+- A parent opens the sharing in every cluster — arranged beforehand. A parent sharing simply and honestly about their own garden, in front of their own teens, does more for the room's honesty than any framing the Companion can give. Coach the arranged parent toward two plain sentences, not a polished testimony.
 
 # Closing Practice in Detail
 
-Three layers, same pattern as prior weeks, and shorter than the merge — the merge already absorbed the landing. As in Week 9: the room is full; do not try to empty it with more words. The only addition tonight is the Leader Feedback Round after the blessing, governed by the placement rule in Block 9.
+Three layers, same pattern as prior weeks, and shorter than the merge — the merge already absorbed the landing. As in Week 9: the room is full; do not try to empty it with more words. The only addition tonight is the Leader Feedback Round just before the blessing, governed by the merged-round and heavy-debrief notes in Block 8.
 
 # Between-Session Practice
 
@@ -390,7 +383,7 @@ Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects
 ### Signs the session worked
 
 - The silences ran longer than Week 9's and the room held them.
-- The handoff beat landed as dignified and unhurried — the circle saw the pass and understood it.
+- The handoff beat landed as dignified and unhurried — the room saw the pass and understood it.
 - Second-visit shares showed movement: “it was different this time,” “He was somewhere new.”
 - The participant(s) who stayed out of the garden were honored invisibly — no one drew attention, and they left easy.
 - The senior read at rehearsal pace and did not perform.
@@ -405,16 +398,16 @@ Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects
 
 ### The room — prompts
 
-- What surfaced in the debrief circles, and who needs follow-up within 48 hours? Assign each name to a Companion before the meeting ends.
-- Who did not go back into the garden tonight, and how was that honored? Was the honoring invisible in the circle and warm afterward?
+- What surfaced in the cluster sharing, and who needs follow-up within 48 hours? Assign each name to a Companion before the meeting ends.
+- Who did not go back into the garden tonight, and how was that honored? Was the honoring invisible in the room and warm afterward?
 - Vital-signs observations: Was there costly telling at the sharing — someone paying a real price to say a true thing? What were the room's first ten seconds when something surfaced — did it move toward the person or away? Who has gone quiet across the last two or three weeks? Name names; quiet is data.
 - Any encounter reported that needs the scripture-consistency follow-up (Lead Companion, privately, this week)?
 
 ### The senior — prompts
 
 - How did the pacing hold? Where specifically did it rush, and was it the silences, the reading, or the handoff?
-- If the feedback round moved to this meeting because the debrief ran heavy: run it now, same fixed order, and confirm the senior heard why it moved — protecting the room is the lesson, and it should be said to them in exactly those words.
-- What is the one coaching thread to carry to their next lead? Week 13 — the Rhythm and the Dry Season — is a teaching lift, not an experiential one: scripted content, low disclosure, a different muscle. Whatever tonight showed about their pace and presence, translate it into that register now, while it is fresh, so the coaching between now and Week 13 has a target.
+- If the feedback round moved to this meeting because the debrief ran heavy: run it now, same order — the senior's two answers first, the adult's second, then the team's — and confirm the senior heard why it moved — protecting the room is the lesson, and it should be said to them in exactly those words.
+- What is the one coaching thread to carry to their next lead? Week 15 — the Rhythm and the Four Questions — is a teaching lift, not an experiential one: scripted content, low disclosure, a different muscle. Whatever tonight showed about their pace and presence, translate it into that register now, while it is fresh, so the coaching between now and Week 15 has a target.
 
 ### People to follow up with this week
 
@@ -425,19 +418,19 @@ Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects
 
 # Handouts
 
-One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as needed — H9.1 for any adult-led circle, H9.2 for every participant's between-session practice, H9.3 for any newly-surfaced skeptic.
+One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as needed — H9.1 if an adult leads the walk-through this cycle, H9.2 for every participant's between-session practice, H9.3 for any newly-surfaced skeptic.
 
 - H10.1 — The Companion-in-Formation's Garden Guide Card
 
 **Handout H10.1 — The Companion-in-Formation's Garden Guide Card**
 
-*One card, cardstock, for the senior leading the walk-through. This is the Week 9 protocol (your cohort's version) with pacing marks added and the two handoff rules printed where you cannot miss them. Rehearse from this exact card. Lead from this exact card.*
+*One card, cardstock, for the senior leading the walk-through. This is the Week 9 protocol with pacing marks added and the two handoff rules printed where you cannot miss them. Rehearse from this exact card. Lead from this exact card.*
 
 ### The two handoff rules (read these first, every time)
 
-**1. When the walk-through ends, the room is the adult's — hand it visibly.** After “Open your eyes when you are ready,” wait for the room to come back. Then turn to your Companion and say, unhurried: *“[Name], the room is yours.”* You do not lead the journaling. You do not lead the sharing. You do not take anything anyone brings to you afterward — if someone turns to you with something heavy, your only job is to hand it to the adult immediately. You are not a junior counselor; you are a guide who finished the walk and handed off well. Handing off well IS the leading.
+**1. When the walk-through ends, the room is the adult's — hand it visibly.** After “Open your eyes when you are ready,” wait for the room to come back. Then turn to the adult receiving the room and say, unhurried: *“[Name], the room is yours.”* You do not lead the journaling. You do not lead the sharing. You do not take anything anyone brings to you afterward — if someone turns to you with something heavy, your only job is to hand it to the adult immediately. You are not a junior counselor; you are a guide who finished the walk and handed off well. Handing off well IS the leading.
 
-**2. If distress surfaces mid-walk-through, the adult moves — you keep reading.** If someone begins crying in a way that is more than tears, or shows real distress: do not stop, do not look up sharply, do not change your pace or volume. The adult in your circle is already moving to them. The walk-through continues for everyone else, and your steadiness is what makes that possible. You rehearsed this. Trust the rehearsal.
+**2. If distress surfaces mid-walk-through, the adult moves — you keep reading.** If someone begins crying in a way that is more than tears, or shows real distress: do not stop, do not look up sharply, do not change your pace or volume. The pre-named adult in the room is already moving to them. The walk-through continues for everyone else, and your steadiness is what makes that possible. You rehearsed this. Trust the rehearsal.
 
 ### Pacing marks (they govern the whole card)
 
@@ -446,10 +439,10 @@ One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as nee
 - **(longer pause) = sixty full seconds — longer than Week 9's.** The room has been here before; the silence is where they meet Him. Silence does not mean something is wrong. Silence means the work is happening.
 - **The protocol carries the room. Your job is pace and presence, not performance.** A script read slowly is completely acceptable — it is the assignment.
 
-### The walk-through (your cohort's Week 9 script, printed here in full)
+### The walk-through (the Week 9 script, printed here in full)
 
-*[Print the H9.1 script for the circle this senior is leading — junior version or senior/parent version — below this line, with every (pause) and (longer pause) mark retained. The opening (“Close your eyes if you want...”), the full guided prayer, and the closing line (“Open your eyes when you are ready”) are unchanged from Week 9. Nothing is added; nothing is improvised.]*
+*[Print the H9.1 script below this line, with every (pause) and (longer pause) mark retained. The opening (“Close your eyes if you want...”), the full guided prayer, and the closing line (“Open your eyes when you are ready”) are unchanged from Week 9. Nothing is added; nothing is improvised.]*
 
 ### After you hand off
 
-Sit in the circle as a participant. Journal like everyone else. Share or keep silence like everyone else. Your feedback round comes after the closing container — and if the debrief ran heavy, it moves to the team debrief instead, because protecting the room comes before feedback. If that happens tonight, it is not a slight. It is the lesson.
+Sit as a participant. Journal like everyone else, and share or keep silence in your family's cluster like everyone else. Your feedback round comes just before the closing blessing — one round, you first, the adult second — and if the debrief ran heavy, it moves to the team debrief instead, because protecting the room comes before feedback. If that happens tonight, it is not a slight. It is the lesson.

@@ -124,7 +124,6 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 ### **Materials checklist**
 
 - Chairs in ONE large single circle, room enough for 20–32. No cohort sub-spaces tonight.
-- Phone-box at the door.
 - Personal Heart Journals for returning participants (carry forward); blank journals for new participants (issued tonight).
 - Whiteboard, no pre-writing tonight — the Lead Companion will write Hebrews 12:1–2 in the moment.
 - Handouts H1.1, H1.2, H1.3 stacked at each chair.
@@ -152,7 +151,7 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Veterans paired with new participants. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Veterans paired with new participants. |
 | 7:00–7:10 | Block 1: Welcome, Aaronic, settling | Shared circle | Lead Comp | Aaronic blessing. 60-second silent settle. One-word landings. |
 | 7:10–7:25 | Block 2: From the interlude | Shared circle | Lead Comp | Voluntary one-thing-from-the-gap shares. 12 min cap. Cohort Companions speak first. |
 | 7:25–7:35 | Block 3: Re-introducing the four conditions | Shared circle | Co-Comp (Parent) | Brief teaching. Re-frame the container for new participants AND for returning participants. |
@@ -170,7 +169,7 @@ Five days before Week 1, the Companion team meets for 90 minutes. This is the lo
 
 *“Welcome back. And welcome — those of you who are here for the first time on a Tuesday with this room.”*
 
-*“Phones in the box. Settle.”*
+*“Settle in.”*
 
 *“Let me speak the same blessing we spoke at the close of every Tuesday in Getting Started. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
@@ -208,7 +207,7 @@ Co-Companion (parent cohort) leads this block. The teaching is brief; it is for 
 
 *“Safe. What is said here stays here. There are limits — we are required by law to act on certain disclosures involving harm — but inside those limits, what is said here stays here.”*
 
-*“Present. Phones are in the box. We are not multitasking. We are here, with each other, with the Spirit, for ninety minutes.”*
+*“Present. Phones silenced and away. We are not multitasking. We are here, with each other, with the Spirit, for ninety minutes.”*
 
 *“Clear. We do not judge what is shared. We do not perform spirituality. What we say is what is true.”*
 

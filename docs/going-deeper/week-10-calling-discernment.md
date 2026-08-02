@@ -192,7 +192,6 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 **•** Chairs in ONE large single circle, 20–32 chairs, with the Discerner’s chair in the geometric centre and the Lead Companion’s chair beside it (forming the centre dyad).
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -232,7 +231,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight enacts Acts 13.’ |
 | 7:08–7:13 | Block 2: Wk 9 landing (one word) | Shared circle | Lead Comp | ONE word about the shadow noticing this week. |
 | 7:13–7:30 | Block 3: Acts 13 + Antioch teaching | Shared circle | Lead Comp | Read Acts 13:1–3. Walk the four-element architecture. Frame the Discerner’s presence. |
@@ -249,7 +248,7 @@ Forty-eight hours before Wk 10, the Companion team meets for ninety minutes — 
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

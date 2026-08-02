@@ -156,7 +156,6 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **•** Chairs in main room as one large circle for opening; three cohort spaces ready for the split; back to one large circle for the Tell merge.
 
-**•** Phone-box at the door.
 
 **•** Personal Heart Journals.
 
@@ -194,7 +193,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box, pens at every chair. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, pens at every chair. |
 | 7:00–7:08 | Block 1: Open and 60-second settling | Shared circle | Lead Comp | Aaronic. Frame: ‘Tonight opens the God-deepened block.’ |
 | 7:08–7:13 | Block 2: Wk 5 landing (one word) | Shared circle | Lead Comp | ONE word about Wk 5 — the EXERCISE not content. Mid-week pair check-in confirmation. |
 | 7:13–7:30 | Block 3: PROAPT Extended teaching + the Tell step centred | Shared circle | Lead Comp | Review PROAPT briefly. Teach extension to longer passages. Centre the Tell step. |
@@ -210,7 +209,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 ## Script
 
-*“Welcome. Phones in the box. Settle.”*
+*“Welcome. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
