@@ -112,7 +112,7 @@ Question two — Could I ask the four questions in my own house? Sit with each o
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 15, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 15 covers:
 
 1. The Companion-in-Formation walks the rhythm arc for the team, start to finish. The team receives it as a cohort would. Practice the Leader Feedback Round shape on the rehearsal itself: the senior names what went well and what they would do differently, then the team answers the same two questions — received without defending.
 2. The Lead Companion runs their four-questions telling once, out loud, for the team — and names the second adult who moves if the presentation lands on someone mid-block. Rehearse the handoff: the presentation continues; the room barely notices.

@@ -104,7 +104,7 @@ This is the heart of the week's pre-work. Three parts, none optional.
 
 ## Team pre-work
 
-Forty-eight hours before Week 10, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 10 covers:
 
 1. Each Companion briefly names their own garden returns this week. (Optional; may be private.)
 2. Confirm the leading assignments: the Companion-in-Formation reads the walk-through for the whole room; name which adult moves if distress surfaces mid-walk-through; and confirm which Cluster Companion holds each family cluster's sharing. Arrange the parents-first openings now: for each cluster, ask a parent ahead of time to open the sharing round — never a cold call on a teen. If no Companion-in-Formation is ready this cycle, an adult leads the walk-through from H9.1 as in Week 9.
@@ -378,7 +378,7 @@ The load drops from three visits to two on purpose. Week 9 opened the practice a
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects tonight, kept distinct: the room, and the senior. Take the room first.
+Companion team debriefs Week 10 in the look-back of the Thursday Call (Handbook Section 3). Two subjects tonight, kept distinct: the room, and the senior. Take the room first.
 
 ### Signs the session worked
 

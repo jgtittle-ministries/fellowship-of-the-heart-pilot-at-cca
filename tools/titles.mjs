@@ -39,6 +39,7 @@ export const TITLE_OVERRIDES = {
   'shared/three-vital-signs.md': 'Three Vital Signs',
   'shared/keeping-the-flame.md': 'Keeping the Flame',
   'shared/companions-and-coverings.md': 'Companions and Coverings',
+  'shared/weekly-run-card.md': 'Weekly Run Card',
   'getting-started/cca-2026-27-calendar.md': 'The CCA 2026-27 Dates'
 };
 

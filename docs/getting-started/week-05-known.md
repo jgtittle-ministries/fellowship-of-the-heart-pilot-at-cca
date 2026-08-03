@@ -88,7 +88,7 @@ Then ask the harder question: which of the four conditions am I, personally, the
 
 ## Team pre-work
 
-Forty-eight hours before Week 5, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 5 covers:
 
 1. Each Companion names one friendship in their own life that has all four conditions and one that lacks at least two. The team listens; nobody comments.
 2. Walk through the cluster exercise (below) so each Cluster Companion knows the flow.
@@ -353,7 +353,7 @@ If a participant chooses a friendship that is in the room — a teen choosing th
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 5 for a 30-minute debrief.
+Companion team debriefs Week 5 in the look-back of the Thursday Call (Handbook Section 3).
 
 ### Signs the session worked
 

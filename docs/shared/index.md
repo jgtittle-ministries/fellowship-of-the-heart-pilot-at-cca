@@ -42,6 +42,7 @@ These materials are designed to work together across the year:
 - The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — taught near the end of Getting Started (rehearsed at Week 19, then taught to the whole room at The Long Walk — Week 20 — by the Companions-in-Formation; a body running the fifteen-week `gs-v1.0` edition teaches them in its Week 13) and kept in every participant folder from then on, in the hope that they gather dust.
 - The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
 - The **Three Vital Signs** card is how the team actually watches, week to week — three questions at the top of every debrief, with the heavier instruments held in reserve.
+- The **Weekly Run Card** is the team's one-page who-holds-what for the next session — filled in on the Thursday Call (the team's single weekly meeting: look back, look at the flock, look ahead), read back aloud, and sent before anyone hangs up.
 
 A cohort can complete Getting Started using only the Personal Heart Journal, the Rhythm Card, and the PROAPT Card; the family cards and reading list are invitations, not assignments. Going Deeper and Going Out lean more heavily on the shared materials as the cohort matures.
 

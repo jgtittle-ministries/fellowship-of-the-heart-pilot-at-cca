@@ -112,7 +112,7 @@ The seniors do not carry care tonight — the bright line holds at full-room sca
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 20, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 20 covers:
 
 1. Both seniors run their spines for the team, start to finish, standing. The team receives as a room would. Then the feedback-round shape is practiced on the rehearsal itself: the seniors answer the two questions together first, then the team.
 2. Name the adult catch for each teaching segment, out loud, and rehearse the freeze-recovery once: catch steps in with warmth at the next numbered point of the spine, senior takes it back on their own signal. Also name the second adult who moves if the teaching lands on someone mid-block — the catch cannot be both.
@@ -378,7 +378,7 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 # **Team Debrief**
 
-Companion team meets the day after Week 20 for a 45-minute debrief. Tonight's debrief carries two items with consequences beyond the week; take them in order and in writing.
+Companion team debriefs Week 20 in the look-back of the Thursday Call (Handbook Section 3). Tonight's debrief carries two items with consequences beyond the week; take them in order and in writing.
 
 ### **1. The CiF readiness verdict (carried to Week 22 prep)**
 

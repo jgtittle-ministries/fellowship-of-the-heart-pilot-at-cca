@@ -96,7 +96,7 @@ Set aside ninety minutes this week for your own story writing. Use the Personal 
 
 ## Team pre-work
 
-Forty-eight hours before Week 3, the Companion team meets for ninety minutes:
+The Thursday Call's look-ahead before Week 3 covers — heavy prep: if the call cannot hold this list, it schedules a separate working session:
 
 1. Re-read Handbook Section 6 in full. Out loud. Together.
 2. Each Cluster Companion names the families in their cluster and identifies one or two people they are watching for. “Watching for” is not predicting harm; it is noticing who has been quieter, who hinted at hard material in Week 2, who emailed the Lead Companion this week.
@@ -415,7 +415,7 @@ If a parent or teen reports back that they did not get to the Joint Footprints, 
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 3 for a 45-minute debrief. Week 3 debriefs are longer than Week 1 and Week 2 because there is more to surface.
+Companion team debriefs Week 3 in the look-back of the Thursday Call (Handbook Section 3). Week 3 debriefs are longer than Week 1 and Week 2 because there is more to surface.
 
 ### Signs the session worked
 

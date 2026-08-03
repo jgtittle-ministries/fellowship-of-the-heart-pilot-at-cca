@@ -99,7 +99,7 @@ Do not skip this. The teens will know within thirty seconds whether you have don
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 11, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 11 covers:
 
 1. Each Companion briefly names what scripture and what doubt they worked with this week. Optional; may be private. The team does not interpret or fix.
 2. Walk the cluster exercise script (below) so each Cluster Companion is comfortable holding the pairs.
@@ -413,7 +413,7 @@ Same three-layer pattern. Tonight the merge’s one-word landing carries the emo
 
 # **Companion Debrief Prompts**
 
-Companion team meets the day after Week 11 for a 45-minute debrief.
+Companion team debriefs Week 11 in the look-back of the Thursday Call (Handbook Section 3).
 
 ### **Signs the session worked**
 

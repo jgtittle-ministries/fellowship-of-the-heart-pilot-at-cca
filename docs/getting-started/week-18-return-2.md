@@ -52,9 +52,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 Brief, and matching the night: each Companion reads their own Rhythm Card against the break — one journal page, holds and slips, the same reading the room will do in one sentence. And each Companion sits for a moment with the year’s ending: the map presented tonight is the beginning of goodbye, and the room will take its cue about how to feel about that from the team’s faces. Settled, glad, and unhurried is the assignment.
 
-## **Team prep meeting (~48 hours before)**
+## **Team prep (the Thursday Call's look-ahead)**
 
-Forty-eight hours before Week 18, the Companion team meets for thirty minutes — deliberately shorter than usual:
+The Thursday Call's look-ahead before Week 18 covers — deliberately shorter than usual:
 
 1. Confirm the Companion-in-Formation leading the open, and hear them run it once. By now this is a light touch — the rotation is deep in its groove; the run-through is honor, not inspection.
 2. Walk the one-sentence round’s register together: celebratory, quick-moving, slips received as warmly as holds. Arrange one parent, asked ahead, to give the first sentence — never a cold call on a teen.
@@ -237,7 +237,7 @@ The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at 
 
 # **Team Debrief**
 
-Companion team meets the day after Week 18 for a 30-minute debrief — lighter, matching the night.
+Companion team debriefs Week 18 in the look-back of the Thursday Call (Handbook Section 3) — lighter, matching the night.
 
 **The vital signs line.** What did the vital signs show tonight? Costly telling in the one-sentence round (the honest slips said cheerfully are still costly telling); response to load in anyone the break or the ending sat heavy on; and note anyone the cohort itself moved toward without being asked. Log per Handbook §8 — patterns and initials in the team log only.
 

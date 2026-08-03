@@ -409,7 +409,7 @@ Same three-layer pattern, expanded for the family-level commissioning. The commu
 
 # **Companion Debrief Prompts**
 
-Companion team meets the day after Week 21 for a 60-minute debrief. This is the longest debrief of Getting Started.
+Companion team debriefs Week 21 in the look-back of the Thursday Call (Handbook Section 3). This is the longest debrief of Getting Started.
 
 ### **Signs the session worked**
 

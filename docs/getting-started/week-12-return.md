@@ -57,9 +57,9 @@ Every Companion runs tonight’s reading on themselves before asking the room to
 
 Then read the Path Home Card once, slowly, for yourself — especially the Companions’ section (“the father’s posture, not the older brother’s”). Tonight the whole room walks through a small version of that door together. Know which posture you are carrying before you stand at it.
 
-## **Team prep meeting (~48 hours before)**
+## **Team prep (the Thursday Call's look-ahead)**
 
-Forty-eight hours before Week 12, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 12 covers:
 
 1. Each Companion briefly names their own break reading — what held, what slipped. No fixing, no comparing. The team practices the register the clusters will need.
 2. Walk the slow open together. The opening container runs about twelve minutes tonight instead of five — read the Section 5 protocol aloud as a team and mark where the extra beats go (the one-word check-in gets a second beat; the silences run longer). The protocol is the teaching tonight; every Companion should be able to say why.
@@ -306,7 +306,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 # **Team Debrief**
 
-Companion team meets the day after Week 12 for a 45-minute debrief.
+Companion team debriefs Week 12 in the look-back of the Thursday Call (Handbook Section 3).
 
 **The vital signs line.** What did the vital signs show tonight? Costly telling in the what-held round (who read a hard list straight); response to load in whoever the break sat heaviest on — and in how the room received them; and note anyone the cohort itself moved toward without being asked. Log the observations per Handbook §8 — patterns and initials in the team log only, nothing that travels.
 

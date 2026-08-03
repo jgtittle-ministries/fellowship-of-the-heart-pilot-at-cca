@@ -396,7 +396,7 @@ Spoken parent-to-teen and teen-to-parent. Use Numbers 6:24–26. The card goes h
 
 # Companion Debrief Prompts
 
-The Companion team meets the day after Week 1 for a 30-minute debrief. Use these prompts in order.
+The Companion team debriefs Week 1 in the look-back of the Thursday Call (Handbook Section 3). Use these prompts in order.
 
 ### Signs the session worked
 

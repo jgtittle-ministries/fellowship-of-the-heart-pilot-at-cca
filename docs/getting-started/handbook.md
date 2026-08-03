@@ -258,6 +258,29 @@ And for every cycle after the first: the long-arc hazard for a Companion is not 
 
 One more thing about the team, worth saying before anyone asks: no one certifies a Formation Companion, and no one ever will from here. Standing comes from a named covering close enough to see the life — the Companion levels are safety floors the team assigns to itself honestly, not ranks anyone issues. [Companions and Coverings](../shared/companions-and-coverings.md) says what this work is and is not, how a body builds its own Companions, and how to receive one from outside.
 
+## The Thursday Call — the team's weekly rhythm
+
+Once the year begins, the team's whole weekly rhythm is **one forty-five-minute conference call, shortly after each Wednesday session** — Thursday evening works well. The call absorbs both of the meetings the lesson plans name: wherever a plan says *the day-after debrief*, that is the call's look-back; wherever a plan says *the prep meeting* or *forty-eight hours before*, that is the call's look-ahead. One call, three movements, the same shape every week — the repetition is the point, exactly as it is for the container. After three weeks nobody wonders what this call is for.
+
+**Open (2 minutes).** Prayer. One sentence from the Lead Companion: "Here's the shape — look back, look at the flock, look ahead."
+
+**1. Look back (15 minutes).** The [Three Vital Signs](../shared/three-vital-signs.md) first — the card's three questions open the debrief, as always. Then the Feedback Round echo: what the room said Wednesday, plus what the team saw that the room didn't say. Then **one keep, one change** from each person on the call, the evening's leader first — the team practices the same posture it asks of the room. Changes are *decided, not debated*: thirty seconds each, the Lead Companion calls it, the scribe writes it down. A change worth more than thirty seconds gets its own conversation. The plan's week-specific debrief prompts run inside this movement.
+
+**2. Look at the flock (10 minutes).** People, by name. Who needs the 48-hour touch, **who specifically is making it, and by when**. This is where "follow up offline" stops being a phrase in a lesson plan and becomes a name with an owner. Names stay on the call — the [Measurement Covenant](../shared/measurement-covenant.md) governs everything said here, and Section 6 governs anything that crosses the safety threshold.
+
+**3. Look ahead (15 minutes).** Next Wednesday. Two minutes walking next week's Quick Reference Card aloud — aim, mode, watch-fors. Then the decisions that plan requires this week: option or mode choices, which parent opens each sharing round, which teen leads and who is the adult catch. Then roles, assigned on the [Weekly Run Card](../shared/weekly-run-card.md). Then calendar: the dry run if a teen is leading, printing, room, food.
+
+**Close (3 minutes).** The Lead Companion **reads the Run Card back aloud** — every person hears their own name and their own line — then prays over the week. That thirty-second read-back is the whole trick for role clarity: nobody leaves the call unsure, because they just heard it.
+
+Four working rules:
+
+1. **One name per line on the Run Card.** A role with two names has zero owners. If a job genuinely needs two people, split it into two lines.
+2. **Heavy weeks schedule, they don't stretch.** Some look-aheads are bigger than a call segment — the Section 6 re-reads before the storytelling weeks, the Week 19 prep where the Lead Companion teaches the full Dry-Season block to the Companions-in-Formation in person, the Week 21 commissioning logistics. The call does not stretch to hold these; it **schedules the separate working session** and moves on.
+3. **The call replaces the meetings, not the moments.** The in-person dry run with a leading teen, and the T-30 team prayer before every session, stand as written.
+4. **The teen join-time boundary.** When a Companion-in-Formation or a rotation teen joins the call — and they should; it is superb formation — they join for the **look ahead only**. The look-back and the flock segment are adult-only, full stop: the bright line (Section 11) says a teen never carries another person's care, and the follow-up list is exactly that. Same call, one boundary. (The Week 4 rule generalizes: the team talks freely about coaching a teen only when that teen is not on the line; what the team decides to coach flows to them through their adult Companion and the Labs.)
+
+The scribe keeps two artifacts from every call: the vital-signs log line (Section 8) and the completed Run Card, sent to the whole team — text or email — before everyone hangs up.
+
 # Section 4 — Theological and Institutional Posture
 
 ## Faithful to IJH
@@ -639,7 +662,7 @@ Every break is a natural test of whether the practices survived without the cont
 
 ## Companion observation notes
 
-Each week, the Companion team meets the day after the session for a 30-minute debrief. Notes are kept on:
+Each week, the Companion team debriefs the session in the look-back of the Thursday Call (Section 3). Notes are kept on:
 
 - What appeared to land for the cohort and what did not.
 - Individual participants the team should be praying for or following up with.

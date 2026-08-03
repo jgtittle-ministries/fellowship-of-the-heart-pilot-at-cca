@@ -85,7 +85,7 @@ Light, and still real. Each Companion sits for ten minutes this week with two qu
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 16, the Companion team meets for thirty minutes:
+The Thursday Call's look-ahead before Week 16 covers:
 
 1. Settle the food plan (potluck or provided — see Materials) and confirm the allergy list is current from the orientation forms. Assign the food-safety lead for the night.
 2. Pre-select the two or three card prompts for dessert. Fit the season: the mission arc just closed and the quarter is ending, so cards that look backward warmly and forward hopefully work best — Card 6 (One footprint), Card 32 (Where you came alive this season), and Card 20 (The ten-year question) are the recommended pilot set. The naming-cards (14, 17, 22, 27, 37) stay in the deck tonight. Print or pull the physical cards.

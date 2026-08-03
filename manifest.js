@@ -344,6 +344,10 @@ window.SERIES = [
       {
         "path": "docs/shared/three-vital-signs.md",
         "title": "Three Vital Signs"
+      },
+      {
+        "path": "docs/shared/weekly-run-card.md",
+        "title": "Weekly Run Card"
       }
     ]
   }
@@ -978,6 +982,14 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Three Vital Signs",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/signs-card.md"
+    "prev": "docs/shared/signs-card.md",
+    "next": "docs/shared/weekly-run-card.md"
+  },
+  "docs/shared/weekly-run-card.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Weekly Run Card",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/three-vital-signs.md"
   }
 };

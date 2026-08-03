@@ -112,7 +112,7 @@ This is the heart of pre-work this week. Sometime in the week before the session
 
 ## Team pre-work
 
-Forty-eight hours before Week 4, the Companion team meets for sixty minutes:
+The Thursday Call's look-ahead before Week 4 covers — heavy prep: if the call cannot hold this list, it schedules a separate working session:
 
 1. Re-read Handbook Section 6 in full. Out loud. Together. Same discipline as Week 3 — the risk did not go home with the Week 3 tellers.
 2. Each Cluster Companion names the teen tellers in their cluster and identifies who they are watching for. A week of anticipation changes people: someone who was calm last Wednesday may arrive wound tight, and someone who dreaded it may arrive resolved to say the real thing.
@@ -415,7 +415,7 @@ If a family reports back that they did not get to the Joint Footprints, this is 
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 4 for a 45-minute debrief. The Companion-in-Formation is not at this debrief — their feedback already happened in the room, and the team needs to talk freely. What the team decides to coach flows to the senior through the adult Cluster Companion and Lab 3.
+Companion team debriefs Week 4 in the look-back of the Thursday Call (Handbook Section 3). The Companion-in-Formation is not at this debrief — their feedback already happened in the room, and the team needs to talk freely. What the team decides to coach flows to the senior through the adult Cluster Companion and Lab 3.
 
 ### Signs the session worked
 

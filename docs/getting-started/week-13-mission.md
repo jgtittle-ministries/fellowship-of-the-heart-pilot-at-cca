@@ -99,7 +99,7 @@ Optional but powerful: ask one trusted person who knows you well — spouse, clo
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 13, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 13 covers:
 
 1. Each Companion briefly names their own downhill answer to the circle. The team listens. Nobody comments — just witnesses.
 2. Walk the cluster exercise structure (below), and arrange the parents-first openings: for each family cluster, ask a parent ahead of time to open both sharing rounds — the gifts round and the downhill round. Never a cold call on a teen.
@@ -368,7 +368,7 @@ Note: this week’s practice is the smallest of Getting Started. Resist the urge
 
 # **Companion Debrief Prompts**
 
-Companion team meets the day after Week 13 for a 30-minute debrief. Plus an additional 60 minutes specifically on Week 21 logistics (the commissioning is the most logistically complex session of Getting Started).
+Companion team debriefs Week 13 in the look-back of the Thursday Call (Handbook Section 3). Plus an additional 60 minutes specifically on Week 21 logistics (the commissioning is the most logistically complex session of Getting Started).
 
 ### **Signs the session worked**
 

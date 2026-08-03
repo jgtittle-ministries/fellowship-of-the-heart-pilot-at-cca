@@ -118,7 +118,7 @@ This is the load-bearing pre-work of Week 6, and it happens in the week before t
 
 ## Team pre-work
 
-The team meets 48 hours before Week 6. Three specific things:
+The Thursday Call's look-ahead before Week 6 covers three specific things:
 
 1. Re-read Handbook §6 (mandatory reporting and crisis protocols). Out loud, together. Same as before Weeks 3–4. Some confession material can rise to crisis.
 2. Each Cluster Companion names — to the team only — the place they will name in their demo. The team prays over each other’s confession before the room does. This is itself the practice the room will do tonight.
@@ -391,7 +391,7 @@ Same as prior weeks. Tonight it lands different. Notice it. Do not comment on it
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 6 for a 45-minute debrief. Like Weeks 3–4, this debrief is longer because there is more to surface.
+Companion team debriefs Week 6 in the look-back of the Thursday Call (Handbook Section 3). Like Weeks 3–4, this debrief is longer because there is more to surface.
 
 ### Signs the session worked
 

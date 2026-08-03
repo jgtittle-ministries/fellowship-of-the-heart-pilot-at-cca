@@ -349,7 +349,7 @@ If the merge debrief was heavy, lengthen the closing prayer to 60–90 seconds. 
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 2 for a 30-minute debrief.
+Companion team debriefs Week 2 in the look-back of the Thursday Call (Handbook Section 3).
 
 ### Signs the session worked
 

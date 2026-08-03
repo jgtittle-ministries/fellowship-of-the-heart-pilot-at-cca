@@ -102,7 +102,7 @@ Mode A: the lifted session’s own focus. Mode B: all four, sustaining — the c
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 17, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 17 covers:
 
 1. **Make the mode call** (if the Week 16 debrief did not already settle it) and send the family communication the same day — by the weekend before, at the latest.
 2. **Mode A:** run the lift checklist above, item by item, out loud.

@@ -95,7 +95,7 @@ After your time in the garden, journal: what did Jesus do? Where did He stop? Wh
 
 ## Team pre-work
 
-Forty-eight hours before Week 9, the Companion team meets for forty-five minutes:
+The Thursday Call's look-ahead before Week 9 covers:
 
 1. Each Companion briefly names what they noticed in their own garden time this week. (Optional; may be private. The team listens; nobody comments.)
 2. Walk through the exercise script (H9.1). The Lead Companion reads it to the whole room tonight — practice reading it slowly out loud. Each Cluster Companion walks the sharing shape for their cluster: by invitation only, the arranged parent first, silence a complete answer.
@@ -362,7 +362,7 @@ This is the most internally demanding between-session week of Getting Started. B
 
 # Companion Debrief Prompts
 
-Companion team meets the day after Week 9 for a 45-minute debrief. Week 9 debriefs are longer than most because the texture is different.
+Companion team debriefs Week 9 in the look-back of the Thursday Call (Handbook Section 3). Week 9 debriefs are longer than most because the texture is different.
 
 ### Signs the session worked
 
