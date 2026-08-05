@@ -216,7 +216,7 @@ The teen chooses with the Lead Companion at prep. Some of the room may have met 
 
 **READ (2 min).** The teen reads the passage aloud once, slowly. Then silence while the room reads it again on their own — to receive, not to analyze.
 
-**OBSERVE (3.5 min).** *“Write three things you notice. What stands out? What’s strange?”* Sixty seconds writing, then 3–4 shares. Receive each one; evaluate none.
+**OBSERVE (3.5 min).** *“Two layers, in order. First the data — who, what, when, where, straight off the page. Then what stands out or surprises you in it. Write three things — data first.”* Sixty seconds writing, then 3–4 shares. Receive each one; evaluate none.
 
 **APPLY (3.5 min).** *“What is this saying to YOU, today, specifically? Not in general — in your actual life, this week.”* Ninety seconds writing, then 2–3 shares. If an Apply is vague, ask once: *“Can you make that more specific?”*
 

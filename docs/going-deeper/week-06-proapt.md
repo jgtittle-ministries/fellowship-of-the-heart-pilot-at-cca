@@ -259,7 +259,7 @@ Forty-eight hours before Wk 6, the Companion team meets for sixty minutes.
 
 **Why longer matters. Short PROAPT teaches us to hear in the moment. Long PROAPT teaches us to hear ACROSS a passage — to see what the Spirit is saying through structure, through repetition, through the development of an idea or the turn at a specific verse. Most of Scripture is structured to be heard at length.**
 
-**How extended PROAPT differs from short. Pray longer at the start (3 min). Read THREE TIMES, slowly (8 min total). Observe at the structural level (‘the chapter has three movements’, ‘the psalm shifts at v.5’, ‘Paul stacks five imperatives’) — 5 min. Apply on what is alive for YOU tonight — not a survey, ONE specific thing the Spirit is highlighting (5 min). Pray on what came up (3 min). Tell.**
+**How extended PROAPT differs from short. Pray longer at the start (3 min). Read THREE TIMES, slowly (8 min total). Observe at the structural level, keeping the same two-layer order the practice has always had — data first, then the interpretation of the data (‘the psalm shifts at v.5’ and ‘Paul stacks five imperatives’ are data anyone can count; ‘the chapter has three movements’ is already interpretation) — 5 min. Apply on what is alive for YOU tonight — not a survey, ONE specific thing the Spirit is highlighting (5 min). Pray on what came up (3 min). Tell.**
 
 **Resist the urge to summarize the whole passage during Apply. Apply ONE specific thing for YOU tonight. The breadth is the read-and-observe steps; the focus is Apply. Most extended PROAPT goes wrong by trying to apply everything.**
 

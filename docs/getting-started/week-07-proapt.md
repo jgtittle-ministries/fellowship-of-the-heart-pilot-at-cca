@@ -73,7 +73,7 @@ Six steps. The acronym matters because the order matters.
 | --- | --- | --- |
 | Pray | Invite the Spirit to speak before reading. Acknowledgment that I am approaching the Word as someone who expects to hear, not just to extract information. | Skipping it. “I’ll just dive in.” |
 | Read | Read the passage. To receive, not to analyze yet. Let it land first. | Going straight to interpretation. |
-| Observe | What do I actually notice? What stands out? What is strange or unexpected? Honest observation precedes interpretation. | Importing what I already think the passage means. |
+| Observe | Two layers, in order: first the data (who, what, when, where — answerable straight from the text by anyone), then the interpretation of the data (what stands out, what is strange or unexpected in it). | Skipping the data and importing what I already think the passage means. |
 | Apply | What does this mean for me, today, specifically? This is where logos becomes rhema. The general word becomes a specific word. | Applying the passage to other people. |
 | Pray again | Bring the application back to God. Tell Him what you heard, what you are willing to do, what you are struggling to be willing to do. | Skipping it. The obedience channel opens here. |
 | Tell | Share what you heard with someone. The speaking solidifies it and creates accountability. | Skipping it. The most-often-omitted step. |
@@ -207,7 +207,7 @@ This is the most important teaching block of the night. Walk the whole room thro
 
 **READ (90 sec). “Read the passage slowly, on your own, just to receive it. Don’t analyze yet.” Read it once aloud yourself first if helpful. Then silence while they read.**
 
-**OBSERVE (3 min). “What do you notice? Write three things on your handout. What stands out? What is strange or unexpected? What words are repeated? What detail did you not notice before?” Take 60 seconds, then ask 3–4 people to share an observation. Don’t evaluate; receive.**
+**OBSERVE (3 min). Teach the two layers before the pen moves: “Observe has two layers, in order. First the data — who is there, what is happening, when, where. Straight off the page; someone who has never opened a Bible could answer every one. Here: Jesus, in Galilee, after John was arrested, calling two sets of fisherman brothers at the sea. Then the interpretation of that data — what stands out, what is strange or unexpected in it? They left their nets immediately. Noticing that the leaving was immediate — and wondering at it — is interpretation, and that is where the passage starts to open.” Then: “Write three things on your handout — data first, then what surprises you in it.” Take 60 seconds, then ask 3–4 people to share an observation. Don’t evaluate; receive.**
 
 **APPLY (3 min). “What does this passage mean FOR YOU, TODAY, in your specific life? Not in general. Specifically. Where in your life is Jesus walking by saying ‘follow me’? What net are you holding? Who in your life is drawing you toward Him, or away?” Take 90 seconds. Then ask 2–3 people to share their Apply.**
 
@@ -407,11 +407,13 @@ Three handouts for Week 7. All three are the same for everyone; the passage shee
 
 ## O — Observe
 
-**What do you actually notice?**
+**Two layers, in order: the data, then the interpretation of the data.**
 
-*What stands out? What is strange? What words are repeated? What detail did you not notice before? What raises a question?*
+*The data: who is there, what is happening, when, where — answerable straight from the text by anyone, even with zero Bible background. (John 4: Jesus and a Samaritan woman, about noon, at a well, in Samaria.)*
 
-*Honest observation precedes interpretation. Three observations is plenty.*
+*The interpretation: what stands out or surprises you in the data? (John 4: the woman is surprised Jesus speaks to her — the door into the whole Jew-and-Samaritan, man-and-woman dynamic of that day.)*
+
+*Data first, then interpretation. Three observations is plenty.*
 
 ## A — Apply
 

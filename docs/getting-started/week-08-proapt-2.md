@@ -208,7 +208,7 @@ This is the marquee block of the night. The Companion-in-Formation leads all six
 
 **READ (2 min). "Read it slowly, on your own, just to receive it. Don't analyze yet." The senior reads it once aloud, unhurried, then silence while the room reads.**
 
-**OBSERVE (3.5 min). "What do you notice? Write three things. What stands out? What's strange? Four men carry one man — what does that take? They wreck a roof — whose roof? Jesus sees their faith — whose faith? He forgives before He heals — why that order?" Take 60 seconds writing, then ask 3–4 people to share one observation each. Receive; don't evaluate.**
+**OBSERVE (3.5 min). "Remember from last week — Observe has two layers, in order. First the data, straight off the page: a house in Capernaum, a crowd at the door, four men carrying a paralyzed man, scribes sitting there, a roof dug open. Then the interpretation of that data — what stands out or surprises you in it? Four men carry one man — what does that take? They wreck a roof — whose roof? Jesus sees their faith — whose faith? He forgives before He heals — why that order? Write three things — data first, then what surprises you in it." Take 60 seconds writing, then ask 3–4 people to share one observation each. Receive; don't evaluate.**
 
 **APPLY (3.5 min). "What is this saying to YOU, today, specifically? Where in your life are you the one on the mat — stuck, carried, waiting? Or are you one of the four — and who are you carrying, or who should you be? Is there a roof you need to dig through to get someone to Jesus? Be specific." 90 seconds writing. Then 2–3 people share their Apply.**
 
@@ -392,7 +392,7 @@ Two handouts for Week 8. The facilitation card is for the Companion-in-Formation
 
 **R — READ (2 min).** Read the passage aloud once, slowly. Then: *"Read it again on your own, just to receive it. Don't analyze yet."* Silence while they read.
 
-**O — OBSERVE (3.5 min).** *"Write three things you notice. What stands out? What's strange? What did you not see before?"* 60 seconds writing, then take 3–4 shares. Receive each one; evaluate none.
+**O — OBSERVE (3.5 min).** *"Two layers, in order. First the data — who, what, when, where, straight off the page. Then what stands out or surprises you in it. Write three things — data first."* 60 seconds writing, then take 3–4 shares. Receive each one; evaluate none.
 
 **A — APPLY (3.5 min).** *"What is this saying to YOU, today, specifically? Not in general — in your actual life, this week."* 90 seconds writing, then 2–3 shares. If an Apply is vague, ask once: *"Can you make that more specific?"*
 

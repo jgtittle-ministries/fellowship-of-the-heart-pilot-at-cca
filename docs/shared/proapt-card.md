@@ -47,9 +47,15 @@ Read the passage. To receive, not to analyze yet. Let it land first.
 
 ## O — Observe
 
-What do you actually notice? What stands out? What is strange or unexpected? Honest observation precedes interpretation.
+Observation has two layers, and the order matters.
 
-*Common error:* importing what you already think the passage means.
+**First, the data.** Who is there? What is happening? When? Where? These questions are answered straight from the text — no cross-references, no background needed; someone with zero scriptural background can answer every one. In John 4, the woman at the well: the interaction is Jesus and a Samaritan woman; the text says it is about noon; they are at a well; the place is Samaria.
+
+**Then, the interpretation of the data.** What do you notice *in* what you gathered? What stands out, what is strange or unexpected? In John 4: the woman is *surprised* that Jesus speaks to her. That is an interpretation — the text shows it rather than says it — and it is pivotal, because it opens the dynamics between a Jew and a Samaritan, and between a man and a woman, in that day.
+
+Data first, then interpretation. Interpretation built on gathered data is honest observation; interpretation without the data is usually just what you already thought.
+
+*Common error:* skipping the data and importing what you already think the passage means.
 
 ## A — Apply
 

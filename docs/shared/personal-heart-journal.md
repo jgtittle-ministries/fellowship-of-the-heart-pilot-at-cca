@@ -1170,7 +1170,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1200,7 +1200,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1230,7 +1230,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1260,7 +1260,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1290,7 +1290,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1320,7 +1320,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1350,7 +1350,7 @@ Today’s passage: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 **READ — read the passage three times, slowly.**
 
-**OBSERVE — what stood out? A word, a phrase, a tension, an image:**
+**OBSERVE — the data first (who, what, when, where — straight from the text), then what stands out in it:**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
