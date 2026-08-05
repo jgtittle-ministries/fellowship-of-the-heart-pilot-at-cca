@@ -28,6 +28,16 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Companions and Coverings**](companions-and-coverings.md) — *team-facing*: what this work is, and is not — no licenses, no registry, no title that travels; the covering is the unit of trust. How a body builds its own Companions from its own people, and how to receive one from outside (know them before you trust them).
 
+- [**Weekly Run Card**](weekly-run-card.md) — *team-facing*: the one-page who-holds-what for the next session. Filled in on the Thursday Call, read back aloud, and sent to the team before anyone hangs up.
+
+- [**Interrogating Reality Card**](interrogating-reality-card.md) — naming what the cohort already knows but has not yet said. Introduced in the Going Deeper series.
+
+---
+
+## Printing a handout
+
+Every page on this site prints as a clean, black-on-white handout. Open the card you need and press the **Print** button in the top bar (or Ctrl+P on the keyboard, ⌘P on a Mac). The site's navigation and coloring drop away automatically — what comes out of the printer is just the card itself, ready for a participant folder, a refrigerator door, or the dinner table. Nothing needs to be downloaded or converted first, and a printed card is always as current as the page it came from.
+
 ---
 
 ## How they fit together

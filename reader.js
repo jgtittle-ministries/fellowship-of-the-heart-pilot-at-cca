@@ -587,6 +587,10 @@
   const tt = document.getElementById('theme-toggle');
   if (tt) tt.addEventListener('click', () => window.__toggleTheme());
 
+  // ---- Print button: the print stylesheet turns the page into a handout ----
+  const pt = document.getElementById('print-toggle');
+  if (pt) pt.addEventListener('click', () => window.print());
+
   // ============================================
   // Search (loads search-index.json on first open)
   // ============================================

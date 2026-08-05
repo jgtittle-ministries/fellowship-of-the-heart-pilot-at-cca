@@ -433,6 +433,39 @@
   }
   .chapter-banner .cb-val { color: var(--text); }
   .chapter-banner .cb-val.accent { color: var(--accent); }
+
+  /* ---------- Print: any page becomes a clean standalone handout ----------
+     Chrome (nav, sidebar, rail, footer, banner) drops away; colors go
+     black-on-white regardless of the screen theme; type steps down to a
+     paper scale. Triggered by the topnav Print button or Ctrl+P. */
+  @media print {
+    :root, :root[data-theme="dark"], :root[data-theme="light"] {
+      --bg: #fff; --bg-2: #fff; --bg-3: #fff; --card: #fff;
+      --text: #111; --text-mid: #222; --text-dim: #444;
+      --accent: #333; --accent-2: #111; --accent-dim: #666;
+      --rule: #999; --rule-soft: #ccc;
+      --cool: #333; --cool-dim: #666; --rose: #333; --leaf: #333;
+    }
+    @page { margin: 0.75in; }
+    .progress, .topnav-wrap, .search-overlay, .toc-sidebar, .right-rail,
+    .chapter-foot, .chapter-meta, .chapter-banner, #pdf-popup-modal { display: none !important; }
+    html, body { background: #fff !important; color: #111 !important; }
+    .shell { display: block; padding: 0; max-width: none; }
+    #content, .prose-wide { max-width: none; }
+    .reader-prose { font-size: 11pt; line-height: 1.55; }
+    .reader-prose h1 { font-size: 24pt; margin-bottom: 16pt; }
+    .reader-prose h2 { font-size: 16pt; margin: 22pt 0 8pt; }
+    .reader-prose h3 { font-size: 13pt; margin: 16pt 0 6pt; }
+    .reader-prose h4 { font-size: 12pt; margin: 14pt 0 6pt; }
+    .reader-prose.long-chapter h2 { margin-top: 22pt; padding-top: 10pt; font-size: 16pt; }
+    h1, h2, h3, h4 { break-after: avoid-page; }
+    figure, blockquote { break-inside: avoid-page; }
+    tr { break-inside: avoid; }
+    .table-scroll { overflow: visible !important; }
+    table { font-size: 9.5pt; }
+    .md-figure img { max-width: 100%; }
+    a, a:visited { color: inherit !important; text-decoration: none; }
+  }
 </style>
 </head>
 <body>
@@ -449,6 +482,7 @@
     </a>
     <div class="topnav-vols" id="topnav-vols"></div>
     <div class="topnav-tools">
+      <button type="button" class="nav-btn" id="print-toggle" aria-label="Print this page as a handout"><span class="btn-label">Print</span></button>
       <button type="button" class="nav-btn" id="search-toggle" aria-label="Search"><span class="ico">⌕</span><span class="btn-label">Search</span></button>
       <button type="button" class="nav-btn icon-only" id="theme-toggle" aria-label="Toggle theme"><span class="ico">☀</span></button>
       <a class="nav-btn" id="license-link" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener"><span class="btn-label">CC BY-SA 4.0</span></a>
