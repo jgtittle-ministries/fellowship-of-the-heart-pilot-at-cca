@@ -428,10 +428,18 @@
       body.innerHTML = meta + window.renderMarkdown(text);
 
       // ---- Assign ids to headings so in-content anchor links can target them ----
+      // Repeated heading texts ("Script" after every block) collide on one
+      // slug; later occurrences get a numeric suffix so every id is unique.
+      // The first occurrence keeps the bare slug, which is what in-content
+      // and cross-chapter anchors target.
+      const usedIds = Object.create(null);
       body.querySelectorAll('h1, h2, h3, h4').forEach((h, i) => {
         if (!h.id) {
           const slug = (h.textContent || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-          h.id = 'h-' + (slug || ('section-' + i));
+          let id = 'h-' + (slug || ('section-' + i));
+          if (usedIds[id]) { usedIds[id] += 1; id += '-' + usedIds[id]; }
+          else usedIds[id] = 1;
+          h.id = id;
         }
       });
 
@@ -461,6 +469,63 @@
           `<div class="cb-item"><div class="cb-lbl">Words</div><div class="cb-val">${words.toLocaleString()}</div></div>` +
           `<div class="cb-item"><div class="cb-lbl">Reading time</div><div class="cb-val">~${mins} min</div></div>`;
         if (firstH) firstH.after(banner); else body.prepend(banner);
+      }
+
+      // ---- In-chapter outline in the right rail (IJH reader parity) ----
+      // The rail's series/source block gives way to a Reading-progress figure
+      // and a jump list of this page's sections. Headings whose text repeats
+      // across the page ("Script" after every block) are ambiguous as jump
+      // targets and are left out of the list.
+      const rail = document.querySelector('.right-rail');
+      const heads = Array.prototype.slice.call(body.querySelectorAll('h2, h3'));
+      const textCount = Object.create(null);
+      heads.forEach(h => { const t = (h.textContent || '').trim(); textCount[t] = (textCount[t] || 0) + 1; });
+      const outlineHeads = heads.filter(h => textCount[(h.textContent || '').trim()] <= 2);
+      if (rail && outlineHeads.length >= 3) {
+        rail.innerHTML =
+          '<div class="rail-block">' +
+            '<div class="rail-label">Reading</div>' +
+            '<div class="rail-value" id="rail-progress">0%</div>' +
+          '</div>' +
+          '<div class="rail-block">' +
+            '<div class="rail-label">In this chapter</div>' +
+            '<nav class="chapter-outline" id="chapter-outline"></nav>' +
+          '</div>';
+        const outline = document.getElementById('chapter-outline');
+        outlineHeads.forEach(h => {
+          const link = document.createElement('a');
+          link.href = '#' + h.id;
+          link.textContent = h.textContent;
+          if (h.tagName === 'H3') link.className = 'h3';
+          link.addEventListener('click', (e) => {
+            // The hash holds the chapter path — scroll without navigating.
+            e.preventDefault();
+            const top = h.getBoundingClientRect().top + window.scrollY - 70;
+            window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'smooth' });
+          });
+          outline.appendChild(link);
+        });
+        window.__railProgress = document.getElementById('rail-progress');
+
+        // Active-section tracking: highlight the last heading above the
+        // top-quarter line of the viewport.
+        const linkMap = {};
+        outline.querySelectorAll('a').forEach(a => { linkMap[a.getAttribute('href').slice(1)] = a; });
+        let activeId = null;
+        const setActive = (id) => {
+          if (id === activeId) return;
+          if (activeId && linkMap[activeId]) linkMap[activeId].classList.remove('active');
+          if (id && linkMap[id]) linkMap[id].classList.add('active');
+          activeId = id;
+        };
+        const updateActive = () => {
+          const triggerY = window.innerHeight * 0.25 + window.scrollY;
+          let candidate = null;
+          outlineHeads.forEach(h => { if (h.offsetTop <= triggerY) candidate = h.id; });
+          if (candidate) setActive(candidate);
+        };
+        window.addEventListener('scroll', updateActive, { passive: true });
+        updateActive();
       }
 
       // ---- prev / next ----
@@ -495,6 +560,8 @@
     const h = document.documentElement.scrollHeight - window.innerHeight;
     const pct = h > 0 ? window.scrollY / h : 0;
     if (progress) progress.style.width = (pct * 100) + '%';
+    const rp = window.__railProgress;
+    if (rp) rp.textContent = Math.round(pct * 100) + '%';
   }
   window.addEventListener('scroll', onScroll, { passive: true });
   window.addEventListener('resize', onScroll);
