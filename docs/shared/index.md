@@ -32,6 +32,8 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Interrogating Reality Card**](interrogating-reality-card.md) — naming what the cohort already knows but has not yet said. Introduced in the Going Deeper series.
 
+- [**Getting Started Session Slides**](../getting-started/gs-session-slides-v1.4.pptx) — *team-facing*: the full twenty-two-session room screen (PowerPoint, v1.4) — one slide per road stop, five standing liturgical images. Section 9 of the Getting Started handbook describes how it serves the plans.
+
 ---
 
 ## Printing a handout
