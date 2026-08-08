@@ -173,6 +173,18 @@ By Week 2, run the full eight-step opening protocol from the Handbook. The cohor
 
 (Round the circle. Keep it moving. Honor passes without ceremony.)
 
+(When the round completes, teach the check-in’s anchor — once, thirty seconds. It names what this five minutes is for all year:)
+
+“One more thing about this little round, because we are going to do it every single week. When Israel finally crossed the Jordan into the land, God had them stack twelve stones out of the riverbed on the bank. On purpose — so that one day the children would ask what the stones meant, and the fathers would get to answer with what God did.”
+
+*“When your children ask their fathers in times to come, ‘What do these stones mean?’ then you shall let your children know, ‘Israel passed over this Jordan on dry ground.’”*
+
+— Joshua 4:21–22 (ESV)
+
+“Every week, this check-in adds a stone. One honest sentence at a time. By spring there will be a pile — and when somebody asks you what these stones mean, you will have an answer.”
+
+(If the session slides are in use, the stacked-stones image sits beside every check-in from tonight to the end of the year; this verse is printed beneath it tonight and at the two “What Held?” re-entries.)
+
 Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor it. “Thanks for the honesty. Pick it back up tomorrow.” Do not lecture about consistency.
 
 ## Block 3 — Teaching: Mark 4 and the Four Soils (7:15–7:30, 15 min)

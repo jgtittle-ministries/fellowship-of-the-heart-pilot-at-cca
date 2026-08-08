@@ -194,6 +194,8 @@ Split to family clusters — two or three whole families with their Cluster Comp
 
 *“So in your clusters: one at a time, say plainly which practices held through the break and which slipped. That’s all. Nobody fixes anybody. Nobody compares. Slips are data — they tell us where the rhythm needs the room, and that is useful information, not a verdict. A parent will start in each cluster.”*
 
+*“And before you split — back in Week 2, when this check-in was born, we stacked our first stone: Joshua’s twelve stones out of the Jordan, piled up on purpose so the children would one day ask, ‘What do these stones mean?’ Every check-in since September has added one. The break did not knock the pile over. Tonight’s reading is the answer to Joshua’s question — what held.”*
+
 *“Family clusters: [name each cluster’s families and its Companion]. Twenty minutes. Go.”*
 
 ### **Inside the cluster — Companion script**

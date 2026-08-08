@@ -11,6 +11,10 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The cairn's verse
+
+The weekly check-in gained its teaching anchor: **Joshua 4:21–22** — the twelve stones out of the Jordan, stacked on purpose so the children would ask, “What do these stones mean?” Week 2 teaches it in thirty seconds at the birth of the check-in ritual; both re-entries call it back — at The Return the pile survived the break (“tonight's reading is the answer — what held”), and at The Return II the question changes hands toward the year's sending. In the session slide deck (v1.4), the trail-cairn image that sits beside every check-in carries the printed verse at those three sessions.
+
 # August 2026 — The teach-back question
 
 Born the week the summer club's final session ended with the teens volunteering that they thought they could lead: the founder added a standing question — **“If you were to teach this process to someone, what would you tell them?”** Formulating what you would tell another person is among the most reliable ways learning consolidates, and it is 2 Timothy 2:2 in miniature, every Wednesday. Three placements, one thread:

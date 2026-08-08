@@ -164,6 +164,8 @@ No clusters tonight. The full circle, one sentence each, and the register is cel
 
 *(When the circle completes:)* *“Listen to what this room just did. Everybody read their own rhythm out loud, in one pass, without anybody needing to be coaxed or rescued. In September that round would have taken an hour and a crowbar. The practices are yours now. That is the whole finding, and it is the best one of the year.”*
 
+*“And Joshua’s question has sat beside every check-in this year — ‘What do these stones mean?’ You just answered it as one room, in one pass. Hold on to that, because the question is about to change hands: soon it will be yours to ask, and to answer for somebody else.”*
+
 ### **Notes**
 
 - Keep it moving. Twenty-five minutes is generous for a one-sentence round even at full attendance; the spare minutes belong to the laughter and the closing observation, not to expansions. If a sentence starts becoming a story, receive it warmly and keep the circle turning.
