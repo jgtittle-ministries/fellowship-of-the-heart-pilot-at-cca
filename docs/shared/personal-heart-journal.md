@@ -51,6 +51,44 @@ The pages are not assignments. They are scaffolds. If you write a sentence and s
 
 **That is the whole practice. One sentence. If you missed Him — write that. Honest noticing is what builds the faculty of seeing.**
 
+## A morning flow — four images (optional)
+
+**Some people find the morning question settles best inside a short row of images** — a visual rhythm, prayed in the same order every day until the pictures themselves become the prayer. The founder has kept one for years, built through a mentored exercise with Christian A. Schwarz: four images in a fixed order, each holding one line.
+
+**Grounded.** A bench above an enormous evening valley. *“I am drawn into God — at peace, quiet, grounded, part of an infinite whole.”*
+
+**Listening.** A quiet chair, an open Bible, a journal and a pen. *“From here I move in the ‘unforced rhythms of grace’ to listen and lean into His voice, today.”* (The phrase is Eugene Peterson’s rendering of Matthew 11:28–30.)
+
+**Changed, rippling.** Rings widening on still water. *“I am ready to be, and already am, changed. My inner ripples are evident in the world to others.”*
+
+**Leaping.** A hiker mid-air between two rocks. *“I jump into my day from rock to rock — certain and sure at each point, even when I cannot yet see the next one.”*
+
+**Grounding, hearing, changing, leaping.** If a flow like this would serve you, build one slowly — nobody will ever ask to see it, and there is no deadline. Watch for images that hold *your* sequence. Pin them where your morning happens, and give each one its line:
+
+My first image — where I become still:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+My second image — where I listen:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+My third image — what is changing, and rippling out:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+My fourth image — how I go into the day:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 ## On honesty
 
 This journal works only if it is honest. The temptation is to write what sounds spiritual, or what your Companion might approve of, or what your future self will be proud of. Resist that. Write what is actually happening.

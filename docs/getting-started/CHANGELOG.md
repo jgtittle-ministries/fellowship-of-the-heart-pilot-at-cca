@@ -11,6 +11,10 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — A rhythm you can see
+
+Week 15's Rhythm Card build gains a ninety-second preface: before anyone writes a card, the Lead Companion shows the room what a rhythm turns into when it is kept — the founder's own morning flow, four images prayed in the same order every morning for years (from a mentored exercise with Christian A. Schwarz; the images travel with the session slides, used with the author's permission). A bench, an open Bible, rings on still water, a leap between rocks — grounding, hearing, changing, leaping. Then the invitation, never the assignment: as you keep the card you built tonight, watch for your own four images. The Personal Heart Journal's morning-question pages gain an optional “A morning flow” section — the founder's worked example in words, and four frames waiting.
+
 # August 2026 — The cairn's verse
 
 The weekly check-in gained its teaching anchor: **Joshua 4:21–22** — the twelve stones out of the Jordan, stacked on purpose so the children would ask, “What do these stones mean?” Week 2 teaches it in thirty seconds at the birth of the check-in ritual; both re-entries call it back — at The Return the pile survived the break (“tonight's reading is the answer — what held”), and at The Return II the question changes hands toward the year's sending. In the session slide deck (v1.4), the trail-cairn image that sits beside every check-in carries the printed verse at those three sessions.

@@ -220,6 +220,16 @@ Read the passage aloud. Slow. The teaching is short and it frames the build.
 
 *"One rule for the next twenty minutes, and it is the whole exercise: write the rhythm you will actually keep, not the one that impresses you. An honest small rhythm beats an impressive imaginary one every single time. The card itself says you do not install everything at once — the starter plan on it begins with two practices totaling six minutes a day. Six honest minutes is a real rhythm."*
 
+## A rhythm you can see (Lead Companion, ninety seconds)
+
+*Before the build begins, the Lead Companion shows the room what a rhythm turns into when it is kept for years — their own. The founder's version: four images, prayed in the same order every morning since long before this series existed. (If the session slides are in use, the four images are on the screen; otherwise a printed page held up is enough.)*
+
+*"Before you build — ninety seconds on where a card like this can go. I have prayed the same four pictures every morning for years. A bench above an enormous evening valley — I am drawn into God: at peace, quiet, grounded, part of an infinite whole. A quiet chair with an open Bible — from there I move in the 'unforced rhythms of grace,' to listen and lean into His voice, today. Rings widening on still water — I am ready to be, and already am, changed; the ripples reach people I will never trace. And a hiker mid-leap between two rocks — I jump into my day rock to rock, certain and sure at each point, even when I cannot yet see the next one. Grounding. Hearing. Changing. Leaping. Nobody assigned me those pictures. They became mine by keeping them."*
+
+*"So here is the invitation — and it is an invitation, never an assignment: as you keep the card you build tonight, start watching for your own four images. A photograph, a postcard, your own sketch — anything that holds your sequence. The journal has a page waiting for them. Some of you will find them in a month; some in a year. When they are yours, the flow becomes prayer before the words arrive."*
+
+## Script (Companion-in-Formation)
+
 *"In your family clusters — families together, same as always. Build in your own handwriting. Go."*
 
 ## **Block 5 — Building Your Rhythm Card (7:30–7:50, 20 min)**
