@@ -217,8 +217,8 @@ The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at 
 
 *The evening’s leader closes the working part of the evening the same way every week.* A teen led the open and close tonight, so the senior answers first, the adult second; the room’s feedback covers them both.
 
-1. The Companion-in-Formation: *“Before we close — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______.”*
-2. The Lead Companion answers the same two questions, briefly, for the blocks they carried.
+1. The Companion-in-Formation: *“Before we close — three things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. If I were to teach tonight’s process to someone, I would tell them: ______.”*
+2. The Lead Companion answers the first two questions, briefly, for the blocks they carried.
 3. Then the room — same two questions about tonight. What went well? What would you do differently? Two or three voices on each is plenty. The leaders receive without defending — “thank you” is the whole response.
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*

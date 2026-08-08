@@ -286,7 +286,7 @@ Run the Section 5 closing protocol, unhurried. From the Handbook:
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 
-Leader: *“Before the blessing — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+Leader: *“Before the blessing — three things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. If I were to teach tonight’s process to someone, I would tell them: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response.
 

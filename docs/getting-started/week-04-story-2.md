@@ -332,11 +332,11 @@ The parent Co-Companion takes this block, same as Week 3.
 
 ## Script
 
-Lead Companion: *“Before we close — two things from whoever led, same as every week. [Senior’s name] led tonight, so they go first, and I’ll go second.”*
+Lead Companion: *“Before we close — three things from whoever led, same as every week. [Senior’s name] led tonight, so they go first, and I’ll go second.”*
 
-The senior: *“What I think went well tonight: ______. What I’d do differently next time: ______.”*
+The senior: *“What I think went well tonight: ______. What I’d do differently next time: ______. If I were to teach tonight’s process to someone, I would tell them: ______.”*
 
-The Lead Companion answers the same two questions for the adult side of the evening. Then: *“Now the room — same two questions about tonight. What went well? What would you do differently?”*
+The Lead Companion answers the first two questions for the adult side of the evening. Then: *“Now the room — same two questions about tonight. What went well? What would you do differently?”*
 
 Two or three voices on each question is plenty. The leaders receive without defending — “thank you” is the whole response. Keep the room’s words specific and “for you”-shaped: “the way you waited out the silence before [teller]’s story” is gold; “you did great” is not. The team agrees on its one growth item in a ten-second sidebar during the merge — not improvised in front of the room — and the affirmations must outweigh it, in number and in specificity.
 
@@ -503,7 +503,7 @@ Then stay seated, stay present, keep your face soft, say nothing more. The adult
 
 ### The Leader Feedback Round (before the close)
 
-The Lead Companion frames it; you answer first, plainly: *“What I think went well tonight: ______. What I’d do differently next time: ______.”* Then the adult answers, then the room. Receive without defending — “thank you” is your whole response.
+The Lead Companion frames it; you answer first, plainly: *“What I think went well tonight: ______. What I’d do differently next time: ______. If I were to teach tonight’s process to someone, I would tell them: ______.”* Then the adult answers the first two, then the room. Receive without defending — “thank you” is your whole response.
 
 ### The container close (shared room)
 

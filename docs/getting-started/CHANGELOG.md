@@ -11,6 +11,16 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The teach-back question
+
+Born the week the summer club's final session ended with the teens volunteering that they thought they could lead: the founder added a standing question — **“If you were to teach this process to someone, what would you tell them?”** Formulating what you would tell another person is among the most reliable ways learning consolidates, and it is 2 Timothy 2:2 in miniature, every Wednesday. Three placements, one thread:
+
+- **The Leader Feedback Round** gains a third question, for the evening's leader alone — went well, do differently, teach-back. The room's round stays two questions; the leader models the formulation aloud. On second-running nights the question lands in the mouth of the teen who just taught.
+- **The Personal Heart Journal** now closes every end-of-week reflection with the same question, so every participant — teen and parent — does the formulation privately each week.
+- **The Long Walk (Week 20)** is where the thread pays off: the Lead Companion names it aloud — the journal has asked this all year; tonight the seniors stopped answering on paper and taught — and the seniors' closing round asks what they would tell whoever teaches it next.
+
+The handbook's canonical round definition, all twenty-two session plans, and the session slide deck's standing Feedback Round slide carry the change together.
+
 # August 2026 — The Thursday Call and the Weekly Run Card
 
 The team's weekly rhythm consolidated (founder's design, thinking through how teaching the year actually plays out): the plans' two separate meetings — the day-after debrief and the 48-hours-before prep meeting — fold into **one forty-five-minute conference call shortly after each Wednesday session**, in three movements: *look back* (the Three Vital Signs first, the Feedback Round echo, one-keep-one-change from each person with the evening's leader first), *look at the flock* (every 48-hour follow-up gets a name and a deadline), and *look ahead* (next week's Quick Reference Card walked aloud, the plan's decisions made, roles assigned). The call closes with the Lead Companion reading the **Weekly Run Card** back aloud — a new one-page shared card (`shared/weekly-run-card.md`): the same role grid every week, one name per line, sent to the team before anyone hangs up. Four working rules in Handbook Section 3: one name per line; heavy weeks schedule a separate working session rather than stretching the call; the call replaces the meetings, not the moments (the in-person dry run and the T-30 prayer stand); and the teen join-time boundary — Companions-in-Formation join for the look-ahead only, because the flock segment is care, and teens never carry care. All lesson-plan debrief and prep-meeting language re-pointed at the call.

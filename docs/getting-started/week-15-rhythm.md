@@ -288,8 +288,8 @@ Presenting the four questions can land visibly on someone mid-block — a parent
 
 ## Structure (one round — teen first, adult second)
 
-1. The senior: *"Before we close — two things from me, same as every week. What I think went well tonight: ______. What I'd do differently next time: ______."*
-2. The Lead Companion answers the same two questions, briefly, for the parts of the evening they carried.
+1. The senior: *"Before we close — three things from me, same as every week. What I think went well tonight: ______. What I'd do differently next time: ______. If I were to teach tonight's process to someone, I would tell them: ______."*
+2. The Lead Companion answers the first two questions, briefly, for the parts of the evening they carried.
 3. Then the room — same two questions about tonight. What went well? What would you do differently? Two or three voices on each question is plenty. The leaders receive without defending — "thank you" is the whole response; the room's feedback covers them both.
 4. Because this round is the last one of the series, the Lead Companion closes it by naming one thing the team has watched grow across all four leads: Story II, PROAPT II, the Garden walk-through, and tonight's rhythm arc. Name the growth specifically; the cohort should hear the distance traveled.
 

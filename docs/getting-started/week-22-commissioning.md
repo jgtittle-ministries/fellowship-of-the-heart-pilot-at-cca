@@ -299,7 +299,7 @@ Before anyone leaves the room. This block is short, almost administrative — an
 
 *The evening's leader closes the working part of the evening the same way every week — and tonight the round belongs to the seniors, because they led the rite's movements. It sits here, before the container closes, so the commissioning's sacred close remains the final word of the evening.*
 
-Lead Companion: *"Before we close — two things from our leaders first, same as every week. What went well tonight, and what would you do differently next time?"* The new FC1s answer first — a sentence or two each is plenty; then the Lead Companion answers the same two questions for the parts of the evening the adults carried. Then the room — same two questions about tonight. What went well? What would you do differently?
+Lead Companion: *"Before we close — three things from our leaders first, same as every week. What went well tonight, what would you do differently next time — and, one last time before it becomes your question to carry: if you were to teach this to someone, what would you tell them?"* The new FC1s answer first — a sentence or two each is plenty; then the Lead Companion answers the first two questions for the parts of the evening the adults carried. Then the room — same two questions about tonight. What went well? What would you do differently?
 
 Two or three voices on each question is plenty. The leaders receive without defending — "thank you" is the whole response. The teens answered first, the adult second; the room's feedback covers them all.
 

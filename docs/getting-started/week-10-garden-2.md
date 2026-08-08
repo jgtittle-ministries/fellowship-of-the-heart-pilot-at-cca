@@ -318,7 +318,7 @@ The walk-through runs once, for the whole room, senior-led: the Companion-in-For
 
 *The evening's leader closes the working part of the evening the same way every week (handbook Section 11.7). Tonight it is one merged round, not two: a senior led the room's deepest practice, so the senior answers first, the adult second, and the room's feedback covers them both.*
 
-Leader: *“Before we close — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+Leader: *“Before we close — three things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. If I were to teach tonight’s process to someone, I would tell them: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both. For a first-time guide, pace and the held silences are usually the honest headline; one thing to try differently — one, not a list — is enough.
 

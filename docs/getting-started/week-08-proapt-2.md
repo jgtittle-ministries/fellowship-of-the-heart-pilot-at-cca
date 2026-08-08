@@ -284,11 +284,11 @@ Everyone back in the single circle.
 
 ## Script (Lead Companion)
 
-*"Before we close — the feedback round, same as every week. [Name] led the walk-through tonight, so [name] goes first. Two things: what went well tonight, and what you'd do differently next time."*
+*"Before we close — the feedback round, same as every week. [Name] led the walk-through tonight, so [name] goes first. Three things: what went well tonight, what you'd do differently next time, and — if you were to teach tonight's process to someone — what you would tell them."*
 
-**The senior answers first:** *"What I think went well tonight: ______. What I'd do differently next time: ______."*
+**The senior answers first:** *"What I think went well tonight: ______. What I'd do differently next time: ______. If I were to teach tonight's process to someone, I would tell them: ______."*
 
-**The Lead Companion answers the same two questions second** — for the adult side of the evening — and adds one specific affirmation of the senior's lead (specific — "you held the silence after Apply and didn't fill it" — not general) and at most one thing to try differently. One thing, not a list.
+**The Lead Companion answers the first two questions second** — for the adult side of the evening — and adds one specific affirmation of the senior's lead (specific — "you held the silence after Apply and didn't fill it" — not general) and at most one thing to try differently. One thing, not a list.
 
 **Then, by the senior's consent** (*"[Name] — okay to open it to the room?"*): *"Now the room — same two questions about tonight. What went well? What would you do differently?"* Popcorn-style, "for you" language — the group reflects on their own experience, not grading a friend. The room's feedback covers the senior and the adult both.
 

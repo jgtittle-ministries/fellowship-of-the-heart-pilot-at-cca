@@ -335,7 +335,7 @@ This is the first session in which the practice is explicitly relational and exp
 
 ## Script
 
-*“Before we close — two things from me, same as every week. What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+*“Before we close — three things from me, same as every week. What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. If I were to teach tonight’s process to someone, I would tell them: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”*
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
 

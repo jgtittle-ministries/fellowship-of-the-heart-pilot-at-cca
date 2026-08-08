@@ -262,11 +262,11 @@ A CiF runs the closing protocol, brief tonight: the standing circle, the one-wor
 
 ## Script (Lead Companion)
 
-*“Before the blessing — the feedback round, same as every week. Tonight we had several leaders, so they go first, together. Each of you, briefly: what went well tonight, and what would you do differently — next week being the next time.”*
+*“Before the blessing — the feedback round, same as every week. Tonight we had several leaders, so they go first, together. Each of you, briefly: what went well tonight, what would you do differently — next week being the next time — and, one sentence: if you were to teach what you taught tonight to someone, what would you tell them?”*
 
-**Each CiF answers both questions, one or two sentences each.** Coach at prep: brief, honest, forward-pointed — *“differently”* tonight means *at The Long Walk*.
+**Each CiF answers all three questions, one or two sentences each.** Coach at prep: brief, honest, forward-pointed — *“differently”* tonight means *at The Long Walk*.
 
-**The Lead Companion answers the same two questions second** — for the whole evening — and adds one specific affirmation *of the group of teachers as a group* (specific: what the room received tonight that it did not have this morning) and at most one growth item, also collective. Individual coaching stays in the cluster notes and the prep meeting; the closing round honors the team of them.
+**The Lead Companion answers the first two questions second** — for the whole evening — and adds one specific affirmation *of the group of teachers as a group* (specific: what the room received tonight that it did not have this morning) and at most one growth item, also collective. Individual coaching stays in the cluster notes and the prep meeting; the closing round honors the team of them.
 
 **Then, by the CiFs’ consent** (*“okay to open it to the room?”* — any one of them may decline for all): *“The room — same two questions about tonight. What went well? What would you do differently?”* Popcorn-style, “for you” language. Two or three voices is plenty; the leaders receive without defending.
 

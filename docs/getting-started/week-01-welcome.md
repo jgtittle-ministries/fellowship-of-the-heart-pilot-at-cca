@@ -313,7 +313,7 @@ Adaptations for Week 1 closing:
 
 ## Script
 
-“One more thing before the blessing. We’re going to end every week the same way, and I go first. Two things from me, same as every week from here on: What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”
+“One more thing before the blessing. We’re going to end every week the same way, and I go first. Three things from me, same as every week from here on: What I think went well tonight: \_\_\_\_\_\_. What I’d do differently next time: \_\_\_\_\_\_. If I were to teach tonight’s process to someone, I would tell them: \_\_\_\_\_\_. Now the room — same two questions about tonight. What went well? What would you do differently?”
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. If a teen led tonight, they answer first, the adult second; the room’s feedback covers them both.
 

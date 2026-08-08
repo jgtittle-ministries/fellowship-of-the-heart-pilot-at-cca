@@ -258,7 +258,7 @@ Handouts pass down the tables while the Lead Companion speaks. This framing is o
 
 *The evening’s leader closes the working part of the evening the same way every week — yes, even on a dinner night. Especially on a dinner night; the round on an easy evening is what keeps it ordinary.*
 
-Leader: *“Before we close — two things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
+Leader: *“Before we close — three things from me, same as every week. What I think went well tonight: ______. What I’d do differently next time: ______. If I were to teach tonight’s process to someone, I would tell them: ______. Now the room — same two questions about tonight. What went well? What would you do differently?”*
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. Expect food commentary; take it seriously — next year’s family night is built from tonight’s answers.
 

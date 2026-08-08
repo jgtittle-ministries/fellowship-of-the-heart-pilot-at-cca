@@ -352,9 +352,10 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 ## Structure
 
-1. The seniors, together, as a team: *"Before we close — two things from us, same as every week. What we think went well tonight: ______. What we'd do differently next time: ______."* (Each senior speaks; they may divide the two questions between them or each answer both. Tonight's rep — the teaching — is what they assess, honestly, including anything that wobbled.)
-2. Then the room — same two questions about tonight. What went well? What would you do differently? Two or three voices on each is plenty. The seniors receive without defending — "thank you" is the whole response.
-3. The Lead Companion closes the round with one specific sentence about the teaching the room just received from its own seniors — what it was, and what it means that they carried it. Specific, witnessed, brief. If a freeze happened and the catch stepped in, this is where it is honored in one sentence, not managed away: the recovery was the leadership.
+1. The Lead Companion frames it: *"All year, the journal has ended every week with the same question — if you were to teach this to someone, what would you tell them? Tonight our seniors stopped answering it on paper and taught. So they go first."*
+2. The seniors, together, as a team: *"Before we close — three things from us, same as every week. What we think went well tonight: ______. What we'd do differently next time: ______. What we'd tell whoever teaches this next: ______."* (Each senior speaks; they may divide the questions between them or each answer all three. Tonight's rep — the teaching — is what they assess, honestly, including anything that wobbled.)
+3. Then the room — same two questions about tonight. What went well? What would you do differently? Two or three voices on each is plenty. The seniors receive without defending — "thank you" is the whole response.
+4. The Lead Companion closes the round with one specific sentence about the teaching the room just received from its own seniors — what it was, and what it means that they carried it. Specific, witnessed, brief. If a freeze happened and the catch stepped in, this is where it is honored in one sentence, not managed away: the recovery was the leadership.
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
