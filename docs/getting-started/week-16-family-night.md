@@ -59,7 +59,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Fifteen weeks of formation work sit in this room — story, confession, hearing, gardens, doubts, mission, rhythm. Week 15 handed every participant a rhythm in their own handwriting and handed the parents the bravest homework of the year. Tonight the series does what Acts 2:46 says the first church did between the temple and the teaching: it eats together, gladly. The early church’s formation ran on two rails — the apostles’ teaching and the shared table — and this series has spent almost all its weeks on the first rail. Tonight is the second rail, whole.
+Fifteen weeks of formation work sit in this room — story, confession, hearing, gardens, doubts, mission, rhythm. Week 15 handed every participant a rhythm in their own handwriting and handed the parents the bravest homework of the year. Tonight the series does what Acts 2:46 says the first church did between the temple and the teaching: it eats together, gladly. The early church’s formation ran on three rails — the apostles’ teaching, the shared table, and the prayers (Acts 2:42) — and this series has spent almost all its weeks on the teaching and the prayers. Tonight is the table, whole.
 
 There is also a pastoral reason for the timing. In the CCA year this is the next-to-last Wednesday of Quarter 3, with the commissionings still a quarter away. A room that only ever works eventually forgets it is a family. A meal — real food, mixed tables, parents laughing, teens going back for seconds — is how a room remembers. The cards over dessert keep just enough shape that the conversation goes somewhere; the pre-selection keeps them light enough that nobody is ambushed at dinner.
 
@@ -196,7 +196,7 @@ Watch the room during this round — it is tonight’s quiet diagnostic. Who rep
 
 — Acts 2:46 (ESV)
 
-*“The first church ran on two rails: the teaching, and the table. We have given fifteen weeks to the first rail. Tonight is the second. Breaking bread with glad and generous hearts is not the break between the formation — it is the formation.”*
+*“The first church ran on three rails: the teaching, the table, and the prayers. We have given fifteen weeks to the teaching, and every one of them to the prayers. Tonight is the table. Breaking bread with glad and generous hearts is not the break between the formation — it is the formation.”*
 
 *“Let’s pray. Father, thank You for this food and the hands that made it. Thank You for every face at these tables. Make us glad and generous tonight, like that first room was. In Jesus’ name, amen.”*
 
