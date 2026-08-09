@@ -222,6 +222,10 @@ Read the full scene aloud, slowly, from the physical Bible. The whole context ma
 
 ## **Block 4 — The Any Doubts? Practice — Teaching (7:25–7:35, 10 min)**
 
+*(First, the callback — thirty seconds, journals out:)*
+
+*“Before the practice, open your journal to the very first page — the question you wrote on the first night, the one you would ask God if you knew He would answer. Just look at it. Some of you will find that tonight’s doubt lives next door to that question. You don’t have to say either one aloud. But know this: naming a doubt out loud and asking your real question honestly are the same kind of courage, and this room was built for both.”*
+
 Stand at the whiteboard. The four steps are pre-written: NAME / EXAGGERATE / SIT / RE-READ. Walk through each in two to three minutes. Then demo with a Co-Companion — a real, brief demo, with a real scripture and a real (small) doubt.
 
 ## The four steps — walk these on the whiteboard

@@ -288,7 +288,7 @@ The room stays seated where it is. The Lead Companion uncovers the three prompts
 
 *"Now the year itself. Take out your journal — the one you have been writing in since September. If yours isn't with you tonight, take paper and walk the year from memory; it is in you even if it isn't in your hands."*
 
-*"Here is the invitation. Go back to the beginning — your first entries, Week 1, Week 2 — and read forward. Not every word; you're walking the road again, not re-taking the class. As you go, hold three questions."* (Uncover the board:)
+*"Here is the invitation. Go back to the beginning — and start at the very first page, the question you wrote on night one, the one you would have asked Him if you knew He would answer. Read it before anything else, and notice what the year has done to it: answered, changed into a different question, or still standing — every one of those is a real answer, and each one tells you something about the road you just walked. Then your first entries, Week 1, Week 2, reading forward. Not every word; you're walking the road again, not re-taking the class. As you go, hold three questions."* (Uncover the board:)
 
 **Where did I begin?**
 

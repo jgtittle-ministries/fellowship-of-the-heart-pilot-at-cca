@@ -11,6 +11,32 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The listening moves and the first page
+
+Two more from the Alpha Youth reading — this time from the current host-and-helper materials:
+
+- **The three listening moves (Appendix G, Lab 2).** The Leader Lab now teaches listening as a skill, not a disposition: **encourage, paraphrase, summarize** (a model from the Fuller Youth Institute) — affirm the courage before the content, give back what was said so the teller knows it landed, gather the most significant feeling into one closing sentence. With the working insight that a person who repeats, gets louder, or exaggerates usually doesn't feel heard yet — a signal about the listener, not the teller. Practiced in pairs; bounded by rule two.
+- **The first page (Week 1 → journal → Week 11 → Week 20).** On the first night, everyone writes one question on the journal's first page: *if you could ask God one question and know He would answer it this year, what would you ask?* Dated, never collected, read by no one — the journal keeps it, not the team. The room returns to the page twice: Week 11, before doubts get named (the doubt often lives next door to the question), and Week 20, where the arc review now begins at that page — answered, changed, or still standing, each a real answer. Adapted from Alpha's opening-episode practice, rebuilt to honor the journals-are-never-collected covenant.
+
+# August 2026 — The ask, the quiet seat, and the noticing habit
+
+A reading of Alpha USA's current student-led youth toolkit — the tradition's modern answer to the same teen-leadership question — added four companions to the selection additions below. Alpha's pipeline has almost no gate ("you just need a student who's willing"); this series keeps its discernment gate and borrows the pipeline's best discovery tools:
+
+- **Making the ask (Section 11.5).** Three example scripts for the gift-naming personal invitation — name what was observed, tie it to one specific slot, leave real room for no.
+- **The quiet seat (Section 11.5).** A named, honorable non-front slot in the circle: listen well, encourage the one who just told, notice who is on the edge. Offered by name, never assigned; what is noticed is handed to the adult, never carried.
+- **The noticing habit (Appendix G).** Every Leader Lab now closes with the standing question "What did you notice about the room this week?" — the pastoral eye forms by being asked what it saw — with the hand-it-to-your-adult rule spoken every time.
+- **The celebrate line (Section 11.7).** The Feedback Round's affirmations name character, courage, and consistency, never flawless execution — what gets celebrated is what grows.
+
+# August 2026 — Faithful and able: five selection additions
+
+A close reading of the *Life in the Spirit Seminars Team Manual* (Stephen B. Clark, 1970s — specifically its team-formation half) put language to some things the series was already doing and named a few it was not yet doing. Five additions, one thread: Paul's two words in 2 Timothy 2:2 — *faithful* and *able* — applied to selection, not only to transmission.
+
+- **The clear agreement (Section 3 + new Appendix J).** Joining the Companion team now begins with a one-page agreement walked through aloud — the work, the rhythm, the season, the boundaries — closed by a yes spoken plainly, not signed. A yes that saw the whole; a no that can be honorable.
+- **The six marks of "ready" (Section 11.5).** The parent-and-Lead discernment pair now looks at the same six marks — three of faithfulness, three of ability — so "ready" means the same thing to both discerners.
+- **Selection looks both ways (Section 11.5).** Volunteering is evidence, not the criterion; the team also seeks out the quiet teen the room already listens to (2 Timothy 1:7).
+- **"What tells me that?" (Section 3, the Thursday Call).** The look-at-the-flock movement gains its grounds-checking question, so a read formed on thin evidence gets caught before it hardens into the plan.
+- **The four rungs (Section 11.8).** The road from FC1 to the dorm now names its stages: receive it → lead it with the team in the room → lead it with a Companion alongside → lead it alone, with a covering a call away.
+
 # August 2026 — A rhythm you can see
 
 Week 15's Rhythm Card build gains a ninety-second preface: before anyone writes a card, the Lead Companion shows the room what a rhythm turns into when it is kept — the founder's own morning flow, four images prayed in the same order every morning for years (from a mentored exercise with Christian A. Schwarz; the images travel with the session slides, used with the author's permission). A bench, an open Bible, rings on still water, a leap between rocks — grounding, hearing, changing, leaping. Then the invitation, never the assignment: as you keep the card you built tonight, watch for your own four images. The Personal Heart Journal's morning-question pages gain an optional “A morning flow” section — the founder's worked example in words, and four frames waiting.

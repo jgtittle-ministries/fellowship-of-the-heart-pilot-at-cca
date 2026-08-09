@@ -140,7 +140,7 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 | 7:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
 | 7:20 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 15 |
 | 7:35 | One True Sentence — each person says why they are here. | Shared | Lead Companion + Co-Facs | 20 |
-| 7:55 | Scripture: John 10:10b — short reading and reflection. | Shared | Lead Comp | 10 |
+| 7:55 | Scripture: John 10:10b — short reading and reflection; the first-page question written in the journal (2 quiet min). | Shared | Lead Comp | 10 |
 | 8:05 | Between-session practice introduced. | Shared | Parent Comp | 5 |
 | 8:10 | Closing container — first full closing protocol. | Shared | Lead Comp | 10 |
 | 8:20 | The Leader Feedback Round — debut. | Shared | Lead Comp | 5 |
@@ -280,6 +280,12 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 “Here is the question I want you to take home with you tonight. Not to answer right now. To carry. ‘Where in my life am I living abundantly, and where am I living some thinner version of life that Jesus did not come to give me?’
 
 “We will spend the rest of this year unpacking that. For tonight, just hold the question.”
+
+*(Then, before the practice hand-off — the first page, written in the room:)*
+
+“One more thing, while the journals are out. Open yours to the very first page — before Week 1, the blank one. Here is what goes there tonight, in your own handwriting. If you could ask God one question — and know that He would answer it for you this year — what would you ask Him? Don’t write the question you think you’re supposed to have. Write the one you actually have. Date it. Nobody will ever read it — this journal is yours, all year, and we never collect it. But write it like you mean it, because this room is going to come back to that page before the year is done.”
+
+*(Two silent minutes. No music, no commentary. The compact scripture teaching above leaves room for this inside the block. Companions write their own first page too — visibly.)*
 
 ## Block 7 — Between-Session Practice (8:05–8:10, 5 min)
 

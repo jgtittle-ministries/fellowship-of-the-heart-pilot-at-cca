@@ -128,6 +128,20 @@ Week 1
 
 *This week is the threshold. We name what we are doing, why we are doing it, and what kind of room this is. The work has not yet started. The work this week is settling — letting the room be the room. Below are simple prompts for each day.*
 
+## The first page — the question you carry in
+
+*Written in the room on the first night, before anything else in this journal.*
+
+**If you could ask God one question — and know that He would answer it for you this year — what would you ask Him?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Date:** \_\_\_\_\_\_\_\_\_\_\_\_
+
+*Nobody will read this page but you. It is not homework and it is never collected. It is a marker stone — the room will come back to this page twice: once on the night doubts get named (Week 11), and once at the year's end, when you walk the whole journal back (Week 20). Questions change over a year. Answered, changed, or still standing — each of those turns out to be a real answer.*
+
 ## Daily practice — Week 1
 
 *Each day this week, the morning question and the evening note. That is the whole practice. Use the lines below for whatever comes up.*
