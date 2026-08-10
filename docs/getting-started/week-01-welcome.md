@@ -219,6 +219,8 @@ This is the most important block of Week 1. Do not rush it.
 
 “Intentional means each of us has decided, before we begin, that we are willing to do whatever the Spirit might invite us to do. We are not just here. We are here on purpose.
 
+“One more thing about the words we’re about to say, because I want them to be sayable honestly by every person in this room, every week. The commitment is: ‘I am here. I am paying attention. I am willing to be moved.’ If there is ever a night — or a season, or a whole year — when you can’t honestly say that last part, you say this instead, out loud, with the rest of us: ‘I am here, and I am listening.’ That is a full way to stand in this circle, not a lesser one. Nobody tracks who says which. This room asks honesty, not performance — and an honest listener keeps this container better than anyone reciting words they don’t mean.
+
 “We’re going to open the container right now. From here on out, every session opens this way. Eight steps. Stand up.”
 
 Have the cohort stand. Walk through the eight-step opening container protocol from the Handbook (Section 5). Read aloud or paraphrase from familiarity. Hold each step. Do not rush. The first one-word check-in is the most important moment of Week 1 — if every single person says one word, you have your first win.

@@ -165,6 +165,10 @@ The Getting Started series is designed for teens and parents from Covenant Chris
 - A wide range of formation maturity. Some teens will be at Affective Taxonomy Level 1 (showing up because Mom said). Some will already be at Level 3 (asking the questions on their own). Both belong.
 - Parents at varying levels of formation themselves. We design for the parent who has never done this kind of interior work, and we leave room for the parent who has.
 
+### The seat for the skeptic
+
+A room this honest will sometimes hold a teen — or a parent — who does not believe any of it. That person has a real seat here, not a tolerated one, and three things keep it real. First, the weekly spoken commitment has an honest variant (“I am here, and I am listening” — Section 5), so the container never asks anyone to recite what they do not mean. Second, Week 2 proclaims the seed plainly and gives every soil the same private question — nobody is sorted, and the thief’s case sets the bar exactly where Jesus set it. Third, the doubt too big for Week 11’s practice — *I’m not sure I believe any of this at all* — has a standing door we call **the different conversation**: any Companion, any week, off the map, for as long as it takes. A walk, not a session. Questions welcome, no script, no report, no follow-up the participant didn’t ask for — the Companion brings only their own story and the plain text, never pressure. Asking for it is honored as what it is: a costly telling. (Week 11 names the door aloud; the pre-cohort conversation’s fifth question means the team is rarely surprised by who needs it.)
+
 ## Group size (v1.3 pilot)
 
 | **Configuration** | **Recommended** | **Notes** |
@@ -368,7 +372,7 @@ Every session opens with the same protocol. The repetition matters — it is par
 
 **5. Put out / bring in.** “Is there something you need to put down before we start so you can be present? Name it silently and let it go for the next ninety minutes. Now, what blessing or intention do you want to bring in?” Silent for 30 seconds.
 
-**6. Spoken commitment.** Together: “I am here. I am paying attention. I am willing to be moved.”
+**6. Spoken commitment.** Together: “I am here. I am paying attention. I am willing to be moved.” *The honest variant, taught at Week 1 and standing all year: anyone who cannot yet say “willing to be moved” truthfully says instead, aloud with the room, “I am here, and I am listening.” That is a full way to stand in the circle, not a lesser one. Nobody tracks who says which — the container asks honesty, not performance, and an honest listener keeps it better than a reciting one.*
 
 **7. Opening prayer.** Brief, naming the Holy Spirit specifically. (“Holy Spirit, you are welcome here. Speak. We are listening.”)
 

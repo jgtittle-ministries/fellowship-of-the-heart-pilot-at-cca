@@ -18,6 +18,14 @@ Two more from the Alpha Youth reading — this time from the current host-and-he
 - **The three listening moves (Appendix G, Lab 2).** The Leader Lab now teaches listening as a skill, not a disposition: **encourage, paraphrase, summarize** (a model from the Fuller Youth Institute) — affirm the courage before the content, give back what was said so the teller knows it landed, gather the most significant feeling into one closing sentence. With the working insight that a person who repeats, gets louder, or exaggerates usually doesn't feel heard yet — a signal about the listener, not the teller. Practiced in pairs; bounded by rule two.
 - **The first page (Week 1 → journal → Week 11 → Week 20).** On the first night, everyone writes one question on the journal's first page: *if you could ask God one question and know He would answer it this year, what would you ask?* Dated, never collected, read by no one — the journal keeps it, not the team. The room returns to the page twice: Week 11, before doubts get named (the doubt often lives next door to the question), and Week 20, where the arc review now begins at that page — answered, changed, or still standing, each a real answer. Adapted from Alpha's opening-episode practice, rebuilt to honor the journals-are-never-collected covenant.
 
+# August 2026 — The seat for the skeptic
+
+The peer review's second convergent finding: a series that welcomes the not-yet-believing family had no place for them to stand honestly. Three builds, none of them a program:
+
+- **The honest variant (Section 5, taught at Week 1's container birth).** Anyone who cannot yet say "willing to be moved" truthfully says instead, aloud with the room: *"I am here, and I am listening."* A full way to stand in the circle, not a lesser one. Nobody tracks who says which — the container asks honesty, not performance, and an honest listener keeps it better than a reciting one.
+- **The seat named (Section 2).** The skeptic's seat is real, not tolerated: the honest variant, Week 2's unsorted proclamation (the thief sets the bar where Jesus set it), and the standing door for the doubt too big for Week 11.
+- **The different conversation (Section 2; named aloud at Week 11).** *I'm not sure I believe any of this at all* now has a home: any Companion, any week, off the map, for as long as it takes — a walk, not a session; no script, no report, no pressure. Week 11's teaching names the door out loud before the doubt practice begins, and the handout points to it.
+
 # August 2026 — The seed before the soils
 
 A peer review by two evangelistic traditions found the same silence from opposite directions: the series taught hearing God without ever once proclaiming, plainly, the message that makes a hearer one of His. The founder's response settles it early — by Week 2 — and in the club's own native register: salvation as connection.

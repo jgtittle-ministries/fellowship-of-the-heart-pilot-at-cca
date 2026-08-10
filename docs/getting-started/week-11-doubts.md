@@ -226,6 +226,10 @@ Read the full scene aloud, slowly, from the physical Bible. The whole context ma
 
 *“Before the practice, open your journal to the very first page — the question you wrote on the first night, the one you would ask God if you knew He would answer. Just look at it. Some of you will find that tonight’s doubt lives next door to that question. You don’t have to say either one aloud. But know this: naming a doubt out loud and asking your real question honestly are the same kind of courage, and this room was built for both.”*
 
+*(Then the seat, named aloud — thirty seconds more:)*
+
+*“And some of you may be carrying a doubt bigger than anything on tonight’s list — not ‘I doubt He hears me’ but ‘I’m not sure I believe any of this at all.’ Hear me: that doubt is welcome in this room too. It doesn’t fit tonight’s practice — it deserves better than a worksheet — so it has its own standing door: me, or any Companion, any week, for a walk, for as long as it takes. Asking is honored here. Tonight, we work the smaller, quieter ones.”*
+
 Stand at the whiteboard. The four steps are pre-written: NAME / EXAGGERATE / SIT / RE-READ. Walk through each in two to three minutes. Then demo with a Co-Companion — a real, brief demo, with a real scripture and a real (small) doubt.
 
 ## The four steps — walk these on the whiteboard
@@ -559,7 +563,7 @@ This list is yours. The team will not see it. You will not turn it in. Keep it i
 ### **Notes on choosing**
 
 - Pick a scripture you say you believe. The practice doesn’t work on a scripture you actively reject.
-- Pick one that produces a small flicker, not a hurricane. “I doubt God exists” is a different conversation; tonight we work with the smaller, quieter doubts.
+- Pick one that produces a small flicker, not a hurricane. “I doubt God exists” is a different conversation — a real one, with a standing door: any Companion, any week, for as long as it takes (the handbook calls it the seat for the skeptic, Section 2). Asking for it is honored here. Tonight we work with the smaller, quieter doubts.
 - If a scripture is loaded for you because of a specific event in your life, it may be the right one — but watch for distress. If it is more than tonight can hold, pick a different scripture and bring this one to a 1:1 with the Lead Companion.
 - You do not have to use the same scripture both rounds. Some pairs use a different scripture for the second cycle.
 - If none of these is right, pick your own. The list is a starting place, not a menu.
