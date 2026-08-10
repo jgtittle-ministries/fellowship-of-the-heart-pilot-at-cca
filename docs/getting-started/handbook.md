@@ -222,6 +222,14 @@ The Getting Started series cannot be run by one person. Plan for a team of three
 | Cluster Companion (one per family cluster when the room splits) | Holds a family cluster: keeps the parents-first order, watches the teens' faces during parents' tellings, knows every member by name. | Comfortable with both adolescents and adults in the same circle; can give a parent permission to go deep and a teen permission to pass, in the same five minutes. |
 | Pastoral / Clinical Backup | On-call (not in the room) for crisis follow-up; consulted on disclosure protocols. | Licensed counselor or trained pastor familiar with adolescents; named in writing in advance. |
 
+## The covering — who this work answers to
+
+Two layers, and the difference between them is load-bearing.
+
+**The club's covering.** The Lead Companion serves by appointment of the CCA head of school, who holds spiritual authority over this club: the curriculum is signed off under that authority, the Lead Companion reports to it on a standing cadence, and it can pause or end the work. The safety checklist (Section 6) is the floor of that authority, not the whole of it. Nobody covers themselves — the founder included.
+
+**Every Companion's own covering.** Nobody serves on this team without a personal spiritual covering of their own — a named person, close enough to see their life, under whose direction they already sit. It may be a pastor, an elder, a mature believer with the standing to ask hard questions; it may or may not be the head of school. This is a selection requirement, not a preference: a Companion without a covering is not "not yet" — they are not eligible until one exists. The club's authority confirms, for every Companion before Week 1, that the covering is real and named — not to supervise the relationship, but to know it is there. The Week 22 rite asks every commissioned senior to name their covering aloud; the adults clear that same bar before the year begins, because nobody asks of a seventeen-year-old what the adults have not first done themselves.
+
 ## Required competencies
 
 Drawing on the Formation Companion framework in Volume 5 (developmental progression with capstone competency of real-time mode-switching among the four traditions: pastoral counseling, spiritual direction, inner healing, and discipleship/coaching — see the [Formation Companion](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fthe-formation-companion.md) chapter in IJH Volume 5 for the level definitions and level-to-role mapping), the Companion team should collectively cover the following competencies. Not every individual must hold all of them, but the team must.
@@ -1718,6 +1726,7 @@ Lead Companion (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 - **You sit inside the practices, not behind them.** You tell your story, you take the feedback round, you receive everything you help lead.
 - **You keep the boundaries that keep everyone safe:** the two-adult rule, the bright line (teens lead process, adults hold care), the confidentiality covenant with its named limits, and the crisis protocols in Section 6.
 - **You carry follow-ups by name.** When the Thursday Call gives you a name and a deadline, that person hears from you.
+- **You have a covering of your own.** A named person, close enough to see your life, under whose direction you already sit — and the club's authority knows who it is. Nobody on this team covers themselves.
 
 ## The rhythm
 
