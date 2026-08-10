@@ -53,9 +53,9 @@ Read this guide once before each conversation. Even the third or fourth time, th
 
 # Block 1 — Listening (12 minutes)
 
-The Companion asks four questions and listens. The applicant answers each in 1–3 minutes. The Companion’s discipline: ask, listen, brief reflection back, move to the next question. Do NOT interpret, do NOT solve, do NOT teach in this block.
+The Companion asks five questions and listens. The applicant answers each in 1–3 minutes. The Companion’s discipline: ask, listen, brief reflection back, move to the next question. Do NOT interpret, do NOT solve, do NOT teach in this block.
 
-## The four questions
+## The five questions
 
 ## QUESTION 1.
 
@@ -77,7 +77,7 @@ Watch for: ‘my friend recommended you’ (relational not interior); ‘the sch
 
 *‘What are you a little afraid of?’*
 
-This is the most important of the four questions. The applicant who answers honestly here has done part of the discernment work already. The applicant who deflects (‘I’m not afraid; I’m excited’) needs gentle persistence: ‘Even a little? Most people walking into something like this are a little afraid of something. What is it for you?’
+This is the most important of these questions. The applicant who answers honestly here has done part of the discernment work already. The applicant who deflects (‘I’m not afraid; I’m excited’) needs gentle persistence: ‘Even a little? Most people walking into something like this are a little afraid of something. What is it for you?’
 
 Common honest answers: being asked to share more than I want to; being judged; the time commitment; the teen feeling forced; the parent finding out something difficult. All of these are healthy starting fears.
 
@@ -89,7 +89,13 @@ This question surfaces the applicant’s history. ‘I don’t want it to be lik
 
 Each ‘not’ is information about what the applicant is bringing in. Some of it Getting Started can honor architecturally; some of it the applicant will need to know about Getting Started’s real shape so they can decide honestly.
 
-## Companion discipline in Block 1
+## QUESTION 5.
+
+*‘And where would you each say you are with Jesus — has there been a time you said yes to Him, or is that still an open question?’*
+
+Asked last, when the conversation has earned it. For parent-and-teen pairs, each answers for themselves — parent first, then teen; the teen’s answer is their own, and no parent corrects it. Both answers are received exactly the same way: no flinch at an open question, no celebration at a settled one. ‘Thank you for telling me that straight’ honors either answer equally.
+
+Why this question is here: Week 2 states the seed plainly and asks every participant, privately, whether it has ever gone into their own ground — and the hearing practices from Week 7 onward rest on a promise Jesus attaches to His own sheep (‘My sheep hear my voice,’ John 10:27). **This is not screening.** An open-question family is fully welcome — the year is, if anything, more for them — but the shepherd should know before night one which sheep are still deciding whose voice to follow, because that knowledge shapes a year of quiet care: gentler framing at the Garden, a prayed-for eye on question zero week, and the certainty that the private road was built with someone specific in mind. The answer is held pastorally, and only pastorally: never written into any instrument, never disclosed, never a condition of admission. The Measurement Covenant governs even this.
 
 - Listen 80% of the time. The Companion’s words during this block: the questions themselves, brief reflection-back (‘what I heard you saying is \_\_’), and the move to the next question.
 - No interpretation. ‘It sounds like the Lord is doing X’ — don’t. The applicant’s framing is the data; interpreting it changes what is heard.

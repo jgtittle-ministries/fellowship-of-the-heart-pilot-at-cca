@@ -288,6 +288,24 @@ Week 2
 
 *This week we sit with the parable of the Sower as a description of our own interior — four kinds of soil that exist in every heart, including yours and mine. The work this week is gentle diagnostic. Not which type are you, but: where in your heart is each soil showing up right now?*
 
+## Question Zero — before the soils
+
+*Written in the room on Week 2, in the three quiet minutes before the diagnostic. Nobody shares this page — not in the circle, not ever, unless you choose to. Scripture itself is the one asking:*
+
+*“Examine yourselves, to see whether you are in the faith. Test yourselves.”*
+
+— 2 Corinthians 13:5 (ESV)
+
+**Before the four soils: has the seed itself ever gone into your ground? Has there been a time you actually said yes to Jesus — your yes, not your family’s?**
+
+☐ Yes — and here is what I remember of it: &nbsp;&nbsp; ☐ I’m not sure &nbsp;&nbsp; ☐ Not yet
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*If your honest answer is “I’m not sure” or “not yet” — that is the best discovery this journal will ever hold, because it has a road, and the road is short. The thief on the cross walked it in one sentence: he wanted Jesus, and he turned to Him — and Jesus said yes (Luke 23:42–43). Saved is not a certificate; it is a connection, begun the moment you honestly want Him and turn to Him. When you are ready: tell any Companion, any Wednesday, quietly — or start closer to home, with your parent, tonight, in the car. Nothing about this page will ever be asked of you. The door only opens from your side.*
+
 ## Daily practice — Week 2
 
 *Continue the morning question and evening note. This week, add one daily prompt about the soil of your heart.*

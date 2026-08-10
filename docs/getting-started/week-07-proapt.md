@@ -191,6 +191,8 @@ Read Romans 10:17 aloud. Slow. The teaching is short.
 
 • Notice what the verse does not say. It does not say faith comes from trying harder, or from emotional experience, or from going to enough services. It says faith comes from hearing. Faith is a fruit of a particular practice.
 
+• And one thing to say plainly before we learn to listen, because it is why this year taught the seed before it taught hearing. Jesus attaches the hearing promise to His own: *“My sheep hear my voice, and I know them, and they follow me”* (John 10:27, ESV). The sheep hear because they are His. That is why Week 2 stated the seed plainly and gave every one of us the private question — because listening is for the connected, and the connection begins the way it began for the thief: wanting Him, and turning to Him. If that question is still open in you, hearing the Word read tonight is exactly where to stand — *faith comes from hearing* — and the quiet road from Week 2 is still open, any Wednesday, any Companion.
+
 • Now think about your own life. How much of what we call “Bible time” is actually hearing, and how much is reading without hearing? Most of us have read passages dozens of times without ever letting one of them actually land. The chain only works if we hear, not just if we read.
 
 • (Walk to whiteboard.) Hearing is a skill. Skills develop with practice. The practice we are going to learn tonight is called PROAPT. It came out of Truro Church in the 1980s and has been working ever since. It has six steps and the acronym is PROAPT. (Write it on the board.) Pray, Read, Observe, Apply, Pray again, Tell.

@@ -24,15 +24,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 2 — THE SOIL OF YOUR HEART (90 minutes)
 
-**Aim.** Introduce the Heart Soil diagnostic from Mark 4 as a frame for honest self-knowledge. Begin Connecting with Self.
+**Aim.** State the seed plainly, settle what it means to be saved (the thief’s case), then introduce the Heart Soil diagnostic from Mark 4 as a frame for honest self-knowledge. Begin Connecting with Self.
 
-**Anchor scripture.** Mark 4:1–20 — the parable of the Sower and Jesus’ own explanation of it.
+**Anchor scripture.** Mark 4:1–20 — the parable of the Sower and Jesus’ own explanation of it; Luke 23:39–43 — the thief on the cross.
 
 **Connect focus.** Self.
 
 **Mode.** Shared teaching block, then FAMILY CLUSTERS for the diagnostic — two or three whole families per circle with a Cluster Companion, own family always together — MERGE for closing. If the room is about ten or fewer, stay together as one circle instead.
 
-**Center.** Heart Soil diagnostic: four gentle questions about where each kind of soil shows up in my life. Worked in family clusters, a parent naming their soil first on every round; teens choose their own depth after. Not a test — a mirror.
+**Center.** The seed stated plainly and the short shared discussion — what does it mean to be saved? (the thief on the cross; the answer the year runs on: the desire to be connected to Christ, acted on by turning to Him) — then the Heart Soil diagnostic: question zero (private, journal-only — has the seed itself ever gone into my ground?) and four gentle questions about where each kind of soil shows up in my life. Worked in family clusters, a parent naming their soil first on every round; teens choose their own depth after. Not a test — a mirror.
 
 **Between-session practice.** Three times this week, journal: where did each kind of soil show up today? No fixing. Just noticing.
 
@@ -45,6 +45,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Parents trying to perform competence. Honest parents this week create permission for honest teens in the same circle — and set the table for the parents’ telling night in Week 3.
 - Treating the diagnostic as a test. It is not a test. It is a mirror. Re-frame any time someone starts grading themselves.
 - Surfacing material that needs more than the diagnostic can hold. If a teen says “rocky soil is when my parents fight,” that is real and may need follow-up — and their parent may be sitting in the same circle. Note it; follow up after.
+- The saved discussion. Receive every answer the room offers without grading — the churchy answers are honest starts, and the thief will do the correcting. Question zero is PRIVATE and journal-only: never ask who wrote what, never invite sharing on it, and watch gently for the face that changes — no spotlight, ever. The participant who quietly seeks out a Companion afterward is the year’s best outcome, not a crisis; take the walk.
 
 ## CRISIS CONTINGENCIES (Week 2)
 
@@ -63,7 +64,7 @@ Two-adult rule for any post-session pastoral conversation with a teen. Pastoral 
 
 **Title:** The Soil of Your Heart.
 
-**One-sentence aim:** By the end of tonight, every participant has used Jesus’ four-soils diagnostic to name, in their own words, where each kind of soil shows up in their actual life right now.
+**One-sentence aim:** By the end of tonight, every participant has heard the seed stated plainly, knows what this room means by *saved* (the thief’s case: the desire to be connected to Christ, acted on by turning to Him), has privately examined whether the seed has ever gone into their own ground — and has used Jesus’ four-soils diagnostic to name, in their own words, where each kind of soil shows up in their actual life right now.
 
 ### Scripture anchor
 
@@ -139,11 +140,12 @@ Times below assume a 7:00 PM start.
 | 6:45 | Door opens. Greet, light snacks. | Open | Teen Comp | 15 |
 | 7:00 | Opening container — full eight-step protocol. | Shared | Lead Comp | 10 |
 | 7:10 | Check-in on Week 1 between-session practice. | Shared | Parent Comp | 5 |
-| 7:15 | Teaching: Mark 4 and the four soils. | Shared | Lead Comp | 15 |
-| 7:30 | Transition to clusters. Move to family clusters. | Transition | Lead Comp | 2 |
-| 7:32 | FAMILY CLUSTERS: Heart Soil diagnostic. | Clusters | Each Cluster Comp | 28 |
-| 8:00 | Re-merge. Return to single circle. | Transition | Lead Comp | 3 |
-| 8:03 | Shared debrief and re-reading of Mark 4:20. | Shared | Lead Comp | 12 |
+| 7:15 | Teaching: the seed stated plainly; Mark 4 and the four soils. | Shared | Lead Comp | 15 |
+| 7:30 | Shared discussion: what does it mean to be saved? The thief’s case (Luke 23:39–43). | Shared | Lead Comp | 8 |
+| 7:38 | Transition to clusters. Move to family clusters. | Transition | Lead Comp | 2 |
+| 7:40 | FAMILY CLUSTERS: question zero (private, journal-only), then the Heart Soil diagnostic. | Clusters | Each Cluster Comp | 26 |
+| 8:06 | Re-merge. Return to single circle. | Transition | Lead Comp | 2 |
+| 8:08 | Shared debrief and re-reading of Mark 4:20. | Shared | Lead Comp | 7 |
 | 8:15 | Between-session practice introduced. | Shared | Parent Comp | 5 |
 | 8:20 | The Leader Feedback Round. | Shared | Lead Comp | 5 |
 | 8:25 | Closing container + Aaronic blessing. | Shared | Lead Comp | 5 |
@@ -187,7 +189,7 @@ By Week 2, run the full eight-step opening protocol from the Handbook. The cohor
 
 Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor it. “Thanks for the honesty. Pick it back up tomorrow.” Do not lecture about consistency.
 
-## Block 3 — Teaching: Mark 4 and the Four Soils (7:15–7:30, 15 min)
+## Block 3 — Teaching: The Seed, Plainly — then Mark 4 and the Four Soils (7:15–7:30, 15 min)
 
 ## Opening script
 
@@ -195,9 +197,19 @@ Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor i
 
 (Read Mark 4:1–20 in full from the physical Bible. Slowly. Do not stop to comment. Read all 20 verses.)
 
+### The seed, stated plainly (2–3 min — this is the year’s proclamation; do not rush it and do not decorate it)
+
+(Close the Bible. One beat of quiet.)
+
+“Before we talk about soils, we have to be clear about the seed — because Jesus tells us exactly what it is: *the sower sows the word.* Everything else tonight, and honestly everything else this year, depends on knowing what that word is. So let me say it plainly, the way it has been said for two thousand years.
+
+“God made you for Himself, and every one of us has turned and gone our own way — that is what the hard ground is made of. And God, rather than leave us there, came Himself. Jesus died on a cross for our turning-away, and rose from the dead, so that we could be forgiven and brought home — connected again, alive to God. And what He asks of us is what He asked in the very first words of His preaching in this same book of Mark: repent and believe in the gospel. Turn around, and trust Him.
+
+“That is the seed. Every Wednesday of this year, that is what is landing on the ground of your heart. Tonight is about the ground.”
+
 ### Teaching outline (use any format — do not read this verbatim)
 
-After reading, walk the cohort through the four soils. Aim for seven minutes maximum after the reading — the bridge into the clusters needs the rest. Hit these points in your own words:
+After the reading and the seed, walk the cohort through the four soils. Aim for six minutes maximum — the saved discussion needs the rest. Hit these points in your own words:
 
 **· The path soil.** Hard, packed earth. The seed lands but never penetrates. Birds eat it before it has a chance. The interior is too compacted to receive what God is offering. Jesus says: when this happens, Satan immediately comes and takes the word away. (We don’t dramatize the spiritual warfare here — and we don’t deny it either. Jesus names a real enemy who takes the word away; we note it plainly and move on.)
 
@@ -207,39 +219,72 @@ After reading, walk the cohort through the four soils. Aim for seven minutes max
 
 **· The good soil.** Soil that hears, accepts, and bears fruit — thirty, sixty, a hundred. Notice what Jesus does and does not say. He does not say “good soil never has rocks or thorns.” He says good soil hears, accepts, and produces. The point is fruit, not perfection.
 
-### The pivot — from teaching to diagnostic
+## Block 4 — What Does It Mean to Be Saved? — The Thief’s Case (7:30–7:38, 8 min)
+
+Shared circle, Lead Companion holding. This is a real discussion, not a quiz — the room offers its answers first, and the thief does the correcting. Everything here runs on the year’s standing rules: parents may answer first to break the ice, nobody is cold-called, every answer is received without grading.
+
+## Script
+
+“One question before we get to the soils, because the whole year stands on it. **What does it mean to be saved?** Not the Sunday-school reflex — what do you actually think it means? Parents, feel free to start us.”
+
+(Take two or three minutes of answers, popcorn-style. Receive every one — “prayed the prayer,” “got baptized,” “believing in Jesus,” “being good” — with a nod and a thank-you. Do not correct anything. The next reading does that work.)
+
+“Those are honest answers, and most of them are pieces of it. Let me show you the strangest case in the whole Bible — a man who had none of those things, and Jesus Himself ruled on his case. Two criminals were crucified next to Jesus. Listen.”
+
+(Read Luke 23:39–43 from the physical Bible. Slowly.)
+
+*“One of the criminals who were hanged railed at him, saying, ‘Are you not the Christ? Save yourself and us!’ But the other rebuked him, saying, ‘Do you not fear God, since you are under the same sentence of condemnation? And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong.’ And he said, ‘Jesus, remember me when you come into your kingdom.’ And he said to him, ‘Truly, I say to you, today you will be with me in paradise.’”*
+
+— Luke 23:39–43 (ESV)
+
+“So — was that man saved? Jesus said yes. *Today you will be with me in paradise.* Now look at what he had, and what he didn’t have. No baptism. No church attendance. No cleaned-up life. No time left to earn anything — he had hours. What did he have? He wanted Jesus, and he turned to Him. *‘Jesus, remember me when you come into your kingdom.’* Desire, aimed at Christ — and Christ’s yes.
+
+“So here is what this room means by *saved*, all year long: **the desire to be connected to Christ, acted on by turning to Him.** Not a certificate. Not a prayer said perfectly at the right age. A connection — begun the moment you honestly want Him and turn to Him. If that desire and that turning are in you — however young you were, whatever words you used, whether you remember a date or not — you are His. And if you’re sitting there quietly wondering whether it has ever actually happened in you, hold that gently. In a few minutes your journal is going to give you a private place for exactly that question, and nobody will hear your answer.”
+
+### Facilitation notes
+
+- Receive every answer without grading. The churchy answers are honest starts; the thief corrects the room so the leader never has to.
+- If a teen says “being good,” honor it (“that’s what most of the world thinks — watch what happens to it in this story”) and let the reading answer.
+- This is not the night for the doctrine of assurance, eternal security, or baptism debates. If one starts: “The thief settles tonight’s question; the deeper waters are a great conversation for another day — come find me.” Warmly, and move.
+- Watch, without staring, for the face that changes during the landing. No spotlight, ever. The quiet check-in afterward follows the Section 6 pattern only if there is distress; a thoughtful face is the design working.
+
+### The pivot — from the thief to the soils
 
 ## Script (the bridge into the clusters)
 
 “Here is what we want to do with this tonight. We are not going to ask you, as if it were a personality test, ‘which soil are you?’ That’s the wrong question. The right question, and the one we’re going to spend the next half-hour with, is: ‘Where in my life right now does each of these four soils show up?’
 
-“You have all four. So do I. So does everyone in this room. The path is real. The rocks are real. The thorns are real. And the good soil is real. The work tonight is to notice where each one shows up specifically. Not in general. In your actual week.
+“You have all four. So do I. So does everyone in this room. The path is real. The rocks are real. The thorns are real. And the good soil is real. The work tonight is to notice where each one shows up specifically. Not in general. In your actual week. And now that you know what the seed is, and what the thief teaches about receiving it, the soil question has its real weight.
 
-“In a minute we’re going to move into our family clusters — two or three families together, each cluster with \_\_\_\_\_, \_\_\_\_\_, or \_\_\_\_\_ as its Companion. Your own family stays with you; that is the design. Each cluster will work through the same four questions. And in every cluster, a parent answers first — we’ve already arranged who opens. Teens, you choose your own depth after, and passing is always allowed. We’ll come back together at 8:00 to share what surfaced and re-read one verse together.
+“In a minute we’re going to move into our family clusters — two or three families together, each cluster with \_\_\_\_\_, \_\_\_\_\_, or \_\_\_\_\_ as its Companion. Your own family stays with you; that is the design. Each cluster starts with one private question that belongs to you alone, and then works through the same four questions. And in every cluster, a parent answers first — we’ve already arranged who opens. Teens, you choose your own depth after, and passing is always allowed. We’ll come back together just after eight to share what surfaced and re-read one verse together.
 
 “One thing before we move. The container conditions still apply in the clusters — maybe more so, because our own families are hearing us. Safe, present, clear, intentional. What is shared in the cluster stays in the cluster. What your parent or your teen says tonight is a gift, not ammunition — it does not come back up in the car or at breakfast. Are we all clear on that?”
 
 (Wait for nods or verbal yes from each family. Do not move forward until you have it.)
 
-“Okay. You know your clusters — find your Companion and take your family with you. Take your journal and your handout. We have twenty-eight minutes.”
+“Okay. You know your clusters — find your Companion and take your family with you. Take your journal and your handout. We have twenty-six minutes.”
 
 (If tonight’s room is about ten or fewer, skip the move entirely: “We’re small enough tonight to stay right here as one circle.” The Lead Companion runs the same diagnostic in the whole room, a parent still opening every round.)
 
-## Block 4 — Family Clusters: The Heart Soil Diagnostic (7:32–8:00, 28 min)
+## Block 5 — Family Clusters: Question Zero, then the Heart Soil Diagnostic (7:40–8:06, 26 min)
 
-**Cluster Companion:** Run the diagnostic in your cluster — two or three whole families, everyone in one small circle, own family together. Aim for 28 minutes total. Teens use Handout H2.2; parents use Handout H2.3. The four questions are the same; the wording on each card is fitted to its reader.
+**Cluster Companion:** Run question zero (private, journal-only, ~3 minutes), then the diagnostic — two or three whole families, everyone in one small circle, own family together. Aim for 26 minutes total. Teens use Handout H2.2; parents use Handout H2.3. The four questions are the same; the wording on each card is fitted to its reader.
 
 ## Script (in the cluster)
 
 “Okay. We’re here, families together. Same circle rules as the big room — nobody fixes anybody, nobody makes fun, nobody interrupts. And one rule that matters extra in this circle: what your family members say tonight is a gift, not ammunition. It does not come back up in the car.
 
-“I’m going to ask four questions, one at a time. After each question, we’ll take about two minutes to write in our journals, then four or five minutes to share what we wrote — if you want to. ‘I’d rather not share that one’ is a complete answer.
+“Before the four soil questions, one question that belongs to you alone. Journals open to the Question Zero page. Nobody shares this one — not in this circle, not tonight, not ever unless you choose to. Scripture itself is the one asking it: *‘Examine yourselves, to see whether you are in the faith’* (2 Corinthians 13:5). Here it is: **has the seed itself ever gone into your ground? Has there been a time you actually said yes to Jesus — your yes, not your family’s?** Write your honest answer — yes, no, or I’m not sure. And if it’s no, or not sure — your journal page shows you the road, and the road is short. The thief walked it in one sentence.”
+
+(Three quiet minutes. Do not walk the circle, do not glance at pages. Then:)
+
+“Now the four soil questions, one at a time. After each question, we’ll take about two minutes to write in our journals, then a few minutes to share what we wrote — if you want to. ‘I’d rather not share that one’ is a complete answer.
 
 “Here’s the trick. We’re not asking, ‘Which soil are you?’ That’s the wrong question. We have all four going on, in different parts of our lives. We’re asking where each one shows up — specifically. Not ‘sometimes life is busy.’ More like: ‘Thorny was when I scrolled for forty minutes after dinner instead of talking to anyone.’ Specific.
 
 “On every question, one of our parents will answer first. Teens, you choose your own depth after — and passing is always allowed. Get your journals open. Question one.”
 
-(Read each question theme below, one at a time. After each: about two minutes to write, then the arranged parent opens, then around the circle. Watch the clock privately — four questions in twenty-eight minutes.)
+(Read each question theme below, one at a time. After each: about two minutes to write, then the arranged parent opens, then around the circle. Watch the clock privately — question zero plus four questions in twenty-six minutes; the pace is real.)
 
 ### The four questions — cluster version
 
@@ -262,12 +307,13 @@ Each question is read aloud, journaled, and then shared, a parent opening every 
 - Some parents will be doing this kind of work for the first time. Honor it. “Thanks for going. That was a real answer.”
 - If a parent surfaces marital strain or addiction or grief that is heavier than the cluster can hold: acknowledge briefly, plan to follow up after, do not turn the circle into a counseling session — and watch the teen’s face while their parent shares. A teen carrying weight out of the circle gets a quiet check-in before they leave.
 - If someone says something heavier than expected (“rocky is when we fight at home”), do not process it in the circle. Acknowledge: “Thank you. That’s a hard one. We’ll hold that.” Move on. Note the disclosure for follow-up per Section 6.
-- If someone wants to debate the parable (“Is the path soil saved or not?”), redirect quickly. “Good question for another day. Tonight we’re working on noticing.”
+- If someone wants to debate the parable (“Is the path soil saved or not?”), redirect warmly. “The thief gave us tonight’s answer — saved is wanting Christ and turning to Him. The rest is a great walk-and-talk; come find me. Tonight we’re working on noticing.”
+- Never reference question zero again after its three minutes — not a glance, not a “anybody want to say anything about the first one.” Its privacy is the whole design; the road it names does the rest.
 - If you finish the four questions early, use the remaining time for one extra round: “Which of the four soils landed first when you read Mark 4 yesterday?”
 
-## Block 5 — Re-Merge and Shared Debrief (8:03–8:15, 12 min)
+## Block 6 — Re-Merge and Shared Debrief (8:08–8:15, 7 min)
 
-After the cluster work, the cohort returns to the single circle. The merge is short and intentional. Do not allow detailed sharing across clusters — the diagnostic stays in the cluster. The merge is for landing, not for repeating.
+After the cluster work, the cohort returns to the single circle. The merge is short and intentional — seven minutes now, so keep the one-word round moving. Do not allow detailed sharing across clusters — the diagnostic stays in the cluster. The merge is for landing, not for repeating.
 
 ## Script
 
@@ -283,7 +329,7 @@ After the cluster work, the cohort returns to the single circle. The merge is sh
 
 “Here’s what I want you to take from tonight. The good soil is the one Jesus calls fruitful. Not soil that has no rocks. Not soil that has no thorns. Soil that hears, accepts, and produces. Some of you are tonight noticing rocks and thorns. That noticing is not the opposite of being good soil. It is what good soil does — it pays attention. The next two weeks of practice are about staying with the noticing, not fixing it.”
 
-## Block 6 — Between-Session Practice (8:15–8:20, 5 min)
+## Block 7 — Between-Session Practice (8:15–8:20, 5 min)
 
 **Co-Comp (Parent) leads.** Keep it short and clear.
 
@@ -295,7 +341,7 @@ After the cluster work, the cohort returns to the single circle. The merge is sh
 
 “Keep last week’s morning practice going too if you can — asking the Father, ‘What are you up to today?’ question. The two practices stack. Five minutes morning, sixty seconds evening, plus three soil journals across the week.”
 
-## Block 7 — The Leader Feedback Round (8:20–8:25, 5 min)
+## Block 8 — The Leader Feedback Round (8:20–8:25, 5 min)
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 
@@ -307,7 +353,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## Block 8 — Closing Container and Aaronic Blessing (8:25–8:30, 5 min)
+## Block 9 — Closing Container and Aaronic Blessing (8:25–8:30, 5 min)
 
 Run the six-step closing protocol from the Handbook, abbreviated for the 5-minute window. Hit:
 

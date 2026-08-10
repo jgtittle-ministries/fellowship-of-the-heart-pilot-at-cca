@@ -80,6 +80,7 @@ By the end of the twenty-two-week Getting Started year, we expect the following 
 
 ### For every participant
 
+- Has heard the gospel stated plainly (the seed, Week 2), knows what this fellowship means by *saved* — the desire to be connected to Christ, acted on by turning to Him (the thief's case, Luke 23:39–43) — has privately examined whether that turning has happened in them (2 Corinthians 13:5), and knows the quiet road to begin, or begin again, any week of the year.
 - Has experienced — not just learned about — what genuine community feels like, and can articulate the difference between Christian socializing and Christian formation.
 - Has told their story (or a piece of it) in front of a small circle and has been heard, blessed, and reflected back.
 - Has practiced at least three core hearing exercises and can name which one most reliably opens their heart to scripture.
