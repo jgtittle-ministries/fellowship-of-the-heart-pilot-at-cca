@@ -435,7 +435,7 @@ Any 1:1 with a minor (a teen) is held with the two-adult rule — either two adu
 
 **Why onboarding matters**
 
-Going Deeper Wk 1 assumes the cohort has the four-conditions container (Safe, Present, Clear, Intentional). Getting Started alumni built that container together across fifteen weeks. New participants — friends and family of Getting Started families, teens whose parent is not continuing, parents whose teen is not, anyone joining at Going Deeper — have not been in the room when the container was built. Evening 1 is where new participants enter the container.
+Going Deeper Wk 1 assumes the cohort has the four-conditions container (Safe, Present, Clear, Intentional). Getting Started alumni built that container together across the whole Getting Started series. New participants — friends and family of Getting Started families, teens whose parent is not continuing, parents whose teen is not, anyone joining at Going Deeper — have not been in the room when the container was built. Evening 1 is where new participants enter the container.
 
 Onboarding has two architectural goals. First, vocabulary and architecture: new participants leave Evening 1 knowing the four Connects, the four container conditions, the Aaronic blessing, the cohort split, the standing pair structure, and the twelve-week arc at a glance. Second, story-share: each new participant tells a brief witnessed version of their story, with veteran witness, so they enter Wk 1 having already been heard by some of the room.
 

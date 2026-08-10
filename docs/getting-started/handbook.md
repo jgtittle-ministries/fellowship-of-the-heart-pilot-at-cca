@@ -6,7 +6,7 @@ Getting Started series
 
 **The Four Connects**
 
-*A Fifteen-Week Journey into the Heart of God*
+*A Twenty-Two-Week Journey into the Heart of God*
 
 **FORMATION COMPANION HANDBOOK**
 
@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 If you have this handbook in your hand, it is because someone trusted you with something delicate.
 
-What follows is a year-long club — twenty-two Wednesday evenings — for teenagers, ages roughly twelve through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, across a school year of Wednesdays, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the year is over.
+What follows is a year-long club — twenty-two Wednesday evenings — for high-school teenagers, ages fourteen through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, across a school year of Wednesdays, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the year is over.
 
 I want to say a few things before you turn the page.
 
@@ -56,7 +56,7 @@ That is enough preface. Read the handbook. Pray over it. Find a Co-Companion. An
 
 ## Title and theme
 
-**Title:** The Four Connects — A Fifteen-Week Journey into the Heart of God
+**Title:** The Four Connects — A Twenty-Two-Week Journey into the Heart of God
 
 **One-sentence aim:** By the end of the series, every teen and every parent in the room will know — from the inside, not from a handout — what it feels like to begin connecting honestly with themselves, with one another, with God, and with the work He has prepared for them.
 
@@ -76,7 +76,7 @@ These two commandments are the source of the four Connects. Loving God with all 
 
 ## Series outcomes
 
-By the end of the fifteen-week Getting Started series, we expect the following outcomes — recognizing that the Holy Spirit is the agent of all real movement, and that some teens and parents will move further than others.
+By the end of the twenty-two-week Getting Started year, we expect the following outcomes — recognizing that the Holy Spirit is the agent of all real movement, and that some teens and parents will move further than others.
 
 ### For every participant
 
@@ -161,7 +161,7 @@ For Companions who want to trace each session back to the IJH source. The claim 
 
 The Getting Started series is designed for teens and parents from Covenant Christian Academy of Warrenton and the broader CCA community. The expected mix:
 
-- Teens, ages 12–18, attending with at least one parent (or grandparent or legal guardian acting in loco parentis).
+- High-school teens, ages 14–18, attending with at least one parent (or grandparent or legal guardian acting in loco parentis).
 - Most teens will already identify as Christian; some will not, and that is not a barrier to participation. The series invites without coercing.
 - A wide range of formation maturity. Some teens will be at Affective Taxonomy Level 1 (showing up because Mom said). Some will already be at Level 3 (asking the questions on their own). Both belong.
 - Parents at varying levels of formation themselves. We design for the parent who has never done this kind of interior work, and we leave room for the parent who has.
@@ -1111,7 +1111,7 @@ So we run them twice. The first running is adult-led, and the teen is a particip
 
 ## 11.4 The session map — one map, carried in Section 1
 
-The full fifteen-week map, with the who-leads column, lives in [Section 1](#session-map) — one map for the whole series, because the second runnings serve everyone: the cohort completes practices that never finish in one session, and the seniors get their marquee slots. The shape, for this section's purposes:
+The full twenty-two-week map, with the who-leads column, lives in [Section 1](#session-map) — one map for the whole series, because the second runnings serve everyone: the cohort completes practices that never finish in one session, and the seniors get their marquee slots. The shape, for this section's purposes:
 
 - **The three second-runnings** — Telling Your Story II (Week 4), PROAPT II (Week 8), Garden of Your Heart II (Week 10) — teach nothing new. They complete a process the cohort has already begun, and they are the slots a senior leads. Heart Soil (Week 2) and the container-conditions exercise (Week 5) finish in one session and do not get a second running.
 - **Week 15 (The Rhythm and the Four Questions)** is a teen-led marquee: scripted, low-disclosure teaching of the Rhythm Card. **Weeks 19–20** then hand the two mercy cards to the Companions-in-Formation — rehearsed in clusters at Second Running: Block B, then taught to the whole room at The Long Walk. The cards are the most important pastoral equipment an FC1 will ever carry, since misreading a dry season is the first hazard of peer leadership.
@@ -1192,7 +1192,7 @@ So the readiness that matters most for the dorm is not whether they can run the 
 | The invite and gather skill | Can make the ask: gather a handful of peers, frame the covenant, set the container expectation. | Overlaps Inviting Others |
 | Knowing what to hold back | Holds the "what we hold back" discipline with no supervisor watching. | The Lab + the handbook |
 
-*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a fifteen-week output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader. And across that whole arc, the fire itself is tended deliberately: the [Keeping the Flame card](../shared/keeping-the-flame.md) and the standing serving-cycle Lab exist because the long road's hazard is not failure but satisfaction — a leader can drift with every session still running beautifully, and the defense is rhythm, not vigilance.*
+*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a single-series output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader. And across that whole arc, the fire itself is tended deliberately: the [Keeping the Flame card](../shared/keeping-the-flame.md) and the standing serving-cycle Lab exist because the long road's hazard is not failure but satisfaction — a leader can drift with every session still running beautifully, and the defense is rhythm, not vigilance.*
 
 ## 11.9 Consent and the legal gate
 
@@ -1200,7 +1200,7 @@ Two things must be in place before this runs.
 
 **Consent.** A teen leading their peers is a different thing from a teen participating, and it needs its own parental consent, added to the series consent packet (Appendix H).
 
-**The gate.** Because the in-cohort version has minors leading minors, it requires CCA leadership sign-off and a Virginia legal review before it runs — exactly the review the Inviting Others handbook already reserves for teen leadership. We build this ready, and we hold it behind that gate. **Timing matters:** the first teen-led slot is Week 4, so for a mid-September start the sign-off and legal review must be complete before launch — in practice, moving by late summer. If the gate has not cleared by Week 4, the adult Companions simply lead the second-runnings themselves and the FC1 track waits for the next cycle; the fifteen-week map runs either way. The dorm version, being adults leading adults, does not carry that particular constraint — a genuinely lighter picture, and worth keeping distinct.
+**The gate.** Because the in-cohort version has minors leading minors, it requires CCA leadership sign-off and a Virginia legal review before it runs — exactly the review the Inviting Others handbook already reserves for teen leadership. We build this ready, and we hold it behind that gate. **Timing matters:** the first teen-led slot is Week 4, so for a mid-September start the sign-off and legal review must be complete before launch — in practice, moving by late summer. If the gate has not cleared by Week 4, the adult Companions simply lead the second-runnings themselves and the FC1 track waits for the next cycle; the twenty-two-week year runs either way. The dorm version, being adults leading adults, does not carry that particular constraint — a genuinely lighter picture, and worth keeping distinct.
 
 *This section is informational, not legal advice. Confirm current Virginia law and CCA policy with qualified counsel before launch.*
 
@@ -1478,9 +1478,9 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 # Appendix G — The FC1 Leader Lab (Facilitator Guide)
 
 
-The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the fifteen-week map in Section 1). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
+The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the twenty-two-week map in Section 1). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
 
-**Six sessions, run alongside the fifteen-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
+**Six sessions, run alongside the year — clustered in the fall (Labs 1–4 land by Week 10), then spaced with the arc to the commissioning.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
 
 **And every Lab closes with the same standing question, asked just before the container closes: "What did you notice about the room this week?"** — in the cohort, in this Lab, anywhere they were watching people. Who told something costly; who went quiet; who almost spoke; what the room did next. The pastoral eye forms by being asked, regularly, what it saw — this question is how noticing becomes a habit instead of an accident. One rule travels with the question every time it is asked: what you notice goes to your adult Companion, never onto your own shoulders. Noticing is the senior's formation; carrying is still the adult's job — and if a noticing touches someone's safety, the bright line binds what you saw exactly as it binds what you are told.
 
