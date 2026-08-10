@@ -45,13 +45,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - The teen whose parent is not present. Some families will not have both parents in the room; some teens come from divorce, bereavement, or estrangement. Pre-plan with each affected family. The cohort may stand for the absent parent; a Co-Companion may stand in; or the teen may receive the community blessing without a family commissioning. Decide in advance, never on the night.
 - The blessing-as-performance. Some parents will arrive with prepared speeches that are too long, too polished, or too preachy. The form is one specific witnessed sentence — not a speech. Frame this twice before the commissioning.
 - The teen whose blessing for their parent surfaces unexpected family material. Honor it. Do not interpret. Pastoral 1:1 follow-up.
-- New family members in the room who do not have the thirteen weeks of context. They will feel the weight of the room without knowing where it came from. Brief them at the door; pair each unfamiliar guest with a familiar Companion at their table.
+- New family members in the room who do not have the twenty weeks of context. They will feel the weight of the room without knowing where it came from. Brief them at the door; pair each unfamiliar guest with a familiar Companion at their table.
 - Going Deeper drift. Some families will be ready; some will be ambivalent; some will not continue. Tonight is a sending, not a recruiting pitch. Frame the bridge to Going Deeper briefly and clearly; let participants decide on their own time.
 - The tendency to overrun. The session is already extended to 120 minutes. Do not let it run to 150. The Lead Companion and the time-keeper hold the schedule.
 
 ## CRISIS CONTINGENCIES (Week 21)
 
-**Week 21 is moderate-risk, mainly for emotional flooding rather than acute crisis. The fourteen weeks have built up texture; the commissioning often lances something that has been quietly held.**
+**Week 21 is moderate-risk, mainly for emotional flooding rather than acute crisis. The twenty weeks have built up texture; the commissioning often lances something that has been quietly held.**
 
 **If a teen breaks down during their blessing of their parent.** Stop. Sit them down. The Cluster Companion goes with them. Do not push them through the blessing. The community can speak the blessing in their place. Follow up offline within 48 hours.
 
@@ -67,7 +67,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Fourteen Wednesdays ago this room was a cohort of strangers. Tonight it is a community that has done specific spiritual work together — the soil of the heart, telling the story, being known and knowing, confession and restoration, hearing God in scripture, the garden of the heart, naming the doubts, walking into what was prepared. The series is a complete arc.
+Twenty Wednesdays ago this room was a cohort of strangers. Tonight it is a community that has done specific spiritual work together — the soil of the heart, telling the story, being known and knowing, confession and restoration, hearing God in scripture, the garden of the heart, naming the doubts, walking into what was prepared. The series is a complete arc.
 
 Tonight is the integration. The four Connects come together not as a curriculum but as a pattern of life, witnessed in front of family. The commissioning matters because it is the move from program to life: what was learned in this room now becomes how a family lives, with the community that walked Getting Started bearing witness.
 
@@ -79,7 +79,7 @@ This is also the bridge to Going Deeper. The Going Deeper series builds on what 
 
 ## From prior sessions
 
-- Weeks 1–15: every prior session has fed into tonight. The Aaronic blessing has been spoken at every closing; tonight it is the central action of the night.
+- Weeks 1–20: every prior session has fed into tonight. The Aaronic blessing has been spoken at every closing; tonight it is the central action of the night.
 - Week 13: the gifts inventory and downhill mission are part of tonight’s blessing material. Each parent’s blessing of their teen draws on what they have specifically witnessed across Getting Started; each teen’s blessing of their parent draws on what they have noticed.
 - Joint Footprints (Wk 3): the parent-and-teen dyad has done at least one cross-generational practice together. Tonight is the public form of what they began privately.
 
@@ -199,19 +199,19 @@ The room is fuller than it has been all of Getting Started. Visiting family memb
 
 ## Script
 
-*“Welcome — those of you who have been here every Wednesday, and those of you who are joining us tonight. The room you are in tonight has been built carefully across fourteen Wednesdays, and tonight is its integration.”*
+*“Welcome — those of you who have been here every Wednesday, and those of you who are joining us tonight. The room you are in tonight has been built carefully across twenty Wednesdays, and tonight is its integration.”*
 
 *“For those of you new tonight: find a seat with your family.”*
 
 *“Let me speak this blessing first — the same one we have spoken every week. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 21. We have walked together through fourteen Wednesdays — each one with a piece of work to do. The work was the four Connects: Connecting with Self, Others, God, and Mission. We did the soil of the heart. We told our stories. We named the four conditions of a real container and looked at our friendships. We practiced confession and restoration. We learned to hear God in scripture. We walked into the gardens of our hearts and met Jesus there. We named our quiet doubts. We turned outward to ask what was prepared for us.”*
+*“Tonight is Week 21. We have walked together through twenty Wednesdays — each one with a piece of work to do. The work was the four Connects: Connecting with Self, Others, God, and Mission. We did the soil of the heart. We told our stories. We named the four conditions of a real container and looked at our friendships. We practiced confession and restoration. We learned to hear God in scripture. We walked into the gardens of our hearts and met Jesus there. We named our quiet doubts. We turned outward to ask what was prepared for us.”*
 
 *“Tonight is the integration. The four Connects are not separate disciplines. They are a sequence — each one creates the conditions for the next. Self, Others, God, Mission. They are also a way of life, lived in family and witnessed in community.”*
 
 *“So tonight we are going to do something specific. Each parent-and-teen pair from Getting Started is going to stand in the center of this circle. Each of you is going to speak a specific witnessed blessing over the other. The whole community is going to speak the Aaronic blessing over each family. We are going to send each other into what comes next.”*
 
-*“If you are new tonight: you may not have words for what has been done in this room over these fourteen Wednesdays. That is fine. Tonight your job is to bear witness. Your presence is the gift.”*
+*“If you are new tonight: you may not have words for what has been done in this room over these twenty Wednesdays. That is fine. Tonight your job is to bear witness. Your presence is the gift.”*
 
 ## **Block 2 — Brief Blessing Rehearsal (6:45–6:55, 10 min)**
 
@@ -263,7 +263,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 ## Prayer
 
-*“Pray with me. Father, you have walked with us across these fourteen Wednesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every family in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
+*“Pray with me. Father, you have walked with us across these twenty Wednesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every family in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
 
 ## **Block 4 — Family Commissionings (7:05–8:00, 55 min)**
 

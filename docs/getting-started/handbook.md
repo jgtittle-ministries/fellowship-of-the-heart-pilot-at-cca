@@ -90,9 +90,7 @@ By the end of the twenty-two-week Getting Started year, we expect the following 
 
 Drawing on the five-stage taxonomy in Vol 2 Exp 7 (Receiving → Responding → Valuing → Organization → Characterization), we are not trying to push every participant to Level 3 in a single year. The honest target is to get the cohort to the threshold of the Level 2-to-Level 3 transition, where intrinsic motivation begins to take over from external structure. Specifically:
 
-**Junior cohort (12–14):** Move from Level 1 (Receiving — willing to attend) to a stable Level 2 (Responding — actively engaging when prompted, completing between-session practices, contributing in shared circles).
-
-**Senior cohort (15–18):** Move from Level 2 (Responding) toward the threshold of Level 3 (Valuing — intrinsic motivation begins to appear in private practice between sessions).
+**Teens (14–18):** Wherever a teen begins — and a ninth-grader and a senior may begin in genuinely different places — move from a stable Level 2 (Responding — actively engaging when prompted, completing between-session practices, contributing in shared circles) toward the threshold of Level 3 (Valuing — intrinsic motivation begins to appear in private practice between sessions). For the teen who arrives at Level 1 (Receiving — willing to attend), a stable Level 2 is a full and honest year's work.
 
 **Parents:** Wherever they begin (and there will be a wide range), move at least one full level. For parents already at Level 3, surface the specific Connect that is weakest and let the series be the unblocking.
 
@@ -385,7 +383,7 @@ How the meeting ends matters as much as how it begins (Volume 2, Tenth Explorati
 
 **6. Closing prayer and dismissal.** Brief. Name the Lord. Send them out.
 
-## Parallel circles vs. shared circles
+## Shared circle vs. family clusters
 
 Each session’s lesson plan specifies which mode is used for which block. The general logic:
 
@@ -567,7 +565,7 @@ Begin recruitment ten weeks before Week 1. For the v1.3 pilot the series stands 
 
 The single most important thing in recruitment is the parent-as-participant ask. Make it cleanly and early. The introductory letter (Appendix D) leads with it; the information meeting names it three times; the consent form requires the parent to acknowledge it explicitly.
 
-Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work, in the same room and the same building, but in their own circles. If you cannot commit to the club year — twenty-two Wednesday evenings — and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
+Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work — in the same room, in the same circle, side by side, with the parents going first. If you cannot commit to the club year — twenty-two Wednesday evenings — and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
 
 ## Family Orientation Night
 
@@ -579,7 +577,7 @@ Two weeks before Week 1, host a 90-minute Family Orientation Night for every com
 | --- | --- |
 | 0:00–0:10 | Arrival, snacks, introductions of Companion team. |
 | 0:10–0:25 | Why we are doing this. The Four Connects, the IJH on-ramp, what Getting Started is for. |
-| 0:25–0:40 | What to expect each week. The 90-minute structure, parallel circles, between-session practice, what is and is not appropriate to bring up in the room. |
+| 0:25–0:40 | What to expect each week. The 90-minute structure, shared family circles (parents going first), between-session practice, what is and is not appropriate to bring up in the room. |
 | 0:40–1:00 | Container introduction. Walk teens and parents through the opening container protocol. Practice it together once. This is the first time the room feels different. |
 | 1:00–1:15 | Confidentiality covenant. Read aloud, take questions, sign. |
 | 1:15–1:25 | Personal Heart Journal handed out. Walk through Week 1 prep page. |
@@ -1401,7 +1399,7 @@ Specifically:
 
 - Twenty-two Wednesday-evening sessions across the club year (September through spring), 90 minutes each, at CCA.
 - Open to high-school teens. At least one parent (or grandparent, or guardian) attends every session as a participant.
-- Limited to about six families. First-come, first-served.
+- Limited to about six families. We meet briefly with every interested family, and the team prayerfully composes each year's cohort as a whole — so please reach out early, but nobody is admitted or passed over by speed alone.
 - Free.
 
 And one more thing, because we believe formation should happen in daylight: **the entire curriculum is published openly** at jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca — every session, every practice, every safety protocol. If you want a feel for the journey before the information meeting, start with the club calendar, the Personal Heart Journal, and the Family Conversation Cards. The team handbook and session plans are the open kitchen: you are welcome in, nothing is hidden, and none of it is homework. This first year is a pilot — we will learn as we go, adapt as we learn, and the site's change log will show you anything that shifts.
@@ -1460,11 +1458,11 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ## For teens (high school)
 
-*[Curate a list of 3–5 books appropriate to older teens. Consider: a contemplative classic, a thoughtful book on identity, a Christian formation work that engages the questions older teens are actually asking. Where Eldredge’s work is read, choose Wild at Heart for guys and Captivating for girls only with parental review and discussion.]*
+The curated list lives on the shared [Reading List](../shared/reading-list.md) — organized by Connect, annotated, audience-tagged, with notes on which weeks each book serves best. Start there. Where Eldredge’s work is read — *Wild at Heart* for guys, *Captivating* for girls — parental review and discussion come first.
 
 ## For parents
 
-*[Curate a list of 4–6 IJH-aligned outside resources. Strong candidates from Volume 5 references include: Dave Smith, Relational Discipleship; selected works from Henri Nouwen, Dallas Willard, and Eugene Peterson; Adele Calhoun, Spiritual Disciplines Handbook. Choose based on what fits the parent cohort’s formation level.]*
+The same shared [Reading List](../shared/reading-list.md) carries the parent shelf — IJH-aligned outside resources (Nouwen, Willard, Peterson, Adele Calhoun’s *Spiritual Disciplines Handbook*, and Dave Smith’s *Relational Discipleship* among them), annotated and audience-tagged. The interlude’s “one short book” (Section 10) is chosen from it.
 
 ## For Companions
 
@@ -1473,7 +1471,7 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Dave Smith, Relational Discipleship: Transformation Through a Band of Brothers (Dorrance Publishing). The peer-reviewed companion to the Band of Brothers protocols.
 - Volume 5’s annotated bibliography for the deeper formation literature.
 
-*[Note: this is an outline; the curated full lists are added at curriculum finalization.]*
+*The shared Reading List is the living document; this appendix points rather than duplicates, so the shelf never forks.*
 
 # Appendix G — The FC1 Leader Lab (Facilitator Guide)
 
@@ -1570,7 +1568,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **The session.**
 1. **Open.**
-2. **What flexes, and what doesn't.** In a dorm there are no parents and no parallel circles — that architecture drops away. What never drops: the Connect sequence, the container, the bright line, the three rules. Practice redesigning a session for six peers around a common room.
+2. **What flexes, and what doesn't.** In a dorm there are no parents and no family clusters — that architecture drops away. What never drops: the Connect sequence, the container, the bright line, the three rules. Practice redesigning a session for six peers around a common room.
 3. **What we hold back — with no one watching.** The same discipline the handbook names for Companions: no deep wound work, no deliverance ministry, no high-intensity practices. It is harder to hold when you are the only leader — name it now, out loud.
 4. **Making the ask.** How to gather four to eight peers, frame the covenant, and set the container expectation. Role-play the invitation both ways — the yes, and the *not now.*
 5. **Close.**

@@ -139,7 +139,7 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 | 7:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
 | 7:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
 | 7:20 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 15 |
-| 7:35 | One True Sentence — each person says why they are here. | Shared | Lead Companion + Co-Facs | 20 |
+| 7:35 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 20 |
 | 7:55 | Scripture: John 10:10b — short reading and reflection; the first-page question written in the journal (2 quiet min). | Shared | Lead Comp | 10 |
 | 8:05 | Between-session practice introduced. | Shared | Parent Comp | 5 |
 | 8:10 | Closing container — first full closing protocol. | Shared | Lead Comp | 10 |
@@ -406,7 +406,7 @@ The Companion team debriefs Week 1 in the look-back of the Thursday Call (Handbo
 
 ### Signs the session worked
 
-- Phones went into the box without resistance. (If yes, the cohort agreed to be participants. If half kept their phones, the recruitment may not have landed cleanly enough.)
+- Phones went away at the simple ask — silenced and put away, nobody policing. (If yes, the cohort agreed to be participants. If several stayed out through the session, the welcome may not have landed cleanly enough.)
 - Every person said one true sentence in the circle, even if some said “I pass.”
 - At the closing one-word landing, at least three of the words were different from their opening words. (Movement.)
 - At least one parent said something more honest than they expected to.
@@ -416,7 +416,7 @@ The Companion team debriefs Week 1 in the look-back of the Thursday Call (Handbo
 
 ### Signs the session did not work as well as it could have
 
-- Several phones did not make it into the box.
+- Several phones kept surfacing mid-session after the ask.
 - More than three people passed during “one true sentence” — not because they weren’t ready, but because the room felt unsafe.
 - Parents tried to manage their teens during the session.
 - The Lead Companion went over time on teaching and short-changed the experiential blocks.
@@ -483,10 +483,17 @@ Each evening, write one sentence in your journal: what did I notice today?
 | 9 | The Garden of Your Heart I |
 | 10 | The Garden of Your Heart II |
 | 11 | Any Doubts? Bringing the Real Question |
-| 12 | What Was Prepared for You |
-| 13 | The Rhythm and the Dry Season |
-| 14 | Sending and Blessing |
-| 15 | Commissioning the Companions |
+| 12 | The Return |
+| 13 | What Was Prepared for You |
+| 14 | Second Running: Block A |
+| 15 | The Rhythm and the Four Questions |
+| 16 | Family Conversation Night |
+| 17 | The Float |
+| 18 | The Return II |
+| 19 | Second Running: Block B |
+| 20 | The Long Walk |
+| 21 | Sending and Blessing |
+| 22 | Commissioning the Companions |
 
 **Handout H1.2 — Aaronic Blessing Card**
 
