@@ -539,3 +539,19 @@ Three handouts for Week 6. The confession handout comes in teen and parent versi
 - Do not minimize. “Oh, that’s really not so bad” dismisses what they just trusted you with.
 - Do not compare. “Me too” — not in this practice. Save it for after.
 - Do not preach. The blessing is three sentences. If you are in your fourth, stop.
+
+**Handout H6.4 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Five-Minute Examen (evening — thank, notice, ask) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Quarterly Pulse (H6.3) — one page, five minutes at home; back in the bin at the Week 7 door
+
+*Filled or half-filled, bring yourself back when we gather again. The room is the practice too.*

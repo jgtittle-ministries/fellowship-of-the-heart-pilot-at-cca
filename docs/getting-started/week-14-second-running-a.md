@@ -377,3 +377,20 @@ No new handouts for Week 14 — by design. A second running runs on the material
 - **The [PROAPT Card](../shared/proapt-card.md)** (Option 1) — the teen leads from the shared card itself, the same card every participant carries; one cardstock copy for the teen’s hand plus a spare. The only print job is the passage sheet (the chosen passage with space to write each step, on the Week 8 pattern).
 - **The [Family Conversation Cards](../shared/family-conversation-cards.md)** (Option 2) — the teen’s chosen set pulled from the shared deck, one printed set per cluster; spare decks on hand for families whose home deck has wandered.
 - Personal Heart Journals and Bibles, as every week.
+
+**Handout H14.1 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| The morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| The evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| PROAPT — one short passage | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Option 1 evenings — the Tell you gave your cluster, said once more at your own table
+- ☐ Option 2 evenings — one card pulled from the family deck, ten minutes (the car works, the table works)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

@@ -343,3 +343,17 @@ No new handouts for Week 19 — by design. The two mercy cards are shared materi
 - **The [Path Home Card](../shared/path-home-card.md)** — likewise, one per participant folder, home alongside it.
 - **The CiF facilitation cards** — built at the prep meeting from the Dry-Season block preserved in the [Week 15 appendix](week-15-rhythm.md); cardstock, one per CiF plus spares. Not a participant handout.
 - Personal Heart Journals and Bibles, as every week.
+
+**Handout H19.1 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Your Rhythm Card dailies, as built — the standing rhythm; nothing new this week | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ The two mercy cards — the Signs Card and the Path Home Card — given a findable spot at home, decided together as a family
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

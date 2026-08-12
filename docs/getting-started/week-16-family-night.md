@@ -352,3 +352,18 @@ What is one specific way I want to engage differently in the final quarter — t
 *Optional, either or both:* One thing the team should keep doing: ______. One thing the team should change: ______.
 
 *Name (optional): ______________________*
+
+**Handout H16.2 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Your Rhythm Card dailies, as built — the morning question and evening note live on the card now | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ The Quarterly Pulse (H16.1) — one page, about five minutes, back in the bin at next Wednesday’s door
+- ☐ Optional — one Family Conversation Card at home, ten minutes (the car works, the table works)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

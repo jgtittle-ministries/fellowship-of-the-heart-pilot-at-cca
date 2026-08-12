@@ -638,3 +638,20 @@ What is one specific thing you are bringing into the the interlude before Going 
 Anything else the team should know? About the sessions, the team, the room, the practices, the handouts, the timing, anything. Be honest. We need it.
 
 *Thank you. The team reads every survey carefully. Your honesty shapes how this work is offered to the next group of families.*
+
+**Handout H21.6 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| The morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| The evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Your weekly person — the one who knows what you are working on: coffee, walk, or call, once this week
+- ☐ Your monthly clearing time (~90 min) — check it the week it happens
+- ☐ The Post-Series Survey — into the door bin tonight, or emailed this week (if yours is not already back)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

@@ -469,3 +469,21 @@ Keep your own walk first — you cannot lead anyone where you have not been. Kee
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Handout H22.4 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| The morning question (5 min) — from your Rhythm Card | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| The evening journal note (1–2 min) — from your Rhythm Card | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Your weekly person — coffee, walk, or call, once this week
+- ☐ One Family Conversation Card at home this week
+- ☐ Your monthly clearing time (~90 min) — check it the week it happens
+- ☐ New FC1s — one vital-signs observation from commissioning night, written down and carried to Lab 1
+
+*Filled or half-filled, keep beginning again. The room goes with you now.*

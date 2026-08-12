@@ -338,3 +338,17 @@ None for Week 17 — by design, in both modes.
 - **Mode A** uses the lifted session’s own handouts, printed per its plan.
 - **Mode B** runs entirely on what the room already carries: the built Rhythm Card from Week 15 (H15.2, in folders and journals) and the shared [Rhythm Card](../shared/rhythm-card.md) itself, including the Returning Rule and, for a dry season, its companions the [Signs Card](../shared/signs-card.md) and the [Path Home Card](../shared/path-home-card.md). Spare blank build sheets sit in the room for anyone whose card went missing — rebuilding from memory is a fine evening’s work.
 - Spare Quarterly Pulse pages (H16.1, from Week 16) sit beside the return bin for those who forgot theirs.
+
+**Handout H17.1 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Your one break practice — the one written in your journal (if you chose a daily one; the rest of the card is allowed to rest) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Your one break practice, kept this week (if you chose a weekly one)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

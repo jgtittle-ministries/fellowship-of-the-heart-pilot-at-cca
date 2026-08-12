@@ -522,3 +522,19 @@ Some skeptical participants find a more anchored version of the practice helpful
 It is okay to sit out the practice this week and use PROAPT (Week 7) or another practice in its place. Sit with John 15 instead. The work of Week 9 is the turning toward Jesus in the interior, not the specific exercise.
 
 And: bring your hesitation to the Lead Companion. Real questions deserve real conversation, not silent compliance.
+
+**Handout H9.4 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Daily PROAPT — one short passage | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ ☐ ☐ Three returns to the garden — 5–10 minutes each; journal each visit (H9.2)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

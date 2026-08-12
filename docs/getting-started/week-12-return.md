@@ -353,3 +353,13 @@ No new handouts for Week 12 — deliberately. The evening runs entirely on mater
 
 - The Pulse 2 return bin at the door uses no handout; the instrument went home at Week 11’s close (Handbook §8).
 - The shared Rhythm Card and Path Home Card carry the evening — reprint spares from the shared materials for any folder missing them (docs/shared/rhythm-card.md, docs/shared/path-home-card.md). The Signs Card (docs/shared/signs-card.md) stays in the folder for any 1:1 this week where a dry break needs sorting.
+
+**Handout H12.1 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| My one practice — the one written in my journal, with its when and where | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

@@ -142,6 +142,20 @@ Week 1
 
 *Nobody will read this page but you. It is not homework and it is never collected. It is a marker stone — the room will come back to this page twice: once on the night doubts get named (Week 11), and once at the year's end, when you walk the whole journal back (Week 20). Questions change over a year. Answered, changed, or still standing — each of those turns out to be a real answer.*
 
+## After the first night — where am I with Jesus?
+
+*Week 1 asked the year's question out loud — what does it mean to be saved? — and the thief answered it: wanting Jesus, and turning to Him (Luke 23:42–43). This page is the private echo. Nobody reads it but you.*
+
+**Where would I say I am with Jesus tonight? Has there been a time I said yes to Him — my yes, not my family's — or is that still an open question?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Either answer is honest ground to stand on — this journal was built for both. The seed was tonight; Week 2 brings the question of the soil. If your answer is "still open," you are exactly the person this room was built with in mind — the year is long, and the door opens only from your side.*
+
 ## Daily practice — Week 1
 
 *Each day this week, the morning question and the evening note. That is the whole practice. Use the lines below for whatever comes up.*

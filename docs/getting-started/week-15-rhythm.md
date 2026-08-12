@@ -649,3 +649,19 @@ Every Companion reads the Signs Card and the Path Home Card slowly, for themselv
 - If the four kinds of dry landed as a quiz to memorize rather than a mercy to keep — if conversation afterward was about sorting other people — re-teach rule 1 at the next gathering.
 - Who flinched during the dry-season teaching? The person the handoff went to, and the person it did not — anyone who went still, went quiet, or went to the restroom during the teaching. Every name on this list gets contact within 48 hours.
 - Anyone whose dryness surfaced, visibly or quietly — within 48 hours, with the card in hand and no verdict in the room.
+
+**Handout H15.4 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Run your Rhythm Card as built — your own dailies, in your own handwriting | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| One journal line — where the rhythm held, where it slipped (no fixing, no guilt-engine) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Parents, for the willing — the Four Questions, asked of your teen at home (only if both willing; unhurried, no audience; “not yet” counts)
+- ☐ Married parents — the same four questions, asked of your spouse, separately (only if both willing)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

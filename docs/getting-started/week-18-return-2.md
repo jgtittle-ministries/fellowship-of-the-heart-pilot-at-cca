@@ -279,3 +279,17 @@ With all three points now in the log, the series goes into the Quarter 4 review 
 # **Handouts**
 
 No handouts for Week 18 — none printed, none needed. The evening runs on the room’s own materials: the Rhythm Cards built at Week 15, the journals, and the shared cards already filed in every folder (docs/shared/rhythm-card.md, docs/shared/signs-card.md, docs/shared/path-home-card.md). Spares of the shared cards on hand for any folder missing one — Week 19 will need the two mercy cards in every folder when the teens teach them.
+
+**Handout H18.1 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Your Rhythm Card dailies, as built (evening note this week: where do you see the year being handed over to you?) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Parents, for the willing — the Four Questions door is still open (only if both willing; “not yet” counts; nobody checks)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

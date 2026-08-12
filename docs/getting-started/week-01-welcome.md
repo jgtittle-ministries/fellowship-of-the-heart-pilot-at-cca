@@ -24,15 +24,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 1 — WELCOME TO THE JOURNEY (90 minutes)
 
-**Aim.** Establish the container with this specific cohort, introduce the four Connects as the spine of Getting Started, and give every participant their first taste of what genuine community feels like.
+**Aim.** Establish the container with this specific cohort, introduce the four Connects as the spine of Getting Started, state the seed plainly and settle what it means to be saved (the thief’s case), and give every participant their first taste of what genuine community feels like.
 
-**Anchor scripture.** John 10:10b — “I came that they may have life and have it abundantly.”
+**Anchor scripture.** John 10:10b — “I came that they may have life and have it abundantly”; Luke 23:39–43 — the thief on the cross; Romans 10:9–10 — heart and mouth.
 
 **Connect focus.** All four (introductory level).
 
 **Mode.** Shared circle the entire session. Family clusters begin in Week 2 — two or three whole families per circle, own family always together.
 
-**Center.** First experience of the full container protocol with this cohort. Each participant says one true sentence about why they are here.
+**Center.** First experience of the full container protocol with this cohort. Each participant says one true sentence about why they are here. Then the seed stated plainly, the saved discussion (the year’s working definition: the desire to be connected to Christ, acted on by turning to Him), and the first-page question written in the journal.
 
 **Between-session practice.** Daily morning question (5 minutes); brief evening journal note.
 
@@ -44,6 +44,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Parents trying to chaperone. The first time you see a parent moving toward managing their kid, gently redirect. “Tonight we are all participants. Let me hold the space.”
 - Sentimentality. Avoid making Week 1 emotionally heavy. The work of Getting Started is real; tonight is the doorway. Don’t rush it.
 - Over-explaining IJH. Resist the urge to teach the whole framework in Week 1. Ten minutes maximum.
+- The saved discussion. Receive every answer the room offers without grading — the churchy answers are honest starts, and the thief will do the correcting. Watch gently for the face that changes during the landing; no spotlight, ever. The quiet seeker who finds a Companion afterward is the year’s best outcome, not a crisis.
 
 ## CRISIS CONTINGENCIES (Week 1)
 
@@ -139,12 +140,13 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 | 7:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
 | 7:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
 | 7:20 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 15 |
-| 7:35 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 20 |
-| 7:55 | Scripture: John 10:10b — short reading and reflection; the first-page question written in the journal (2 quiet min). | Shared | Lead Comp | 10 |
-| 8:05 | Between-session practice introduced. | Shared | Parent Comp | 5 |
-| 8:10 | Closing container — first full closing protocol. | Shared | Lead Comp | 10 |
-| 8:20 | The Leader Feedback Round — debut. | Shared | Lead Comp | 5 |
-| 8:25 | Aaronic blessing and dismissal. | Shared | Lead Comp | 5 |
+| 7:35 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 14 |
+| 7:49 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 9 |
+| 7:58 | What does it mean to be saved? — the thief’s case, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 12 |
+| 8:10 | Between-session practice introduced. | Shared | Parent Comp | 4 |
+| 8:14 | Closing container — first full closing protocol. | Shared | Lead Comp | 8 |
+| 8:22 | The Leader Feedback Round — debut. | Shared | Lead Comp | 4 |
+| 8:26 | Aaronic blessing and dismissal. | Shared | Lead Comp | 4 |
 | 8:30 | End. Dismissal and cleanup follow. | — | Team | — |
 
 # Block-by-Block Scripts and Notes
@@ -225,7 +227,7 @@ This is the most important block of Week 1. Do not rush it.
 
 Have the cohort stand. Walk through the eight-step opening container protocol from the Handbook (Section 5). Read aloud or paraphrase from familiarity. Hold each step. Do not rush. The first one-word check-in is the most important moment of Week 1 — if every single person says one word, you have your first win.
 
-## Block 5 — One True Sentence (7:35–7:55, 20 min)
+## Block 5 — One True Sentence (7:35–7:49, 14 min)
 
 ## Script
 
@@ -265,7 +267,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 - Anyone who passes — acknowledge with “Thanks. We’re glad you’re here.” Move on without ceremony.
 - If someone says something heavier than expected (“I’m here because I’m drowning”), do NOT process in the circle. Simple: “Thank you for trusting us with that. We will hold that. Let’s keep going.” Follow up after.
 
-## Block 6 — Scripture: John 10:10b (7:55–8:05, 10 min)
+## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (7:49–7:58, 9 min)
 
 ## Script
 
@@ -283,13 +285,56 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “We will spend the rest of this year unpacking that. For tonight, just hold the question.”
 
-*(Then, before the practice hand-off — the first page, written in the room:)*
+### The seed, stated plainly (2–3 min — this is the year’s proclamation; do not rush it and do not decorate it)
 
-“One more thing, while the journals are out. Open yours to the very first page — before Week 1, the blank one. Here is what goes there tonight, in your own handwriting. If you could ask God one question — and know that He would answer it for you this year — what would you ask Him? Don’t write the question you think you’re supposed to have. Write the one you actually have. Date it. Nobody will ever read it — this journal is yours, all year, and we never collect it. But write it like you mean it, because this room is going to come back to that page before the year is done.”
+*(Close the Bible. One beat of quiet.)*
 
-*(Two silent minutes. No music, no commentary. The compact scripture teaching above leaves room for this inside the block. Companions write their own first page too — visibly.)*
+“And before we go any further into this year, let me say the word at the center of it plainly — the way it has been said for two thousand years — because everything we do on these Wednesdays stands on it.
 
-## Block 7 — Between-Session Practice (8:05–8:10, 5 min)
+“God made you for Himself, and every one of us has turned and gone our own way. And God, rather than leave us there, came Himself. Jesus died on a cross for our turning-away, and rose from the dead, so that we could be forgiven and brought home — connected again, alive to God. And what He asks of us is what He asked in the very first words of His preaching: repent and believe in the gospel. Turn around, and trust Him.
+
+“That is the seed. Every Wednesday of this year, that is what will be landing on the ground of your heart. Which raises a question worth sitting with on our very first night —”
+
+## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (7:58–8:10, 12 min)
+
+Shared circle, Lead Companion holding. A real discussion, not a quiz — the room offers its answers first, and the thief does the correcting. Standing rules apply: parents may answer first to break the ice, nobody is cold-called, every answer is received without grading. *(On screen: the question slide alone — nothing else — until the room has had its say; then the response slide.)*
+
+## Script
+
+“**What does it mean to be saved?** Not the Sunday-school reflex — what do you actually think it means? Parents, feel free to start us.”
+
+(Take two or three minutes of answers, popcorn-style. Receive every one — “prayed the prayer,” “got baptized,” “believing in Jesus,” “being good” — with a nod and a thank-you. Do not correct anything. The next reading does that work.)
+
+“Those are honest answers, and most of them are pieces of it. Let me show you the strangest case in the whole Bible — a man who had none of those things, and Jesus Himself ruled on his case. Two criminals were crucified next to Jesus. Listen.”
+
+(Read Luke 23:39–43 from the physical Bible. Slowly.)
+
+*“One of the criminals who were hanged railed at him, saying, ‘Are you not the Christ? Save yourself and us!’ But the other rebuked him, saying, ‘Do you not fear God, since you are under the same sentence of condemnation? And we indeed justly, for we are receiving the due reward of our deeds; but this man has done nothing wrong.’ And he said, ‘Jesus, remember me when you come into your kingdom.’ And he said to him, ‘Truly, I say to you, today you will be with me in paradise.’”*
+
+— Luke 23:39–43 (ESV)
+
+*(Show the response slide.)*
+
+“So — was that man saved? Jesus said yes. *Today you will be with me in paradise.* Now look at what he had, and what he didn’t have. No baptism. No church attendance. No cleaned-up life. No time left to earn anything — he had hours. What did he have? He wanted Jesus, and he turned to Him. *‘Jesus, remember me when you come into your kingdom.’* Desire, aimed at Christ — and Christ’s yes.
+
+“And hear how Paul says the same thing with two verbs: *‘because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved’* (Romans 10:9–10). Heart and mouth. Believe, and say so. That is exactly what the thief did — he believed who Jesus was, and he said so, out loud, with the only breath he had left.
+
+“So here is what this room means by *saved*, all year long: **the desire to be connected to Christ, acted on by turning to Him.** Not a certificate. Not a prayer said perfectly at the right age. A connection — begun the moment you honestly want Him and turn to Him. If that desire and that turning are in you — however young you were, whatever words you used, whether you remember a date or not — you are His.”
+
+### Facilitation notes
+
+- Receive every answer without grading. The churchy answers are honest starts; the thief corrects the room so the leader never has to.
+- If a teen says “being good,” honor it (“that’s what most of the world thinks — watch what happens to it in this story”) and let the reading answer.
+- This is not the night for assurance, eternal security, or baptism debates. If one starts: “The thief settles tonight’s question; the deeper waters are a great conversation for another day — come find me.” Warmly, and move.
+- Watch, without staring, for the face that changes during the landing. No spotlight, ever. A thoughtful face is the design working; the seat for the skeptic (Handbook Section 2) stands from night one.
+
+### The first page, written in the room
+
+“One more thing, while that question is still hanging in the air. Open your journal to the very first page — before Week 1, the blank one. Here is what goes there tonight, in your own handwriting. If you could ask God one question — and know that He would answer it for you this year — what would you ask Him? Don’t write the question you think you’re supposed to have. Write the one you actually have. Date it. Nobody will ever read it — this journal is yours, all year, and we never collect it. But write it like you mean it, because this room is going to come back to that page before the year is done.”
+
+*(Two silent minutes. No music, no commentary. Companions write their own first page too — visibly.)*
+
+## Block 8 — Between-Session Practice (8:10–8:14, 4 min)
 
 **Co-Companion (Parent) leads this block.** It is important that the parent Co-Companion introduce this practice, because the parents need to hear that they are doing it too.
 
@@ -303,7 +348,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “That’s it. Five minutes morning, one minute evening, every day. Parents, you are doing this too. We’ll check in next week.”
 
-## Block 8 — Closing Container (8:10–8:20, 10 min)
+## Block 9 — Closing Container (8:14–8:22, 8 min)
 
 Walk the cohort through the six-step closing container protocol from the Handbook (Section 5). The first time, this will feel new. By Week 3 it will feel familiar.
 
@@ -315,7 +360,7 @@ Adaptations for Week 1 closing:
 - For blessings, in Week 1, do not press. People do not yet know each other well enough to bless specifically. If anyone does offer one, honor it. If no one does, that is fine.
 - For closing prayer, the Lead Companion prays briefly. 30 seconds, naming the Holy Spirit specifically.
 
-## Block 9 — The Leader Feedback Round (8:20–8:25, 5 min)
+## Block 10 — The Leader Feedback Round (8:22–8:26, 4 min)
 
 *The evening’s leader closes the working part of the evening the same way every week. Tonight is the debut, and the Lead Companion models it on themselves.*
 
@@ -327,7 +372,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## Block 10 — Aaronic Blessing and Dismissal (8:25–8:30, 5 min)
+## Block 11 — Aaronic Blessing and Dismissal (8:26–8:30, 4 min)
 
 ## Script
 
@@ -496,6 +541,17 @@ Each evening, write one sentence in your journal: what did I notice today?
 | 20 | The Long Walk |
 | 21 | Sending and Blessing |
 | 22 | Commissioning the Companions |
+
+**Handout H1.3 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) — “Father, what are you up to today, and what do you want me to notice?” | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1 min) — one specific sentence: where did I see God today? | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
 
 **Handout H1.2 — Aaronic Blessing Card**
 

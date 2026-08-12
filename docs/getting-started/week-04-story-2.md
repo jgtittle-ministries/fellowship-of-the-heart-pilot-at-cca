@@ -512,3 +512,18 @@ The Lead Companion frames it; you answer first, plainly: *“What I think went w
 *“If anything is sitting heavy, reach out to [Lead Companion’s name] or any of the Companions. You don’t carry tonight alone.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace. Go gently this week.”*
+
+**Handout H4.2 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Joint Footprints — parent and teen together, twenty minutes, phones away (H3.5) — for families who have not yet done it; families who did it after Week 3 are done
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

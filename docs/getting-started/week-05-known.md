@@ -532,3 +532,20 @@ In your Personal Heart Journal, on the Week 5 pages, answer:
 - What did I actually do this week?
 - What happened? In them, in me, in the friendship?
 - What am I noticing about my capacity to offer this condition?
+
+**Handout H5.6 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| My one condition, in my one friendship — practiced today | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ Picked the one friendship and the one condition (H5.5)
+- ☐ End-of-week journal — what I did, what happened (Week 5 pages)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

@@ -457,3 +457,18 @@ One printed handout for Week 20, plus the two mercy cards reprinted per particip
 12. Is there anything you want the Companion team to know that no question asked?
 
 *Thank you. This page shapes what next year's families experience. You will never meet most of the people your honesty serves — which makes it a very pure kind of gift.*
+
+**Handout H20.2 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Your Rhythm Card dailies, as built — the standing rhythm | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ The Post-Series Survey (H20.1) — about twenty honest minutes, your own page, back in the bin at the Week 21 door
+- ☐ Find both mercy cards at home and show one other family member where they live
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

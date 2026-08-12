@@ -508,3 +508,19 @@ After the action, write three or four sentences in your Personal Heart Journal:
 - What happened in the other person, in me, in the room?
 - What did I notice about myself when I was walking in this gift on purpose?
 - What is one thing I want to bring into Week 21’s commissioning?
+
+**Handout H13.4 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| The morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| The evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ One small action aligned with your downhill answer — then three or four journal sentences on what happened
+- ☐ The Personal Doubts Inventory, kept alive — revisit or add to it once (not new this week)
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

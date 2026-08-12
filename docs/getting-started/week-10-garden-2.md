@@ -446,3 +446,19 @@ One new handout for Week 10. Week 9's handouts (H9.1, H9.2, H9.3) reprint as nee
 ### After you hand off
 
 Sit as a participant. Journal like everyone else, and share or keep silence in your family's cluster like everyone else. Your feedback round comes just before the closing blessing — one round, you first, the adult second — and if the debrief ran heavy, it moves to the team debrief instead, because protecting the room comes before feedback. If that happens tonight, it is not a slight. It is the lesson.
+
+**Handout H10.2 — This Week’s Practice — the Check-Off Card**
+
+*Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Daily PROAPT — one short passage | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**This week’s one-time practices (check when done):**
+
+- ☐ ☐ Two returns to the garden — 5–10 minutes each; journal each visit, even two sentences
+
+*Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
