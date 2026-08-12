@@ -103,6 +103,8 @@ The goal at every cohort is *integrated* attainment of the target level, not jus
 
 The full twenty-two-week map — one map for the whole club year, with the quarter seams, the re-entries, and the Companion-in-Formation second-runnings built in (see Section 11 for the teen-leadership track this map carries). Detailed lesson plans live in separate documents; this is the architectural view.
 
+**The pilot's clock.** At CCA the club meets **Wednesday afternoons, 4:00–5:30 PM** — the team in the room by 3:30, doors at 3:45. Week 21's family commissioning runs long, 4:00–6:00; Week 22's rite fills the standard slot. Every plan's run sheet is timed to this clock. The scripts still say *tonight* on purpose: most bodies adopting these sessions will meet in the evening — this work's own history is almost all evening rooms — and a leader adapts a word on the fly more easily than a room adapts a clock.
+
 | **Wk** | **Title** | **Connect** | **Anchor scripture** | **Key practice** | **Who leads** |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Welcome to the Journey | All four (intro) | John 10:10b | Container intro; Why are we here | Adult models; seniors watch the container for the first time |

@@ -132,27 +132,27 @@ Each cluster has a Cluster Companion. The Lead Companion floats between clusters
 
 # Detailed 90-Minute Run Sheet
 
-Times below assume a 7:00 PM start.
+Times below assume a 4:00 PM start.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
-| 6:30 | Setup. All Companions in the room. | — | Team | 30 |
-| 6:45 | Door opens. Greet, light snacks. | Open | Teen Comp | 15 |
-| 7:00 | Opening container — full eight-step protocol. | Shared | Lead Comp | 10 |
-| 7:10 | Check-in on Week 1 between-session practice. | Shared | Parent Comp | 5 |
-| 7:15 | Teaching: the seed recalled; Mark 4, the four soils, and Paul’s mixed ground (Romans 7). | Shared | Lead Comp | 15 |
-| 7:30 | Transition to clusters. Move to family clusters. | Transition | Lead Comp | 2 |
-| 7:32 | FAMILY CLUSTERS: question zero (private, journal-only), then the Heart Soil diagnostic. | Clusters | Each Cluster Comp | 28 |
-| 8:00 | Re-merge. Return to single circle. | Transition | Lead Comp | 3 |
-| 8:03 | Shared debrief and re-reading of Mark 4:20. | Shared | Lead Comp | 12 |
-| 8:15 | Between-session practice introduced. | Shared | Parent Comp | 5 |
-| 8:20 | The Leader Feedback Round. | Shared | Lead Comp | 5 |
-| 8:25 | Closing container + Aaronic blessing. | Shared | Lead Comp | 5 |
-| 8:30 | End. | — | — | — |
+| 3:30 | Setup. All Companions in the room. | — | Team | 30 |
+| 3:45 | Door opens. Greet, light snacks. | Open | Teen Comp | 15 |
+| 4:00 | Opening container — full eight-step protocol. | Shared | Lead Comp | 10 |
+| 4:10 | Check-in on Week 1 between-session practice. | Shared | Parent Comp | 5 |
+| 4:15 | Teaching: the seed recalled; Mark 4, the four soils, and Paul’s mixed ground (Romans 7). | Shared | Lead Comp | 15 |
+| 4:30 | Transition to clusters. Move to family clusters. | Transition | Lead Comp | 2 |
+| 4:32 | FAMILY CLUSTERS: question zero (private, journal-only), then the Heart Soil diagnostic. | Clusters | Each Cluster Comp | 28 |
+| 5:00 | Re-merge. Return to single circle. | Transition | Lead Comp | 3 |
+| 5:03 | Shared debrief and re-reading of Mark 4:20. | Shared | Lead Comp | 12 |
+| 5:15 | Between-session practice introduced. | Shared | Parent Comp | 5 |
+| 5:20 | The Leader Feedback Round. | Shared | Lead Comp | 5 |
+| 5:25 | Closing container + Aaronic blessing. | Shared | Lead Comp | 5 |
+| 5:30 | End. | — | — | — |
 
 # Block-by-Block Scripts and Notes
 
-## Block 1 — Opening Container (7:00–7:10, 10 min)
+## Block 1 — Opening Container (4:00–4:10, 10 min)
 
 By Week 2, run the full eight-step opening protocol from the Handbook. The cohort knows the form now — hold the rhythm, but do not over-explain. Three Week-2 specific notes:
 
@@ -160,7 +160,7 @@ By Week 2, run the full eight-step opening protocol from the Handbook. The cohor
 - At the one-word check-in, listen for any word that suggests something heavy in the room before you start. “Heavy,” “angry,” “scared,” “numb.” Note it. The diagnostic may pull from there.
 - Pray briefly at the close of the opening. Specifically name the Holy Spirit and ask Him to teach us through Jesus’ own words tonight.
 
-## Block 2 — Practice Check-In (7:10–7:15, 5 min)
+## Block 2 — Practice Check-In (4:10–4:15, 5 min)
 
 **Co-Comp (Parent) leads.** This is short by design. The point is not to grade homework; it is to keep the practice connected to the room.
 
@@ -188,7 +188,7 @@ By Week 2, run the full eight-step opening protocol from the Handbook. The cohor
 
 Watch for: anyone who reports “I didn’t do it” with embarrassment. Honor it. “Thanks for the honesty. Pick it back up tomorrow.” Do not lecture about consistency.
 
-## Block 3 — Teaching: Mark 4, the Four Soils, and Paul’s Mixed Ground (7:15–7:30, 15 min)
+## Block 3 — Teaching: Mark 4, the Four Soils, and Paul’s Mixed Ground (4:15–4:30, 15 min)
 
 ## Opening script
 
@@ -232,7 +232,7 @@ After the reading and the recall, walk the cohort through the four soils. Aim fo
 
 “You have all four. So do I. So does everyone in this room. The path is real. The rocks are real. The thorns are real. And the good soil is real. The work tonight is to notice where each one shows up specifically. Not in general. In your actual week. And now that the seed has been named again, the soil question has its real weight.
 
-“In a minute we’re going to move into our family clusters — two or three families together, each cluster with \_\_\_\_\_, \_\_\_\_\_, or \_\_\_\_\_ as its Companion. Your own family stays with you; that is the design. Each cluster starts with one private question that belongs to you alone, and then works through the same four questions. And in every cluster, a parent answers first — we’ve already arranged who opens. Teens, you choose your own depth after, and passing is always allowed. We’ll come back together at 8:00 to share what surfaced and re-read one verse together.
+“In a minute we’re going to move into our family clusters — two or three families together, each cluster with \_\_\_\_\_, \_\_\_\_\_, or \_\_\_\_\_ as its Companion. Your own family stays with you; that is the design. Each cluster starts with one private question that belongs to you alone, and then works through the same four questions. And in every cluster, a parent answers first — we’ve already arranged who opens. Teens, you choose your own depth after, and passing is always allowed. We’ll come back together at 5:00 to share what surfaced and re-read one verse together.
 
 “One thing before we move. The container conditions still apply in the clusters — maybe more so, because our own families are hearing us. Safe, present, clear, intentional. What is shared in the cluster stays in the cluster. What your parent or your teen says tonight is a gift, not ammunition — it does not come back up in the car or at breakfast. Are we all clear on that?”
 
@@ -242,7 +242,7 @@ After the reading and the recall, walk the cohort through the four soils. Aim fo
 
 (If tonight’s room is about ten or fewer, skip the move entirely: “We’re small enough tonight to stay right here as one circle.” The Lead Companion runs the same diagnostic in the whole room, a parent still opening every round.)
 
-## Block 4 — Family Clusters: Question Zero, then the Heart Soil Diagnostic (7:32–8:00, 28 min)
+## Block 4 — Family Clusters: Question Zero, then the Heart Soil Diagnostic (4:32–5:00, 28 min)
 
 **Cluster Companion:** Run question zero (private, journal-only, ~3 minutes), then the diagnostic — two or three whole families, everyone in one small circle, own family together. Aim for 28 minutes total. Teens use Handout H2.2; parents use Handout H2.3. The four questions are the same; the wording on each card is fitted to its reader.
 
@@ -287,7 +287,7 @@ Each question is read aloud, journaled, and then shared, a parent opening every 
 - Never reference question zero again after its three minutes — not a glance, not a “anybody want to say anything about the first one.” Its privacy is the whole design; the road it names does the rest.
 - If you finish the four questions early, use the remaining time for one extra round: “Which of the four soils landed first when you read Mark 4 yesterday?”
 
-## Block 5 — Re-Merge and Shared Debrief (8:03–8:15, 12 min)
+## Block 5 — Re-Merge and Shared Debrief (5:03–5:15, 12 min)
 
 After the cluster work, the cohort returns to the single circle. The merge is short and intentional. Do not allow detailed sharing across clusters — the diagnostic stays in the cluster. The merge is for landing, not for repeating.
 
@@ -305,7 +305,7 @@ After the cluster work, the cohort returns to the single circle. The merge is sh
 
 “Here’s what I want you to take from tonight. The good soil is the one Jesus calls fruitful. Not soil that has no rocks. Not soil that has no thorns. Soil that hears, accepts, and produces. Some of you are tonight noticing rocks and thorns. That noticing is not the opposite of being good soil. It is what good soil does — it pays attention. The next two weeks of practice are about staying with the noticing, not fixing it.”
 
-## Block 6 — Between-Session Practice (8:15–8:20, 5 min)
+## Block 6 — Between-Session Practice (5:15–5:20, 5 min)
 
 **Co-Comp (Parent) leads.** Keep it short and clear.
 
@@ -317,7 +317,7 @@ After the cluster work, the cohort returns to the single circle. The merge is sh
 
 “Keep last week’s morning practice going too if you can — asking the Father, ‘What are you up to today?’ question. The two practices stack. Five minutes morning, sixty seconds evening, plus three soil journals across the week.”
 
-## Block 7 — The Leader Feedback Round (8:20–8:25, 5 min)
+## Block 7 — The Leader Feedback Round (5:20–5:25, 5 min)
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 
@@ -329,7 +329,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## Block 8 — Closing Container and Aaronic Blessing (8:25–8:30, 5 min)
+## Block 8 — Closing Container and Aaronic Blessing (5:25–5:30, 5 min)
 
 Run the six-step closing protocol from the Handbook, abbreviated for the 5-minute window. Hit:
 

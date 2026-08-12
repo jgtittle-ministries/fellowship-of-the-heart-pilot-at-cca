@@ -163,24 +163,24 @@ The teaching seniors stand where the whole room can see them, with their adult c
 
 # **Detailed Run Sheet**
 
-*Times below assume a 7:00 PM start.*
+*Times below assume a 4:00 PM start.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Journals spotted at the door — quiet paper handed to anyone without one, no fuss. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | CiF | Container from memory. Aaronic blessing. Frame the night briefly. |
-| 7:08–7:15 | Block 2: Why tonight — Isaiah 50:10 | Shared circle | Lead Comp | The threshold named. The scripture read and left standing. The teachers introduced. |
-| 7:15–7:31 | Block 3: The Signs Card — taught by a CiF | Shared circle | CiF 1 (catch: named adult) | The four kinds of dry. Sorting question on the board. 16 min. |
-| 7:31–7:41 | Block 4: The Path Home Card — taught by a CiF | Shared circle | CiF 2 (catch: named adult) | The written door. The father's posture. The witnessed filing. 10 min. |
-| 7:41–7:56 | Block 5: The journal arc review | Quiet individual | Lead Comp | 12–15 silent minutes, each person back through their own journal. Three prompts uncovered on the board. |
-| 7:56–8:12 | Block 6: One sentence, and the testimony gathering | Family clusters | Cluster Comps | Each shares ONE sentence, parents first. Consent-based card writing, Companion's pen ready. 16 min. |
-| 8:12–8:18 | Block 7: The Post-Series Survey | Shared circle | Co-Comp (Parent) | H20.1 framed without apology. Home tonight; bin at the Week 21 door. |
-| 8:18–8:24 | Block 8: The Leader Feedback Round | Shared circle | CiFs first, together | The seniors answer the two questions together; then the room. |
-| 8:24–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Between-session practice. Reaffirm. Aaronic blessing. Next week: the sending. |
+| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Journals spotted at the door — quiet paper handed to anyone without one, no fuss. |
+| 4:00–4:08 | Block 1: Welcome and centering | Shared circle | CiF | Container from memory. Aaronic blessing. Frame the night briefly. |
+| 4:08–4:15 | Block 2: Why tonight — Isaiah 50:10 | Shared circle | Lead Comp | The threshold named. The scripture read and left standing. The teachers introduced. |
+| 4:15–4:31 | Block 3: The Signs Card — taught by a CiF | Shared circle | CiF 1 (catch: named adult) | The four kinds of dry. Sorting question on the board. 16 min. |
+| 4:31–4:41 | Block 4: The Path Home Card — taught by a CiF | Shared circle | CiF 2 (catch: named adult) | The written door. The father's posture. The witnessed filing. 10 min. |
+| 4:41–4:56 | Block 5: The journal arc review | Quiet individual | Lead Comp | 12–15 silent minutes, each person back through their own journal. Three prompts uncovered on the board. |
+| 4:56–5:12 | Block 6: One sentence, and the testimony gathering | Family clusters | Cluster Comps | Each shares ONE sentence, parents first. Consent-based card writing, Companion's pen ready. 16 min. |
+| 5:12–5:18 | Block 7: The Post-Series Survey | Shared circle | Co-Comp (Parent) | H20.1 framed without apology. Home tonight; bin at the Week 21 door. |
+| 5:18–5:24 | Block 8: The Leader Feedback Round | Shared circle | CiFs first, together | The seniors answer the two questions together; then the room. |
+| 5:24–5:30 | Block 9: Closing container | Shared circle | Lead Comp | Between-session practice. Reaffirm. Aaronic blessing. Next week: the sending. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
+## **Block 1 — Welcome and Centering (4:00–4:08, 8 min)**
 
 ## Script (Companion-in-Formation, from memory)
 
@@ -196,7 +196,7 @@ The teaching seniors stand where the whole room can see them, with their adult c
 
 The senior opens from memory — one of the last container reps before Week 22 asks for it in public. The Lead Companion sits where the senior can find their eyes and otherwise does nothing. Resist the urge to add a welcome on top of the senior's welcome.
 
-## **Block 2 — Why Tonight: Isaiah 50:10 (7:08–7:15, 7 min)**
+## **Block 2 — Why Tonight: Isaiah 50:10 (4:08–4:15, 7 min)**
 
 ## Script (Lead Companion)
 
@@ -222,7 +222,7 @@ The senior opens from memory — one of the last container reps before Week 22 a
 
 Keep this block to seven minutes. The framing sentence that matters most is *before anyone needs it* — it tells the room why this teaching is arriving now and gives the person currently in a dry season cover: everyone is receiving this; no one is being looked at. Do not preach Isaiah 50:10; read it and step back.
 
-## **Block 3 — The Signs Card, Taught by a Companion-in-Formation (7:15–7:31, 16 min)**
+## **Block 3 — The Signs Card, Taught by a Companion-in-Formation (4:15–4:31, 16 min)**
 
 The first teaching segment. The senior stands, Signs Card in hand as a net; the adult catch is seated in their sight line. Whiteboard ready. The room takes the Signs Card out of their folders at the senior's word.
 
@@ -255,7 +255,7 @@ The first teaching segment. The senior stands, Signs Card in hand as a net; the 
 
 If the senior loses the thread in front of the full room: the adult catch stands, steps beside them with visible warmth — a hand to the shoulder is right — and picks up the spine at the next numbered point, conversationally, as if this were always the plan. The senior re-enters whenever they reach for it — a nod, a hand out, taking the next point — and the catch yields immediately and sits back down. Nobody apologizes; nobody explains; the room takes its cue from the team's ease. The gate is fluency across the year, not perfection tonight — a senior who taught this cleanly in clusters last week has already shown the competence; tonight is the bigger room, and the recovery itself, done with grace, is leadership on display. The feedback round still honors the rep, whatever happened.
 
-## **Block 4 — The Path Home Card, Taught by a Companion-in-Formation (7:31–7:41, 10 min)**
+## **Block 4 — The Path Home Card, Taught by a Companion-in-Formation (4:31–4:41, 10 min)**
 
 The second teaching segment — a different senior if numbers allow, with their own named catch. The room takes out the Path Home Card.
 
@@ -280,7 +280,7 @@ The second teaching segment — a different senior if numbers allow, with their 
 - If someone calls the card morbid — "why are we planning for failure?" — the answer is on your spine's back pocket: *"A fire extinguisher is not a plan to burn the house down. We put it on the wall because we intend to live here a long time."* One sentence, warmly, and move on.
 - Expect the quiet question afterward, probably from a teen: "Can I give this card to someone?" — an older sibling, a friend who left. The answer is yes. The card is a door, and doors are for sharing.
 
-## **Block 5 — The Journal Arc Review (7:41–7:56, 15 min)**
+## **Block 5 — The Journal Arc Review (4:41–4:56, 15 min)**
 
 The room stays seated where it is. The Lead Companion uncovers the three prompts on the board. Then twelve to fifteen genuinely quiet minutes — no music, no walking commentary — while each person goes back through their own journal from Week 1.
 
@@ -306,7 +306,7 @@ The room stays seated where it is. The Lead Companion uncovers the three prompts
 - Watch the faces, gently, without staring: the review will land hard on somebody — a page from a season they had half-forgotten, or an entry from a week that has since gone gray. Note who; do not approach mid-block unless distress is real (then the Settle Protocol, quietly).
 - Two-minute warning, softly: *"Two more minutes. Find your one sentence — the thing you most don't want to lose. You'll share exactly one sentence in your cluster, nothing more."*
 
-## **Block 6 — One Sentence, and the Testimony Gathering (7:56–8:12, 16 min)**
+## **Block 6 — One Sentence, and the Testimony Gathering (4:56–5:12, 16 min)**
 
 Split to family clusters — 2–3 whole families with their Cluster Companion, own family always together. (Whole room stays as one circle if attendance is about ten or fewer.) The Cluster Companion carries the blank testimony cards and the pen.
 
@@ -334,7 +334,7 @@ Split to family clusters — 2–3 whole families with their Cluster Companion, 
 - A participant may offer a sentence about another family member ("watching my dad do the doubts night"). Lovely — but the named person gets a veto: check with them, tonight, before the card goes in the stack.
 - Cards go into the Companion's pocket, not a pile on the table. From this moment they are pastoral material: the consent list is a confidential document.
 
-## **Block 7 — The Post-Series Survey (8:12–8:18, 6 min)**
+## **Block 7 — The Post-Series Survey (5:12–5:18, 6 min)**
 
 Merge to the single circle. The Co-Companion (Parent) frames the survey — without apology.
 
@@ -346,7 +346,7 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 *"It goes home tonight, one per person — parents and teens each do their own. Bring it back to the bin at the door next Wednesday, Week 21. Signed or anonymous, your choice, same as always."*
 
-## **Block 8 — The Leader Feedback Round (8:18–8:24, 6 min)**
+## **Block 8 — The Leader Feedback Round (5:18–5:24, 6 min)**
 
 *The evening's leaders close the working part of the evening the same way every week — and tonight, by design, the Companions-in-Formation go first, together.*
 
@@ -359,7 +359,7 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## **Block 9 — Closing Container (8:24–8:30, 6 min)**
+## **Block 9 — Closing Container (5:24–5:30, 6 min)**
 
 ## Script (Lead Companion)
 

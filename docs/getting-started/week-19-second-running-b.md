@@ -131,27 +131,27 @@ Then, still at prep:
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. Folders with the two cards at each seat. |
-| 7:00–7:08 | Block 1: Welcome and opening container | Shared | CiF (rotating) | Full protocol from memory — the weekly free rep. |
-| 7:08–7:16 | Block 2: The frame — why these two cards | Shared | Lead Comp | 2 Timothy 2:2 read. The rehearsal named plainly and warmly. |
-| 7:16–7:19 | Block 3: Bridge and split | Shared | Lead Comp | Clusters and their CiFs named. Pray. Go. |
-| 7:19–7:44 | Block 4: First teaching rep — both cards | Clusters | CiFs | Signs ~13 min, Path Home ~10, close ~2. Adults coach from inside, light touch. |
-| 7:44–7:49 | Block 5: Cluster feedback — one keep, one adjust | Clusters | Cluster adults | Adult models first; a parent adds next; brief. |
-| 7:49–7:52 | Rotation | Moving | Lead Comp | Each CiF moves one cluster over, adjust in hand. |
-| 7:52–8:12 | Block 6: Second teaching rep — both cards, tightened | Clusters | CiFs | The compressed telling — 20 min total. The adjust gets tried while warm. |
-| 8:12–8:16 | Block 7: Second cluster feedback | Clusters | Cluster adults | Same shape, briefer. Notes recorded per CiF. |
-| 8:16–8:20 | Block 8: Merge and between-session | Shared | Lead Comp | The findable-place assignment. Next week named. |
-| 8:20–8:22 | Block 9: Closing container | Shared | CiF (rotating) | One-word landing, the one thing, the one practice. |
-| 8:22–8:27 | Block 10: Leader Feedback Round | Shared | Lead Comp | CiFs first, together; then the adult; room by consent. |
-| 8:27–8:30 | Block 11: Aaronic blessing and sending | Shared | CiF (rotating) | Numbers 6:24–26. Sent. |
+| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. Folders with the two cards at each seat. |
+| 4:00–4:08 | Block 1: Welcome and opening container | Shared | CiF (rotating) | Full protocol from memory — the weekly free rep. |
+| 4:08–4:16 | Block 2: The frame — why these two cards | Shared | Lead Comp | 2 Timothy 2:2 read. The rehearsal named plainly and warmly. |
+| 4:16–4:19 | Block 3: Bridge and split | Shared | Lead Comp | Clusters and their CiFs named. Pray. Go. |
+| 4:19–4:44 | Block 4: First teaching rep — both cards | Clusters | CiFs | Signs ~13 min, Path Home ~10, close ~2. Adults coach from inside, light touch. |
+| 4:44–4:49 | Block 5: Cluster feedback — one keep, one adjust | Clusters | Cluster adults | Adult models first; a parent adds next; brief. |
+| 4:49–4:52 | Rotation | Moving | Lead Comp | Each CiF moves one cluster over, adjust in hand. |
+| 4:52–5:12 | Block 6: Second teaching rep — both cards, tightened | Clusters | CiFs | The compressed telling — 20 min total. The adjust gets tried while warm. |
+| 5:12–5:16 | Block 7: Second cluster feedback | Clusters | Cluster adults | Same shape, briefer. Notes recorded per CiF. |
+| 5:16–5:20 | Block 8: Merge and between-session | Shared | Lead Comp | The findable-place assignment. Next week named. |
+| 5:20–5:22 | Block 9: Closing container | Shared | CiF (rotating) | One-word landing, the one thing, the one practice. |
+| 5:22–5:27 | Block 10: Leader Feedback Round | Shared | Lead Comp | CiFs first, together; then the adult; room by consent. |
+| 5:27–5:30 | Block 11: Aaronic blessing and sending | Shared | CiF (rotating) | Numbers 6:24–26. Sent. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Opening Container (7:00–7:08, 8 min)**
+## **Block 1 — Welcome and Opening Container (4:00–4:08, 8 min)**
 
 A Companion-in-Formation opens with the full Section 5 protocol from memory — the standing circle, phones silenced and away, the one-word check-in, put out / bring in, the spoken commitment, the opening prayer naming the Holy Spirit. By this point in the year the container rep is routine for the CiFs; give tonight’s opening to one who is *not* teaching first-round in their strongest cluster, so the evening’s reps spread rather than stack.
 
-## **Block 2 — The Frame: Why These Two Cards (7:08–7:16, 8 min)**
+## **Block 2 — The Frame: Why These Two Cards (4:08–4:16, 8 min)**
 
 ## Script (Lead Companion)
 
@@ -163,11 +163,11 @@ A Companion-in-Formation opens with the full Section 5 protocol from memory — 
 
 *“One more thing, gently. Tonight is about the cards, not about anyone’s current season. Nobody will be asked where they are. But if the card finds you tonight — if one of those columns has your name on it — the adult in your cluster is there for exactly that, tonight or this week. That is what the room is for.”*
 
-## **Block 3 — Bridge and Split (7:16–7:19, 3 min)**
+## **Block 3 — Bridge and Split (4:16–4:19, 3 min)**
 
 Name each cluster, its families, its adult, and its first-round CiF. Pray — briefly, for the teachers by name and for any dry ground in the room, unnamed. Split. *(If the room is about ten or fewer, see the small-room variation after Block 7.)*
 
-## **Block 4 — First Teaching Rep: Both Cards (7:19–7:44, 25 min)**
+## **Block 4 — First Teaching Rep: Both Cards (4:19–4:44, 25 min)**
 
 The Companion-in-Formation leads their cluster through both cards from their facilitation card. The adult coaches from inside — seated in the circle, not behind it — with a light touch: at most one whispered cue, everything else saved for the feedback. The arc:
 
@@ -216,7 +216,7 @@ The cluster’s posture matters as much as the teaching. Parents especially set 
 - Guard the two disciplines. Probing (*“which one are you?”*) and diagnosing (an absent friend filed under a column) both get a gentle immediate redirect — the card’s own rules, quoted, so the correction lands on the card and not the person.
 - Questions of information are welcome and are the CiF’s to answer; let them. Only step in on questions of condition.
 
-## **Block 5 — Cluster Feedback: One Keep, One Adjust (7:44–7:49, 5 min)**
+## **Block 5 — Cluster Feedback: One Keep, One Adjust (4:44–4:49, 5 min)**
 
 The adult models the shape first, specifically:
 
@@ -224,17 +224,17 @@ The adult models the shape first, specifically:
 
 Then the arranged parent adds one keep or one adjust; one or two more voices if brief — teens welcome. The CiF receives without defending; *“thank you”* is the whole response. The adult writes both gifts on the note sheet. Total: five minutes, protected — this block is the reason the evening exists.
 
-## **Rotation (7:49–7:52, 3 min)**
+## **Rotation (4:49–4:52, 3 min)**
 
 Each CiF moves one cluster clockwise, adjust in hand. The Lead Companion calls it from the center: *“Teachers, travel.”* The new cluster does not hear the previous cluster’s feedback — the second rep gets a clean room.
 
-## **Block 6 — Second Teaching Rep: Both Cards, Tightened (7:52–8:12, 20 min)**
+## **Block 6 — Second Teaching Rep: Both Cards, Tightened (4:52–5:12, 20 min)**
 
 The same arc, compressed — Signs ~11, Path Home ~8, close ~1. The compression is not a downgrade; it is the second rep’s own skill, and it is next week’s reality (The Long Walk holds more than the teaching). Coach it at prep as *the tightened telling*: same spine, fewer words, the load-bearing minutes untouched — the desire question, resist-versus-receive, the father runs. The adjust from Round 1 gets tried here, while it is warm; the adult watches for it specifically.
 
 *If a cluster’s first round ran long and the room is against the clock, the CiF’s fallback (agreed at prep): teach the Signs Card in full and give the Path Home Card its two sentences — the father runs; the door is not locked — with the card in every hand. Next week restores the whole.*
 
-## **Block 7 — Second Cluster Feedback (8:12–8:16, 4 min)**
+## **Block 7 — Second Cluster Feedback (5:12–5:16, 4 min)**
 
 Same shape, briefer: the adult’s keep and adjust — the keep, wherever honest, naming the adjust that got tried — then one cluster voice. Both recorded per CiF. These notes are next week’s prep meeting.
 
@@ -244,7 +244,7 @@ Same shape, briefer: the adult’s keep and adjust — the keep, wherever honest
 - **One CiF only:** the single CiF teaches Round 1 in one cluster and Round 2 in another; adult Companions teach the remaining clusters from the same arc — the room still receives the cards everywhere, and the rehearsal still happens.
 - **More CiFs than clusters:** pair them — one teaches Signs, the other Path Home, swap at the rotation. Every CiF still teaches twice.
 
-## **Block 8 — Merge and Between-Session (8:16–8:20, 4 min)**
+## **Block 8 — Merge and Between-Session (5:16–5:20, 4 min)**
 
 ## Script (Lead Companion)
 
@@ -252,11 +252,11 @@ Same shape, briefer: the adult’s keep and adjust — the keep, wherever honest
 
 *“And next Wednesday is The Long Walk — the whole room, the whole teaching, and these same teachers at the front of it. Come ready to receive them again.”*
 
-## **Block 9 — Closing Container (8:20–8:22, 2 min)**
+## **Block 9 — Closing Container (5:20–5:22, 2 min)**
 
 A CiF runs the closing protocol, brief tonight: the standing circle, the one-word landing, the one thing, and the one practice — which is the findable spot, committed aloud by a voice from each family.
 
-## **Block 10 — The Leader Feedback Round (8:22–8:27, 5 min)**
+## **Block 10 — The Leader Feedback Round (5:22–5:27, 5 min)**
 
 *Merged 11.7 order, adapted for multiple leaders: the CiFs answer first, together — this was their evening jointly, and they close it jointly.*
 
@@ -270,7 +270,7 @@ A CiF runs the closing protocol, brief tonight: the standing circle, the one-wor
 
 **Then, by the CiFs’ consent** (*“okay to open it to the room?”* — any one of them may decline for all): *“The room — same two questions about tonight. What went well? What would you do differently?”* Popcorn-style, “for you” language. Two or three voices is plenty; the leaders receive without defending.
 
-## **Block 11 — Aaronic Blessing and Sending (8:27–8:30, 3 min)**
+## **Block 11 — Aaronic Blessing and Sending (5:27–5:30, 3 min)**
 
 ## CiF’s script
 
@@ -332,7 +332,7 @@ Tonight is the last small room before the last large one, so the team reads each
 - A rep became a lecture *about* the cards rather than a walk *through* them — or the teaching drifted into probing the cluster’s current seasons.
 - Feedback went soft — all keeps, no adjusts, “you did great” — which sends the CiFs into the whole room uncoached. If this happened, the Lead Companion supplies the adjusts at the prep meeting, kindly and specifically.
 - The rotation ate the clock and Round 2 got squeezed into a summary; note the logistics fix for next cycle.
-- A CiF visibly carried a critique badly — inflated or collapsed — and next week’s readiness call needs the honest conversation this week, not Wednesday at 6:40.
+- A CiF visibly carried a critique badly — inflated or collapsed — and next week’s readiness call needs the honest conversation this week, not Wednesday at 3:40.
 - The evening treated the material as an exercise about teaching rather than a teaching about mercy — if the room forgot that the dry season is real and the door is really unlocked, the frame block gets its weight back next week from the Lead Companion personally.
 
 # **Handouts**

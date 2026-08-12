@@ -149,24 +149,24 @@ The Thursday Call's look-ahead before Week 10 covers:
 
 # Detailed 90-Minute Run Sheet
 
-*Times below assume a 7:00 PM start.*
+*Times below assume a 4:00 PM start.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the second run and name, simply, that a senior leads the walk-through tonight. |
-| 7:08–7:14 | Block 2: Garden week check-in | Shared circle | Lead Comp | One-sentence shares on the week's returns. Honor every garden. |
-| 7:14–7:26 | Block 3: Scripture and brief re-framing | Shared circle | Lead Comp | Re-read Psalm 23 and John 15:1–11. Shorter framing than Week 9 — the room is practiced. |
-| 7:26–7:29 | Block 4: Bridge to the exercise | Shared circle | Lead Comp | Pray. The room stays together for the walk-through; the move to clusters comes after the journaling. |
-| 7:29–8:02 | Block 5: The Garden exercise — whole room, then family clusters | Whole room → family clusters | CiF + Lead Comp + Cluster Comps | Senior-led guided walk-through, whole room (12–15 min, longer silences); the visible handoff; silent journaling (5 min); then family clusters for adult-held sharing by invitation only, a parent opening each round (10–12 min). |
-| 8:02–8:12 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | One-word landings, optional. Receive without commentary. |
-| 8:12–8:18 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Two returns to the garden this week. Journal each visit. |
-| 8:18–8:23 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing — one merged round, the senior first, the adult second. If the debrief ran heavy, this moves to the team debrief and the senior is told why. See the note in Block 8. |
-| 8:23–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
+| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
+| 4:00–4:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the second run and name, simply, that a senior leads the walk-through tonight. |
+| 4:08–4:14 | Block 2: Garden week check-in | Shared circle | Lead Comp | One-sentence shares on the week's returns. Honor every garden. |
+| 4:14–4:26 | Block 3: Scripture and brief re-framing | Shared circle | Lead Comp | Re-read Psalm 23 and John 15:1–11. Shorter framing than Week 9 — the room is practiced. |
+| 4:26–4:29 | Block 4: Bridge to the exercise | Shared circle | Lead Comp | Pray. The room stays together for the walk-through; the move to clusters comes after the journaling. |
+| 4:29–5:02 | Block 5: The Garden exercise — whole room, then family clusters | Whole room → family clusters | CiF + Lead Comp + Cluster Comps | Senior-led guided walk-through, whole room (12–15 min, longer silences); the visible handoff; silent journaling (5 min); then family clusters for adult-held sharing by invitation only, a parent opening each round (10–12 min). |
+| 5:02–5:12 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | One-word landings, optional. Receive without commentary. |
+| 5:12–5:18 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Two returns to the garden this week. Journal each visit. |
+| 5:18–5:23 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing — one merged round, the senior first, the adult second. If the debrief ran heavy, this moves to the team debrief and the senior is told why. See the note in Block 8. |
+| 5:23–5:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:08, 8 min)
+## Block 1 — Welcome and Centering (4:00–4:08, 8 min)
 
 Tonight opens even quieter than Week 9 did. The room knows where it is going. Let it settle into that knowing.
 
@@ -188,7 +188,7 @@ Tonight opens even quieter than Week 9 did. The room knows where it is going. Le
 
 Name the senior once, warmly, and move on. Do not build it up — a spotlight distorts the very thing the slot is meant to form. The room should hear it the way they would hear any other assignment of parts.
 
-## Block 2 — Garden Week Check-in (7:08–7:14, 6 min)
+## Block 2 — Garden Week Check-in (4:08–4:14, 6 min)
 
 ## Script
 
@@ -198,7 +198,7 @@ Name the senior once, warmly, and move on. Do not build it up — a spotlight di
 
 *“Thank you. One thing I want to say back to what I’ve been hearing this week. Some of you have been comparing gardens. ‘Mine was just a backyard.’ Listen: there is no junior varsity garden. Jesus meets each person in the garden they actually have. The backyard He walks into is holy ground because He walked into it. Yours is yours, and He likes it there.”*
 
-## Block 3 — Scripture and Brief Re-framing (7:14–7:26, 12 min)
+## Block 3 — Scripture and Brief Re-framing (4:14–4:26, 12 min)
 
 Read both passages again, slowly. The framing tonight is much shorter than Week 9's — the theology of the practice was laid last week and does not need re-laying. What needs saying is the second-visit frame and the open door for anyone not going back in tonight.
 
@@ -224,7 +224,7 @@ Read both passages again, slowly. The framing tonight is much shorter than Week 
 
 • Tonight the guide will talk less and the silences will run longer than last week. That is on purpose. You know the way now. The words get you to the gate; the silence is where He meets you.
 
-## Block 4 — Bridge to the Exercise (7:26–7:29, 3 min)
+## Block 4 — Bridge to the Exercise (4:26–4:29, 3 min)
 
 ## Script
 
@@ -234,7 +234,7 @@ Read both passages again, slowly. The framing tonight is much shorter than Week 
 
 *“Stay where you are for the walk-through — we go into the garden together tonight. Your family clusters for the sharing are the same as last week; I’ll send you out after the journaling. Quieter than usual, please, as we settle.”*
 
-## Block 5 — The Garden Exercise: Whole Room, then Family Clusters (7:29–8:02, 33 min)
+## Block 5 — The Garden Exercise: Whole Room, then Family Clusters (4:29–5:02, 33 min)
 
 The walk-through runs once, for the whole room, senior-led: the Companion-in-Formation reads the guided walk-through from Handout H10.1, and the adult Companions sit in the room throughout — the pre-named adult ready to move if someone needs them. After the walk-through and the journaling, the room moves into family clusters for the sharing, each cluster held by its Cluster Companion, with the arranged parent opening. (If no Companion-in-Formation is ready this cycle, an adult leads from H9.1 exactly as in Week 9. If attendance is about ten or fewer, there is no move — the whole room stays as one circle for the sharing.)
 
@@ -290,7 +290,7 @@ The walk-through runs once, for the whole room, senior-led: the Companion-in-For
 - Receive the handoff cleanly and warmly. The room takes its cue from how you receive it.
 - In the clusters, everything Week 9 said about receiving without interpreting holds double tonight, because the second visit tends to go deeper than the first.
 
-## Block 6 — Merge and One-Word Landing (8:02–8:12, 10 min)
+## Block 6 — Merge and One-Word Landing (5:02–5:12, 10 min)
 
 ## Script
 
@@ -304,7 +304,7 @@ The walk-through runs once, for the whole room, senior-led: the Companion-in-For
 
 *“Thank you. A garden visited twice is a garden being tended. Whatever He is doing in yours, He will keep doing it this week.”*
 
-## Block 7 — Between-Session Practice (8:12–8:18, 6 min)
+## Block 7 — Between-Session Practice (5:12–5:18, 6 min)
 
 ## Script
 
@@ -314,7 +314,7 @@ The walk-through runs once, for the whole room, senior-led: the Companion-in-For
 
 *“Fresh Garden Journal pages are at the door if you want them.”*
 
-## Block 8 — The Leader Feedback Round (8:18–8:23, 5 min)
+## Block 8 — The Leader Feedback Round (5:18–5:23, 5 min)
 
 *The evening's leader closes the working part of the evening the same way every week (handbook Section 11.7). Tonight it is one merged round, not two: a senior led the room's deepest practice, so the senior answers first, the adult second, and the room's feedback covers them both.*
 
@@ -324,9 +324,9 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-**And if the debrief ran heavy** — if the sharing surfaced something that is still visibly in the room at 8:18 — drop this block entirely. The feedback round moves to the team debrief tomorrow, and the Lead Companion tells the senior why, in exactly these terms: protecting the room came first tonight. That sentence is not a consolation; it is the lesson. A leader who watches their own feedback round yielded to the care of the room has learned the bright line from the inside. The blessing still closes the evening either way.
+**And if the debrief ran heavy** — if the sharing surfaced something that is still visibly in the room at 5:18 — drop this block entirely. The feedback round moves to the team debrief tomorrow, and the Lead Companion tells the senior why, in exactly these terms: protecting the room came first tonight. That sentence is not a consolation; it is the lesson. A leader who watches their own feedback round yielded to the care of the room has learned the bright line from the inside. The blessing still closes the evening either way.
 
-## Block 9 — Closing Container (8:23–8:30, 7 min)
+## Block 9 — Closing Container (5:23–5:30, 7 min)
 
 ## Script
 

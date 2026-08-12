@@ -126,7 +126,7 @@ The Thursday Call's look-ahead before Week 3 covers — heavy prep: if the call 
 - Large-print Bible (ESV). Read aloud from the physical book.
 - A wall clock or visible timer in each cluster space, only the Cluster Companion needs to see it.
 - Crisis Quick-Reference Card (Appendix C of the Handbook) printed and in the pocket of every Companion.
-- Pastoral / clinical backup person on call from 6:30 PM through 11:00 PM.
+- Pastoral / clinical backup person on call from 3:30 PM through 8:00 PM.
 
 ### Room arrangement
 
@@ -147,26 +147,26 @@ In each cluster space, chairs are in a tight circle, knees almost touching. The 
 
 # Detailed 90-Minute Run Sheet
 
-*Times below assume a 7:00 PM start. Adjust if your start time differs. The clock is a guide; the practice is a guide too. If a block runs sixty seconds long because something true is being said, let it.*
+*Times below assume a 4:00 PM start. Adjust if your start time differs. The clock is a guide; the practice is a guide too. If a block runs sixty seconds long because something true is being said, let it.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Lead Companion greets each participant by name. |
-| 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
-| 7:10–7:15 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
-| 7:15–7:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
-| 7:25–7:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own story — the single question — in five minutes. Models the form. |
-| 7:30–7:32 | Block 5: Bridge to the clusters | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Move to clusters. |
-| 7:32–8:07 | Block 6: Stories in family clusters | Family clusters | Cluster Comps | Each parent (and any Companion-in-Formation): 5–7 min story, 1–2 min blessing, brief silence. Cluster Companion goes first; the arranged parent follows. |
-| 8:07–8:15 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
-| 8:15–8:20 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Joint Footprints assigned. Each family takes one handout. |
-| 8:20–8:25 | Block 9: The Leader Feedback Round | Shared circle | Lead Comp | The leader’s two questions, then the room’s. Received without defending. |
-| 8:25–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm confidentiality. Re-state the practice. Final blessing. |
-| 8:30+ | After | Floating | Lead Companion + Cluster Comps | Stay accessible for ten minutes. Do not pack up immediately. |
+| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Lead Companion greets each participant by name. |
+| 4:00–4:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
+| 4:10–4:15 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
+| 4:15–4:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
+| 4:25–4:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own story — the single question — in five minutes. Models the form. |
+| 4:30–4:32 | Block 5: Bridge to the clusters | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Move to clusters. |
+| 4:32–5:07 | Block 6: Stories in family clusters | Family clusters | Cluster Comps | Each parent (and any Companion-in-Formation): 5–7 min story, 1–2 min blessing, brief silence. Cluster Companion goes first; the arranged parent follows. |
+| 5:07–5:15 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
+| 5:15–5:20 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Joint Footprints assigned. Each family takes one handout. |
+| 5:20–5:25 | Block 9: The Leader Feedback Round | Shared circle | Lead Comp | The leader’s two questions, then the room’s. Received without defending. |
+| 5:25–5:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm confidentiality. Re-state the practice. Final blessing. |
+| 5:30+ | After | Floating | Lead Companion + Cluster Comps | Stay accessible for ten minutes. Do not pack up immediately. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (7:00–7:10, 10 min)
+## Block 1 — Welcome and Centering (4:00–4:10, 10 min)
 
 Same physical opening as Weeks 1 and 2. The container is now familiar; do not re-explain it. Open by speaking the Aaronic blessing over the room.
 
@@ -184,7 +184,7 @@ Same physical opening as Weeks 1 and 2. The container is now familiar; do not re
 
 *Watch for: someone who arrived emotionally heavy. The body language is unmistakable. Make eye contact, smile, do not single them out. They will know that you saw them.*
 
-## Block 2 — Week 2 Check-in (7:10–7:15, 5 min)
+## Block 2 — Week 2 Check-in (4:10–4:15, 5 min)
 
 Brief, low-stakes. We are practicing the rhythm of acknowledging the prior week before moving on. We are not graded on the homework.
 
@@ -194,7 +194,7 @@ Brief, low-stakes. We are practicing the rhythm of acknowledging the prior week 
 
 *(Take 3–4 voluntary contributions. Do not call on anyone. If silence, wait ten seconds and move on with: “Good. The work is happening, whether or not we name it tonight.”)*
 
-## Block 3 — Psalm 139, Being Known (7:15–7:25, 10 min)
+## Block 3 — Psalm 139, Being Known (4:15–4:25, 10 min)
 
 Read aloud from the physical Bible. Slow. The teaching is short — the goal is to set the theological ground for what we are about to do.
 
@@ -222,7 +222,7 @@ Read aloud from the physical Bible. Slow. The teaching is short — the goal is 
 
 • Tonight is a small practice of Psalm 139. Our parents will each answer one question — the story of how they got here, and what has shaped them — with what they are willing to say. Not everything. What they are willing to say. And the people in the circle — teens included — are going to look at them and bless them, not fix them. That is what being known and being safe at the same time looks like, in practice.
 
-## Block 4 — Companion Demo Story (7:25–7:30, 5 min)
+## Block 4 — Companion Demo Story (4:25–4:30, 5 min)
 
 The Lead Companion now answers the story question in five minutes — *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* This is the most important five minutes of the night. The parents — and the teens watching for their own night next week — will calibrate everything against what they just saw modeled.
 
@@ -238,7 +238,7 @@ The Lead Companion now answers the story question in five minutes — *tell the 
 
 > I grew up in church — Sunday school every Sunday, gold stars for attendance — until I was fifteen, and I walked away from the Lord. I spent many years wandering dark hallways: atheism, agnosticism, humanism. When my daughter was born, I told my wife I’d like to have her raised up in church, to get that good moral teaching like I did — and when she was a teenager, she could make her own choice. So we started attending church every now and then, but I couldn’t settle on one, because every time I heard a preacher I wanted to argue with the points being made. Eventually I found a TV evangelist who talked about a personal walk and relationship with Jesus in a way that didn’t raise any yeah-buts from inside me. And one night at the kitchen table I heard Jesus ask me: “Well, John — when are you going to make a decision?” I realized this was a pivotal point. And I knew who it was. So at that kitchen table I asked Jesus into my life, and it has been an unfolding miracle ever since.
 
-## Block 5 — Bridge to the Clusters (7:30–7:32, 2 min)
+## Block 5 — Bridge to the Clusters (4:30–4:32, 2 min)
 
 Two minutes. Move quickly through the cards, pray, and move to the clusters. Do not over-explain.
 
@@ -254,11 +254,11 @@ Two minutes. Move quickly through the cards, pray, and move to the clusters. Do 
 
 *“Let me pray. Father, you have searched us and you have known us. Make this circle a small place where we can be known and safe at the same time. Give us courage to speak true things. Give us tenderness to hear true things. Cover us with your love. Amen.”*
 
-*“You know your clusters — two or three families together, with [name], [name], or [name]. Your own family stays with you. Thirty-five minutes. We come back here at 8:07. Go.”*
+*“You know your clusters — two or three families together, with [name], [name], or [name]. Your own family stays with you. Thirty-five minutes. We come back here at 5:07. Go.”*
 
 *(If the room is about ten or fewer tonight, skip the move — the whole room stays as one circle, the Lead Companion holds it, and the night runs the same way, the arranged parent telling after the Companion.)*
 
-## Block 6 — Stories in Family Clusters (7:32–8:07, 35 min)
+## Block 6 — Stories in Family Clusters (4:32–5:07, 35 min)
 
 This is the heart of the night. Each cluster runs in parallel. The structure inside each cluster is identical. The tellers this week are the parents, plus any Companion-in-Formation — telling comes before leading Week 4.
 
@@ -293,11 +293,11 @@ This is the heart of the night. Each cluster runs in parallel. The structure ins
 
 ### After every story has been told
 
-If you finish before 8:07, do not start a new topic. Sit with what was said. Optional: Cluster Companion offers one closing sentence. “Thank you for what each of you brought into this circle.” Then a brief silence. Then walk back to the main room together.
+If you finish before 5:07, do not start a new topic. Sit with what was said. Optional: Cluster Companion offers one closing sentence. “Thank you for what each of you brought into this circle.” Then a brief silence. Then walk back to the main room together.
 
-## Block 7 — Merge and Shared Closing (8:07–8:15, 8 min)
+## Block 7 — Merge and Shared Closing (5:07–5:15, 8 min)
 
-Reconvene in the main room as a single circle. The texture in the room will be different than it was at 7:30. Honor it. Do not break it with energy.
+Reconvene in the main room as a single circle. The texture in the room will be different than it was at 4:30. Honor it. Do not break it with energy.
 
 ## Script
 
@@ -311,7 +311,7 @@ Reconvene in the main room as a single circle. The texture in the room will be d
 
 *“Thank you. Each of you brought something true into this room tonight, and each of you received something true. That’s rare. It’s also the kind of room God shows up in.”*
 
-## Block 8 — Between-Session Practice (8:15–8:20, 5 min)
+## Block 8 — Between-Session Practice (5:15–5:20, 5 min)
 
 This is the first session in which the practice is explicitly relational and explicitly cross-generational. The Joint Footprints exercise is a parent-and-teen pair sitting together once during the week and walking each other through the footprints question. Twenty minutes.
 
@@ -329,7 +329,7 @@ This is the first session in which the practice is explicitly relational and exp
 
 *“The handout has the questions and the rules in writing. Take one per family.”*
 
-## Block 9 — The Leader Feedback Round (8:20–8:25, 5 min)
+## Block 9 — The Leader Feedback Round (5:20–5:25, 5 min)
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 
@@ -341,7 +341,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## Block 10 — Closing Container (8:25–8:30, 5 min)
+## Block 10 — Closing Container (5:25–5:30, 5 min)
 
 ## Script
 

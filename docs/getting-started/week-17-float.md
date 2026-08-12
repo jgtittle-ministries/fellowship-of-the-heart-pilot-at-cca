@@ -142,35 +142,35 @@ The Thursday Call's look-ahead before Week 17 covers:
 
 # **Detailed Run Sheet**
 
-*Times below assume a 7:00 PM start. Two tables — one per mode. The team runs exactly one of them.*
+*Times below assume a 4:00 PM start. Two tables — one per mode. The team runs exactly one of them.*
 
 ### **Mode A — Absorb (the lifted session runs)**
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Pulse bin by the door. Standard arrival per the lifted plan. |
-| 7:00–7:05 | Block A1: Why tonight is that night | Shared circle | Lead Comp | Aaronic blessing. One-sentence float framing. Hand the room to the lifted plan. |
-| 7:05–8:10 | The lifted session, per its own run sheet | Per its plan | Per its plan | Its blocks, its scripts, its splits, its watch-fors — compressed only by its own flex notes. |
-| 8:10–8:17 | Block A2: The break practice chosen | Shared circle | Lead Comp | Tonight’s constant: one practice for the break, chosen and written in the journal. |
-| 8:17–8:23 | Block A3: Leader Feedback Round | Shared circle | Per its plan | The lifted evening’s leader answers first, same shape as every week. |
-| 8:23–8:30 | Block A4: Closing container | Shared circle | Lead Comp | Quarter named closed. Aaronic blessing. Break send-off. |
+| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Pulse bin by the door. Standard arrival per the lifted plan. |
+| 4:00–4:05 | Block A1: Why tonight is that night | Shared circle | Lead Comp | Aaronic blessing. One-sentence float framing. Hand the room to the lifted plan. |
+| 4:05–5:10 | The lifted session, per its own run sheet | Per its plan | Per its plan | Its blocks, its scripts, its splits, its watch-fors — compressed only by its own flex notes. |
+| 5:10–5:17 | Block A2: The break practice chosen | Shared circle | Lead Comp | Tonight’s constant: one practice for the break, chosen and written in the journal. |
+| 5:17–5:23 | Block A3: Leader Feedback Round | Shared circle | Per its plan | The lifted evening’s leader answers first, same shape as every week. |
+| 5:23–5:30 | Block A4: Closing container | Shared circle | Lead Comp | Quarter named closed. Aaronic blessing. Break send-off. |
 
 ### **Mode B — The Rhythm walk**
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Pulse bin by the door. Cards and journals in hand. |
-| 7:00–7:08 | Block B1: Welcome and opening container | Standing circle | Lead Comp | Aaronic blessing. Container. Frame the walk. |
-| 7:08–7:16 | Block B2: Proverbs 16:9 — the float’s verse | Shared circle | Lead Comp | The verse and the quarter it describes. Short. |
-| 7:16–7:30 | Block B3: The leaders walk first | Shared circle | Lead Comp, then team | The slipped card walked honestly — the model the whole evening stands on. |
-| 7:30–8:05 | Block B4: The room walks | Shared circle | Lead Comp hosting | Each member, 2–3 min: daily / weekly / monthly as lived. Holds celebrated, slips troubleshot, ideas borrowed. Pass-anytime holds. |
-| 8:05–8:15 | Block B5: The borrow and the break practice | Shared circle | Lead Comp | One borrowed idea named; one practice chosen for the break, written in the journal. |
-| 8:15–8:21 | Block B6: Leader Feedback Round | Shared circle | Lead Comp | Same shape as every week. |
-| 8:21–8:30 | Block B7: Closing container | Standing circle | Lead Comp | Quarter closed. Aaronic blessing. Break send-off. |
+| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Pulse bin by the door. Cards and journals in hand. |
+| 4:00–4:08 | Block B1: Welcome and opening container | Standing circle | Lead Comp | Aaronic blessing. Container. Frame the walk. |
+| 4:08–4:16 | Block B2: Proverbs 16:9 — the float’s verse | Shared circle | Lead Comp | The verse and the quarter it describes. Short. |
+| 4:16–4:30 | Block B3: The leaders walk first | Shared circle | Lead Comp, then team | The slipped card walked honestly — the model the whole evening stands on. |
+| 4:30–5:05 | Block B4: The room walks | Shared circle | Lead Comp hosting | Each member, 2–3 min: daily / weekly / monthly as lived. Holds celebrated, slips troubleshot, ideas borrowed. Pass-anytime holds. |
+| 5:05–5:15 | Block B5: The borrow and the break practice | Shared circle | Lead Comp | One borrowed idea named; one practice chosen for the break, written in the journal. |
+| 5:15–5:21 | Block B6: Leader Feedback Round | Shared circle | Lead Comp | Same shape as every week. |
+| 5:21–5:30 | Block B7: Closing container | Standing circle | Lead Comp | Quarter closed. Aaronic blessing. Break send-off. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Mode A — Block A1: Why Tonight Is That Night (7:00–7:05, 5 min)**
+## **Mode A — Block A1: Why Tonight Is That Night (4:00–4:05, 5 min)**
 
 ## Script
 
@@ -184,11 +184,11 @@ The Thursday Call's look-ahead before Week 17 covers:
 
 Say the reframe once, warmly, and get out of the way. The lifted session’s own opening will repeat its own container work; do not double it. Tonight’s constants resume at Block A2 — the Lead Companion watches the clock so the lifted center is never the thing trimmed.
 
-## **Mode A — Block A2: The Break Practice Chosen (8:10–8:17, 7 min)**
+## **Mode A — Block A2: The Break Practice Chosen (5:10–5:17, 7 min)**
 
 *Use the Mode B Block B5 script below, second half — the commissioning is identical in both modes.*
 
-## **Mode B — Block B1: Welcome and Opening Container (7:00–7:08, 8 min)**
+## **Mode B — Block B1: Welcome and Opening Container (4:00–4:08, 8 min)**
 
 ## Script
 
@@ -200,7 +200,7 @@ Say the reframe once, warmly, and get out of the way. The lifted session’s own
 
 *“Tonight is the last Wednesday of the quarter, and here is the good news buried in that: we lost nothing this quarter. Every evening ran. So tonight we get to do the thing this evening does when the year behaves — we are going to walk our Rhythm Cards together. Out loud. The real ones, not the ideal ones. You will hear how everyone in this room — parents, teens, and every one of us up front — is actually doing with the card they built three weeks ago. Holds and slips both. Then we will steal each other’s best ideas and carry one practice into the break.”*
 
-## **Mode B — Block B2: Proverbs 16:9 — The Float’s Verse (7:08–7:16, 8 min)**
+## **Mode B — Block B2: Proverbs 16:9 — The Float’s Verse (4:08–4:16, 8 min)**
 
 Read from the physical Bible. The teaching is short; tonight’s center is the walking, not the talking.
 
@@ -214,13 +214,13 @@ Read from the physical Bible. The teaching is short; tonight’s center is the w
 
 • The verse is also the truest thing anyone will say tonight about a Rhythm Card. Three weeks ago every person here planned a way — daily, weekly, monthly, in your own handwriting. Since then, the LORD established your actual steps, and for most of us the steps and the plan do not perfectly match. That is not the card failing. That is Proverbs 16:9 happening to your card. The question tonight is never “did you keep the plan?” It is “what did the steps actually look like — and what is worth adjusting, and what is worth celebrating, and what is worth stealing from the person next to you?”
 
-## **Mode B — Block B3: The Leaders Walk First (7:16–7:30, 14 min)**
+## **Mode B — Block B3: The Leaders Walk First (4:16–4:30, 14 min)**
 
 The whole evening stands on this block. The Lead Companion walks first, and walks a genuinely slipped card — chosen at personal pre-work — honestly, briefly, without self-flagellation and without rescue. Then two or three more Companions walk theirs. The room learns in these fourteen minutes whether tonight is an honesty exercise or a performance review, and it learns it from the leaders’ tone about their own slips.
 
 ## Script (Lead Companion — shape, not verbatim; the specifics must be yours)
 
-*“I go first, and here is my actual card. Daily: the morning question, 6:40, kitchen table — that one has held, maybe five days in seven, and the two misses are the mornings I pick up the phone first. The evening journal note — I want to tell you it held. It slipped ten days ago and I noticed on day three. I ran the card’s own rule: don’t start over, just begin again on the next available day. So it is four days old again, and that is the honest state of it. Weekly: my hour with [name] has held — it moved to Thursdays, which turned out to matter. Monthly: my clearing time is on the calendar for the break and has not happened yet. That is my card. Not the card I would design; the card I am actually walking.”*
+*“I go first, and here is my actual card. Daily: the morning question, 3:40, kitchen table — that one has held, maybe five days in seven, and the two misses are the mornings I pick up the phone first. The evening journal note — I want to tell you it held. It slipped ten days ago and I noticed on day three. I ran the card’s own rule: don’t start over, just begin again on the next available day. So it is four days old again, and that is the honest state of it. Weekly: my hour with [name] has held — it moved to Thursdays, which turned out to matter. Monthly: my clearing time is on the calendar for the break and has not happened yet. That is my card. Not the card I would design; the card I am actually walking.”*
 
 *(Then, to the team:)* *“[Co-Companion’s name], walk us yours.”*
 
@@ -230,7 +230,7 @@ The whole evening stands on this block. The Lead Companion walks first, and walk
 - Watch the teens during the leaders’ walks. The moment a teen realizes the adults’ cards have slips in them is the moment their own walk becomes possible.
 - Two to three minutes per walker. The Lead Companion times the team as strictly as the room — long leader walks teach the room to perform.
 
-## **Mode B — Block B4: The Room Walks (7:30–8:05, 35 min)**
+## **Mode B — Block B4: The Room Walks (4:30–5:05, 35 min)**
 
 ## Script
 
@@ -249,7 +249,7 @@ The whole evening stands on this block. The Lead Companion walks first, and walk
 - The teen whose card has been blank since Week 15: a spare build sheet, no shame, and the honest frame — *“then tonight is a fine night to start at zero; walk us the card you’d actually keep.”* A card rebuilt mid-walk, with the room’s borrowed ideas fresh in it, is often better than the original.
 - Parents walk their own card, never their teen’s. *“And Emma has been doing so well with her evening note”* is love, but it is also surveillance — the teen walks their own card at their own depth, or passes. A parent’s honestly slipped card is the best teaching a teen gets tonight; that is why parents walk early in the round.
 
-## **Mode B — Block B5: The Borrow and the Break Practice (8:05–8:15, 10 min)**
+## **Mode B — Block B5: The Borrow and the Break Practice (5:05–5:15, 10 min)**
 
 ## Script
 
@@ -263,7 +263,7 @@ The whole evening stands on this block. The Lead Companion walks first, and walk
 
 *(Receive each. No commentary.)*
 
-## **Mode B — Block B6: The Leader Feedback Round (8:15–8:21, 6 min)**
+## **Mode B — Block B6: The Leader Feedback Round (5:15–5:21, 6 min)**
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 
@@ -271,7 +271,7 @@ Leader: *“Before we close — three things from me, same as every week. What I
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response.
 
-## **Mode B — Block B7: Closing Container (8:21–8:30, 9 min)**
+## **Mode B — Block B7: Closing Container (5:21–5:30, 9 min)**
 
 *(Mode A closes with this same script at Block A4, adjusted for the evening it followed.)*
 

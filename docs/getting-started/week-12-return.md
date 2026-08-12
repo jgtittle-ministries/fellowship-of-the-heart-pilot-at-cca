@@ -103,24 +103,24 @@ The Thursday Call's look-ahead before Week 12 covers:
 
 # **Detailed Run Sheet**
 
-*Times below assume a 7:00 PM start.*
+*Times below assume a 4:00 PM start.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Pulse 2 return bin, staffed. Warm and unhurried. |
-| 7:00–7:12 | Block 1: Opening container — run slow | Shared circle | Lead Comp | The full Section 5 protocol, at two-thirds speed. The check-in gets a second beat. The timing Companion starts discreetly at 7:00. |
-| 7:12–7:24 | Block 2: New every morning — Lam. 3:22–23, Ps. 126 | Shared circle | Lead Comp | Read both. Teach the mercies-new-this-morning frame for the whole evening. |
-| 7:24–7:44 | Block 3: “What held?” | Family clusters | Cluster Comps | 20 min. Parents first, arranged ahead. Slips are data. No fixing, no scoreboard. |
-| 7:44–7:59 | Block 4: The walk home | Shared circle | Lead Comp | Merge. The Path Home Card in action — the welcome, Luke 15 register. Nobody owes an explanation. |
-| 7:59–8:06 | Block 5: Re-anchoring the year | Shared circle | Lead Comp | The map moment: the God arc behind us; Mission (Wk 13) and the Rhythm ahead. |
-| 8:06–8:12 | Block 6: Between-session practice — restart one | Shared circle | Co-Comp (Parent) | One daily practice, chosen tonight, written in the journal. Just one. |
-| 8:12–8:20 | Block 7: Closing container | Shared circle | Lead Comp | Section 5 closing protocol, steps 1–5. The landing words against the opening words are tonight’s best reading. |
-| 8:20–8:26 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. The leader answers both questions first, then the room. |
-| 8:26–8:30 | Block 9: Aaronic blessing and sending | Shared circle | Lead Comp | Numbers 6:24–26. Send them home gently. |
+| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Pulse 2 return bin, staffed. Warm and unhurried. |
+| 4:00–4:12 | Block 1: Opening container — run slow | Shared circle | Lead Comp | The full Section 5 protocol, at two-thirds speed. The check-in gets a second beat. The timing Companion starts discreetly at 4:00. |
+| 4:12–4:24 | Block 2: New every morning — Lam. 3:22–23, Ps. 126 | Shared circle | Lead Comp | Read both. Teach the mercies-new-this-morning frame for the whole evening. |
+| 4:24–4:44 | Block 3: “What held?” | Family clusters | Cluster Comps | 20 min. Parents first, arranged ahead. Slips are data. No fixing, no scoreboard. |
+| 4:44–4:59 | Block 4: The walk home | Shared circle | Lead Comp | Merge. The Path Home Card in action — the welcome, Luke 15 register. Nobody owes an explanation. |
+| 4:59–5:06 | Block 5: Re-anchoring the year | Shared circle | Lead Comp | The map moment: the God arc behind us; Mission (Wk 13) and the Rhythm ahead. |
+| 5:06–5:12 | Block 6: Between-session practice — restart one | Shared circle | Co-Comp (Parent) | One daily practice, chosen tonight, written in the journal. Just one. |
+| 5:12–5:20 | Block 7: Closing container | Shared circle | Lead Comp | Section 5 closing protocol, steps 1–5. The landing words against the opening words are tonight’s best reading. |
+| 5:20–5:26 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. The leader answers both questions first, then the room. |
+| 5:26–5:30 | Block 9: Aaronic blessing and sending | Shared circle | Lead Comp | Numbers 6:24–26. Send them home gently. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Opening Container, Run Slow (7:00–7:12, 12 min)**
+## **Block 1 — Opening Container, Run Slow (4:00–4:12, 12 min)**
 
 Tonight the opening protocol is not the on-ramp to the session; it is the session’s first teaching. Two weeks without Wednesdays is exactly the kind of gap the container exists to close. Run every step of the Section 5 protocol, at about two-thirds the usual speed, and let the repetition do what eleven weeks of repetition has built it to do.
 
@@ -140,7 +140,7 @@ From the Handbook, Section 5 — the opening protocol the room has used every we
 - At step 1, name the slowness out loud (script below). The room should know the pace is on purpose.
 - At step 4, the one-word check-in gets a second beat: after each word, hold one unhurried breath before the next person speaks. Do not comment, do not nod anyone along. Two weeks of life is arriving in the room one word at a time; give each word its second.
 - At step 5, double the silence — a full minute instead of thirty seconds. There is more to put down tonight than most weeks.
-- The Companion assigned to timing starts at 7:00 and quietly notes the minute the room becomes truly present — the fidgeting stops, the words land, the silence holds. That number goes to the debrief, and nowhere else.
+- The Companion assigned to timing starts at 4:00 and quietly notes the minute the room becomes truly present — the fidgeting stops, the words land, the silence holds. That number goes to the debrief, and nowhere else.
 
 ## Script
 
@@ -154,7 +154,7 @@ From the Handbook, Section 5 — the opening protocol the room has used every we
 
 *(Receive every word with eye contact. The check-in is the most information-dense thirty seconds of the evening — the Cluster Companions are listening for their own families’ words.)*
 
-## **Block 2 — New Every Morning: Lamentations 3:22–23 and Psalm 126 (7:12–7:24, 12 min)**
+## **Block 2 — New Every Morning: Lamentations 3:22–23 and Psalm 126 (4:12–4:24, 12 min)**
 
 Read both passages aloud, slowly, from the physical Bible. The teaching is short; the whole evening leans on it.
 
@@ -182,7 +182,7 @@ Read both passages aloud, slowly, from the physical Bible. The teaching is short
 
 • And Psalm 126 tells us what the return is like: the people coming home “were like those who dream.” Coming home is not a trudge of make-up work. In God’s economy it is the happiest walk there is. Hold that; we will come back to it after the clusters.
 
-## **Block 3 — “What Held?” (7:24–7:44, 20 min)**
+## **Block 3 — “What Held?” (4:24–4:44, 20 min)**
 
 Split to family clusters — two or three whole families with their Cluster Companion, own family always together. (If the room stayed as one circle tonight, the same round runs whole-room, Companions receiving.) Each participant reads their break honestly: which practices survived the two weeks, and which slipped. A parent goes first in every cluster — arranged before the session, never a cold call on a teen — and reads an honest list that includes the slips. Teens choose their own depth after; pass-anytime holds.
 
@@ -214,7 +214,7 @@ Split to family clusters — two or three whole families with their Cluster Comp
 - Keep rough counts, quietly, for the debrief: how many in your cluster kept any daily practice through the break. Numbers only. No names travel with them.
 - Watch the clock. Everyone reads. A round that lets three people talk long and four people not at all has failed its shape.
 
-## **Block 4 — The Walk Home (7:44–7:59, 15 min)**
+## **Block 4 — The Walk Home (4:44–4:59, 15 min)**
 
 Merge to the single circle. This is the heart of the evening. Every participant has the Path Home Card in their folder — filed weeks ago, while the room was warm, against exactly this kind of night. Tonight the card is not taught; it is enacted. The Lead Companion speaks the welcome over the whole room at once, so that everyone who drifted walks back through the door together, and nobody has to identify themselves to be received.
 
@@ -242,7 +242,7 @@ Merge to the single circle. This is the heart of the evening. Every participant 
 - Watch the room during the Luke 15 read. Somewhere in the circle it will land on someone — the going-still, the wet eyes. No spotlight. The nearest Companion simply notices, and the follow-up happens at the door or this week.
 - If a participant spontaneously names their own drift out loud — it happens — receive it as the card receives it: bless the telling, honor the return, add nothing. “Thank you. Welcome home. That took more courage than it looked like.”
 
-## **Block 5 — Re-Anchoring the Year (7:59–8:06, 7 min)**
+## **Block 5 — Re-Anchoring the Year (4:59–5:06, 7 min)**
 
 Brief and plain. The room re-enters the year knowing where it stands on the map.
 
@@ -256,19 +256,19 @@ Brief and plain. The room re-enters the year knowing where it stands on the map.
 
 *“So tonight sits exactly where it should: the room rebuilt, the readings taken, mercy new this morning — and the whole second half of the journey in front of us. We are not starting over tonight. We are picking the trail back up, together, further along than we have ever been.”*
 
-## **Block 6 — Between-Session Practice: Restart One (8:06–8:12, 6 min)**
+## **Block 6 — Between-Session Practice: Restart One (5:06–5:12, 6 min)**
 
 ## Script (Co-Companion, Parent)
 
 *“The practice this week is deliberately small, and the smallness is the wisdom. You are not restarting everything this week. You are restarting one thing.”*
 
-*“Open your journal. Pick one daily practice — the morning question, the evening note, or PROAPT if that is your one. Just one. Whichever one you most want back, or whichever one held and you want to keep. Write it at the top of a fresh page, right now, with when and where: ‘The morning question, 6:50, kitchen table.’ ‘The evening note, in bed, before the light goes off.’”*
+*“Open your journal. Pick one daily practice — the morning question, the evening note, or PROAPT if that is your one. Just one. Whichever one you most want back, or whichever one held and you want to keep. Write it at the top of a fresh page, right now, with when and where: ‘The morning question, 3:50, kitchen table.’ ‘The evening note, in bed, before the light goes off.’”*
 
 *(Give the room ninety seconds to write. Journals open, pens moving.)*
 
 *“That one practice, daily, this week. If you miss a day — and some of you will — the rule you already know: do not start over; begin again on the next available day. The rest of the rhythm will come back in the coming weeks, a piece at a time. This week, one seed goes back in the ground. His mercies are new every morning; you only need one practice to be standing there when they arrive.”*
 
-## **Block 7 — Closing Container (8:12–8:20, 8 min)**
+## **Block 7 — Closing Container (5:12–5:20, 8 min)**
 
 Run the Section 5 closing protocol, unhurried. From the Handbook:
 
@@ -280,11 +280,11 @@ Run the Section 5 closing protocol, unhurried. From the Handbook:
 
 ### **Notes**
 
-- The landing words against the opening words are tonight’s best single reading of the evening. The Companions listen for the contrast: “tired” at 7:00 that lands as “home” at 8:15 is the session working. Note the pattern for the debrief — the pattern, never the names.
+- The landing words against the opening words are tonight’s best single reading of the evening. The Companions listen for the contrast: “tired” at 4:00 that lands as “home” at 5:15 is the session working. Note the pattern for the debrief — the pattern, never the names.
 - At the one-practice step, each person names the one daily practice they just wrote in the journal. Keep it moving; the writing already did the work.
 - The blessings step may run warmer than usual tonight. Let it. The first Wednesday back is the right night for the room to bless itself.
 
-## **Block 8 — The Leader Feedback Round (8:20–8:26, 6 min)**
+## **Block 8 — The Leader Feedback Round (5:20–5:26, 6 min)**
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 
@@ -294,7 +294,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## **Block 9 — Aaronic Blessing and Sending (8:26–8:30, 4 min)**
+## **Block 9 — Aaronic Blessing and Sending (5:26–5:30, 4 min)**
 
 ## Script
 
@@ -318,7 +318,7 @@ Every break in the year is a natural experiment: what does the formation hold wh
 
 1. **Rhythm survival count.** How many participants kept any daily practice through the break — gathered as rough counts from the Cluster Companions’ what-held rounds. A number and the room total (e.g., “9 of 21 kept at least one daily practice”). Numbers only; no names attached.
 2. **Path Home Card uses.** How many walked back tonight — the team’s best count of participants whose break reading indicated a real drift and who returned to the room anyway. Assembled from cluster observation and the door, never from a hand-raise or a public question. This number is the card working; expect it to be more than zero, and log it without any register of disappointment.
-3. **Time-to-settled-container.** How many minutes from 7:00 until the room was truly present — timed discreetly by the assigned Companion, who alone knew it was being timed. One number, logged with a one-line note on what the settling looked like.
+3. **Time-to-settled-container.** How many minutes from 4:00 until the room was truly present — timed discreetly by the assigned Companion, who alone knew it was being timed. One number, logged with a one-line note on what the settling looked like.
 
 These three numbers, taken again at the year’s later re-entry, are among the most honest measures the pilot has of whether the formation is becoming the participants’ own or still belongs to the room. Record them plainly; interpret them slowly; compare them only across the year’s own series.
 

@@ -12,6 +12,8 @@
 
 The Getting Started series is one seamless twenty-two-week walk — every week has its own full session plan, numbered in a single sequence from Week 1 to Week 22 (see the [series index](index.md)). This page simply pins each week to its Wednesday on CCA's 2026–27 club calendar: four quarters, 6/5/6/5, beginning September 2, 2026. When a date shifts, change it here — the curriculum does not move.
 
+The club meets **Wednesday afternoons, 4:00–5:30 PM** — the team in the room by 3:30, doors at 3:45. The one exception is Week 21, Sending and Blessing, which runs 4:00–6:00 to hold the family commissioning without hurry. (The session plans keep their evening script language — *tonight* — on purpose; only the clock is CCA's.)
+
 # Quarter 1 — Connect with Self & Others
 
 | Week | Date | Session |
@@ -55,7 +57,7 @@ The Getting Started series is one seamless twenty-two-week walk — every week h
 | 18 | [insert] | **The Return II** — light re-entry; the final stretch mapped |
 | 19 | [insert] | **Second Running: Block B** — the Companions-in-Formation rehearse the two mercy cards in clusters |
 | 20 | [insert] | **The Long Walk** — the Companions-in-Formation teach the Signs and Path Home cards to the room; journal arc review; testimony gathering; Post-Series Survey distributed |
-| 21 | [insert] | **Sending and Blessing** — family commissioning, 120 minutes |
+| 21 | [insert] | **Sending and Blessing** — family commissioning, 120 minutes (4:00–6:00) |
 | 22 | [insert] | **Commissioning the Companions** — the FC1 exit gate as a witnessed rite, at year's end |
 
 # Measurement touchpoints (summary — the full plan is Handbook Section 8)

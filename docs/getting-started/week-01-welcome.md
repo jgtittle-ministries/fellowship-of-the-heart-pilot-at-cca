@@ -130,30 +130,30 @@ If you have more than 24 participants, use two concentric semicircles rather tha
 
 # Detailed 90-Minute Run Sheet
 
-Times below assume a 7:00 PM start. Adjust to your actual start time but keep the durations.
+Times below assume a 4:00 PM start. Adjust to your actual start time but keep the durations.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
-| 6:30 | Setup. All Companions in the room. Final walk-through. | — | Team | 30 |
-| 6:45 | Door opens. Greet, name tags, light snacks. | Open | Teen Comp | 15 |
-| 7:00 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 5 |
-| 7:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
-| 7:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
-| 7:20 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 15 |
-| 7:35 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 14 |
-| 7:49 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 9 |
-| 7:58 | What does it mean to be saved? — the thief’s case, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 12 |
-| 8:10 | Between-session practice introduced. | Shared | Parent Comp | 4 |
-| 8:14 | Closing container — first full closing protocol. | Shared | Lead Comp | 8 |
-| 8:22 | The Leader Feedback Round — debut. | Shared | Lead Comp | 4 |
-| 8:26 | Aaronic blessing and dismissal. | Shared | Lead Comp | 4 |
-| 8:30 | End. Dismissal and cleanup follow. | — | Team | — |
+| 3:30 | Setup. All Companions in the room. Final walk-through. | — | Team | 30 |
+| 3:45 | Door opens. Greet, name tags, light snacks. | Open | Teen Comp | 15 |
+| 4:00 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 5 |
+| 4:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
+| 4:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
+| 4:20 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 15 |
+| 4:35 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 14 |
+| 4:49 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 9 |
+| 4:58 | What does it mean to be saved? — the thief’s case, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 12 |
+| 5:10 | Between-session practice introduced. | Shared | Parent Comp | 4 |
+| 5:14 | Closing container — first full closing protocol. | Shared | Lead Comp | 8 |
+| 5:22 | The Leader Feedback Round — debut. | Shared | Lead Comp | 4 |
+| 5:26 | Aaronic blessing and dismissal. | Shared | Lead Comp | 4 |
+| 5:30 | End. Dismissal and cleanup follow. | — | Team | — |
 
 # Block-by-Block Scripts and Notes
 
 Below are the actual words to say (or paraphrase from familiarity) for each block, with what to watch for. Read these aloud in your prep meeting as a team. The first time you say them, they should feel slightly stiff; by Week 3 they will feel like yours.
 
-## Block 1 — Welcome (7:00–7:05, 5 min)
+## Block 1 — Welcome (4:00–4:05, 5 min)
 
 ***Stand at the open of the circle. Wait for full silence.***
 
@@ -169,7 +169,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 (Pause a moment while phones are silenced. The ask is enough — no collecting, no policing.)
 
-## Block 2 — What This Is and Isn’t (7:05–7:10, 5 min)
+## Block 2 — What This Is and Isn’t (4:05–4:10, 5 min)
 
 ## Script
 
@@ -181,7 +181,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 “What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend this year together practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
 
-## Block 3 — The Four Connects, Kitchen-Table Version (7:10–7:20, 10 min)
+## Block 3 — The Four Connects, Kitchen-Table Version (4:10–4:20, 10 min)
 
 **Stand at the whiteboard.** The Four Connects diagram should already be drawn. Walk the cohort through it briefly.
 
@@ -203,7 +203,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 Watch for: teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 
-## Block 4 — Container Introduction — First Full Opening Protocol (7:20–7:35, 15 min)
+## Block 4 — Container Introduction — First Full Opening Protocol (4:20–4:35, 15 min)
 
 This is the most important block of Week 1. Do not rush it.
 
@@ -227,7 +227,7 @@ This is the most important block of Week 1. Do not rush it.
 
 Have the cohort stand. Walk through the eight-step opening container protocol from the Handbook (Section 5). Read aloud or paraphrase from familiarity. Hold each step. Do not rush. The first one-word check-in is the most important moment of Week 1 — if every single person says one word, you have your first win.
 
-## Block 5 — One True Sentence (7:35–7:49, 14 min)
+## Block 5 — One True Sentence (4:35–4:49, 14 min)
 
 ## Script
 
@@ -267,7 +267,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 - Anyone who passes — acknowledge with “Thanks. We’re glad you’re here.” Move on without ceremony.
 - If someone says something heavier than expected (“I’m here because I’m drowning”), do NOT process in the circle. Simple: “Thank you for trusting us with that. We will hold that. Let’s keep going.” Follow up after.
 
-## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (7:49–7:58, 9 min)
+## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (4:49–4:58, 9 min)
 
 ## Script
 
@@ -295,7 +295,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “That is the seed. Every Wednesday of this year, that is what will be landing on the ground of your heart. Which raises a question worth sitting with on our very first night —”
 
-## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (7:58–8:10, 12 min)
+## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (4:58–5:10, 12 min)
 
 Shared circle, Lead Companion holding. A real discussion, not a quiz — the room offers its answers first, and the thief does the correcting. Standing rules apply: parents may answer first to break the ice, nobody is cold-called, every answer is received without grading. *(On screen: the question slide alone — nothing else — until the room has had its say; then the response slide.)*
 
@@ -334,7 +334,7 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 
 *(Two silent minutes. No music, no commentary. Companions write their own first page too — visibly.)*
 
-## Block 8 — Between-Session Practice (8:10–8:14, 4 min)
+## Block 8 — Between-Session Practice (5:10–5:14, 4 min)
 
 **Co-Companion (Parent) leads this block.** It is important that the parent Co-Companion introduce this practice, because the parents need to hear that they are doing it too.
 
@@ -348,7 +348,7 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 
 “That’s it. Five minutes morning, one minute evening, every day. Parents, you are doing this too. We’ll check in next week.”
 
-## Block 9 — Closing Container (8:14–8:22, 8 min)
+## Block 9 — Closing Container (5:14–5:22, 8 min)
 
 Walk the cohort through the six-step closing container protocol from the Handbook (Section 5). The first time, this will feel new. By Week 3 it will feel familiar.
 
@@ -360,7 +360,7 @@ Adaptations for Week 1 closing:
 - For blessings, in Week 1, do not press. People do not yet know each other well enough to bless specifically. If anyone does offer one, honor it. If no one does, that is fine.
 - For closing prayer, the Lead Companion prays briefly. 30 seconds, naming the Holy Spirit specifically.
 
-## Block 10 — The Leader Feedback Round (8:22–8:26, 4 min)
+## Block 10 — The Leader Feedback Round (5:22–5:26, 4 min)
 
 *The evening’s leader closes the working part of the evening the same way every week. Tonight is the debut, and the Lead Companion models it on themselves.*
 
@@ -372,7 +372,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## Block 11 — Aaronic Blessing and Dismissal (8:26–8:30, 4 min)
+## Block 11 — Aaronic Blessing and Dismissal (5:26–5:30, 4 min)
 
 ## Script
 

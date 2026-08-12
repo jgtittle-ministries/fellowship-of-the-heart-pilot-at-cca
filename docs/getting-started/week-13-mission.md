@@ -143,24 +143,24 @@ The Thursday Call's look-ahead before Week 13 covers:
 
 # **Detailed 90-Minute Run Sheet**
 
-*Times below assume a 7:00 PM start.*
+*Times below assume a 4:00 PM start.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 13 as the turn outward. |
-| 7:08–7:13 | Block 2: Week 11 check-in | Shared circle | Lead Comp | Brief check on Doubts Inventory. One-sentence shares. |
-| 7:13–7:25 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Shared circle | Lead Comp | Read scripture. Walk both columns on whiteboard. Demo with own downhill answer. |
-| 7:25–7:28 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the two exercises. Pray. Split. |
-| 7:28–8:08 | Block 5: Gifts and Downhill in family clusters | Family clusters | Cluster Comps | Two paired exercises, ~20 minutes each, a parent opening each sharing round. The downhill round closes with each person naming their answer to the cluster. |
-| 8:08–8:13 | Block 6: Merge and surface | Shared circle | Lead Comp | One general observation per cluster, named by the Cluster Companion — a sentence each. Then a brief observation across the room. |
-| 8:13–8:20 | Block 7: Between-session practice and closing-weeks logistics | Shared circle | Co-Comp (Parent) | One small action. Then the road ahead: Wk 15 Rhythm, Wk 21 family commissioning (bring family), Wk 22 Companion commissioning. |
-| 8:20–8:25 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
-| 8:25–8:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
+| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
+| 4:00–4:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 13 as the turn outward. |
+| 4:08–4:13 | Block 2: Week 11 check-in | Shared circle | Lead Comp | Brief check on Doubts Inventory. One-sentence shares. |
+| 4:13–4:25 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Shared circle | Lead Comp | Read scripture. Walk both columns on whiteboard. Demo with own downhill answer. |
+| 4:25–4:28 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the two exercises. Pray. Split. |
+| 4:28–5:08 | Block 5: Gifts and Downhill in family clusters | Family clusters | Cluster Comps | Two paired exercises, ~20 minutes each, a parent opening each sharing round. The downhill round closes with each person naming their answer to the cluster. |
+| 5:08–5:13 | Block 6: Merge and surface | Shared circle | Lead Comp | One general observation per cluster, named by the Cluster Companion — a sentence each. Then a brief observation across the room. |
+| 5:13–5:20 | Block 7: Between-session practice and closing-weeks logistics | Shared circle | Co-Comp (Parent) | One small action. Then the road ahead: Wk 15 Rhythm, Wk 21 family commissioning (bring family), Wk 22 Companion commissioning. |
+| 5:20–5:25 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
+| 5:25–5:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
+## **Block 1 — Welcome and Centering (4:00–4:08, 8 min)**
 
 ## Script
 
@@ -172,7 +172,7 @@ The Thursday Call's look-ahead before Week 13 covers:
 
 *“Container reminders: what is said here stays here. Nothing is required.”*
 
-## **Block 2 — Week 11 Check-in (7:08–7:13, 5 min)**
+## **Block 2 — Week 11 Check-in (4:08–4:13, 5 min)**
 
 ## Script
 
@@ -180,7 +180,7 @@ The Thursday Call's look-ahead before Week 13 covers:
 
 *(A parent you arranged with before the session offers the first sentence — never a cold call on a teen. Then take 2–3 more voluntary contributions. Receive without commentary.)*
 
-## **Block 3 — Ephesians 2:10 and the Uphill/Downhill Distinction (7:13–7:25, 12 min)**
+## **Block 3 — Ephesians 2:10 and the Uphill/Downhill Distinction (4:13–4:25, 12 min)**
 
 Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your own downhill answer at the end.
 
@@ -212,7 +212,7 @@ Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your
 
 *Watch for: be brief and be specific. The teens will calibrate against your honesty. Do not give the resume version. Give the version your spouse would recognize.*
 
-## **Block 4 — Bridge to the Split (7:25–7:28, 3 min)**
+## **Block 4 — Bridge to the Split (4:25–4:28, 3 min)**
 
 ## Script
 
@@ -226,7 +226,7 @@ Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your
 
 *“Family clusters: [name each cluster’s families and its Companion]. Forty minutes. Go.”*
 
-## **Block 5 — Gifts and Downhill in Family Clusters (7:28–8:08, 40 min)**
+## **Block 5 — Gifts and Downhill in Family Clusters (4:28–5:08, 40 min)**
 
 Each family cluster runs in parallel. The structure inside each cluster is identical. (When the whole room stays as one circle — attendance about ten or fewer — the Lead Companion holds this same structure for the room.)
 
@@ -267,7 +267,7 @@ Each family cluster runs in parallel. The structure inside each cluster is ident
 - If a participant surfaces grief (“I realized I have not been doing this for years”), receive without rushing. The grief is part of the recognition. Bless it. Move on gently.
 - Watch the time. The downhill round is the more formative; if you have to compress, compress the gifts inventory, not the downhill.
 
-## **Block 6 — Merge and Surface (8:08–8:13, 5 min)**
+## **Block 6 — Merge and Surface (5:08–5:13, 5 min)**
 
 *This block runs five minutes in the pilot edition — it gave its other five to the Leader Feedback Round (Block 8). Keep the Companion observations to a sentence each.*
 
@@ -283,7 +283,7 @@ Each family cluster runs in parallel. The structure inside each cluster is ident
 
 *“One thing to remember. The downhill mission you named is not a final answer. It is the working draft you are walking in this season. It will deepen. It will sharpen. But what you named tonight is closer to true than the resume version, and the room can witness it.”*
 
-## **Block 7 — Between-Session Practice and Closing-Weeks Logistics (8:13–8:20, 7 min)**
+## **Block 7 — Between-Session Practice and Closing-Weeks Logistics (5:13–5:20, 7 min)**
 
 ## Script
 
@@ -295,11 +295,11 @@ Each family cluster runs in parallel. The structure inside each cluster is ident
 
 *“Second — the road from here. Next Wednesday, Week 15, is the Rhythm week: we build the practices you will carry when the Wednesdays stop, and we finish tonight’s mission work. Then Week 21 is the family commissioning — bring your whole family, even family members who have not been here. Spouses, siblings, grandparents who can come — invite them. And Week 22 is the commissioning of our Companions-in-Formation — the seniors who have been leading us. That one is their night; come to witness it.”*
 
-*“For the Week 21 commissioning: come early. We start at 6:30 that week, not 7:00 — we extend the session by thirty minutes. Light food at 6:00. Details are coming in an email.”*
+*“For the Week 21 commissioning: come early. We start at 3:30 that week, not 4:00 — we extend the session by thirty minutes. Light food at 3:00. Details are coming in an email.”*
 
 *(Adjust the specifics above to your actual closing-weeks plan if it differs.)*
 
-## **Block 8 — The Leader Feedback Round (8:20–8:25, 5 min)**
+## **Block 8 — The Leader Feedback Round (5:20–5:25, 5 min)**
 
 *The evening's leader closes the working part of the evening the same way every week.*
 
@@ -309,7 +309,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## **Block 9 — Closing Container (8:25–8:30, 5 min)**
+## **Block 9 — Closing Container (5:25–5:30, 5 min)**
 
 ## Script
 
@@ -321,7 +321,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Wednesday — 6:30 — with your family.”*
+*“See you Wednesday — 3:30 — with your family.”*
 
 # **One Band, Whole Families: Notes for Teens and Parents**
 

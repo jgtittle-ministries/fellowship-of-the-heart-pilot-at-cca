@@ -125,43 +125,43 @@ Three commitments, copied in spirit from Week 8 and non-negotiable:
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 7:00–7:08 | Block 1: Welcome and opening container | Shared | Leading teen | In Option 2 this is the first half of the marquee: the full Section 5 protocol, from memory. |
-| 7:08–7:14 | Block 2: The mission round | Shared | Leading teen | Week 13’s downhill assignment — one sentence each, optional. A parent opens. |
-| 7:14–7:18 | Block 3: Why tonight — the rotation’s charter | Shared | Leading teen | 1 Timothy 4:12. Nothing new tonight; one more of us leads. |
+| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
+| 4:00–4:08 | Block 1: Welcome and opening container | Shared | Leading teen | In Option 2 this is the first half of the marquee: the full Section 5 protocol, from memory. |
+| 4:08–4:14 | Block 2: The mission round | Shared | Leading teen | Week 13’s downhill assignment — one sentence each, optional. A parent opens. |
+| 4:14–4:18 | Block 3: Why tonight — the rotation’s charter | Shared | Leading teen | 1 Timothy 4:12. Nothing new tonight; one more of us leads. |
 
 ## Option 1 middle — PROAPT in pairs
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 7:18–7:32 | Block 4A: PROAPT walked together — fresh passage | Shared | Leading teen | The marquee. All six steps, timed, from the card. Adults sit back. |
-| 7:32–7:34 | Block 5A: Bridge to pairs | Shared | Leading teen | Family pairs restated. Pray. Move to clusters (or pair in place, ~10 or fewer). |
-| 7:34–8:00 | Block 6A: PROAPT in family pairs | Clusters → pairs | Cluster Comps | Same passage. Two passes, switch at 12 minutes. |
-| 8:00–8:10 | Block 7A: Tell step in the cluster | Clusters | Cluster Comps | One thing heard, one sentence each. A parent opens. |
-| 8:10–8:14 | Block 8A: Merge and between-session | Shared | Leading teen | Daily rhythm continues; the Tell said again at home. |
+| 4:18–4:32 | Block 4A: PROAPT walked together — fresh passage | Shared | Leading teen | The marquee. All six steps, timed, from the card. Adults sit back. |
+| 4:32–4:34 | Block 5A: Bridge to pairs | Shared | Leading teen | Family pairs restated. Pray. Move to clusters (or pair in place, ~10 or fewer). |
+| 4:34–5:00 | Block 6A: PROAPT in family pairs | Clusters → pairs | Cluster Comps | Same passage. Two passes, switch at 12 minutes. |
+| 5:00–5:10 | Block 7A: Tell step in the cluster | Clusters | Cluster Comps | One thing heard, one sentence each. A parent opens. |
+| 5:10–5:14 | Block 8A: Merge and between-session | Shared | Leading teen | Daily rhythm continues; the Tell said again at home. |
 
 ## Option 2 middle — container and cards
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 7:18–7:26 | Block 4B: The round modeled — one card, whole room | Shared | Leading teen | The teen answers their own card first. A parent answers second. |
-| 7:26–7:29 | Block 5B: Bridge to clusters | Shared | Leading teen | Card sets handed to each cluster. Pray. Split. |
-| 7:29–8:04 | Block 6B: Family Conversation Cards in clusters | Clusters | Leading teen + Cluster Comps | Two or three cards per cluster. The teen facilitates their own cluster; Companions mirror the teen’s pattern. |
-| 8:04–8:14 | Block 7B: Merge and between-session | Shared | Leading teen | One-word landings. The deck goes home working: one card this week. |
+| 4:18–4:26 | Block 4B: The round modeled — one card, whole room | Shared | Leading teen | The teen answers their own card first. A parent answers second. |
+| 4:26–4:29 | Block 5B: Bridge to clusters | Shared | Leading teen | Card sets handed to each cluster. Pray. Split. |
+| 4:29–5:04 | Block 6B: Family Conversation Cards in clusters | Clusters | Leading teen + Cluster Comps | Two or three cards per cluster. The teen facilitates their own cluster; Companions mirror the teen’s pattern. |
+| 5:04–5:14 | Block 7B: Merge and between-session | Shared | Leading teen | One-word landings. The deck goes home working: one card this week. |
 
 ## The shared close (both options)
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 8:14–8:20 | Block 9: Closing container | Shared | Leading teen | One-word landing, the one thing, the one practice. |
-| 8:20–8:26 | Block 10: Leader Feedback Round | Shared | Lead Comp | Merged 11.7 order: teen first, adult second, room by the teen’s consent. |
-| 8:26–8:30 | Block 11: Aaronic blessing and sending | Shared | Leading teen | Numbers 6:24–26. Sent. |
+| 5:14–5:20 | Block 9: Closing container | Shared | Leading teen | One-word landing, the one thing, the one practice. |
+| 5:20–5:26 | Block 10: Leader Feedback Round | Shared | Lead Comp | Merged 11.7 order: teen first, adult second, room by the teen’s consent. |
+| 5:26–5:30 | Block 11: Aaronic blessing and sending | Shared | Leading teen | Numbers 6:24–26. Sent. |
 
 # **Block-by-Block: Scripts and Notes**
 
 *The italicized scripts in the teen’s blocks are theirs — written as a model for the dry run, not a cage. The teen should say it in their own words; what is fixed is the shape, the timings, and the handoff rule.*
 
-## **Block 1 — Welcome and Opening Container (7:00–7:08, 8 min)**
+## **Block 1 — Welcome and Opening Container (4:00–4:08, 8 min)**
 
 ## Leading teen’s script
 
@@ -177,7 +177,7 @@ Three commitments, copied in spirit from Week 8 and non-negotiable:
 
 From the teen’s first word, sit back — outside the circle, eyes on the teen, faces warm and unhelpful. The room learns who is leading from where the adults look.
 
-## **Block 2 — The Mission Round (7:08–7:14, 6 min)**
+## **Block 2 — The Mission Round (4:08–4:14, 6 min)**
 
 *Week 13 sent everyone home with one small act aligned with their downhill mission. One round, one sentence each, entirely optional.*
 
@@ -189,7 +189,7 @@ From the teen’s first word, sit back — outside the circle, eyes on the teen,
 
 *“Good. The works were prepared beforehand; we keep walking into them. That assignment doesn’t expire.”*
 
-## **Block 3 — Why Tonight: the Rotation’s Charter (7:14–7:18, 4 min)**
+## **Block 3 — Why Tonight: the Rotation’s Charter (4:14–4:18, 4 min)**
 
 ## Leading teen’s script
 
@@ -199,7 +199,7 @@ From the teen’s first word, sit back — outside the circle, eyes on the teen,
 
 *“The team is here. But the practice is ours now. Here’s tonight.”*
 
-## **Block 4A — PROAPT Walked Together: the Fresh Passage (7:18–7:32, 14 min)** *(Option 1)*
+## **Block 4A — PROAPT Walked Together: the Fresh Passage (4:18–4:32, 14 min)** *(Option 1)*
 
 The marquee block. The teen leads all six steps, timed, from the shared PROAPT card in their hand — the same card the whole room carries, which is itself part of the point. The room works the passage sheet. The adult team does not speak unless the handoff comes.
 
@@ -230,7 +230,7 @@ The teen chooses with the Lead Companion at prep. Some of the room may have met 
 - If the teen freezes, the catch runs the freeze-recovery protocol: count ten, step in at the next one-liner, warm and seamless, offer the lead back at the next step. No flag on the play.
 - The handoff: if any share turns heavy, the teen catches the named adult’s eye and hands it over — and the adult takes it fully, immediately, without making the handoff feel like an alarm. The teen keeps holding the room.
 
-## **Block 5A — Bridge to Pairs (7:32–7:34, 2 min)** *(Option 1)*
+## **Block 5A — Bridge to Pairs (4:32–4:34, 2 min)** *(Option 1)*
 
 ## Leading teen’s script
 
@@ -240,7 +240,7 @@ The teen chooses with the Lead Companion at prep. Some of the room may have met 
 
 *“Pray with me. Father, You’ve already spoken tonight. Speak again in the pairs — something specific, something each of us can hear. Amen. Go.”*
 
-## **Block 6A — PROAPT in Family Pairs (7:34–8:00, 26 min)** *(Option 1)*
+## **Block 6A — PROAPT in Family Pairs (4:34–5:00, 26 min)** *(Option 1)*
 
 As Weeks 7–8: parent and teen from the same family by default; two-parent-two-teen families split into two pairs; a triad works with the third person as the silent-witness reader; a teen whose parent is absent pairs with the Cluster Companion or joins another family’s pair — the teen’s choice, asked quietly before the split.
 
@@ -252,17 +252,17 @@ As Weeks 7–8: parent and teen from the same family by default; two-parent-two-
 - The winter version of the rerun objection: *“We’ve done PROAPT all year.”* — *“Then you know the steps. Tonight isn’t about the steps; it’s about what He says through them tonight. Second hearings are where the specific word comes.”*
 - Slow the rushers; hand early finishers a second passage.
 
-## **Block 7A — Tell Step in the Cluster (8:00–8:10, 10 min)** *(Option 1)*
+## **Block 7A — Tell Step in the Cluster (5:00–5:10, 10 min)** *(Option 1)*
 
 Re-form the family cluster out of pairs. Each participant tells the cluster one thing they heard tonight — one sentence. A parent opens, arranged beforehand; teens choose their own depth; pass-anytime holds. Receive each with *“we hear that”* or *“thank you for naming that”* — brief, no preaching.
 
-## **Block 8A — Merge and Between-Session (8:10–8:14, 4 min)** *(Option 1)*
+## **Block 8A — Merge and Between-Session (5:10–5:14, 4 min)** *(Option 1)*
 
 ## Leading teen’s script
 
 *“Going home with you tonight: the daily rhythm keeps going — the morning question, the journal note, PROAPT one short passage. And one specific ask: the Tell you gave your cluster tonight — say it once more this week at your own table. Pairs, finish anything tonight opened and didn’t close.”*
 
-## **Block 4B — The Round Modeled: One Card, Whole Room (7:18–7:26, 8 min)** *(Option 2)*
+## **Block 4B — The Round Modeled: One Card, Whole Room (4:18–4:26, 8 min)** *(Option 2)*
 
 The teen has already carried the full opening container from memory — the first half of the rep. This block is the second half’s opening move: the teen models the card round before the clusters run it, and models it by going first themselves.
 
@@ -278,11 +278,11 @@ The teen has already carried the full opening container from memory — the firs
 
 *“Three rules for the clusters. The card does the work — nobody coaches, nobody steers. Receive without fixing — when someone tells you something real, the temptation is to improve it; don’t. And ‘I’d rather not take that one tonight’ is a complete answer — we pull a different card.”*
 
-## **Block 5B — Bridge to Clusters (7:26–7:29, 3 min)** *(Option 2)*
+## **Block 5B — Bridge to Clusters (4:26–4:29, 3 min)** *(Option 2)*
 
 Card sets handed to each Cluster Companion. The teen prays and sends the clusters. *(If the room is about ten or fewer, stay as one circle; the teen simply keeps facilitating.)*
 
-## **Block 6B — Family Conversation Cards in Clusters (7:29–8:04, 35 min)** *(Option 2)*
+## **Block 6B — Family Conversation Cards in Clusters (4:29–5:04, 35 min)** *(Option 2)*
 
 Each cluster works two or three cards from the teen’s chosen set — about ten to twelve minutes per card, every voice offered a turn, pass anytime, a parent opening the first card’s round (arranged beforehand). The leading teen facilitates their own family’s cluster — their rep continues — and the Cluster Companions run the other clusters *on the teen’s pattern*, deliberately mirroring the frame the teen set in Block 4B, so the whole room is running the teen’s evening.
 
@@ -293,7 +293,7 @@ Each cluster works two or three cards from the teen’s chosen set — about ten
 - The pass that looks like distress rather than preference: honor the pass, catch the adult’s eye, follow up offline. In the teen’s own cluster this is the bright line in miniature — anything heavy goes to the adult sitting right there, and the teen keeps the round moving.
 - Time: better two cards done well than three done fast. Do not interrupt an honest answer to stay on schedule.
 
-## **Block 7B — Merge and Between-Session (8:04–8:14, 10 min)** *(Option 2)*
+## **Block 7B — Merge and Between-Session (5:04–5:14, 10 min)** *(Option 2)*
 
 ## Leading teen’s script
 
@@ -303,11 +303,11 @@ Each cluster works two or three cards from the teen’s chosen set — about ten
 
 *“Between now and next Wednesday: your family deck comes off the shelf once. One card, any card, ten minutes — the car works, the table works. The deck only helps a family that actually pulls a card. And the daily rhythm keeps going — the morning question, the journal note, PROAPT one short passage.”*
 
-## **Block 9 — Closing Container (8:14–8:20, 6 min)**
+## **Block 9 — Closing Container (5:14–5:20, 6 min)**
 
 The teen runs the closing protocol: the standing circle, the one-word landing (*“one word for what is happening in you right now as we close”*), the one thing (*“one specific thing you are taking from tonight”*), the one practice (each person commits or modifies the between-session practice aloud). Any specific witnessed blessings offered are received; kept short. In Option 2, closing from memory completes the container half of the rep.
 
-## **Block 10 — The Leader Feedback Round (8:20–8:26, 6 min)**
+## **Block 10 — The Leader Feedback Round (5:20–5:26, 6 min)**
 
 *Merged 11.7 order, exactly as Week 8. The Lead Companion runs the round; the leading teen answers first.*
 
@@ -321,7 +321,7 @@ The teen runs the closing protocol: the standing circle, the one-word landing (*
 
 **Then, by the teen’s consent** (*“[Name] — okay to open it to the room?”*): *“Now the room — same two questions about tonight. What went well? What would you do differently?”* Popcorn-style, “for you” language — the room reflects on its own experience, not grading a friend. Two or three voices on each question is plenty. The leaders receive without defending — “thank you” is the whole response. If the teen declines the room’s round, it ends after the adult’s answers — no pressure, no exposure.
 
-## **Block 11 — Aaronic Blessing and Sending (8:26–8:30, 4 min)**
+## **Block 11 — Aaronic Blessing and Sending (5:26–5:30, 4 min)**
 
 ## Leading teen’s script
 

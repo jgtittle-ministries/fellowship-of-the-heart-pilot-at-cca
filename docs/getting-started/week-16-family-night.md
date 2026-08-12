@@ -138,23 +138,23 @@ Tables, not the circle — the one night of the year. Leave one open space near 
 
 # **Detailed Run Sheet**
 
-*Times below assume a 7:00 PM start. Tonight’s table includes the meal — the blocks around it flex a few minutes either way; the 8:20 Leader Feedback Round and the 8:30 close do not.*
+*Times below assume a 4:00 PM start. Tonight’s table includes the meal — the blocks around it flex a few minutes either way; the 5:20 Leader Feedback Round and the 5:30 close do not.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Tables filling | Co-Comp (Teen) | Food received, labeled, staged. Families find their tables from the map. |
-| 7:00–7:07 | Block 1: Welcome and opening container | Standing circle | Lead Comp | Aaronic blessing. Container conditions, briefly. Phones silenced and put away. |
-| 7:07–7:14 | Block 2: Rhythm-noticing round | Standing circle | Lead Comp | One sentence each: where the card held, where it slipped. No fixing. |
-| 7:14–7:18 | Block 3: Acts 2:46 and the table grace | Standing circle | Lead Comp | The verse, thirty seconds of frame, the grace. Then: eat. |
-| 7:18–7:55 | Block 4: The meal | Tables | Everyone | Real food, no agenda. Companions eat as members. Team watches faces, gently. |
-| 7:55–8:15 | Block 5: Cards over dessert | Tables | Table parents (arranged) | Dessert lands; the card stack comes out. 2–3 prompts. Parents answer first. Laughter counts. |
-| 8:15–8:20 | Block 6: Pulse 3 framed and sent home | Whole room (seated) | Lead Comp | H16.1 distributed. One page, three questions, five minutes, back in the bin next Wednesday. No apology. |
-| 8:20–8:25 | Block 7: Leader Feedback Round | Whole room | Lead Comp | Same shape as every week. Leader first, then the room. |
-| 8:25–8:30 | Block 8: Closing container | Standing circle | Lead Comp | One-word landing. Cleanup crew thanked by name. Aaronic blessing. |
+| 3:45–4:00 | Arrival window | Tables filling | Co-Comp (Teen) | Food received, labeled, staged. Families find their tables from the map. |
+| 4:00–4:07 | Block 1: Welcome and opening container | Standing circle | Lead Comp | Aaronic blessing. Container conditions, briefly. Phones silenced and put away. |
+| 4:07–4:14 | Block 2: Rhythm-noticing round | Standing circle | Lead Comp | One sentence each: where the card held, where it slipped. No fixing. |
+| 4:14–4:18 | Block 3: Acts 2:46 and the table grace | Standing circle | Lead Comp | The verse, thirty seconds of frame, the grace. Then: eat. |
+| 4:18–4:55 | Block 4: The meal | Tables | Everyone | Real food, no agenda. Companions eat as members. Team watches faces, gently. |
+| 4:55–5:15 | Block 5: Cards over dessert | Tables | Table parents (arranged) | Dessert lands; the card stack comes out. 2–3 prompts. Parents answer first. Laughter counts. |
+| 5:15–5:20 | Block 6: Pulse 3 framed and sent home | Whole room (seated) | Lead Comp | H16.1 distributed. One page, three questions, five minutes, back in the bin next Wednesday. No apology. |
+| 5:20–5:25 | Block 7: Leader Feedback Round | Whole room | Lead Comp | Same shape as every week. Leader first, then the room. |
+| 5:25–5:30 | Block 8: Closing container | Standing circle | Lead Comp | One-word landing. Cleanup crew thanked by name. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Opening Container (7:00–7:07, 7 min)**
+## **Block 1 — Welcome and Opening Container (4:00–4:07, 7 min)**
 
 ## Script
 
@@ -172,7 +172,7 @@ Tables, not the circle — the one night of the year. Leave one open space near 
 
 Keep the open genuinely short. The room will be smelling the food. A long preamble at a family night teaches the room that the team cannot help itself; a short one teaches that the team meant what it said.
 
-## **Block 2 — Rhythm-Noticing Round (7:07–7:14, 7 min)**
+## **Block 2 — Rhythm-Noticing Round (4:07–4:14, 7 min)**
 
 ## Script
 
@@ -186,7 +186,7 @@ Keep the open genuinely short. The room will be smelling the food. A long preamb
 
 Watch the room during this round — it is tonight’s quiet diagnostic. Who reports a hold with light in their face; who reports a slip with shame in their voice (follow up warmly this week — the Returning Rule from the Rhythm Card is the medicine); who passes. Note it for the debrief, not for the circle.
 
-## **Block 3 — Acts 2:46 and the Table Grace (7:14–7:18, 4 min)**
+## **Block 3 — Acts 2:46 and the Table Grace (4:14–4:18, 4 min)**
 
 ## Script
 
@@ -202,7 +202,7 @@ Watch the room during this round — it is tonight’s quiet diagnostic. Who rep
 
 *“Families with young table-setters and servers, you know who you are — everyone else, find your table. Eat.”*
 
-## **Block 4 — The Meal (7:18–7:55, 37 min)**
+## **Block 4 — The Meal (4:18–4:55, 37 min)**
 
 No agenda. No devotional between courses. No teaching moment. The Companions eat as members of their tables — the fastest way to kill a family night is a team that hovers instead of eats.
 
@@ -213,7 +213,7 @@ No agenda. No devotional between courses. No teaching moment. The Companions eat
 - Keeping the food moving and the allergen cards honest. The food-safety lead owns the serving table.
 - Enjoying the evening. This is not a lesser assignment. A cohort needs to see its Companions laugh at a dinner table, sixteen weeks in, more than it needs one more well-run block.
 
-## **Block 5 — Cards over Dessert (7:55–8:15, 20 min)**
+## **Block 5 — Cards over Dessert (4:55–5:15, 20 min)**
 
 Dessert lands at the tables; the small card stack comes out with it. The Lead Companion frames from wherever they are sitting — standing up breaks the spell.
 
@@ -242,7 +242,7 @@ Dessert lands at the tables; the small card stack comes out with it. The Lead Co
 - If a card finds a tender place at your table, don’t work it at the table. Warmth, a hand on a shoulder, and let the Companions know afterward.
 - Watch the clock loosely; two cards done well beats three done fast.
 
-## **Block 6 — Pulse 3 Framed and Sent Home (8:15–8:20, 5 min)**
+## **Block 6 — Pulse 3 Framed and Sent Home (5:15–5:20, 5 min)**
 
 Handouts pass down the tables while the Lead Companion speaks. This framing is one unhurried minute plus questions; it is not an apology.
 
@@ -254,7 +254,7 @@ Handouts pass down the tables while the Lead Companion speaks. This framing is o
 
 *“Bring it back next Wednesday and drop it in the bin at the door as you come in. Nobody watches the bin, nobody checks names off — the page can be signed or unsigned, your choice, same as always. Five minutes, sometime this week, at your own table.”*
 
-## **Block 7 — The Leader Feedback Round (8:20–8:25, 5 min)**
+## **Block 7 — The Leader Feedback Round (5:20–5:25, 5 min)**
 
 *The evening’s leader closes the working part of the evening the same way every week — yes, even on a dinner night. Especially on a dinner night; the round on an easy evening is what keeps it ordinary.*
 
@@ -262,7 +262,7 @@ Leader: *“Before we close — three things from me, same as every week. What I
 
 Two or three voices on each question is plenty. The leader receives without defending — “thank you” is the whole response. Expect food commentary; take it seriously — next year’s family night is built from tonight’s answers.
 
-## **Block 8 — Closing Container (8:25–8:30, 5 min)**
+## **Block 8 — Closing Container (5:25–5:30, 5 min)**
 
 ## Script
 

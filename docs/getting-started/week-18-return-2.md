@@ -94,23 +94,23 @@ The Thursday Call's look-ahead before Week 18 covers — deliberately shorter th
 
 # **Detailed Run Sheet**
 
-*Times below assume a 7:00 PM start.*
+*Times below assume a 4:00 PM start.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Light and glad. |
-| 7:00–7:08 | Block 1: Opening container | Shared circle | CiF | The full Section 5 protocol, at its usual pace, teen-led. Timing Companion starts discreetly at 7:00. |
-| 7:08–7:17 | Block 2: Not growing weary — Gal. 6:9, Phil. 1:6 | Shared circle | Lead Comp | Brief. The verse the room already owns, now with a break’s proof behind it. |
-| 7:17–7:42 | Block 3: “What held” — the whole room | Shared circle | Lead Comp | One sentence each, full circle, celebratory register. Rough tally kept quietly. |
-| 7:42–8:00 | Block 4: The final stretch — the map | Shared circle | Lead Comp | Whiteboard: Weeks 19–22. The frame: the year now begins to hand itself over. |
-| 8:00–8:07 | Block 5: Between-session practice | Shared circle | Co-Comp (Parent) | Continue the rhythm. The one-sentence Four Questions word, said once, audited never. |
-| 8:07–8:15 | Block 6: Closing container | Shared circle | CiF | Section 5 closing protocol, steps 1–5. |
-| 8:15–8:24 | Block 7: Leader Feedback Round | Shared circle | CiF + Lead Comp | Teen answers first, adult second; then the room. |
-| 8:24–8:30 | Block 8: Aaronic blessing and sending | Shared circle | Lead Comp | Numbers 6:24–26. Send them into the last stretch glad. |
+| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Light and glad. |
+| 4:00–4:08 | Block 1: Opening container | Shared circle | CiF | The full Section 5 protocol, at its usual pace, teen-led. Timing Companion starts discreetly at 4:00. |
+| 4:08–4:17 | Block 2: Not growing weary — Gal. 6:9, Phil. 1:6 | Shared circle | Lead Comp | Brief. The verse the room already owns, now with a break’s proof behind it. |
+| 4:17–4:42 | Block 3: “What held” — the whole room | Shared circle | Lead Comp | One sentence each, full circle, celebratory register. Rough tally kept quietly. |
+| 4:42–5:00 | Block 4: The final stretch — the map | Shared circle | Lead Comp | Whiteboard: Weeks 19–22. The frame: the year now begins to hand itself over. |
+| 5:00–5:07 | Block 5: Between-session practice | Shared circle | Co-Comp (Parent) | Continue the rhythm. The one-sentence Four Questions word, said once, audited never. |
+| 5:07–5:15 | Block 6: Closing container | Shared circle | CiF | Section 5 closing protocol, steps 1–5. |
+| 5:15–5:24 | Block 7: Leader Feedback Round | Shared circle | CiF + Lead Comp | Teen answers first, adult second; then the room. |
+| 5:24–5:30 | Block 8: Aaronic blessing and sending | Shared circle | Lead Comp | Numbers 6:24–26. Send them into the last stretch glad. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Opening Container, Teen-Led (7:00–7:08, 8 min)**
+## **Block 1 — Opening Container, Teen-Led (4:00–4:08, 8 min)**
 
 The Companion-in-Formation runs the full Section 5 opening protocol from memory, at its normal pace — welcome; phones silenced and put away (a simple ask, no collection); stand in the circle; the one-word check-in; put out / bring in; the spoken commitment (“I am here. I am paying attention. I am willing to be moved.”); the opening prayer naming the Holy Spirit; sit. Nothing about the protocol changes because a teen holds it — that is the point, and the room knows it by now.
 
@@ -122,9 +122,9 @@ The Companion-in-Formation runs the full Section 5 opening protocol from memory,
 
 ### **Notes**
 
-The Lead Companion sits where the teen can find their eyes and otherwise stays out of the way. The timing Companion starts at 7:00 and quietly notes the minute the room is truly present. Expect it to be fast tonight; that speed is the year’s work showing, and it goes in the log.
+The Lead Companion sits where the teen can find their eyes and otherwise stays out of the way. The timing Companion starts at 4:00 and quietly notes the minute the room is truly present. Expect it to be fast tonight; that speed is the year’s work showing, and it goes in the log.
 
-## **Block 2 — Not Growing Weary: Galatians 6:9 and Philippians 1:6 (7:08–7:17, 9 min)**
+## **Block 2 — Not Growing Weary: Galatians 6:9 and Philippians 1:6 (4:08–4:17, 9 min)**
 
 Read both aloud from the physical Bible. The teaching is brief — the room already owns the first verse from Week 15; tonight it gets its proof.
 
@@ -150,7 +150,7 @@ Read both aloud from the physical Bible. The teaching is brief — the room alre
 
 • One more thing, and then we read the room: this is the last re-entry of the year. Twice now this cohort has scattered and come back. The first time, in January, we rebuilt the room slowly, on purpose. Look how fast it came back tonight. That speed is not luck. That is what it looks like when the practices stop belonging to the room and start belonging to you.
 
-## **Block 3 — “What Held” — the Whole Room (7:17–7:42, 25 min)**
+## **Block 3 — “What Held” — the Whole Room (4:17–4:42, 25 min)**
 
 No clusters tonight. The full circle, one sentence each, and the register is celebratory — this is a harvest reading, not an examination. The Rhythm Cards built by hand at Week 15 have just crossed their first real gap; the room reads the results together, out loud, quickly, with pleasure.
 
@@ -172,7 +172,7 @@ No clusters tonight. The full circle, one sentence each, and the register is cel
 - A Companion keeps the rough tally quietly: how many sentences reported any daily practice holding through the break. Numbers only; no names travel.
 - If a sentence lands heavy — a slip that is clearly about a hard break, not a busy one — the nearest Companion notes it and follows up at the door. The round does not stop.
 
-## **Block 4 — The Final Stretch: the Map (7:42–8:00, 18 min)**
+## **Block 4 — The Final Stretch: the Map (4:42–5:00, 18 min)**
 
 The commissioning of the room. Whiteboard ready; write the five lines live, unhurried, saying each aloud. The frame sentence — the year now begins to hand itself over — is the teaching; the map is its evidence.
 
@@ -186,7 +186,7 @@ The commissioning of the room. Whiteboard ready; write the five lines live, unhu
 
 *“Week 20 — The Long Walk. The seniors teach the whole room. Your journals come with you — we walk back through the year in them — and we begin gathering the testimonies of what God has done in this room since September.”*
 
-*“Week 21 — Sending and Blessing. Whole families, and a longer evening — two hours, 7:00 to 9:00 — because sending a family takes longer than closing a meeting.”*
+*“Week 21 — Sending and Blessing. Whole families, and a longer evening — two hours, 4:00 to 6:00 — because sending a family takes longer than closing a meeting.”*
 
 *“Week 22 — the Commissioning of the Companions. The seniors this room has watched grow all year are commissioned in front of everybody who watched it happen.”*
 
@@ -199,7 +199,7 @@ The commissioning of the room. Whiteboard ready; write the five lines live, unhu
 - Watch the teens during the map — both kinds. The Companions-in-Formation are hearing their own commissioning named; a specific word of honor at the door tonight lands well. And the teen for whom the ending lands sad gets warmth this week, not correction tonight: the map is doing its work.
 - The two-hour Week 21 notice matters practically — say it plainly, say it once, and have the date visible on the board. Families plan around what they hear twice; it will be repeated at Weeks 19 and 20.
 
-## **Block 5 — Between-Session Practice (8:00–8:07, 7 min)**
+## **Block 5 — Between-Session Practice (5:00–5:07, 7 min)**
 
 ## Script (Co-Companion, Parent)
 
@@ -211,11 +211,11 @@ The commissioning of the room. Whiteboard ready; write the five lines live, unhu
 
 The Four Questions word is one paragraph, spoken to the middle distance, moved past without a pause for reaction. It is a door left ajar, not a knock. If any parent seeks a Companion out afterward — either “I did it” or “I still can’t” — both are the word working; receive, encourage, audit nothing.
 
-## **Block 6 — Closing Container (8:07–8:15, 8 min)**
+## **Block 6 — Closing Container (5:07–5:15, 8 min)**
 
 The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at its usual pace: stand again; the one-word landing (compare to the opening word — the contrast is data); the one thing each person is taking from tonight; the one practice each will actually keep this week (the card, as built); and the blessings — short, specific, witnessed blessings of what someone saw the Father doing in another person tonight. Expect the blessings step to lean toward the seniors tonight; let it.
 
-## **Block 7 — The Leader Feedback Round (8:15–8:24, 9 min)**
+## **Block 7 — The Leader Feedback Round (5:15–5:24, 9 min)**
 
 *The evening’s leader closes the working part of the evening the same way every week.* A teen led the open and close tonight, so the senior answers first, the adult second; the room’s feedback covers them both.
 
@@ -225,7 +225,7 @@ The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at 
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## **Block 8 — Aaronic Blessing and Sending (8:24–8:30, 6 min)**
+## **Block 8 — Aaronic Blessing and Sending (5:24–5:30, 6 min)**
 
 ## Script (Lead Companion)
 
@@ -249,7 +249,7 @@ Same three readings as the prior re-entries, same method, recorded the same nigh
 
 1. **Rhythm survival count.** How many participants reported any daily practice holding through the break — tallied quietly from the one-sentence round. Log the number and the room total, plus the comparison: is survival rising across the year’s breaks? By Week 18 it should be, and visibly — the Week 15 cards were built for exactly this.
 2. **Path Home Card uses.** How many walked back tonight — the team’s best count of real drifts that returned to the room, assembled from observation, never from a hand-raise. Log it with the comparison across the series. A falling number here is not the card failing; paired with a rising survival count, it is the card succeeding.
-3. **Time-to-settled-container.** Minutes from 7:00 until the room was truly present — timed discreetly, same method as before, tonight under a teen-led open. Log the number, the comparison, and one line on what the settling looked like. If the year has worked, this is the number that tells the story in one figure.
+3. **Time-to-settled-container.** Minutes from 4:00 until the room was truly present — timed discreetly, same method as before, tonight under a teen-led open. Log the number, the comparison, and one line on what the settling looked like. If the year has worked, this is the number that tells the story in one figure.
 
 With all three points now in the log, the series goes into the Quarter 4 review as one of the pilot’s cleanest findings: what the formation holds when the container is not holding it, measured at every gap in the year.
 
