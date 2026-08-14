@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room — one for the Lead Companion, one for the Co-Companion team. Glance at it during the session.*
 
-## WEEK 1 — WELCOME TO THE JOURNEY (90 minutes)
+## WEEK 1 — WELCOME TO THE JOURNEY (75 minutes)
 
 **Aim.** Establish the container with this specific cohort, introduce the four Connects as the spine of Getting Started, state the seed plainly and settle what it means to be saved (the thief’s case), and give every participant their first taste of what genuine community feels like.
 
@@ -104,7 +104,7 @@ Do not share with each other. The first sharing happens in the circle.
 - Chairs in a single circle, one per participant. No table in the middle.
 - Name tags + markers (first names only).
 - Personal Heart Journal for each participant. (Distributed at orientation; remind participants to bring tonight.)
-- Welcome packet (one page) — see Handout H1.1.
+- Welcome packet — Handout H1.1 plus a Pre-Series Survey copy for each person in the family (teens and parents each fill their own; spare surveys at the door).
 - Aaronic blessing card — one per family — see Handout H1.2.
 - Flip chart or whiteboard at one edge of the circle. Pre-draw the four Connects diagram (template in Handout H1.1).
 - Large-print Bible (ESV). Read aloud from the physical book, not from a phone.
@@ -122,38 +122,39 @@ If you have more than 24 participants, use two concentric semicircles rather tha
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Final RSVP confirmations; print welcome packets and blessing cards; verify all Personal Heart Journals are distributed. | Lead Comp |
+| Week before | Final RSVP confirmations; print welcome packets (a Pre-Series Survey tucked inside for each person) and blessing cards; verify all Personal Heart Journals are distributed. | Lead Comp |
 | Day before | Walk the room. Confirm name tags, snacks, journals, Bible, board markers, tissues. Phone the pastoral / clinical backup person to confirm availability. | Lead Companion + Co-Comp |
-| T-30 min | All Companions in the room. Pre-draw the four Connects diagram on the board. Set out chairs. Set name tags and markers at the door. Pray together as a team. | All Companions |
-| T-15 min | Door opens. One Co-Companion at the door welcoming, handing out name tags. | Co-Comp (Teen) |
-| T-0 | Begin on time. | Lead Comp |
+| 3:45 | Team stages in the hallway: crate packed (name tags, markers, snacks, handout folders, Bible, tissues), board markers ready. Pray together as a team. | All Companions |
+| 4:00 | School releases the room. The build: chairs to circle, four Connects diagram pre-drawn on the board, name tags at the door. | Team + teen room-build crew |
+| 4:00–4:15 | Families arrive while the room builds — greeted by name at the door. | Co-Comp (Teen) + all |
+| 4:15 | Begin on time. | Lead Comp |
 
-# Detailed 90-Minute Run Sheet
+# Detailed 75-Minute Run Sheet
 
-Times below assume a 4:00 PM start. Adjust to your actual start time but keep the durations.
+Times below assume a 4:15 PM start. School releases the room at 4:00; the first fifteen minutes are the room build, by many hands. Adjust to your actual start time but keep the durations.
 
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
-| 3:30 | Setup. All Companions in the room. Final walk-through. | — | Team | 30 |
-| 3:45 | Door opens. Greet, name tags, light snacks. | Open | Teen Comp | 15 |
-| 4:00 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 5 |
-| 4:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
-| 4:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
-| 4:20 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 15 |
-| 4:35 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 14 |
-| 4:49 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 9 |
-| 4:58 | What does it mean to be saved? — the thief’s case, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 12 |
-| 5:10 | Between-session practice introduced. | Shared | Parent Comp | 4 |
-| 5:14 | Closing container — first full closing protocol. | Shared | Lead Comp | 8 |
-| 5:22 | The Leader Feedback Round — debut. | Shared | Lead Comp | 4 |
-| 5:26 | Aaronic blessing and dismissal. | Shared | Lead Comp | 4 |
+| 4:00 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15 |
+| 4:00 | Families arrive while the room builds — greeted by name; helping hands welcome. Name tags and light snacks from the crate. | Open | All Companions | — |
+| 4:15 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 4 |
+| 4:19 | What this is and isn’t — short framing. | Shared | Lead Comp | 3 |
+| 4:22 | The Four Connects — kitchen-table teaching. | Shared | Lead Comp | 8 |
+| 4:30 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 12 |
+| 4:42 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 13 |
+| 4:55 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 9 |
+| 5:04 | What does it mean to be saved? — the thief’s case, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 11 |
+| 5:15 | Between-session practice introduced. | Shared | Parent Comp | 3 |
+| 5:18 | Closing container — first full closing protocol. | Shared | Lead Comp | 6 |
+| 5:24 | The Leader Feedback Round — debut. | Shared | Lead Comp | 3 |
+| 5:27 | Aaronic blessing and dismissal. | Shared | Lead Comp | 3 |
 | 5:30 | End. Dismissal and cleanup follow. | — | Team | — |
 
 # Block-by-Block Scripts and Notes
 
 Below are the actual words to say (or paraphrase from familiarity) for each block, with what to watch for. Read these aloud in your prep meeting as a team. The first time you say them, they should feel slightly stiff; by Week 3 they will feel like yours.
 
-## Block 1 — Welcome (4:00–4:05, 5 min)
+## Block 1 — Welcome (4:15–4:19, 4 min)
 
 ***Stand at the open of the circle. Wait for full silence.***
 
@@ -169,7 +170,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 (Pause a moment while phones are silenced. The ask is enough — no collecting, no policing.)
 
-## Block 2 — What This Is and Isn’t (4:05–4:10, 5 min)
+## Block 2 — What This Is and Isn’t (4:19–4:22, 3 min)
 
 ## Script
 
@@ -181,7 +182,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 “What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend this year together practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
 
-## Block 3 — The Four Connects, Kitchen-Table Version (4:10–4:20, 10 min)
+## Block 3 — The Four Connects, Kitchen-Table Version (4:22–4:30, 8 min)
 
 **Stand at the whiteboard.** The Four Connects diagram should already be drawn. Walk the cohort through it briefly.
 
@@ -203,7 +204,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 Watch for: teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 
-## Block 4 — Container Introduction — First Full Opening Protocol (4:20–4:35, 15 min)
+## Block 4 — Container Introduction — First Full Opening Protocol (4:30–4:42, 12 min)
 
 This is the most important block of Week 1. Do not rush it.
 
@@ -227,7 +228,7 @@ This is the most important block of Week 1. Do not rush it.
 
 Have the cohort stand. Walk through the eight-step opening container protocol from the Handbook (Section 5). Read aloud or paraphrase from familiarity. Hold each step. Do not rush. The first one-word check-in is the most important moment of Week 1 — if every single person says one word, you have your first win.
 
-## Block 5 — One True Sentence (4:35–4:49, 14 min)
+## Block 5 — One True Sentence (4:42–4:55, 13 min)
 
 ## Script
 
@@ -267,7 +268,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 - Anyone who passes — acknowledge with “Thanks. We’re glad you’re here.” Move on without ceremony.
 - If someone says something heavier than expected (“I’m here because I’m drowning”), do NOT process in the circle. Simple: “Thank you for trusting us with that. We will hold that. Let’s keep going.” Follow up after.
 
-## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (4:49–4:58, 9 min)
+## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (4:55–5:04, 9 min)
 
 ## Script
 
@@ -295,7 +296,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “That is the seed. Every Wednesday of this year, that is what will be landing on the ground of your heart. Which raises a question worth sitting with on our very first night —”
 
-## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (4:58–5:10, 12 min)
+## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (5:04–5:15, 11 min)
 
 Shared circle, Lead Companion holding. A real discussion, not a quiz — the room offers its answers first, and the thief does the correcting. Standing rules apply: parents may answer first to break the ice, nobody is cold-called, every answer is received without grading. *(On screen: the question slide alone — nothing else — until the room has had its say; then the response slide.)*
 
@@ -334,7 +335,13 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 
 *(Two silent minutes. No music, no commentary. Companions write their own first page too — visibly.)*
 
-## Block 8 — Between-Session Practice (5:10–5:14, 4 min)
+### The five questions, offered
+
+*(As the pens settle — thirty seconds, one slide. An offer, never an assignment; if the evening is running long, skip it without loss — the questions are in the journal either way.)*
+
+“And that page doesn’t have to be the only one this week. On the way into this work we ask every family five questions — some of you have met them in a conversation with one of us; some of you are meeting them right now, and that is just as good a door. They’re printed in your journal, right after the where-am-I-with-Jesus page. If you want more than the one practice we’re about to give you: a page per question this week — or a single sentence, whatever is true. Like every page in that journal, nobody reads them but you. They’re there if you want them. The only thing we’ll actually ask of you comes next.”
+
+## Block 8 — Between-Session Practice (5:15–5:18, 3 min)
 
 **Co-Companion (Parent) leads this block.** It is important that the parent Co-Companion introduce this practice, because the parents need to hear that they are doing it too.
 
@@ -348,7 +355,7 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 
 “That’s it. Five minutes morning, one minute evening, every day. Parents, you are doing this too. We’ll check in next week.”
 
-## Block 9 — Closing Container (5:14–5:22, 8 min)
+## Block 9 — Closing Container (5:18–5:24, 6 min)
 
 Walk the cohort through the six-step closing container protocol from the Handbook (Section 5). The first time, this will feel new. By Week 3 it will feel familiar.
 
@@ -360,7 +367,7 @@ Adaptations for Week 1 closing:
 - For blessings, in Week 1, do not press. People do not yet know each other well enough to bless specifically. If anyone does offer one, honor it. If no one does, that is fine.
 - For closing prayer, the Lead Companion prays briefly. 30 seconds, naming the Holy Spirit specifically.
 
-## Block 10 — The Leader Feedback Round (5:22–5:26, 4 min)
+## Block 10 — The Leader Feedback Round (5:24–5:27, 3 min)
 
 *The evening’s leader closes the working part of the evening the same way every week. Tonight is the debut, and the Lead Companion models it on themselves.*
 
@@ -372,7 +379,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room’s energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## Block 11 — Aaronic Blessing and Dismissal (5:26–5:30, 4 min)
+## Block 11 — Aaronic Blessing and Dismissal (5:27–5:30, 3 min)
 
 ## Script
 
@@ -501,6 +508,10 @@ Four ways of living the great commandment (Matthew 22:37–39):
 3. **Connecting with God.** Hearing Him in scripture. Practicing the listening posture as a learnable skill.
 4. **Connecting with Mission.** Walking into the works God prepared for me to do (Ephesians 2:10).
 
+### The page that comes back
+
+Tucked in this packet is the Pre-Series Survey — one per person, about ten minutes at the kitchen table. Bring it back to the basket at the door next week (September 16). Only the Companion team sees it, it is stored securely, and it is never graded; skip anything you would rather not answer.
+
 ### This week’s practice
 
 Each morning, before you check your phone, sit with one question for five minutes:
@@ -550,6 +561,14 @@ Each evening, write one sentence in your journal: what did I notice today?
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Morning question (5 min) — “Father, what are you up to today, and what do you want me to notice?” | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Evening journal note (1 min) — one specific sentence: where did I see God today? | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**Homework, if you want it — five questions for your journal** *(never collected, never read — printed in your journal right after the where-am-I-with-Jesus page)*:
+
+1. What do you sense the Spirit might be doing in you right now?
+2. What’s drawing you toward something like this?
+3. What are you a little afraid of?
+4. What would you NOT want this to be?
+5. Where would you say you are with Jesus — has there been a time you said yes to Him, or is that still an open question?
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
 

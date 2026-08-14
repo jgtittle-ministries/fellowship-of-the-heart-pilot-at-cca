@@ -103,7 +103,7 @@ The goal at every cohort is *integrated* attainment of the target level, not jus
 
 The full twenty-two-week map — one map for the whole club year, with the quarter seams, the re-entries, and the Companion-in-Formation second-runnings built in (see Section 11 for the teen-leadership track this map carries). Detailed lesson plans live in separate documents; this is the architectural view.
 
-**The pilot's clock.** At CCA the club meets **Wednesday afternoons, 4:00–5:30 PM** — the team in the room by 3:30, doors at 3:45. Week 21's family commissioning runs long, 4:00–6:00; Week 22's rite fills the standard slot. Every plan's run sheet is timed to this clock. The scripts still say *tonight* on purpose: most bodies adopting these sessions will meet in the evening — this work's own history is almost all evening rooms — and a leader adapts a word on the fly more easily than a room adapts a clock.
+**The pilot's clock.** At CCA the club meets **Wednesday afternoons, 4:15–5:30 PM** — seventy-five minutes. The school day releases the room at 4:00, so the first fifteen minutes are the **room build**: the team and a teen room-build crew (named each week on the Weekly Run Card — the serving rung, Section 11.8) turn a classroom into the circle while families arrive. Week 21's family commissioning runs long, 4:15–6:15 — the one night that needs the room past 5:30, confirmed with the school ahead of time; Week 22's rite fills the standard slot. Every run sheet is timed to this clock, compressed from the ninety-minute originals by one rule: the edges tightened, and the practices at each evening's center kept every minute — so a body meeting in the evening will find the plans breathe easily back out to ninety. The scripts still say *tonight* on purpose: most bodies adopting these sessions will meet in the evening — this work's own history is almost all evening rooms — and a leader adapts a word on the fly more easily than a room adapts a clock.
 
 | **Wk** | **Title** | **Connect** | **Anchor scripture** | **Key practice** | **Who leads** |
 | --- | --- | --- | --- | --- | --- |
@@ -592,7 +592,7 @@ Two weeks before Week 1, host a 90-minute Family Orientation Night for every com
 | --- | --- |
 | 0:00–0:10 | Arrival, snacks, introductions of Companion team. |
 | 0:10–0:25 | Why we are doing this. The Four Connects, the IJH on-ramp, what Getting Started is for. |
-| 0:25–0:40 | What to expect each week. The 90-minute structure, shared family circles (parents going first), between-session practice, what is and is not appropriate to bring up in the room. |
+| 0:25–0:40 | What to expect each week. The session structure — seventy-five minutes on the pilot's afternoon clock, with the room built by many hands at 4:00 — shared family circles (parents going first), between-session practice, what is and is not appropriate to bring up in the room. |
 | 0:40–1:00 | Container introduction. Walk teens and parents through the opening container protocol. Practice it together once. This is the first time the room feels different. |
 | 1:00–1:15 | Confidentiality covenant. Read aloud, take questions, sign. |
 | 1:15–1:25 | Personal Heart Journal handed out. Walk through Week 1 prep page. |
@@ -624,7 +624,7 @@ Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with opti
 
 | **Instrument** | **What it measures** | **When** |
 | --- | --- | --- |
-| Pre-Series Survey | Current spiritual practice frequency; hopes and expectations for the series. (Participants are not asked to self-score an Affective Taxonomy stage.) | At Family Orientation Night. |
+| Pre-Series Survey | Current spiritual practice frequency; hopes and expectations for the series. (Participants are not asked to self-score an Affective Taxonomy stage.) | At Family Orientation Night — or, when no orientation night fits the runway (the pilot year’s path), home in the Week 1 welcome packet and back at the Week 2 door. |
 | Personal Heart Journal | Longitudinal narrative reflection. Three weekly questions per session, plus the standing teach-back question closing every end-of-week reflection. | Daily / weekly throughout series. |
 | The Quarterly Pulse | Single-page check-in: what is working, what is not, do you want to keep going. | Weeks 6, 11 (the year's midpoint), and 16 — distributed at the close, collected at the next gathering's door. |
 | The three break experiments | What held without the container: practice survival across the break, Path Home Card uses, time-to-settled-container. | At each re-entry — Weeks 7, 12, and 18 — recorded by the team that night; no participant is named in the counts. |
@@ -1191,6 +1191,8 @@ The road from the floor to the dorm has **four rungs**, and naming them keeps an
 2. **Lead it with the team in the room** — the second runnings and the rotation slots, with an adult holding the container's edges. This is FC1, and it forms in this series.
 3. **Lead it with a Companion alongside** — first a whole evening, eventually a whole arc, with an experienced Companion present but silent unless needed. This is the rung the years of reps are for, and nobody should meet the dorm without it.
 4. **Lead it alone, with a covering a call away** — the dorm itself, where the named covering and the referral map do the work the adult in the room used to do.
+
+**And beneath the first rung, a step: the room build.** At CCA the school releases the room at 4:00 and the session opens at 4:15 — those fifteen minutes belong to a small serving crew, teens welcome and named each week on the Weekly Run Card: chairs to circle, crate opened, screen up, families greeted by name. It is real serving with a real deadline, and it is deliberately the lowest-stakes way to taste being *for* the room before ever standing in front of it — the shy teen's on-ramp, the same discovery road as the quiet seat (Section 11.5). Offered, never assigned; noticed, never graded. The programs this series learned from found the same thing: hospitality is where leaders are first discovered — usually by themselves.
 
 So the readiness that matters most for the dorm is not whether they can run the exercises — they can. It is whether they have internalized the boundary and built their own net. The profile below names the eight competencies; the two marked essential are the ones that replace the adults in the room.
 

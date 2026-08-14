@@ -29,11 +29,12 @@ The role names never change; the specifics do. That is what makes the card thirt
 | **Evening's leader** *(adult, or the leading teen by name)* | | |
 | **Adult catch** *(teen-led weeks — rehearsed handoff)* | | |
 | **Door & arrival** | | Greeting, name tags — and the return bin, on Pulse-return weeks |
+| **Room-build crew** *(two or three, teens welcome — the serving rung, Handbook §11.8)* | | 4:00 sharp: chairs to circle, crate opened, screen up |
 | **Cluster Companion A** | | Families: |
 | **Cluster Companion B** | | Families: |
 | **Opens-first parent** *(arranged, never a cold call)* | | Confirmed by: ______ · Pre-briefed by: ______ |
 | **Materials & print** | | Handouts: |
-| **Room & food** | | Chairs by 6:30; snacks — or the meal, Week 16 |
+| **Room & food** | | Crate packed the night before; snacks — or the meal, Week 16 |
 | **Dry run** *(teen-led weeks)* | | With: ______ · Scheduled for: ______ |
 | **Follow-ups carried** *(from the flock list — name → owner → by when)* | | |
 | **Scribe** | | Vital-signs log line + this card, sent before the call ends |

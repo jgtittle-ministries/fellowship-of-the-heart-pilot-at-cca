@@ -51,7 +51,7 @@ The lesson plans are written for the Companion team. They are detailed on purpos
 ## Cadence and logistics
 
 - **Series length.** Getting Started is a twenty-two-week club year; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across two school years.
-- **Session length.** Standard sessions are 90 minutes. Specific commissioning and family-night sessions extend to 120 minutes — flagged in each lesson plan.
+- **Session length.** On the CCA pilot's clock, standard sessions are 75 minutes (Wednesdays 4:15–5:30 PM; the school day releases the room at 4:00 and the first fifteen minutes are the room build). Week 21's family commissioning extends to 6:15 — flagged in its lesson plan. A body meeting in the evening will find the plans breathe easily back out to ninety minutes.
 - **Companion team.** A Lead Companion plus a Co-Companion team. In Getting Started (the v1.4 family-integrated pilot edition), working weeks share opening and teaching whole-room, move into FAMILY CLUSTERS — whole families together, parents first on sharing practices — for the experiential center, and merge for closing. Going Deeper and Going Out retain the split-and-merge structure with age-and-role circles.
 - **Participants.** Parent–teen pairs, individuals, and households. See each series landing page for the specific fit of that series.
 

@@ -123,7 +123,7 @@ The team sends an email to all families one week before Week 21 with the followi
 
 *“Dear families: Next Wednesday is Week 21 — the Family Commissioning. (One gathering follows it: the Week 22 commissioning of our Companions-in-Formation.) Please plan as follows.”*
 
-*“Time: 3:30 PM — light food. 4:00 PM — session begins. 6:00 PM — close.”*
+*“Time: 4:00 PM — arrive; light food while the room readies. 4:15 PM — session begins. 6:15 PM — close.”*
 
 *“Who to bring: every member of your immediate family who is willing and able. Spouses who haven’t been here, siblings who haven’t been here, grandparents who can drive in. The room can hold them.”*
 
@@ -140,7 +140,7 @@ The team sends an email to all families one week before Week 21 with the followi
 3. Print the Daily / Weekly / Monthly Rhythm Card (H21.3).
 4. Print the Going Deeper Bridge sheet (H21.4).
 5. Set the return bin at the door for Post-Series Survey returns (H20.1, distributed at The Long Walk).
-6. Set up light food (water, fruit, simple snacks) for 3:30 PM arrival window.
+6. Set up light food (water, fruit, simple snacks) for the 4:00 PM arrival window — the food table goes up first in the room build.
 7. Set up the room: chairs in a wide single circle large enough for the whole community plus visiting family. Open central space for the commissioning. No table in the middle.
 8. Identify the order of family commissioning — alphabetical or by request. Communicate the order before the night.
 9. Confirm pastoral / clinical backup for the night and the 48 hours after.
@@ -151,7 +151,7 @@ The team sends an email to all families one week before Week 21 with the followi
 
 - Chairs in a single wide circle. Open central space. No table.
 - Personal Heart Journals.
-- Light food: water, fruit, simple snacks for 3:30 PM.
+- Light food: water, fruit, simple snacks for 4:00 PM.
 - Handouts H21.1 (already distributed by Friday) brought back tonight by each family.
 - Handouts H21.2, H21.3, H21.4 stacked at each chair.
 - Tissues distributed throughout the circle, not in one corner.
@@ -168,32 +168,32 @@ The team sends an email to all families one week before Week 21 with the followi
 | 1 week before | Email families with Week 21 logistics. Send H21.1 worksheet by Friday. | Lead Comp |
 | 5 days before | Team meeting 1: run sheet, family review, blessing rehearsal, Going Deeper language. | All Companions |
 | Day before | Team meeting 2: final logistics, family updates, prayer. | All Companions |
-| T-90 min | Team gathers in the room. Final pre-prayer. | All Companions |
-| T-60 min | Set up food. Set up chairs. Place handouts. | All Companions |
-| T-30 min | Door opens. Visiting family welcomed and oriented at the door by a Companion. | All Companions |
-| 3:30–4:00 | Arrival window with light food. | All Companions |
-| 4:00 | Session opens. | Lead Comp |
+| 3:45 | Team stages in the hallway: crate, food, handouts, the order-of-families list. Final pre-prayer. | All Companions |
+| 4:00 | School releases the room. The build: wide circle with open center, food table first, handouts at chairs. | Team + teen room-build crew |
+| 4:00–4:15 | Doors are open as the room builds. Visiting family welcomed and oriented at the door by a Companion. | All Companions |
+| 4:00–4:15 | Arrival window with light food. | All Companions |
+| 4:15 | Session opens. | Lead Comp |
 
 # **Detailed 120-Minute Run Sheet**
 
-*Times below assume a 4:00 PM start. The session is extended by 30 minutes to accommodate the commissioning. Hold to time — the closing matters more than running long.*
+*Times below assume a 4:15 PM start; school releases the room at 4:00 and the food table goes up as the room builds. The session is extended to 6:15 to hold the commissioning without hurry — this is the one night that needs the room past 5:30; confirm the extension with the school well ahead. Hold to time — the closing matters more than running long.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:30–4:00 | Arrival window with food | Open mingling | All Companions | Visiting family welcomed at door, oriented, paired with familiar Companion. |
-| 4:00–4:15 | Block 1: Welcome and integration teaching | Shared circle | Lead Comp | Aaronic blessing. Frame the night. Brief integration teaching: the four Connects, what we have done. |
-| 4:15–4:25 | Block 2: Brief blessing rehearsal | Shared circle | Lead Comp | Walk the form aloud. Two Companions demo a brief commissioning. Q&A from families. |
-| 4:25–4:35 | Block 3: Reading and prayer | Shared circle | Lead Comp | Read Numbers 6 and Philippians 1:6. Pray over the commissioning to come. |
-| 4:35–5:30 | Block 4: Family commissionings | Shared circle, central space | Lead Companion + Co-Comp | Each family in turn. Parent and teen stand center. Each speaks blessing. Community speaks Aaronic over family. ~5–7 min per family. |
-| 5:30–5:40 | Block 5: Final reflection circle | Shared circle | Lead Comp | Each person, going around: one takeaway, one next commitment. ~30 sec each, brisk. A parent opens, pre-arranged. |
-| 5:40–5:50 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H21.3 and H21.4. Remind: Post-Series Survey returns to the bin tonight, or emailed this week. |
-| 5:50–5:55 | Block 7: The Leader Feedback Round | Shared circle | Lead Comp | Two questions from the leader, then the room. May well be dropped tonight — see the block note. |
-| 5:55–6:00 | Block 8: Final blessing and sending | Shared circle | Lead Comp | Whole community speaks Aaronic blessing over the whole community. Sending. End. |
-| 6:00+ | After: lingering, gratitude, food | Open | All Companions | Stay. People will need to talk. Some will not leave for an hour. |
+| 4:00–4:15 | Arrival window with food while the room builds | Open mingling | All Companions | Visiting family welcomed at door, oriented, paired with familiar Companion. |
+| 4:15–4:30 | Block 1: Welcome and integration teaching | Shared circle | Lead Comp | Aaronic blessing. Frame the night. Brief integration teaching: the four Connects, what we have done. |
+| 4:30–4:40 | Block 2: Brief blessing rehearsal | Shared circle | Lead Comp | Walk the form aloud. Two Companions demo a brief commissioning. Q&A from families. |
+| 4:40–4:50 | Block 3: Reading and prayer | Shared circle | Lead Comp | Read Numbers 6 and Philippians 1:6. Pray over the commissioning to come. |
+| 4:50–5:45 | Block 4: Family commissionings | Shared circle, central space | Lead Companion + Co-Comp | Each family in turn. Parent and teen stand center. Each speaks blessing. Community speaks Aaronic over family. ~5–7 min per family. |
+| 5:45–5:55 | Block 5: Final reflection circle | Shared circle | Lead Comp | Each person, going around: one takeaway, one next commitment. ~30 sec each, brisk. A parent opens, pre-arranged. |
+| 5:55–6:05 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H21.3 and H21.4. Remind: Post-Series Survey returns to the bin tonight, or emailed this week. |
+| 6:05–6:10 | Block 7: The Leader Feedback Round | Shared circle | Lead Comp | Two questions from the leader, then the room. May well be dropped tonight — see the block note. |
+| 6:10–6:15 | Block 8: Final blessing and sending | Shared circle | Lead Comp | Whole community speaks Aaronic blessing over the whole community. Sending. End. |
+| 6:15+ | After: lingering, gratitude, food | Open | All Companions | Stay. People will need to talk. Some will not leave for an hour. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Integration Teaching (4:00–4:15, 15 min)**
+## **Block 1 — Welcome and Integration Teaching (4:15–4:30, 15 min)**
 
 The room is fuller than it has been all of Getting Started. Visiting family members are present. The Lead Companion opens with care for the new and continuity for the old.
 
@@ -213,7 +213,7 @@ The room is fuller than it has been all of Getting Started. Visiting family memb
 
 *“If you are new tonight: you may not have words for what has been done in this room over these twenty Wednesdays. That is fine. Tonight your job is to bear witness. Your presence is the gift.”*
 
-## **Block 2 — Brief Blessing Rehearsal (4:15–4:25, 10 min)**
+## **Block 2 — Brief Blessing Rehearsal (4:30–4:40, 10 min)**
 
 Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from families. The goal is to lower the activation energy for parents and teens who have never spoken a blessing aloud before.
 
@@ -241,7 +241,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 *Watch for: do not over-explain. The form is on the worksheet. The demo just modeled it. Trust the room.*
 
-## **Block 3 — Reading and Prayer (4:25–4:35, 10 min)**
+## **Block 3 — Reading and Prayer (4:40–4:50, 10 min)**
 
 ## Script (the read)
 
@@ -265,7 +265,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 *“Pray with me. Father, you have walked with us across these twenty Wednesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every family in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
 
-## **Block 4 — Family Commissionings (4:35–5:30, 55 min)**
+## **Block 4 — Family Commissionings (4:50–5:45, 55 min)**
 
 This is the heart of the night. Each family in turn. The Lead Companion calls families forward; the Co-Companion helps with timing and transitions. Approximately five to seven minutes per family, depending on the number of families. Do not rush; do not run long.
 
@@ -298,7 +298,7 @@ This is the heart of the night. Each family in turn. The Lead Companion calls fa
 
 With 55 minutes for commissioning and approximately 6 minutes per family, the room can hold 8–9 family commissionings. If you have more families, lengthen Block 4 by 10–15 minutes, shorten Blocks 5 and 6, and drop the Leader Feedback Round — its drop clause exists for exactly this kind of night. If fewer, add a brief silence or a brief reading at the end of Block 4 to honor the space.
 
-## **Block 5 — Final Reflection Circle (5:30–5:40, 10 min)**
+## **Block 5 — Final Reflection Circle (5:45–5:55, 10 min)**
 
 After all family commissionings, the room is full of feeling. The reflection circle is a way to land what was named in front of witnesses, family by family, in personal language.
 
@@ -314,7 +314,7 @@ After all family commissionings, the room is full of feeling. The reflection cir
 
 *(Cluster Companions go first to model. Then a parent opens for the families — arranged with that parent before the session, never a cold call on a teen; teens choose their own depth after, and pass-anytime holds. Then around the circle, briskly. Lead Companion listens; receives without commentary; eye contact; slight nod. Do not summarize.)*
 
-## **Block 6 — Rhythm Card and Going Deeper Bridge (5:40–5:50, 10 min)**
+## **Block 6 — Rhythm Card and Going Deeper Bridge (5:55–6:05, 10 min)**
 
 After the reflection, walk the long-term practice and bridge to Going Deeper. Brief, warm, no pressure. Remind the room about the Post-Series Survey (distributed at The Long Walk): the bin at the door tonight, or email this week.
 
@@ -328,7 +328,7 @@ After the reflection, walk the long-term practice and bridge to Going Deeper. Br
 
 *“Three: the Post-Series Survey. You received it at The Long Walk. If yours is in your pocket, the bin at the door is waiting; if it is at home, complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
 
-## **Block 7 — The Leader Feedback Round (5:50–5:55, 5 min)**
+## **Block 7 — The Leader Feedback Round (6:05–6:10, 5 min)**
 
 *The evening's leader closes the working part of the evening the same way every week — and on purpose, before the final blessing, so the commissioning's sacred close remains the last word of the night.*
 
@@ -340,7 +340,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room's energy needs something else — and on a commissioning night they may well: the ceremony itself is often the something-else the energy needs. Dropping it twice running goes to the team debrief.)*
 
-## **Block 8 — Final Blessing and Sending (5:55–6:00, 5 min)**
+## **Block 8 — Final Blessing and Sending (6:10–6:15, 5 min)**
 
 The last five minutes. The whole community speaks the Aaronic blessing over the whole community. The families are sent; Week 22's commissioning of the Companions remains.
 
@@ -384,7 +384,7 @@ Parents and teens are together for the family commissioning — the whole room a
 
 - Some teens are in the program with a non-participating parent. Pre-discuss whether the parent will come tonight; if they do, brief them carefully and warmly.
 - If the non-participating parent attends only tonight, the teen still speaks a blessing over the parent. The parent’s reciprocal blessing may be brief or extemporaneous; that is fine.
-- The Lead Companion may need to coach the non-participating parent more closely — a short script or rehearsal at the door before 4:00.
+- The Lead Companion may need to coach the non-participating parent more closely — a short script or rehearsal at the door before 4:15.
 
 ## **Teens whose parent will not be present**
 
@@ -600,7 +600,7 @@ Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-t
 
 ### **Logistics**
 
-- Start: [date], 4:00 PM.
+- Start: [date], 4:15 PM.
 - Location: Covenant Christian Academy of Warrenton.
 - Length: twelve Wednesdays.
 - Cost: [as designed]. Scholarships available; ask.

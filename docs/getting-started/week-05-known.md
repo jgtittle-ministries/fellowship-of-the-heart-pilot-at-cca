@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room — one for the Lead Companion, one for the Co-Companion team.*
 
-## WEEK 5 — KNOWING AND BEING KNOWN (90 minutes)
+## WEEK 5 — KNOWING AND BEING KNOWN (75 minutes)
 
 **Aim.** Move from Self into Others as the dominant Connect. The container we have been building is the teacher — we now examine what makes this room different from the rest of life and where each of those conditions shows up (or doesn’t) in our actual friendships.
 
@@ -124,31 +124,32 @@ The Thursday Call's look-ahead before Week 5 covers:
 | --- | --- | --- |
 | Week before | Print all handouts. Confirm cluster assignments and the opening parent for each cluster. Confirm pastoral / clinical backup. | Lead Comp |
 | Day before | Walk every space. Verify whiteboard condition list is pre-written. | Lead Companion + Co-Comp |
-| T-45 min | Team gathers. Re-read crisis scenarios. Pray for each participant. | All Companions |
-| T-30 min | Each Cluster Companion preps their cluster space. Handouts at each chair. | All Companions |
-| T-15 min | Door opens. Same arrival rhythm. | Co-Comp (Teen) |
-| T-0 | Doors close. Lead Companion opens. | Lead Comp |
+| Before 4:00 | Team gathers. Re-read crisis scenarios. Pray for each participant. | All Companions |
+| 4:00 | Each Cluster Companion preps their cluster space. Handouts at each chair. | All Companions |
+| 4:00 | Door opens. Same arrival rhythm. | Co-Comp (Teen) |
+| 4:15 | Doors close. Lead Companion opens. | Lead Comp |
 
-# Detailed 90-Minute Run Sheet
+# Detailed 75-Minute Run Sheet
 
-*Times below assume a 4:00 PM start. Adjust if your start time differs.*
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 4:00–4:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
-| 4:10–4:15 | Block 2: Week 4 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional; an arranged parent opens. |
-| 4:15–4:30 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
-| 4:30–4:32 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
-| 4:32–5:00 | Block 5: Friendship-mapping exercise | Family clusters | Cluster Comps | Each cluster works through the four conditions in their friendships. |
-| 5:00–5:10 | Block 6: Merge and surface common patterns | Shared circle | Lead Comp | Surface what came up generally. No names. Brief. |
-| 5:10–5:20 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Pick one friendship; pick one condition; practice it this week. |
-| 5:20–5:25 | Block 8: The Leader Feedback Round | Shared circle | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
+| 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card). | — | Team + crew | Chairs to circle, crate opened, handout folders out, screen up. |
+| 4:00–4:15 | Families arrive while the room builds. | Open | All Companions | Greeted by name; helping hands welcome. |
+| 4:15–4:23 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
+| 4:23–4:28 | Block 2: Week 4 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional; an arranged parent opens. |
+| 4:28–4:42 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
+| 4:42–4:43 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
+| 4:43–5:11 | Block 5: Friendship-mapping exercise | Family clusters | Cluster Comps | Each cluster works through the four conditions in their friendships. |
+| 5:11–5:18 | Block 6: Merge and surface common patterns | Shared circle | Lead Comp | Surface what came up generally. No names. Brief. |
+| 5:18–5:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Pick one friendship; pick one condition; practice it this week. |
+| 5:21–5:25 | Block 8: The Leader Feedback Round | Shared circle | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
 | 5:25–5:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm container. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (4:00–4:10, 10 min)
+## Block 1 — Welcome and Centering (4:15–4:23, 8 min)
 
 ## Script
 
@@ -164,7 +165,7 @@ The Thursday Call's look-ahead before Week 5 covers:
 
 *“Container reminders, briefly. What is said here stays here. Nothing is required. We listen to receive, not to fix.”*
 
-## Block 2 — Week 4 Check-in (4:10–4:15, 5 min)
+## Block 2 — Week 4 Check-in (4:23–4:28, 5 min)
 
 A parent — arranged before the session — offers the first sentence, so no teen opens cold.
 
@@ -174,7 +175,7 @@ A parent — arranged before the session — offers the first sentence, so no te
 
 *(Take 3–4 voluntary contributions. Receive without commentary. Move on with: “Good. Some of that work continues whether or not we got to it this week.”)*
 
-## Block 3 — The Four Conditions: Teaching (4:15–4:30, 15 min)
+## Block 3 — The Four Conditions: Teaching (4:28–4:42, 14 min)
 
 Stand at the whiteboard. The four conditions are pre-written. Read the scripture, then walk through each condition for two to three minutes. Lightly — the cluster exercise will do the depth work.
 
@@ -212,7 +213,7 @@ Stand at the whiteboard. The four conditions are pre-written. Read the scripture
 
 *“Intentional means: I came in here on purpose, watching for what God is doing, willing to do whatever He shows me. Jesus modeled this when He said the Son does only what He sees the Father doing. (John 5:19.) The opposite is coming in with a list of things I will not consider. A friendship where one or both people have non-negotiable lines on what they will hear from each other isn’t the kind of friendship Solomon is describing.”*
 
-## Block 4 — Bridge to the Split (4:30–4:32, 2 min)
+## Block 4 — Bridge to the Split (4:42–4:43, 1 min)
 
 ## Script
 
@@ -224,11 +225,11 @@ Stand at the whiteboard. The four conditions are pre-written. Read the scripture
 
 *“Pray with me. Father, you have set us in community on purpose. Show us where the work has begun in our friendships and where it hasn’t. Give us the courage to see what we have been quietly avoiding. And show us one specific way to live what we see, this week. Amen.”*
 
-*“Each family to your cluster — same rooms as the last two weeks. Twenty-eight minutes. We come back here at 5:00. Go.”*
+*“Each family to your cluster — same rooms as the last two weeks. Twenty-eight minutes. We come back here at 5:11. Go.”*
 
 *(If the whole room is ten or fewer tonight, say instead: “We’re staying right here — one circle, same exercise, same rules.”)*
 
-## Block 5 — Friendship-Mapping in Family Clusters (4:32–5:00, 28 min)
+## Block 5 — Friendship-Mapping in Family Clusters (4:43–5:11, 28 min)
 
 Each cluster runs in parallel. The structure inside each cluster is identical. The Cluster Companion goes first on each condition, briefly, to model; the arranged parent opens the round after them.
 
@@ -259,9 +260,9 @@ Each cluster runs in parallel. The structure inside each cluster is identical. T
 
 ### After all four conditions
 
-If you finish before 5:00, ask one quiet final question: “Of the four conditions, which one is the one I find hardest to offer to my friends? Not lacking from them — hardest to offer.” Two minutes of silent reflection. No discussion. Then walk back to the main room together.
+If you finish before 5:11, ask one quiet final question: “Of the four conditions, which one is the one I find hardest to offer to my friends? Not lacking from them — hardest to offer.” Two minutes of silent reflection. No discussion. Then walk back to the main room together.
 
-## Block 6 — Merge and Surface Common Patterns (5:00–5:10, 10 min)
+## Block 6 — Merge and Surface Common Patterns (5:11–5:18, 7 min)
 
 ## Script
 
@@ -275,7 +276,7 @@ If you finish before 5:00, ask one quiet final question: “Of the four conditio
 
 *“What I notice across the clusters is \_\_\_\_\_. (Speak truth, briefly. ‘Most of us in this room are quicker to name what is missing from our friendships than what we ourselves don’t offer.’ Or whatever the actual observation is.) That is real, and it is the seed of the practice this week.”*
 
-## Block 7 — Between-Session Practice (5:10–5:20, 10 min)
+## Block 7 — Between-Session Practice (5:18–5:21, 3 min)
 
 ## Script
 
@@ -289,7 +290,7 @@ If you finish before 5:00, ask one quiet final question: “Of the four conditio
 
 *“Your Personal Heart Journal has Week 5 pages with prompts. The handout in your folder — H5.5 — has the practice in writing.”*
 
-## Block 8 — The Leader Feedback Round (5:20–5:25, 5 min)
+## Block 8 — The Leader Feedback Round (5:21–5:25, 4 min)
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 

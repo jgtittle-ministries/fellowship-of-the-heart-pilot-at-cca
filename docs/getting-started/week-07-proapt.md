@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. After Week 6’s weight, this session is a deliberate exhale and a turn outward toward God.*
 
-## WEEK 7 — HEARING GOD IN SCRIPTURE (90 minutes)
+## WEEK 7 — HEARING GOD IN SCRIPTURE (75 minutes)
 
 **Aim.** Introduce PROAPT — Pray, Read, Observe, Apply, Pray again, Tell — as the most accessible practice for hearing God in scripture. Move from Self and Others into God.
 
@@ -133,29 +133,32 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 | --- | --- | --- |
 | Week before | Confirm passage. Print all handouts. | Lead Comp |
 | Day before | Lead Companion PROAPTs the passage. Walks the room. | Lead Comp |
-| T-30 min | All Companions in room. PRAY through the passage as a team — modeling Pray step. | All Companions |
-| T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
+| T-30 min | All Companions gather (the room opens at 4:00). PRAY through the passage as a team — modeling Pray step. | All Companions |
+| T-15 min | School day ends. Team + teen room-build crew build the room; families arrive while it builds. | Team + crew |
 | T-0 | Doors close. Open. | Lead Comp |
 
-# **Detailed 90-Minute Run Sheet**
+# **Detailed 75-Minute Run Sheet**
+
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | First arrival after the quarter break. Pulse 1 returns collected in the bin at the door. |
-| 4:00–4:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Container re-held slowly after the break. Frame Week 7 as a turn. |
-| 4:08–4:13 | Block 2: Re-entry check-in | Shared | Lead Comp | How did the break treat you and your practice? How is the Examen landing? |
-| 4:13–4:23 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
-| 4:23–4:35 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole room works Mark 1:14–20 step by step. 12 minutes. |
-| 4:35–4:37 | Block 5: Bridge to the clusters and pair structure | Shared | Lead Comp | Family pairs explained. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
-| 4:37–5:02 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | Each family pair PROAPTs one passage together. Switch reader/listener at the halfway mark. |
-| 5:02–5:12 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells their cluster ONE thing they heard. A parent opens (arranged beforehand). |
-| 5:12–5:17 | Block 8: Merge and between-session | Shared | Lead Companion + Co-Comp | One word each (a parent begins). Daily PROAPT introduced. |
-| 5:17–5:22 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Two questions from the leader, then the room. Same every week. |
-| 5:22–5:30 | Block 10: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
+| 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15-minute build window. |
+| 4:00–4:15 | Families arrive while the room builds — greeted by name; helping hands welcome. | Open | All Companions | First arrival after the quarter break. Pulse 1 returns collected in the bin at the door. |
+| 4:15–4:22 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Container re-held slowly after the break. Frame Week 7 as a turn. |
+| 4:22–4:26 | Block 2: Re-entry check-in | Shared | Lead Comp | How did the break treat you and your practice? How is the Examen landing? |
+| 4:26–4:33 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
+| 4:33–4:45 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole room works Mark 1:14–20 step by step. 12 minutes. |
+| 4:45–4:46 | Block 5: Bridge to the clusters and pair structure | Shared | Lead Comp | Family pairs explained. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
+| 4:46–5:11 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | Each family pair PROAPTs one passage together. Switch reader/listener at the halfway mark. |
+| 5:11–5:17 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells their cluster ONE thing they heard. A parent opens (arranged beforehand). |
+| 5:17–5:20 | Block 8: Merge and between-session | Shared | Lead Companion + Co-Comp | One word each (a parent begins). Daily PROAPT introduced. |
+| 5:20–5:23 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Two questions from the leader, then the room. Same every week. |
+| 5:23–5:30 | Block 10: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (4:00–4:08, 8 min)**
+## **Block 1 — Welcome and Centering (4:15–4:22, 7 min)**
 
 *(Week 7 opens Quarter 2 — the first gathering after the year's first break. Blocks 1 and 2 together are a deliberate re-entry: run the container restatement slower than usual and let the check-in breathe. The team collects the Pulse 1 returns at the door, and — at this first re-entry — discreetly notes the first round of the three break experiments: practice survival across the break, Path Home Card uses, and time-to-settled-container (Handbook Section 8). The Return in January runs the same readings at full length.)*
 
@@ -167,7 +170,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“Here is the move. We have done the interior work — Heart Soil, story, friendship audit, naming the place. All of that prepares us for what we are going to practice tonight: hearing God in scripture as a learnable skill. Not a mystical thing reserved for special people. A practice. With six steps. That works.”*
 
-## **Block 2 — Week 6 Check-in (4:08–4:13, 5 min)**
+## **Block 2 — Week 6 Check-in (4:22–4:26, 4 min)**
 
 ## Script
 
@@ -177,7 +180,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“For anyone whose Week 6 is still sitting heavy — the break does not close that door. The team is here. Find one of us before you leave tonight if you need to.”*
 
-## **Block 3 — Romans 10:17 and the Hearing Chain (4:13–4:23, 10 min)**
+## **Block 3 — Romans 10:17 and the Hearing Chain (4:26–4:33, 7 min)**
 
 Read Romans 10:17 aloud. Slow. The teaching is short.
 
@@ -199,7 +202,7 @@ Read Romans 10:17 aloud. Slow. The teaching is short.
 
 • We are going to walk through the whole thing together first, with one passage. Mark 1:14–20 — the calling of the first disciples. Then we will move into our family clusters and work the same passage in pairs — parent and teen from the same family — with the Tell step shared in the cluster. (If the room is small tonight, we simply stay as one circle and pair up right here.) The whole thing tonight is one passage in two passes, so you can feel how it works. By next Wednesday each of you will have done seven passes on your own.
 
-## **Block 4 — PROAPT Walked Together (4:23–4:35, 12 min)**
+## **Block 4 — PROAPT Walked Together (4:33–4:45, 12 min)**
 
 This is the most important teaching block of the night. Walk the whole room through Mark 1:14–20 step by step. Each step gets about 90 seconds, with everyone working their handout (H7.2).
 
@@ -217,7 +220,7 @@ This is the most important teaching block of the night. Walk the whole room thro
 
 **TELL (60 sec). “Final step is Tell. We’ll do that in your family cluster in a few minutes. The Tell step is the one most often skipped and the one that does the most work for long-term hearing. Hearing solidified by being spoken aloud has a different staying power than hearing kept private.”**
 
-## **Block 5 — Bridge to the Clusters and Pair Structure (4:35–4:37, 2 min)**
+## **Block 5 — Bridge to the Clusters and Pair Structure (4:45–4:46, 1 min)**
 
 ## Script
 
@@ -231,7 +234,7 @@ This is the most important teaching block of the night. Walk the whole room thro
 
 *“Pray. Holy Spirit, you have been good to us tonight already. Show up in these pairs. Say something to each of us we can hear. Amen. Go.”*
 
-## **Block 6 — PROAPT in Family Pairs (4:37–5:02, 25 min)**
+## **Block 6 — PROAPT in Family Pairs (4:46–5:11, 25 min)**
 
 Each family cluster settles into pairs — parent and teen from the same family by default. The Cluster Companion completes any odd numbers across families within the cluster.
 
@@ -253,7 +256,7 @@ Each family cluster settles into pairs — parent and teen from the same family 
 - If a pair finishes early — “Do it again with another passage. PROAPT is a daily practice. Get reps.”
 - If a pair surfaces something heavy — honor it. Brief acknowledgment. Follow up after the evening closes.
 
-## **Block 7 — Tell Step in the Cluster (5:02–5:12, 10 min)**
+## **Block 7 — Tell Step in the Cluster (5:11–5:17, 6 min)**
 
 Re-form into the family cluster (out of pairs). Each participant tells the cluster ONE thing they heard tonight. Brief, specific, witnessed. A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.
 
@@ -267,7 +270,7 @@ Re-form into the family cluster (out of pairs). Each participant tells the clust
 
 **Closing of the cluster (1 min). Cluster Companion: “What we heard tonight is not just for us — it is given to us to walk out. Take what you heard with you this week.”**
 
-## **Block 8 — Merge and Between-Session (5:12–5:17, 5 min)**
+## **Block 8 — Merge and Between-Session (5:17–5:20, 3 min)**
 
 ## Script
 
@@ -281,7 +284,7 @@ Re-form into the family cluster (out of pairs). Each participant tells the clust
 
 *“One passage. Five to ten minutes. Every day. The chain only works if we work it.”*
 
-## **Block 9 — The Leader Feedback Round (5:17–5:22, 5 min)**
+## **Block 9 — The Leader Feedback Round (5:20–5:23, 3 min)**
 
 *The evening's leader closes the working part of the evening the same way every week.*
 
@@ -291,7 +294,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## **Block 10 — Closing Container (5:22–5:30, 8 min)**
+## **Block 10 — Closing Container (5:23–5:30, 7 min)**
 
 ## Script
 

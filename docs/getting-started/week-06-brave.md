@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. This is the second-highest-risk session after Weeks 3–4. Read the Crisis Contingencies before walking in.*
 
-## WEEK 6 — SAFE AND BRAVE TOGETHER (90 minutes)
+## WEEK 6 — SAFE AND BRAVE TOGETHER (75 minutes)
 
 **Aim.** Introduce confession-and-restoration as a community practice from James 5:16. Each participant identifies one place where they want to walk in greater honesty and receives a spoken blessing of restoration. We are not probing for sins; we are practicing the architecture of confession.
 
@@ -144,7 +144,7 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 - Tissues in every space.
 - Large-print Bible (ESV).
 - Crisis Quick-Reference Card in every Companion pocket.
-- Pastoral / clinical backup on call from 3:30 PM through 8:00 PM.
+- Pastoral / clinical backup on call from 4:00 PM through 8:00 PM.
 
 ### Pre-session preparation timeline
 
@@ -152,33 +152,34 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 | --- | --- | --- |
 | Week before | Print all handouts. Pre-brief every parent; arrange the opening parent per cluster. Confirm cluster spaces and backup availability. | Lead Comp + Cluster Comps |
 | Day before | Walk every space. Phone the pastoral / clinical backup person. | Lead Companion + Co-Comp |
-| T-90 min | Team meets in main room. Pray for each participant by name. Each Companion says aloud what they will name in their demo. | All Companions |
-| T-30 min | Each Cluster Companion sets up cluster space. Tissues out. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
-| T-0 | Doors close. Open. | Lead Comp |
+| Before 4:00 | Team meets in main room. Pray for each participant by name. Each Companion says aloud what they will name in their demo. | All Companions |
+| 4:00 | Each Cluster Companion sets up cluster space. Tissues out. | All Companions |
+| 4:00 | Door opens. | Co-Comp (Teen) |
+| 4:15 | Doors close. Open. | Lead Comp |
 
-# Detailed 90-Minute Run Sheet
+# Detailed 75-Minute Run Sheet
 
-*Times below assume 4:00 PM start.*
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Same arrival rhythm. |
-| 4:00–4:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
-| 4:08–4:12 | Block 2: Wk 5 check-in | Shared | Lead Comp | Brief: how did the friendship practice land? |
-| 4:12–4:25 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
-| 4:25–4:30 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of the room. |
-| 4:30–4:32 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Parents-first named. Pray. Split. |
-| 4:32–5:05 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
-| 5:05–5:13 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 5:13–5:18 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse (H6.3) distributed — Quarter 1 closes tonight. |
-| 5:18–5:23 | Block 9: The Leader Feedback Round | Shared | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
+| 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card). | — | Team + crew | Chairs to circle, crate opened, handout folders out, screen up. |
+| 4:00–4:15 | Families arrive while the room builds. | Open | All Companions | Greeted by name; helping hands welcome. |
+| 4:15–4:22 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
+| 4:22–4:26 | Block 2: Wk 5 check-in | Shared | Lead Comp | Brief: how did the friendship practice land? |
+| 4:26–4:34 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
+| 4:34–4:39 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of the room. |
+| 4:39–4:40 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Parents-first named. Pray. Split. |
+| 4:40–5:13 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
+| 5:13–5:17 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
+| 5:17–5:20 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse (H6.3) distributed — Quarter 1 closes tonight. |
+| 5:20–5:23 | Block 9: The Leader Feedback Round | Shared | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
 | 5:23–5:30 | Block 10: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 5:30+ | After: pastoral availability | Floating | Lead Comp | Stay accessible at least ten minutes. This night produces door conversations. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (4:00–4:08, 8 min)
+## Block 1 — Welcome and Centering (4:15–4:22, 7 min)
 
 ## Script
 
@@ -190,7 +191,7 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 
 *“Here is what we are going to do. Each of us, in our family cluster, will name one place where we want to walk in greater honesty. Not the whole sin. The place. The pattern. The pull. And then our circle will speak a specific blessing of restoration over us. The whole thing takes about three minutes per person. And the parents will go first — on purpose. Teens, you choose your own depth, and the pass is always real. The Spirit does the work; we hold the space.”*
 
-## Block 2 — Week 5 Check-in (4:08–4:12, 4 min)
+## Block 2 — Week 5 Check-in (4:22–4:26, 4 min)
 
 ## Script
 
@@ -198,7 +199,7 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 
 *(Take 2–3 voluntary contributions. Don’t ask for more. Move on.)*
 
-## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (4:12–4:25, 13 min)
+## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (4:26–4:34, 8 min)
 
 Read both passages aloud, slowly, from the physical Bible.
 
@@ -226,7 +227,7 @@ Read both passages aloud, slowly, from the physical Bible.
 
 • The whole thing takes about three minutes per person. There will be silences. Tears are normal and welcome. Specifics about the sin itself are not requested and not required. The naming is enough.
 
-## Block 4 — Companion Demo (4:25–4:30, 5 min)
+## Block 4 — Companion Demo (4:34–4:39, 5 min)
 
 The Lead Companion now does the practice in front of the whole room. This sets the depth and the form for the rest of the night.
 
@@ -239,7 +240,7 @@ The Lead Companion now does the practice in front of the whole room. This sets t
 - Receive it. Do not deflect, do not joke, do not minimize. Say “Thank you” and sit down.
 - Close: “That is the practice. You will do it in your cluster — parents first, then teens. Yours doesn’t have to look like mine. Three minutes per person.”
 
-## Block 5 — Bridge to the Split (4:30–4:32, 2 min)
+## Block 5 — Bridge to the Split (4:39–4:40, 1 min)
 
 ## Script
 
@@ -255,7 +256,7 @@ The Lead Companion now does the practice in front of the whole room. This sets t
 
 *(If the whole room is ten or fewer tonight, say instead: “We’re staying right here — one circle, same order, same rules.”)*
 
-## Block 6 — Confession-and-Restoration in Family Clusters (4:32–5:05, 33 min)
+## Block 6 — Confession-and-Restoration in Family Clusters (4:40–5:13, 33 min)
 
 This is the heart of the night. Each cluster runs the same structure. The order — Companion, then parents, then teens — is not etiquette; it is the safety architecture. The parents were pre-briefed this week (Handbook Section 2) and know their rails.
 
@@ -271,7 +272,7 @@ This is the heart of the night. Each cluster runs the same structure. The order 
 
 **Closing silence (1–2 min). The circle holds silence. Cluster Companion: “We have named real things tonight. Let’s sit with what was said for a minute before we go back to the room.”**
 
-*Timing note: a two-family cluster (about six people) runs comfortably at three minutes per person. A three-family cluster needs the compressed pace — closer to two and a half minutes each — from the start, not discovered at 4:55.*
+*Timing note: a two-family cluster (about six people) runs comfortably at three minutes per person. A three-family cluster needs the compressed pace — closer to two and a half minutes each — from the start, not discovered at 5:03.*
 
 ## Cluster Companion: when to intervene
 
@@ -284,7 +285,7 @@ This is the heart of the night. Each cluster runs the same structure. The order 
 - If something rises to crisis level (suicidal ideation, abuse, self-harm, substance abuse warranting intervention) — receive in the room with brief acknowledgment and blessing. After the cluster closes, you and one other Companion step aside with the participant. Section 6 protocols apply.
 - If you run out of time — do not skip anyone. Compress to two minutes per person if needed. Better to be three minutes late than to send a participant home un-named.
 
-## Block 7 — Merge and Shared Blessing (5:05–5:13, 8 min)
+## Block 7 — Merge and Shared Blessing (5:13–5:17, 4 min)
 
 ## Script
 
@@ -300,7 +301,7 @@ This is the heart of the night. Each cluster runs the same structure. The order 
 
 *“Father, every person in this room named a real place tonight. Not a fake place, not a polished place — a real place where they want to walk in greater honesty before you. We bless that work. We pray restoration into every place that was named. We pray that the courage shown in these circles tonight would carry into Wednesday morning, when the place that was named will still be the place. Holy Spirit, walk these brothers and sisters home. In Jesus’ name, amen.”*
 
-## Block 8 — Between-Session Practice (5:13–5:18, 5 min)
+## Block 8 — Between-Session Practice (5:17–5:20, 3 min)
 
 The between-session practice is introduced, and the first Quarterly Pulse goes home.
 
@@ -310,7 +311,7 @@ The between-session practice is introduced, and the first Quarterly Pulse goes h
 
 *“And one page goes home with you tonight.”* (Hold up H6.3; hand the stack around.) *“Tonight closes our first quarter together. This is the Quarterly Pulse: three questions, five minutes at home, honest. The team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. It comes back to the bin at the door at our first gathering back.”*
 
-## Block 9 — The Leader Feedback Round (5:18–5:23, 5 min)
+## Block 9 — The Leader Feedback Round (5:20–5:23, 3 min)
 
 *The evening’s leader closes the working part of the evening the same way every week.*
 

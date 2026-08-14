@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. This is the second of the two highest-confidence formation tools in the IJH project (Garden of Your Heart in Wk 9 was the first). Treat the practice with care.*
 
-## WEEK 11 — ANY DOUBTS? (90 minutes)
+## WEEK 11 — ANY DOUBTS? (75 minutes)
 
 **Aim.** Practice naming the doubts and questions we usually do not say out loud, and bringing them honestly to God. The naming is the practice; the resolution is the Spirit’s work.
 
@@ -150,31 +150,31 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 | Week before | Each Companion runs the practice on themselves. Print all handouts. Pastoral backup confirmed. | All Companions |
 | Day before | Walk every space. Confirm pair groupings and the parents-first arrangements. | Lead Comp |
 | T-45 min | Team gathers. Walk crisis scenarios. Pray for each participant. | All Companions |
-| T-30 min | Each Cluster Companion preps their cluster space. Handouts placed. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
+| T-15 min | School day ends. Team + teen room-build crew build the room; each Cluster Companion preps their cluster space, handouts placed. Families arrive while the room builds. | Team + crew |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
-# **Detailed 90-Minute Run Sheet**
+# **Detailed 75-Minute Run Sheet**
 
-*Times below assume a 4:00 PM start.*
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
-| 4:00–4:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
-| 4:08–4:13 | Block 2: Week 9 check-in | Shared circle | Lead Comp | Brief check on garden returns. One-sentence shares. |
-| 4:13–4:25 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
-| 4:25–4:35 | Block 4: The Any Doubts? practice — teaching | Shared circle | Lead Comp | Walk the four steps on the whiteboard. Demo with a Co-Companion. 10 min. |
-| 4:35–4:38 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
-| 4:38–5:08 | Block 6: Any Doubts? in pairs within families | Family clusters → pairs | Cluster Comps | Each pair runs 2 cycles, alternating roles — the parent's turn first in every pair. 30 min. |
-| 5:08–5:17 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
-| 5:17–5:22 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. Quarterly Pulse (H11.4) distributed and framed — the year’s midpoint. |
-| 5:22–5:27 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
+| 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15-minute build window. |
+| 4:00–4:15 | Families arrive while the room builds — greeted by name; helping hands welcome. | Open | All Companions | Door, name tags. |
+| 4:15–4:22 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
+| 4:22–4:27 | Block 2: Week 9 check-in | Shared circle | Lead Comp | Brief check on garden returns. One-sentence shares. |
+| 4:27–4:35 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
+| 4:35–4:43 | Block 4: The Any Doubts? practice — teaching | Shared circle | Lead Comp | Walk the four steps on the whiteboard. Demo with a Co-Companion. 8 min. |
+| 4:43–4:45 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
+| 4:45–5:15 | Block 6: Any Doubts? in pairs within families | Family clusters → pairs | Cluster Comps | Each pair runs 2 cycles, alternating roles — the parent's turn first in every pair. 30 min. |
+| 5:15–5:20 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
+| 5:20–5:23 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. Quarterly Pulse (H11.4) distributed and framed — the year’s midpoint. |
+| 5:23–5:27 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Four minutes, just before the blessing. |
 | 5:27–5:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Announce the quarter break, The Return in January, and the Pulse going home tonight. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Centering (4:00–4:08, 8 min)**
+## **Block 1 — Welcome and Centering (4:15–4:22, 7 min)**
 
 ## Script
 
@@ -186,7 +186,7 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 
 *“Container reminders: what is said in your pair stays in your pair. Nothing is required. Specificity is the practice; honesty is the goal.”*
 
-## **Block 2 — Week 9 Check-in (4:08–4:13, 5 min)**
+## **Block 2 — Week 9 Check-in (4:22–4:27, 5 min)**
 
 ## Script
 
@@ -194,7 +194,7 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 
 *(A parent you arranged with before the session offers the first sentence — never a cold call on a teen. Then take 2–3 more voluntary contributions. Receive without commentary. Move on with: “Good. The garden is still there. You can return any time. We continue.”)*
 
-## **Block 3 — Mark 9:14–29 — The Scripture Ground (4:13–4:25, 12 min)**
+## **Block 3 — Mark 9:14–29 — The Scripture Ground (4:27–4:35, 8 min)**
 
 Read the full scene aloud, slowly, from the physical Bible. The whole context matters — the desperate father, the failed disciples, the boy in convulsions. Mark 9:24 lands differently inside the full scene than as a single verse.
 
@@ -220,7 +220,7 @@ Read the full scene aloud, slowly, from the physical Bible. The whole context ma
 
 • Vol 2 of IJH calls this Any Doubts? It is one of the two highest-confidence formation practices we know of in this body of work. Tonight we walk it together.
 
-## **Block 4 — The Any Doubts? Practice — Teaching (4:25–4:35, 10 min)**
+## **Block 4 — The Any Doubts? Practice — Teaching (4:35–4:43, 8 min)**
 
 *(First, the callback — thirty seconds, journals out:)*
 
@@ -258,7 +258,7 @@ Stand at the whiteboard. The four steps are pre-written: NAME / EXAGGERATE / SIT
 
 Watch for: the demo is the most important three minutes of the night. The pairs will calibrate everything against what they just saw — and so will the parents who go first. Be specific, be honest, be brief, and — critically — do not resolve the doubt at the end. Modeling unresolved-but-honest is the gift.
 
-## **Block 5 — Bridge to the Split (4:35–4:38, 3 min)**
+## **Block 5 — Bridge to the Split (4:43–4:45, 2 min)**
 
 ## Script
 
@@ -274,7 +274,7 @@ Watch for: the demo is the most important three minutes of the night. The pairs 
 
 *“Family clusters: [name each cluster’s families and its Companion]. Thirty minutes. Go.”*
 
-## **Block 6 — Any Doubts? in Pairs, within Families (4:38–5:08, 30 min)**
+## **Block 6 — Any Doubts? in Pairs, within Families (4:45–5:15, 30 min)**
 
 Each family cluster splits into its pairs — within families, a parent with their own teen wherever possible. The Cluster Companion floats between pairs, observes, holds the center, intervenes only when needed. This block runs thirty minutes — it gave five to the Leader Feedback Round — so aim for one full cycle in each direction, with a partial second if time allows.
 
@@ -323,7 +323,7 @@ Each family cluster splits into its pairs — within families, a parent with the
 
 The Cluster Companion calls switches at the seven-minute mark. “Switch when ready.” If a pair is in mid-cycle, finish the cycle, then switch. Do not interrupt a re-read. Aim for one full cycle in each direction — the parent's turn first — with a partial second if time allows.
 
-## **Block 7 — Merge and Surface (5:08–5:17, 9 min)**
+## **Block 7 — Merge and Surface (5:15–5:20, 5 min)**
 
 ## Script
 
@@ -337,7 +337,7 @@ The Cluster Companion calls switches at the seven-minute mark. “Switch when re
 
 *“Thank you. Two things to remember as we close. First — the practice you just learned tonight is something you can do alone in five minutes, or with a friend in twenty. It is not a workshop technique. It is a way of bringing your real questions to God for the rest of your life. Second — the resolution is the Spirit’s work. The naming is yours. We do the naming. He does what only He can.”*
 
-## **Block 8 — Between-Session Practice (5:17–5:22, 5 min)**
+## **Block 8 — Between-Session Practice (5:20–5:23, 3 min)**
 
 ## Script
 
@@ -351,7 +351,7 @@ The Cluster Companion calls switches at the seven-minute mark. “Switch when re
 
 *“One more thing goes home with you tonight — the Quarterly Pulse.”* (Hold up H11.4; hand the stack around.) *“Same one page as the end of the fall quarter: three questions, five minutes at home, honest. Tonight is the exact midpoint of our year — eleven weeks behind us, eleven ahead — and the team uses these to steer the half that remains. It comes back to the bin at the door at The Return, our first night back in January. Be honest on it. ‘Body in the room, mind on the mortgage’ is exactly the kind of answer the page is for.”*
 
-## **Block 9 — The Leader Feedback Round (5:22–5:27, 5 min)**
+## **Block 9 — The Leader Feedback Round (5:23–5:27, 4 min)**
 
 *The evening's leader closes the working part of the evening the same way every week.*
 

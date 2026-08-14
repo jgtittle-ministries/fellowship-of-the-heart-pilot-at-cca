@@ -11,6 +11,22 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The survey in the welcome packet
+
+With no orientation night on the runway before September 2, the Pre-Series Survey rides home inside the Week 1 welcome packet — one per person, teens and parents each filling their own — and comes back to a basket at the Week 2 door. Week 1's packet and prep lists, Week 2's door, and the Handbook Section 8 instruments table now say so. Nothing else about the instrument changed: ten quiet minutes, never graded, seen only by the Companion team.
+
+# August 2026 — The twenty-two Wednesdays, pinned
+
+CCA's club calendar came back with the real dates, and the calendar page now carries all twenty-two: September 2, 2026 through April 28, 2027, four quarters of 6/5/6/5. Not every Wednesday is a club Wednesday — the school year breathes around an early-September skip, Thanksgiving, the long Christmas rest (December 9 to January 27), and a February week — and the quarters breathe with it. Only the dates moved; the curriculum did not.
+
+# August 2026 — The quarter-hour and the room build
+
+The classroom taught the calendar a second lesson: the school day releases the room at 4:00, so nothing can be set up ahead. Sessions now run **4:15–5:30 — seventy-five minutes** — and the first fifteen minutes became something better than lost time: the **room build**, where the team and a teen crew turn a classroom into the circle while families arrive. The crew is the new serving rung beneath the leadership ladder (Handbook Section 11.8) — real serving with a real deadline, the shy teen's on-ramp, offered and never assigned — and it has its own line on the Weekly Run Card. Every run sheet was compressed by one rule: *the edges tightened; the practices at each evening's center kept every minute* — so a body meeting in the evening will find the plans breathe easily back out to ninety. Week 21's commissioning runs 4:15–6:15, the one night needing the room past 5:30. Only the clock and the crew changed; the evening's heart did not.
+
+# August 2026 — The five questions come home
+
+The five questions of the pre-cohort conversation now belong to everyone. Not every family in a first-run room will have met a Companion before night one — so after the first page is written on Week 1, the questions are offered to the whole room as homework, if you want it: printed in the journal right after the where-am-I-with-Jesus page, a page per question or a single sentence, never collected, never read. The offer is thirty seconds and deliberately not a second practice — the week's only ask remains the morning question. Some meet the questions in a conversation with a Companion; some meet them in the journal; either way they are theirs now.
+
 # August 2026 — The pilot's clock
 
 The CCA pilot meets Wednesday afternoons, 4:00–5:30 PM — not evenings. Every run sheet, block header, and inline script time in the twenty-two plans now speaks that clock: the team in the room by 3:30, doors at 3:45, sessions 4:00–5:30. Week 21's family commissioning runs 4:00–6:00; Week 22's rite fills the standard slot. Only the clock moved — every block keeps its minutes, and the scripture stayed guarded through the sweep (Numbers 6:24 is a verse, not a time). The scripts still say *tonight*, on purpose: most bodies that adopt these sessions will meet in the evening, as this work's own history mostly did, and a leader adapts a word on the fly more easily than a room adapts a clock. The calendar page and the handbook's session map now carry the meeting-time fact.

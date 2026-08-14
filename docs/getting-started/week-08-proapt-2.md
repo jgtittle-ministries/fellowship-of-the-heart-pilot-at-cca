@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. Tonight a Companion-in-Formation leads the full walk-through. The adult team's discipline is to be present and not lead.*
 
-## WEEK 8 — HEARING GOD — PROAPT II (90 minutes)
+## WEEK 8 — HEARING GOD — PROAPT II (75 minutes)
 
 **Aim.** Complete the second running of PROAPT — the full six-step walk-through led by a Companion-in-Formation with a fresh passage.
 
@@ -138,31 +138,34 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 | Week before | Confirm passage and senior. Senior begins daily PROAPT on the passage. Print all handouts. | Lead Comp + Comp-in-Formation |
 | Mid-week | Full dry run, timed, from the card. Rehearse the handoff. | Lead Comp + Comp-in-Formation |
 | Day before | Senior PROAPTs the passage a final time. Lead Companion walks the room. | Both |
-| T-30 min | All Companions and the senior in room. PRAY through the passage as a team. Senior sets the space. | All |
-| T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
+| T-30 min | All Companions and the senior gather (the room opens at 4:00). PRAY through the passage as a team. | All |
+| T-15 min | School day ends. Team + teen room-build crew build the room; the senior sets the space. Families arrive while it builds. | Team + crew |
 | T-0 | Doors close. The Companion-in-Formation opens. | Comp-in-Formation |
 
-# **Detailed 90-Minute Run Sheet**
+# **Detailed 75-Minute Run Sheet**
+
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 4:00–4:08 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The opening framing. |
-| 4:08–4:13 | Block 2: Daily-practice check-in | Shared | Comp-in-Formation | How did the daily PROAPT go? Normalize restarting. |
-| 4:13–4:18 | Block 3: Why a second running | Shared | Comp-in-Formation | Romans 10:17 restated. Frame the fresh passage. |
-| 4:18–4:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | Comp-in-Formation | The marquee. All six steps, timed, from the card. Adults sit back. |
-| 4:32–4:34 | Block 5: Bridge to the clusters and pair structure | Shared | Comp-in-Formation | Family pairs restated. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
-| 4:34–5:02 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | As Week 7. Switch reader/listener at 13 min. |
-| 5:02–5:12 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells the cluster ONE thing they heard. A parent opens (arranged beforehand). |
-| 5:12–5:19 | Block 8: Merge and between-session | Shared | Lead Comp | Between-session practice named. Unhurried. |
-| 5:19–5:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Merged round (Handbook 11.7): senior first, adult second, then the room by consent. |
-| 5:24–5:30 | Block 10: Closing container | Shared | Comp-in-Formation | Container reaffirmed. Aaronic blessing. |
+| 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15-minute build window. |
+| 4:00–4:15 | Families arrive while the room builds — greeted by name; helping hands welcome. | Open | All Companions | Standard arrival. |
+| 4:15–4:22 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The opening framing. |
+| 4:22–4:26 | Block 2: Daily-practice check-in | Shared | Comp-in-Formation | How did the daily PROAPT go? Normalize restarting. |
+| 4:26–4:29 | Block 3: Why a second running | Shared | Comp-in-Formation | Romans 10:17 restated. Frame the fresh passage. |
+| 4:29–4:43 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | Comp-in-Formation | The marquee. All six steps, timed, from the card. Adults sit back. |
+| 4:43–4:44 | Block 5: Bridge to the clusters and pair structure | Shared | Comp-in-Formation | Family pairs restated. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
+| 4:44–5:12 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | As Week 7. Switch reader/listener at 13 min. |
+| 5:12–5:18 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells the cluster ONE thing they heard. A parent opens (arranged beforehand). |
+| 5:18–5:21 | Block 8: Merge and between-session | Shared | Lead Comp | Between-session practice named. Unhurried. |
+| 5:21–5:25 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Merged round (Handbook 11.7): senior first, adult second, then the room by consent. |
+| 5:25–5:30 | Block 10: Closing container | Shared | Comp-in-Formation | Container reaffirmed. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
 *Blocks 1–5 and 10 are the Companion-in-Formation's blocks. The italicized scripts in those blocks are theirs — written here as a model for the dry run, not a cage. The senior should say it in their own words; what is fixed is the shape, the timings, and the handoff rule.*
 
-## **Block 1 — Welcome and Centering (4:00–4:08, 8 min)**
+## **Block 1 — Welcome and Centering (4:15–4:22, 7 min)**
 
 ## Companion-in-Formation's script
 
@@ -178,7 +181,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 
 From the moment the senior starts speaking, sit back — outside the circle, eyes on the senior, faces warm and unhelpful. If the room looks to you, look at the senior. The room learns who is leading from where the adults look.
 
-## **Block 2 — Daily-Practice Check-in (4:08–4:13, 5 min)**
+## **Block 2 — Daily-Practice Check-in (4:22–4:26, 4 min)**
 
 ## Companion-in-Formation's script
 
@@ -188,7 +191,7 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 
 *"If your week was thin or empty — no guilt. This stretch of the year is where daily practice thins out for almost everyone; that's normal, not failure. The practice picks up where you are, not where you were supposed to be. Tonight is a fresh start, and everything we do tonight works whether you did seven days or zero."*
 
-## **Block 3 — Why a Second Running (4:13–4:18, 5 min)**
+## **Block 3 — Why a Second Running (4:26–4:29, 3 min)**
 
 ## Companion-in-Formation's script
 
@@ -198,7 +201,7 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 
 *"Same six steps as last week. I'll keep us on time. Handouts are coming around — Bibles open to Mark 2."*
 
-## **Block 4 — PROAPT Walked Together: Mark 2:1–12 (4:18–4:32, 14 min)**
+## **Block 4 — PROAPT Walked Together: Mark 2:1–12 (4:29–4:43, 14 min)**
 
 This is the marquee block of the night. The Companion-in-Formation leads all six steps, timed, from their facilitation card (H8.1). The room works their handout (H8.2). The adult team does not speak unless the handoff comes.
 
@@ -222,7 +225,7 @@ This is the marquee block of the night. The Companion-in-Formation leads all six
 - If the senior stumbles on a timing, let the stumble happen and let them recover. That recovery is the formation.
 - The handoff: if any sharing turns heavy, the senior catches the designated adult's eye and hands it over — and the adult takes it fully, immediately, without making the handoff feel like an alarm. The senior keeps holding the room.
 
-## **Block 5 — Bridge to the Clusters and Pair Structure (4:32–4:34, 2 min)**
+## **Block 5 — Bridge to the Clusters and Pair Structure (4:43–4:44, 1 min)**
 
 ## Companion-in-Formation's script
 
@@ -234,7 +237,7 @@ This is the marquee block of the night. The Companion-in-Formation leads all six
 
 *"Pray with me. Father, You've already spoken tonight. Speak again in the pairs — something specific, something each of us can hear. Amen. Go."*
 
-## **Block 6 — PROAPT in Family Pairs (4:34–5:02, 28 min)**
+## **Block 6 — PROAPT in Family Pairs (4:44–5:12, 28 min)**
 
 Each family cluster settles into pairs, as Week 7 — parent and teen from the same family by default. Where a family has two teens or two parents, rotate within the family; the Cluster Companion completes odd numbers across families within the cluster.
 
@@ -254,7 +257,7 @@ Same interventions as Week 7 — the unstick prompts for Observe ("one specific 
 
 - If a pair treats the pass as a rerun ("we did this passage Thursday") — "Then you know what it said Thursday. What is it saying tonight? Second hearings are where the specific word comes."
 
-## **Block 7 — Tell Step in the Cluster (5:02–5:12, 10 min)**
+## **Block 7 — Tell Step in the Cluster (5:12–5:18, 6 min)**
 
 Re-form into the family cluster (out of pairs). Each participant tells the cluster ONE thing they heard tonight. By now the room expects this step; let the expectation work. A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.
 
@@ -268,7 +271,7 @@ Re-form into the family cluster (out of pairs). Each participant tells the clust
 
 **Closing of the cluster (1 min). Cluster Companion: "Take what you heard with you. It was given to be walked out."**
 
-## **Block 8 — Merge and Between-Session (5:12–5:19, 7 min)**
+## **Block 8 — Merge and Between-Session (5:18–5:21, 3 min)**
 
 Everyone back in the single circle.
 
@@ -278,7 +281,7 @@ Everyone back in the single circle.
 
 *"And take a moment on the way home to notice what just happened in this room. One of our own led the whole practice tonight. That is the design working."*
 
-## **Block 9 — The Leader Feedback Round (5:19–5:24, 5 min)**
+## **Block 9 — The Leader Feedback Round (5:21–5:25, 4 min)**
 
 *The evening's leader closes the working part of the evening the same way every week — immediately before the blessing. Tonight a teen led, so this is one round, merged with the Handbook 11.7 order: the senior answers first, the adult second; the room's feedback covers them both.*
 
@@ -296,7 +299,7 @@ Two or three voices on each question is plenty. The leaders receive without defe
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-## **Block 10 — Closing Container (5:24–5:30, 6 min)**
+## **Block 10 — Closing Container (5:25–5:30, 5 min)**
 
 ## Companion-in-Formation's script
 
@@ -335,7 +338,7 @@ A teenager leading the room is, for some parents, the most persuasive thing this
 
 ### **Layer 1 — The feedback round as formation**
 
-The Leader Feedback Round is the closing practice tonight in all but name — sitting immediately before the blessing, the room watches leadership being formed in public, safely. The senior answers the two questions first, the adult second; strengths before growth, one growth item, consent before group input. The room learns how this community treats its leaders by watching five minutes of it.
+The Leader Feedback Round is the closing practice tonight in all but name — sitting immediately before the blessing, the room watches leadership being formed in public, safely. The senior answers the two questions first, the adult second; strengths before growth, one growth item, consent before group input. The room learns how this community treats its leaders by watching four minutes of it.
 
 ### **Layer 2 — The Aaronic blessing**
 

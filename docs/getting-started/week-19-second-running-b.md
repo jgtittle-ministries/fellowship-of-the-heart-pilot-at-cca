@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. Tonight teaches nothing new — the two mercy cards have been at work in this cohort since the winter Returns — but tonight they get taught back, by the seniors, in family clusters, with live coaching. This is the rehearsal for The Long Walk: next Wednesday the same seniors teach the same material to the whole room, their final rep before commissioning. Small room first, then large. That is the whole design of the evening.*
 
-## WEEK 19 — SECOND RUNNING: BLOCK B (90 minutes)
+## WEEK 19 — SECOND RUNNING: BLOCK B (75 minutes)
 
 **Aim.** Give every Companion-in-Formation two live small-room reps teaching the Signs Card and the Path Home Card — coached from inside the cluster, with one specific “keep” and one specific “adjust” after each rep — so that next Wednesday at The Long Walk they carry the same teaching to the whole room, steady, as their final rep before commissioning.
 
@@ -100,7 +100,7 @@ Then, still at prep:
 
 1. Reprint the two mercy cards from the shared materials, one set per participant folder — the Signs Card and the Path Home Card. (The Week 15 appendix directs this reprint at the block’s teaching; in this calendar the teaching begins tonight, so the cards go into the folders tonight — a week early for The Long Walk, exactly on time for the rehearsal.)
 2. Print each CiF’s facilitation card, built at prep from the Week 15 appendix — cardstock, one per CiF plus spares.
-3. Confirm the cluster spaces and the rotation path between them; the mid-evening move should take ninety seconds, not five minutes.
+3. Confirm the cluster spaces and the rotation path between them; the mid-evening move should take ninety seconds, not five minutes. Post the cluster map — each cluster, its adult, its first-round CiF — where the room can read it on arrival; Block 3 reads the map, it does not build it.
 4. Whiteboard or flip chart in each cluster space if the CiF wants the sorting question written up; their call. Tissues in every cluster space — tonight’s subject earns them.
 
 # **Materials and Setup**
@@ -123,35 +123,38 @@ Then, still at prep:
 | Prep meeting (week before) | Lead Companion teaches the full block to the CiFs — the see-one. Arcs rehearsed aloud, timed. Clusters, rotation, coaches assigned. Facilitation cards built. | Lead Comp + all CiFs + team |
 | Mid-week | Each CiF runs their arc aloud once more, alone or with a parent. Cards reprinted and foldered. | CiFs; Lead Comp |
 | Day before | Lead Companion walks the room and the rotation path. Coaching-note sheets prepared, one per CiF. | Lead Comp |
-| T-30 min | Team and CiFs in the room. Pray through Psalm 42 together. CiFs set their first cluster spaces. | All |
-| T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
-| T-0 | Doors close. A CiF opens the container. | CiF (rotating) |
+| T-20 min | Team and CiFs gather off the room (the room is the school’s until 4:00). Pray through Psalm 42 together. | All |
+| 4:00 | School day ends. Team + teen room-build crew enter: CiFs set their first cluster spaces; cluster map posted where the room can read it. Families arrive as the room builds. | Team + crew |
+| 4:15 | Room built. A CiF opens the container. | CiF (rotating) |
 
-# **Detailed 90-Minute Run Sheet**
+# **Detailed 75-Minute Run Sheet**
+
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. Folders with the two cards at each seat. |
-| 4:00–4:08 | Block 1: Welcome and opening container | Shared | CiF (rotating) | Full protocol from memory — the weekly free rep. |
-| 4:08–4:16 | Block 2: The frame — why these two cards | Shared | Lead Comp | 2 Timothy 2:2 read. The rehearsal named plainly and warmly. |
-| 4:16–4:19 | Block 3: Bridge and split | Shared | Lead Comp | Clusters and their CiFs named. Pray. Go. |
-| 4:19–4:44 | Block 4: First teaching rep — both cards | Clusters | CiFs | Signs ~13 min, Path Home ~10, close ~2. Adults coach from inside, light touch. |
-| 4:44–4:49 | Block 5: Cluster feedback — one keep, one adjust | Clusters | Cluster adults | Adult models first; a parent adds next; brief. |
-| 4:49–4:52 | Rotation | Moving | Lead Comp | Each CiF moves one cluster over, adjust in hand. |
-| 4:52–5:12 | Block 6: Second teaching rep — both cards, tightened | Clusters | CiFs | The compressed telling — 20 min total. The adjust gets tried while warm. |
-| 5:12–5:16 | Block 7: Second cluster feedback | Clusters | Cluster adults | Same shape, briefer. Notes recorded per CiF. |
-| 5:16–5:20 | Block 8: Merge and between-session | Shared | Lead Comp | The findable-place assignment. Next week named. |
-| 5:20–5:22 | Block 9: Closing container | Shared | CiF (rotating) | One-word landing, the one thing, the one practice. |
-| 5:22–5:27 | Block 10: Leader Feedback Round | Shared | Lead Comp | CiFs first, together; then the adult; room by consent. |
+| 4:00 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15 |
+| 4:00 | Families arrive while the room builds — greeted by name; helping hands welcome. | Open | All Companions | Standard arrival. Folders with the two cards at each seat. |
+| 4:15–4:22 | Block 1: Welcome and opening container | Shared | CiF (rotating) | Full protocol from memory — the weekly free rep. |
+| 4:22–4:28 | Block 2: The frame — why these two cards | Shared | Lead Comp | 2 Timothy 2:2 read. The rehearsal named plainly and warmly. |
+| 4:28–4:29 | Block 3: Bridge and split | Shared | Lead Comp | Clusters read from the posted map. One-sentence prayer. Go. |
+| 4:29–4:51 | Block 4: First teaching rep — both cards | Clusters | CiFs | Signs ~12 min, Path Home ~9, close ~1. Adults coach from inside, light touch. |
+| 4:51–4:56 | Block 5: Cluster feedback — one keep, one adjust | Clusters | Cluster adults | Adult models first; a parent adds next; brief. |
+| 4:56–4:58 | Rotation | Moving | Lead Comp | Each CiF moves one cluster over, adjust in hand. |
+| 4:58–5:15 | Block 6: Second teaching rep — both cards, tightened | Clusters | CiFs | The compressed telling — 17 min total. The adjust gets tried while warm. |
+| 5:15–5:19 | Block 7: Second cluster feedback | Clusters | Cluster adults | Same shape, briefer. Notes recorded per CiF. |
+| 5:19–5:22 | Block 8: Merge and between-session | Shared | Lead Comp | The findable-place assignment. Next week named. |
+| 5:22–5:24 | Block 9: Closing container | Shared | CiF (rotating) | One-word landing, the one thing, the one practice. |
+| 5:24–5:27 | Block 10: Leader Feedback Round | Shared | Lead Comp | CiFs first, together; then the adult; room by consent. |
 | 5:27–5:30 | Block 11: Aaronic blessing and sending | Shared | CiF (rotating) | Numbers 6:24–26. Sent. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Opening Container (4:00–4:08, 8 min)**
+## **Block 1 — Welcome and Opening Container (4:15–4:22, 7 min)**
 
 A Companion-in-Formation opens with the full Section 5 protocol from memory — the standing circle, phones silenced and away, the one-word check-in, put out / bring in, the spoken commitment, the opening prayer naming the Holy Spirit. By this point in the year the container rep is routine for the CiFs; give tonight’s opening to one who is *not* teaching first-round in their strongest cluster, so the evening’s reps spread rather than stack.
 
-## **Block 2 — The Frame: Why These Two Cards (4:08–4:16, 8 min)**
+## **Block 2 — The Frame: Why These Two Cards (4:22–4:28, 6 min)**
 
 ## Script (Lead Companion)
 
@@ -163,21 +166,21 @@ A Companion-in-Formation opens with the full Section 5 protocol from memory — 
 
 *“One more thing, gently. Tonight is about the cards, not about anyone’s current season. Nobody will be asked where they are. But if the card finds you tonight — if one of those columns has your name on it — the adult in your cluster is there for exactly that, tonight or this week. That is what the room is for.”*
 
-## **Block 3 — Bridge and Split (4:16–4:19, 3 min)**
+## **Block 3 — Bridge and Split (4:28–4:29, 1 min)**
 
-Name each cluster, its families, its adult, and its first-round CiF. Pray — briefly, for the teachers by name and for any dry ground in the room, unnamed. Split. *(If the room is about ten or fewer, see the small-room variation after Block 7.)*
+The cluster map — each cluster, its families, its adult, its first-round CiF — is posted before the evening; read it out rather than building it here. Pray one sentence — for the teachers by name and for any dry ground in the room, unnamed. Split. *(If the room is about ten or fewer, see the small-room variation after Block 7.)*
 
-## **Block 4 — First Teaching Rep: Both Cards (4:19–4:44, 25 min)**
+## **Block 4 — First Teaching Rep: Both Cards (4:29–4:51, 22 min)**
 
 The Companion-in-Formation leads their cluster through both cards from their facilitation card. The adult coaches from inside — seated in the circle, not behind it — with a light touch: at most one whispered cue, everything else saved for the feedback. The arc:
 
 ## The CiF’s arc (from the facilitation card)
 
-**The Signs Card (~13 min).** Why the card exists — the wrong diagnosis, not the dryness, is the danger. The one question written up or said twice: *which way does the desire point?* Then the four kinds of dry, walked from the card’s own table — neglect, worn out, the enemy’s dry wind, God’s own stripping — with the load-bearing minute on cases 3 and 4: *one says resist, the other says receive; opposite motions; and when you cannot tell which you are in, do not decide alone — that is what Companions are for.* Then the rules of the card, all four, fast — your own heart only; tell someone in every case; no big decisions in the dark; know when to call the doctor. Close with the card’s word to the dry: *the fact that His absence hurts you is the evidence that He has not gone. Drifting hearts do not ache.*
+**The Signs Card (~12 min).** Why the card exists — the wrong diagnosis, not the dryness, is the danger. The one question written up or said twice: *which way does the desire point?* Then the four kinds of dry, walked from the card’s own table — neglect, worn out, the enemy’s dry wind, God’s own stripping — with the load-bearing minute on cases 3 and 4: *one says resist, the other says receive; opposite motions; and when you cannot tell which you are in, do not decide alone — that is what Companions are for.* Then the rules of the card, all four, fast — your own heart only; tell someone in every case; no big decisions in the dark; know when to call the doctor. Close with the card’s word to the dry: *the fact that His absence hurts you is the evidence that He has not gone. Drifting hearts do not ache.*
 
-**The Path Home Card (~10 min).** Why it exists — the way back is written here, and it ends with a feast, not a hearing: *“while he was still a long way off, his father saw him and felt compassion, and ran”* (Luke 15:20). The five steps, plainly: come as you are and check which voice brought you (conviction draws toward home; shame drives away); tell it straight, to God and to one person; grieve what needs grieving; return to the table — small, next available day; let it be celebrated, at the returner’s own choosing. Close on the last line of the card: *the door is not locked. The light is on.*
+**The Path Home Card (~9 min).** Why it exists — the way back is written here, and it ends with a feast, not a hearing: *“while he was still a long way off, his father saw him and felt compassion, and ran”* (Luke 15:20). The five steps, plainly: come as you are and check which voice brought you (conviction draws toward home; shame drives away); tell it straight, to God and to one person; grieve what needs grieving; return to the table — small, next available day; let it be celebrated, at the returner’s own choosing. Close on the last line of the card: *the door is not locked. The light is on.*
 
-**Close (~2 min).** *“These two cards go home with you tonight. This week your family gives them a spot — somewhere findable. Their whole job is to be findable on the day somebody needs them.”*
+**Close (~1 min).** *“These two cards go home with you tonight. This week your family gives them a spot — somewhere findable. Their whole job is to be findable on the day somebody needs them.”*
 
 ## Model script — the Signs Card taught in the cluster
 
@@ -216,7 +219,7 @@ The cluster’s posture matters as much as the teaching. Parents especially set 
 - Guard the two disciplines. Probing (*“which one are you?”*) and diagnosing (an absent friend filed under a column) both get a gentle immediate redirect — the card’s own rules, quoted, so the correction lands on the card and not the person.
 - Questions of information are welcome and are the CiF’s to answer; let them. Only step in on questions of condition.
 
-## **Block 5 — Cluster Feedback: One Keep, One Adjust (4:44–4:49, 5 min)**
+## **Block 5 — Cluster Feedback: One Keep, One Adjust (4:51–4:56, 5 min)**
 
 The adult models the shape first, specifically:
 
@@ -224,17 +227,17 @@ The adult models the shape first, specifically:
 
 Then the arranged parent adds one keep or one adjust; one or two more voices if brief — teens welcome. The CiF receives without defending; *“thank you”* is the whole response. The adult writes both gifts on the note sheet. Total: five minutes, protected — this block is the reason the evening exists.
 
-## **Rotation (4:49–4:52, 3 min)**
+## **Rotation (4:56–4:58, 2 min)**
 
 Each CiF moves one cluster clockwise, adjust in hand. The Lead Companion calls it from the center: *“Teachers, travel.”* The new cluster does not hear the previous cluster’s feedback — the second rep gets a clean room.
 
-## **Block 6 — Second Teaching Rep: Both Cards, Tightened (4:52–5:12, 20 min)**
+## **Block 6 — Second Teaching Rep: Both Cards, Tightened (4:58–5:15, 17 min)**
 
-The same arc, compressed — Signs ~11, Path Home ~8, close ~1. The compression is not a downgrade; it is the second rep’s own skill, and it is next week’s reality (The Long Walk holds more than the teaching). Coach it at prep as *the tightened telling*: same spine, fewer words, the load-bearing minutes untouched — the desire question, resist-versus-receive, the father runs. The adjust from Round 1 gets tried here, while it is warm; the adult watches for it specifically.
+The same arc, compressed — Signs ~9, Path Home ~7, close ~1. The compression is not a downgrade; it is the second rep’s own skill, and it is next week’s reality (The Long Walk holds more than the teaching). Coach it at prep as *the tightened telling*: same spine, fewer words, the load-bearing minutes untouched — the desire question, resist-versus-receive, the father runs. The adjust from Round 1 gets tried here, while it is warm; the adult watches for it specifically.
 
 *If a cluster’s first round ran long and the room is against the clock, the CiF’s fallback (agreed at prep): teach the Signs Card in full and give the Path Home Card its two sentences — the father runs; the door is not locked — with the card in every hand. Next week restores the whole.*
 
-## **Block 7 — Second Cluster Feedback (5:12–5:16, 4 min)**
+## **Block 7 — Second Cluster Feedback (5:15–5:19, 4 min)**
 
 Same shape, briefer: the adult’s keep and adjust — the keep, wherever honest, naming the adjust that got tried — then one cluster voice. Both recorded per CiF. These notes are next week’s prep meeting.
 
@@ -244,7 +247,7 @@ Same shape, briefer: the adult’s keep and adjust — the keep, wherever honest
 - **One CiF only:** the single CiF teaches Round 1 in one cluster and Round 2 in another; adult Companions teach the remaining clusters from the same arc — the room still receives the cards everywhere, and the rehearsal still happens.
 - **More CiFs than clusters:** pair them — one teaches Signs, the other Path Home, swap at the rotation. Every CiF still teaches twice.
 
-## **Block 8 — Merge and Between-Session (5:16–5:20, 4 min)**
+## **Block 8 — Merge and Between-Session (5:19–5:22, 3 min)**
 
 ## Script (Lead Companion)
 
@@ -252,11 +255,11 @@ Same shape, briefer: the adult’s keep and adjust — the keep, wherever honest
 
 *“And next Wednesday is The Long Walk — the whole room, the whole teaching, and these same teachers at the front of it. Come ready to receive them again.”*
 
-## **Block 9 — Closing Container (5:20–5:22, 2 min)**
+## **Block 9 — Closing Container (5:22–5:24, 2 min)**
 
 A CiF runs the closing protocol, brief tonight: the standing circle, the one-word landing, the one thing, and the one practice — which is the findable spot, committed aloud by a voice from each family.
 
-## **Block 10 — The Leader Feedback Round (5:22–5:27, 5 min)**
+## **Block 10 — The Leader Feedback Round (5:24–5:27, 3 min)**
 
 *Merged 11.7 order, adapted for multiple leaders: the CiFs answer first, together — this was their evening jointly, and they close it jointly.*
 
@@ -332,7 +335,7 @@ Tonight is the last small room before the last large one, so the team reads each
 - A rep became a lecture *about* the cards rather than a walk *through* them — or the teaching drifted into probing the cluster’s current seasons.
 - Feedback went soft — all keeps, no adjusts, “you did great” — which sends the CiFs into the whole room uncoached. If this happened, the Lead Companion supplies the adjusts at the prep meeting, kindly and specifically.
 - The rotation ate the clock and Round 2 got squeezed into a summary; note the logistics fix for next cycle.
-- A CiF visibly carried a critique badly — inflated or collapsed — and next week’s readiness call needs the honest conversation this week, not Wednesday at 3:40.
+- A CiF visibly carried a critique badly — inflated or collapsed — and next week’s readiness call needs the honest conversation this week, not Wednesday at 4:05.
 - The evening treated the material as an exercise about teaching rather than a teaching about mercy — if the room forgot that the dry season is real and the door is really unlocked, the frame block gets its weight back next week from the Lead Companion personally.
 
 # **Handouts**

@@ -22,7 +22,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. Two copies in the room. Of all Getting Started’s sessions, this is the one that has produced the most lasting fruit in adult IJH groups. Treat it gently — do not over-explain.*
 
-## WEEK 9 — THE GARDEN OF YOUR HEART (90 minutes)
+## WEEK 9 — THE GARDEN OF YOUR HEART (75 minutes)
 
 **Aim.** An experiential encounter with Jesus in the heart’s interior space, age-adapted from Vol 2 Exp 7. Each participant pictures their heart as a garden, invites Jesus in, and notices what He does.
 
@@ -132,30 +132,30 @@ The Thursday Call's look-ahead before Week 9 covers:
 | Week before | Each Companion does the Garden of Your Heart exercise themselves. Print all handouts. Pastoral backup confirmed. | All Companions |
 | Day before | Walk every space. Soft lighting tested. Instrumental music tested if using. | Lead Comp |
 | T-45 min | Team gathers. Walk crisis scenarios. Pray for each participant. | All Companions |
-| T-30 min | The team quietly preps the main room and the cluster spaces — chairs in tight circles, handouts placed. | All Companions |
-| T-15 min | Door opens. | Co-Comp (Teen) |
+| T-15 min | School day ends. Team + teen room-build crew build the main room and the cluster spaces — chairs in tight circles, handouts placed. Families arrive while the room builds. | Team + crew |
 | T-0 | Doors close. Lead Companion opens. | Lead Comp |
 
-# Detailed 90-Minute Run Sheet
+# Detailed 75-Minute Run Sheet
 
-*Times below assume a 4:00 PM start.*
+*Times below assume a 4:15 PM start. School releases at 4:00; the room is built by many hands in the first fifteen minutes. Adjust to your start time but keep the durations.*
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 3:45–4:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Quieter than usual. |
-| 4:00–4:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
-| 4:10–4:15 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
-| 4:15–4:32 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
-| 4:32–4:35 | Block 4: Bridge into the exercise | Shared circle | Lead Comp | Pray. The room stays; the exercise is whole-room. |
-| 4:35–5:05 | Block 5: The Garden exercise — whole room, then clusters | Whole room → clusters | Lead Comp + Cluster Comps | Guided imaginative prayer, whole room (12–15 min); silent journaling (5 min); sharing by invitation only in family clusters (8–10 min), a parent opening. |
-| 5:05–5:13 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | Honor the texture. One-word landings, optional; a parent begins. Receive without commentary. |
-| 5:13–5:20 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Three returns to the garden this week. Brief, journaled. |
-| 5:20–5:25 | Block 8: The Leader Feedback Round | Shared circle | Lead Comp | Two questions from the leader, then the room. Same every week. May be dropped if the room needs quiet. |
+| 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15-minute build window. |
+| 4:00–4:15 | Families arrive while the room builds — greeted by name; helping hands welcome. | Open | All Companions | Door, name tags. Quieter than usual. |
+| 4:15–4:22 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
+| 4:22–4:27 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
+| 4:27–4:41 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
+| 4:41–4:43 | Block 4: Bridge into the exercise | Shared circle | Lead Comp | Pray. The room stays; the exercise is whole-room. |
+| 4:43–5:13 | Block 5: The Garden exercise — whole room, then clusters | Whole room → clusters | Lead Comp + Cluster Comps | Guided imaginative prayer, whole room (12–15 min); silent journaling (5 min); sharing by invitation only in family clusters (8–10 min), a parent opening. |
+| 5:13–5:18 | Block 6: Merge and one-word landing | Shared circle | Lead Comp | Honor the texture. One-word landings, optional; a parent begins. Receive without commentary. |
+| 5:18–5:21 | Block 7: Between-session practice | Shared circle | Co-Comp (Parent) | Three returns to the garden this week. Brief, journaled. |
+| 5:21–5:25 | Block 8: The Leader Feedback Round | Shared circle | Lead Comp | Two questions from the leader, then the room. Same every week. May be dropped if the room needs quiet. |
 | 5:25–5:30 | Block 9: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
 
-## Block 1 — Welcome and Centering (4:00–4:10, 10 min)
+## Block 1 — Welcome and Centering (4:15–4:22, 7 min)
 
 Tonight’s opening is quieter than other weeks. Match the tone of what is coming.
 
@@ -171,7 +171,7 @@ Tonight’s opening is quieter than other weeks. Match the tone of what is comin
 
 *“Container reminders: what is said here stays here. Nothing is required — not even doing the exercise. Listen to receive.”*
 
-## Block 2 — Week 7 Check-in (4:10–4:15, 5 min)
+## Block 2 — Week 7 Check-in (4:22–4:27, 5 min)
 
 ## Script
 
@@ -179,7 +179,7 @@ Tonight’s opening is quieter than other weeks. Match the tone of what is comin
 
 *(A parent opens — arranged beforehand, never a cold call on a teen. Then take 2–3 voluntary contributions; anyone may pass. Keep this brief. Tonight’s arc needs the time later.)*
 
-## Block 3 — Scripture and Framing (4:15–4:32, 17 min)
+## Block 3 — Scripture and Framing (4:27–4:41, 14 min)
 
 Read both passages slowly. Then frame the practice. The framing here is critical — do not skip the skepticism portion. The frame is the work.
 
@@ -215,7 +215,7 @@ Read both passages slowly. Then frame the practice. The framing here is critical
 
 *“If at any point you feel something is happening that is not consistent with scripture, set it aside. We are not pretending; we are receiving. The Spirit is the teacher. We are the students.”*
 
-## Block 4 — Bridge into the Exercise (4:32–4:35, 3 min)
+## Block 4 — Bridge into the Exercise (4:41–4:43, 2 min)
 
 ## Script
 
@@ -227,7 +227,7 @@ Read both passages slowly. Then frame the practice. The framing here is critical
 
 *“Pray with me. Father, you are the vinedresser. We are coming into our hearts tonight to meet your Son. Show us what you want us to see. Where it is hard, be tender. Where it is closed, be patient. Where it is opening, be present. Amen.”*
 
-## Block 5 — The Garden Exercise: Whole Room, then Family Clusters (4:35–5:05, 30 min)
+## Block 5 — The Garden Exercise: Whole Room, then Family Clusters (4:43–5:13, 30 min)
 
 The guided prayer and the journaling stay with the whole room, in one circle — the Lead Companion reads the guided prayer (Handout H9.1) slowly to everyone. Only the sharing moves to the family clusters. The full text of the script is in the handout; what follows here is the structure and the timing.
 
@@ -266,7 +266,7 @@ The guided prayer and the journaling stay with the whole room, in one circle —
 - If a participant softly cries during the exercise, do not stop. The tears are often the work.
 - If a participant’s body language goes hard — fists clenched, jaw tight, breath shallow — quietly check after the exercise. Do not interrupt the read.
 
-## Block 6 — Merge and One-Word Landing (5:05–5:13, 8 min)
+## Block 6 — Merge and One-Word Landing (5:13–5:18, 5 min)
 
 ## Script
 
@@ -280,7 +280,7 @@ The guided prayer and the journaling stay with the whole room, in one circle —
 
 *“Thank you. Whatever happened tonight is yours. Some of it will keep happening across the week. Some of it will quietly do its work in places you do not see for a long time.”*
 
-## Block 7 — Between-Session Practice (5:13–5:20, 7 min)
+## Block 7 — Between-Session Practice (5:18–5:21, 3 min)
 
 ## Script
 
@@ -294,7 +294,7 @@ The guided prayer and the journaling stay with the whole room, in one circle —
 
 *“One more thing. If you came in tonight skeptical — if the imaginative prayer felt foreign or theologically uneasy — H9.3 is a one-pager for you. Read it. Decide what you want to do with it. The practice is real, and it is also okay if you adapt it or sit it out for now.”*
 
-## Block 8 — The Leader Feedback Round (5:20–5:25, 5 min)
+## Block 8 — The Leader Feedback Round (5:21–5:25, 4 min)
 
 *The evening's leader closes the working part of the evening the same way every week.*
 
@@ -304,7 +304,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
-*Week 9 note: tonight is the likeliest night of the series to use the drop clause. If the room is still deep in the quiet the garden left, a leader may sense that five minutes of process talk would break something the Spirit is holding — drop it, and say so at the debrief.*
+*Week 9 note: tonight is the likeliest night of the series to use the drop clause. If the room is still deep in the quiet the garden left, a leader may sense that four minutes of process talk would break something the Spirit is holding — drop it, and say so at the debrief.*
 
 ## Block 9 — Closing Container (5:25–5:30, 5 min)
 

@@ -139,7 +139,7 @@ After naming the three things, the Companion names three things Getting Started 
 
 Before closing Block 2, the Companion names the practical commitments:
 
-- Twenty-two Wednesday evenings across the club year's four quarters (6/5/6/5), 90 minutes each (Week 21 is 120 minutes — the Family Commissioning). A re-entry evening opens each quarter after the break.
+- Twenty-two Wednesdays across the club year's four quarters (6/5/6/5), 4:15–5:30 PM at CCA (Week 21 runs to 6:15 — the Family Commissioning). A re-entry session opens each quarter after the break.
 - About 15 minutes a day between sessions for a journal practice.
 - One pre-cohort conversation — this one. One Family Pre-Cohort Conversation Worksheet to complete with your pair partner the week before Wk 1.
 - After Getting Started, Going Deeper in the next series cycle is invited but not assumed. Many participants do Getting Started and stop there; that is honest and good. The architecture honors both continuing and not.

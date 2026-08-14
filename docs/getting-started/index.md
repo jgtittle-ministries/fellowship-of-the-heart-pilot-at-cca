@@ -90,7 +90,7 @@ Every file follows the same structure:
 - **Session at a Glance** — why this session, this week; dependencies on prior weeks; the Connect focus.
 - **Pre-Work** for the Companion team and, in some weeks, for participants.
 - **Materials and Setup** — checklist, room arrangement, pre-session preparation timeline.
-- **Detailed Run Sheet** — minute-by-minute flow for the 90 minutes (120 for Week 21).
+- **Detailed Run Sheet** — minute-by-minute flow for the 75 minutes on the pilot's clock (120 for Week 21); an evening-meeting body will find the plans breathe easily back out to ninety.
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them, knowing the live room will ask for something slightly different than the page.
 - **Between-session practice** — the daily and weekly rhythm participants carry into the week.
 - **IJH source** — where the material lives in *Intentional Journey of the Heart*, for the Companion who wants to read further.
