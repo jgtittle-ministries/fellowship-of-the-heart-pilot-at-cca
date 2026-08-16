@@ -11,6 +11,10 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The permission conversation
+
+A correction that goes to the root of the assessment plan, superseding the packet placement below: no participant-facing page is administered — every one is asked for. The Pre-Series Survey comes out of the Week 1 welcome packet; in its place, the gap week between Weeks 1 and 2 carries a personal conversation with each family, where the Lead Companion asks in plain words for a before-and-after and the three quarter-turn check-ins — one yes covering the year’s five pages. Surveys are handed over only on that yes; a no costs nothing, and the room never learns who answered which way. The question that drove it: do we want a room to feel measured? The answer the Measurement Covenant already knew: measurement is asked for, never done to. What the shepherd sees needs no ask — permission is for pages, never for care.
+
 # August 2026 — The survey in the welcome packet
 
 With no orientation night on the runway before September 2, the Pre-Series Survey rides home inside the Week 1 welcome packet — one per person, teens and parents each filling their own — and comes back to a basket at the Week 2 door. Week 1's packet and prep lists, Week 2's door, and the Handbook Section 8 instruments table now say so. Nothing else about the instrument changed: ten quiet minutes, never graded, seen only by the Companion team.

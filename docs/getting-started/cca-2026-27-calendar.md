@@ -65,6 +65,7 @@ The club meets **Wednesday afternoons, 4:15–5:30 PM** — seventy-five minutes
 - **Weekly:** the Three Vital Signs log at every team debrief; the Leader Feedback Round noted (a scheduled weekly instance of costly telling).
 - **Quarterly:** the Pulse at Weeks 6, 11, and 16 (distributed at the quarter's close, collected at the next gathering's door); the Post-Series Survey at Week 20.
 - **At every re-entry (Weeks 7, 12, 18):** practice survival across the break, Path Home Card uses, time-to-settled-container — the three break experiments.
+- **Before any of it:** the permission conversations in the gap after Week 1 — every participant-facing page (the before-and-after and the three Pulses) is asked for, family by family, and handed over only on a yes (Handbook Section 8).
 - **Outside reads:** invited Walk-In Readings under the covering's authority (vetted reader, blind to content, private report), once or twice a quarter at ordinary weeks — never at ceremonies.
 
 # The two gates this calendar watches

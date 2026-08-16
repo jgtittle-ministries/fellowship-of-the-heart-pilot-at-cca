@@ -104,7 +104,7 @@ Do not share with each other. The first sharing happens in the circle.
 - Chairs in a single circle, one per participant. No table in the middle.
 - Name tags + markers (first names only).
 - Personal Heart Journal for each participant. (Distributed at orientation; remind participants to bring tonight.)
-- Welcome packet — Handout H1.1 plus a Pre-Series Survey copy for each person in the family (teens and parents each fill their own; spare surveys at the door).
+- Welcome packet — see Handout H1.1. (The Pre-Series Survey is deliberately not in the packet: it is offered in the family conversations after Week 1, and handed over only on each family’s yes.)
 - Aaronic blessing card — one per family — see Handout H1.2.
 - Flip chart or whiteboard at one edge of the circle. Pre-draw the four Connects diagram (template in Handout H1.1).
 - Large-print Bible (ESV). Read aloud from the physical book, not from a phone.
@@ -122,7 +122,7 @@ If you have more than 24 participants, use two concentric semicircles rather tha
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Final RSVP confirmations; print welcome packets (a Pre-Series Survey tucked inside for each person) and blessing cards; verify all Personal Heart Journals are distributed. | Lead Comp |
+| Week before | Final RSVP confirmations; print welcome packets and blessing cards; print Pre-Series Surveys but hold them — they go out family by family, on each yes, in the conversations after Week 1; verify all Personal Heart Journals are distributed. | Lead Comp |
 | Day before | Walk the room. Confirm name tags, snacks, journals, Bible, board markers, tissues. Phone the pastoral / clinical backup person to confirm availability. | Lead Companion + Co-Comp |
 | 3:45 | Team stages in the hallway: crate packed (name tags, markers, snacks, handout folders, Bible, tissues), board markers ready. Pray together as a team. | All Companions |
 | 4:00 | School releases the room. The build: chairs to circle, four Connects diagram pre-drawn on the board, name tags at the door. | Team + teen room-build crew |
@@ -508,9 +508,9 @@ Four ways of living the great commandment (Matthew 22:37–39):
 3. **Connecting with God.** Hearing Him in scripture. Practicing the listening posture as a learnable skill.
 4. **Connecting with Mission.** Walking into the works God prepared for me to do (Ephesians 2:10).
 
-### The page that comes back
+### A visit before Week 2
 
-Tucked in this packet is the Pre-Series Survey — one per person, about ten minutes at the kitchen table. Bring it back to the basket at the door next week (September 16). Only the Companion team sees it, it is stored securely, and it is never graded; skip anything you would rather not answer.
+In the days between tonight and Week 2, the Lead Companion will ask your family for a few unhurried minutes — partly to meet you properly, and partly to ask your permission for one thing: a before-and-after look at whether this curriculum works. Nothing comes home tonight, and nothing is ever handed out without your yes.
 
 ### This week’s practice
 

@@ -113,7 +113,7 @@ This is the only joint pre-work this week. Each, separately, picks one of the fo
 - Aaronic blessing card if anyone’s gone missing.
 - Tissues in each cluster space.
 - Light snacks at door for arrival window.
-- Return basket at the door for the Pre-Series Surveys that went home in the Week 1 welcome packet (spare copies beside it).
+- Return basket at the door for Pre-Series Surveys — families who said yes in the gap-week conversations bring theirs back here; more arrive as conversations finish. Spare copies for any yes-family that lost the page.
 
 ### Room arrangement for the clusters
 
@@ -138,7 +138,7 @@ Times below assume a 4:15 PM start. School releases at 4:00; the room is built b
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
 | 4:00 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15 |
-| 4:00 | Families arrive while the room builds — greeted by name; helping hands welcome; the survey basket sits at the door (the Pre-Series Surveys from the welcome packet come back tonight). | Open | All Companions | — |
+| 4:00 | Families arrive while the room builds — greeted by name; helping hands welcome; the survey basket sits at the door (surveys come back as the families who said yes finish them — gentle, never chased). | Open | All Companions | — |
 | 4:15 | Opening container — full eight-step protocol. | Shared | Lead Comp | 7 |
 | 4:22 | Check-in on Week 1 between-session practice. | Shared | Parent Comp | 5 |
 | 4:27 | Teaching: the seed recalled; Mark 4, the four soils, and Paul’s mixed ground (Romans 7). | Shared | Lead Comp | 13 |
