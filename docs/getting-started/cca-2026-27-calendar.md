@@ -23,7 +23,7 @@ The club meets **Wednesday afternoons, 4:15–5:30 PM** — seventy-five minutes
 | 3 | Sep 23 | **Telling Your Story I** (parents tell first) |
 | 4 | Sep 30 | **Telling Your Story II** — the first teen-led running, *contingent on the written student-leadership approval from the CCA legal review; adult-led with teen assisting until it arrives* |
 | 5 | Oct 7 | **Knowing and Being Known** |
-| 6 | Oct 21 | **Safe and Brave Together** — Quarterly Pulse 1 goes home; the quarter closes |
+| 6 | Oct 21 | **Safe and Brave Together** — Quarterly Pulse 1 goes home; the room’s question goes home with it; the quarter closes |
 
 *The complete Self and Others arc, closed before the quarter break.*
 
@@ -31,7 +31,7 @@ The club meets **Wednesday afternoons, 4:15–5:30 PM** — seventy-five minutes
 
 | Week | Date | Session |
 |---|---|---|
-| 7 | Nov 4 | **Hearing God in Scripture — PROAPT I** — re-entry opening; Pulse 1 returns collected |
+| 7 | Nov 4 | **Hearing God in Scripture — PROAPT I** — re-entry opening; Pulse 1 returns collected; the room reads itself (first group self-read) |
 | 8 | Nov 11 | **Hearing God — PROAPT II** (teen-led) |
 | 9 | Nov 18 | **The Garden of Your Heart I** |
 | 10 | Dec 2 | **The Garden of Your Heart II** (teen leads the walk-through) |
