@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Center.** Age-appropriate confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The Spirit does the work; we hold the space.
 
-**Between-session practice.** The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse (H6.3) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door. And the room’s question goes home with everyone, on no paper: *where do you think we are, as a room?* — answered together at Week 7 (the room’s self-read, Handbook Section 8).
+**Between-session practice.** The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse (H6.3) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
 
 **IJH source.** Vol 2 Second Exploration (Emotional Knots, including the Sin Knot type) and Vol 2 Fourth Exploration (Confession and Restoration); Vol 2 Eighth Exploration on container; Vol 2 Ninth Exploration on community amplification.
 
@@ -172,7 +172,7 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 | 4:37–4:38 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Parents-first named. Pray. Split. |
 | 4:38–5:11 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
 | 5:11–5:15 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 5:15–5:21 | Block 8: Between-session practice and the room’s question | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse (H6.3) distributed — Quarter 1 closes tonight. The room’s question sent home, answered together at Week 7. |
+| 5:15–5:21 | Block 8: Between-session practice and the room’s questions | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse (H6.3) distributed — Quarter 1 closes tonight. The round’s three questions sent home, answered together at Week 7. |
 | 5:21–5:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
 | 5:24–5:30 | Block 10: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 5:30+ | After: pastoral availability | Floating | Lead Comp | Stay accessible at least ten minutes. This night produces door conversations. |
@@ -301,7 +301,7 @@ This is the heart of the night. Each cluster runs the same structure. The order 
 
 *“Father, every person in this room named a real place tonight. Not a fake place, not a polished place — a real place where they want to walk in greater honesty before you. We bless that work. We pray restoration into every place that was named. We pray that the courage shown in these circles tonight would carry into Wednesday morning, when the place that was named will still be the place. Holy Spirit, walk these brothers and sisters home. In Jesus’ name, amen.”*
 
-## Block 8 — Between-Session Practice and the Room’s Question (5:15–5:21, 6 min)
+## Block 8 — Between-Session Practice and the Room’s Questions (5:15–5:21, 6 min)
 
 The between-session practice is introduced, and the first Quarterly Pulse goes home.
 
@@ -311,9 +311,9 @@ The between-session practice is introduced, and the first Quarterly Pulse goes h
 
 *“And one page goes home with you tonight.”* (Hold up H6.3; hand the stack around.) *“Tonight closes our first quarter together. This is the Quarterly Pulse: three questions, five minutes at home, honest. The team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. It comes back to the bin at the door at our first gathering back.”*
 
-*“And one more thing goes home tonight, and it has no paper and no deadline. All year the team has been quietly watching three things about us — not about any one of you; about all of us together, as a room. Whether anyone tells what God said to them and what it cost to obey. What this room does in the first ten seconds when something hard lands in the middle of an evening. And when somebody goes quiet — who notices. Over the break, if you want, sit with one question: where do you think WE are on those three, as a room? Not where any person is — nobody in this circle gets graded, tonight or ever. Where are WE? First night back, we answer it together. Some of you think best out loud — you’ll get your turn. Some of you think best in the quiet — that’s why the question goes home two weeks early.”*
+*“And three questions go home tonight — no paper, no deadline, nothing to prepare. Every week we close the same way: the evening’s leader says what went well and what they’d do differently, and then the room answers the same two questions. Tonight closes a whole quarter — so over the break, carry those same questions for all of us. What’s working well in this group that we ought to keep doing next quarter? What could we do differently that would make things even better? And one more: what would you tell somebody else about what this group is like? First night back, we talk about all of us — the group, never any one person. Some of you think best out loud — you’ll get your turn. Some of you think best in the quiet — that’s why the questions go home two weeks early.”*
 
-(This is the setup for the first room’s self-read — answered together in Week 7, Block 2. The discipline is in Handbook Section 8: rooms, never people; a mirror, not a test. The journal’s Week 6 reflection carries the question for anyone who wants to write toward it.)
+(This is the setup for the first room’s self-read — the Feedback Round at quarter scale, answered together in Week 7, Block 2; the discipline is in Handbook Section 8. The journal’s Week 6 reflection carries the three questions for anyone who wants to write toward them.)
 
 ## Block 9 — The Leader Feedback Round (5:21–5:24, 3 min)
 

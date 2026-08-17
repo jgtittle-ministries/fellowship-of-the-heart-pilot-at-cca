@@ -1290,7 +1290,7 @@ The place I named in cohort — where I want to walk in greater honesty — how 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-The room’s question, carried across the break — *where do you think we are, as a room?* (Not any person — the room. Week 7 answers it together; write toward it here if quiet is where you think best.)
+Three questions, carried across the break — what’s working well in this group that we ought to keep doing? What could we do differently that would make things even better? What would you tell somebody else about what this group is like? (The group, never any one person. Week 7 talks about them together; write toward them here if quiet is where you think best.)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

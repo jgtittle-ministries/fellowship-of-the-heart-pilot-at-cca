@@ -146,7 +146,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 | 4:00–4:15 | School day ends. Team + teen room-build crew enter (crew named on the Weekly Run Card): chairs to circle, crate opened, handout folders out, screen up. | — | Team + crew | 15-minute build window. |
 | 4:00–4:15 | Families arrive while the room builds — greeted by name; helping hands welcome. | Open | All Companions | First arrival after the quarter break. Pulse 1 returns collected in the bin at the door. |
 | 4:15–4:21 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Container re-held slowly after the break. Frame Week 7 as a turn. |
-| 4:21–4:31 | Block 2: Re-entry, and the room reads itself | Shared | Lead Comp | Break check-in, then the first room’s self-read — the question sent home at Week 6, answered together. |
+| 4:21–4:31 | Block 2: Re-entry, and the room reads itself | Shared | Lead Comp | Break check-in, then the first room’s self-read — the three questions sent home at Week 6, answered together. |
 | 4:31–4:37 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
 | 4:37–4:47 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole room works Mark 1:14–20 step by step. 10 minutes. |
 | 4:47–4:48 | Block 5: Bridge to the clusters and pair structure | Shared | Lead Comp | Family pairs explained. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
@@ -180,13 +180,13 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 *“For anyone whose Week 6 is still sitting heavy — the break does not close that door. The team is here. Find one of us before you leave tonight if you need to.”*
 
-*“And now the question that went home with you two weeks ago: where are we — as a room? The three things we watch, said plainly. Whether anyone tells what God said to them and what it cost to obey. What this room does in the first ten seconds when something hard lands. And when somebody goes quiet — who notices. Two ground rules before anyone answers. First: rooms, never people. Nobody in this circle gets placed on any map, tonight or ever. Second: this is a mirror, not a test. There is no grade, and wherever we actually are is a fine place for a young room to be — these muscles grow by being used, and using them is what the next quarter is for.”*
+*“And now the three questions that went home with you two weeks ago. Let’s apply the process we’ve been using all quarter for the leader reflection to ourselves, as a group. Same rules as every week — about the group, never about any one person. First: what’s working well in this group that we ought to keep doing next quarter? Second: what could we do differently that would make things even better? And third: what would you tell somebody else about what this group is like?”*
 
-*“I’ll go first, same as every feedback round.”* (The leader gives their own read of the first quarter — a sentence or two per sign, each with its evidence: “here is what I saw that tells me that.” Modeling the evidence is the whole teaching.) *“Now you. Where do you think we are — and what did you see that tells you that?”*
+*“I’ll go first, same as every round.”* (The leader answers all three — briefly, concretely, with a story or a moment attached to each: modeling that answers come with what you saw, not just verdicts.) *“Now you. Any of the three, in any order.”*
 
-(Take answers as they come; the Co-Companion scribes the room’s reads and the evidence offered — they go on tonight’s debrief sheet beside the team’s own marks. If an answer is all verdict and no evidence, ask gently: “what did you see?” If anyone starts to rate a person, redirect on the bright line: “rooms, never people.” And whatever the room concludes — glowing or grim — receive it without correcting; the room’s read is data, not a draft the team edits. Close warm:)
+(Take answers as they come; the Co-Companion scribes what the room would keep, change, and tell — they go on tonight’s debrief sheet, and at Thursday’s Call the team maps them to the three vital signs on its own side of the paper. If an answer drifts toward a person — “so-and-so talks too much” — redirect gently on the bright line: “the group, never any one person; if something needs a name, bring it to one of us after.” If a verdict comes bare, invite its story: “say more — what did that look like?” Receive everything without correcting, glowing or grim — the room’s read is data, not a draft the team edits. In the pocket, never on screen, only if the conversation leaves a gap that matters: “when hard things landed this quarter, how did we do?” · “what would a brand-new family feel in their first ten minutes with us?” Close warm:)
 
-*“Thank you. We’ll ask this again after each break — and by spring you’ll be able to see for yourselves what has grown. That’s the point of asking: a room that knows what it has can choose to keep it.”*
+*“Thank you. We’ll do this again after each break — and by spring, you’ll hear for yourselves how the answers have changed. That’s the point: a group that knows what it has can choose to keep it.”*
 
 ## **Block 3 — Romans 10:17 and the Hearing Chain (4:31–4:37, 6 min)**
 
