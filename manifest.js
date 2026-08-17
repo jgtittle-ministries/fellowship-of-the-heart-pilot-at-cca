@@ -346,6 +346,10 @@ window.SERIES = [
         "title": "Three Vital Signs"
       },
       {
+        "path": "docs/shared/watching-trust-grow.md",
+        "title": "Watching Trust Grow"
+      },
+      {
         "path": "docs/shared/weekly-run-card.md",
         "title": "Weekly Run Card"
       }
@@ -983,6 +987,14 @@ window.PATH_TO_INFO = {
     "title": "Three Vital Signs",
     "indexPath": "docs/shared/index.md",
     "prev": "docs/shared/signs-card.md",
+    "next": "docs/shared/watching-trust-grow.md"
+  },
+  "docs/shared/watching-trust-grow.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Watching Trust Grow",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/three-vital-signs.md",
     "next": "docs/shared/weekly-run-card.md"
   },
   "docs/shared/weekly-run-card.md": {
@@ -990,6 +1002,6 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Weekly Run Card",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/three-vital-signs.md"
+    "prev": "docs/shared/watching-trust-grow.md"
   }
 };

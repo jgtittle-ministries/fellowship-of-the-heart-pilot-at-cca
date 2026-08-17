@@ -37,6 +37,7 @@ export const TITLE_OVERRIDES = {
   'shared/path-home-card.md': 'Path Home Card',
   'shared/measurement-covenant.md': 'Measurement Covenant',
   'shared/three-vital-signs.md': 'Three Vital Signs',
+  'shared/watching-trust-grow.md': 'Watching Trust Grow',
   'shared/keeping-the-flame.md': 'Keeping the Flame',
   'shared/companions-and-coverings.md': 'Companions and Coverings',
   'shared/weekly-run-card.md': 'Weekly Run Card',
