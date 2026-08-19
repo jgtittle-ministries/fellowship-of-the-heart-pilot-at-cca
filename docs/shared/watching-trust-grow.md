@@ -16,7 +16,7 @@ Trust is what the [Three Vital Signs](three-vital-signs.md) run on. Costly telli
 
 Most Companions have never read the trust research, and none of them need to. What a Companion needs is to recognize trust's ages when they hear them — at a pickup, in a cluster, in the sentence a parent uses to describe the group to a neighbor — because a room announces where it is in its ordinary talk long before any instrument could tell you. Half a century of research compresses to one claim worth carrying: **trust grows in stages, each the foundation for the next, and the stage a room's trust has reached is the truest reading of how deeply its life together has gone inward.**
 
-(For the curious, the bones: the three stages are Lewicki and Bunker's trust-development model; the watchable markers come from Edmondson's psychological-safety research; the deepening-disclosure gradient is Altman and Taylor's; the findings about conflict are Wheelan's and Peck's group-development work; and a meta-analysis of 112 studies places a team's internal trust among the most consequential facts about it. None of that vocabulary ever enters the room.)
+(For the curious, the bones: the three stages are Lewicki and Bunker's trust-development model; several of the watchable markers come from Edmondson's psychological-safety research; the deepening-disclosure gradient is Altman and Taylor's; the findings about conflict are Wheelan's and Peck's group-development work; and a meta-analysis of 112 studies places a team's internal trust among the most consequential facts about it. None of that vocabulary ever enters the room.)
 
 # The three ages of a room's trust
 
@@ -48,7 +48,7 @@ One thing, three ages — like the signs' first, growing, and full forms. Every 
 
 # Six markers — small events that read trust directly
 
-Each of these is watchable in an ordinary session, and each is validated by the safety research. None requires a form; all of them belong in the debrief sheet's margins when they happen.
+Each of these is watchable in an ordinary session. The first three sit close to the items by which psychological safety is actually measured; the fourth belongs to the group-development work on conflict, the fifth to the reciprocity gradient, and the sixth is our own observation, offered as such. None requires a form; all of them belong in the debrief sheet's margins when they happen.
 
 1. **A mistake admitted, unprompted.** *"Honestly, I skipped four mornings this week."* A room that hears this without flinching has left HELD.
 2. **Help asked for.** A parent asks the room how they handle a teenager's silence. Asking is trust spending itself.
@@ -75,7 +75,7 @@ A servant is held by the master's structure; then the Lord renames the relations
 
 - **Observer-side only.** This card is never taught to the room and never spoken as an assessment. Permission is for pages; this is a shepherd paying attention.
 - **One reading, once a quarter.** At the Thursday Call after each room's self-read (Weeks 7, 12, 18), the team circles one word on that week's debrief sheet: **HELD, KNOWN, or OWNED** — the room holds because the container holds it, because they know each other, or because they have become each other's people. Circle the lowest honest answer; a room, like a body, reads at its lowest steady sign.
-- **Listen to the tell-somebody answers.** The self-read's third question yields trust vocabulary unprompted. *"It's safe and well-run"* is HELD language. *"They know me there"* is KNOWN. *"These are my people — I could say anything"* is OWNED. Watching the room's own words migrate across the year is the truest measure of deepening this program owns, and it costs nobody a page.
+- **Listen to the tell-somebody answers.** The self-read's third question yields trust vocabulary unprompted. *"It's safe and well-run"* is HELD language. *"I know how they'll take it"* is KNOWN. *"These are my people — I could say anything"* is OWNED. Watching the room's own words migrate across the year is the truest measure of deepening this program owns, and it costs nobody a page.
 - **Never a target.** A HELD room in October is a room whose scaffolding is working, not a room that is behind. The ages are a map, not a schedule. Rooms, never people; mirrors, never levers; and no age of trust measures anyone's standing with God — grace is complete at every stage, the same for the newest guest as for the founder.
 
 *Companion cards: the [Three Vital Signs](three-vital-signs.md) (what trust does under load) · the [Measurement Covenant](measurement-covenant.md) (what binds everyone who reads any of this) · Handbook Section 8 (where the quarterly reading lives).*
