@@ -112,7 +112,7 @@ The Thursday Call's look-ahead before Week 12 covers:
 | 4:26–4:34 | Block 2: New every morning — Lam. 3:22–23, Ps. 126 | Shared circle | Lead Comp | Read both. Teach the mercies-new-this-morning frame for the whole evening. |
 | 4:34–4:54 | Block 3: “What held?” | Family clusters | Cluster Comps | 20 min. Parents first, arranged ahead. Slips are data. No fixing, no scoreboard. |
 | 4:54–5:09 | Block 4: The walk home | Shared circle | Lead Comp | Merge. The Path Home Card in action — the welcome, Luke 15 register. Nobody owes an explanation. |
-| 5:09–5:13 | Block 5: Re-anchoring the year | Shared circle | Lead Comp | The map moment: the God arc behind us; Mission (Wk 13) and the Rhythm ahead. |
+| 5:09–5:13 | Block 5: Re-anchoring the year — and the door out, once | Shared circle | Lead Comp | The map moment: the God arc behind us; Mission (Wk 13) and the Rhythm ahead. Closes with the one-sentence door-out reminder. |
 | 5:13–5:16 | Block 6: Between-session practice — restart one | Shared circle | Co-Comp (Parent) | One daily practice, chosen tonight, written in the journal. Just one. |
 | 5:16–5:23 | Block 7: Closing container | Shared circle | Lead Comp | Section 5 closing protocol, steps 1–5. The landing words against the opening words are tonight’s best reading. |
 | 5:23–5:27 | Block 8: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. The leader answers both questions first, then the room. |
@@ -255,6 +255,12 @@ Brief and plain. The room re-enters the year knowing where it stands on the map.
 *“Ahead of us: the turn outward. Next Wednesday is Week 13 — Mission. Everything so far has been about the water coming in; Week 13 is about where it flows out — what was prepared for you to walk in. Then, a little further on, the Rhythm — the week we fold everything you have learned into one card you build with your own hand, the rhythm that goes with you when this year is over. And past that, in the spring: the closing quarter, the sendings, the commissionings.”*
 
 *“So tonight sits exactly where it should: the room rebuilt, the readings taken, mercy new this morning — and the whole second half of the journey in front of us. We are not starting over tonight. We are picking the trail back up, together, further along than we have ever been.”*
+
+## The door out, said once more
+
+Week 1 named one adult outside this team (Handbook Section 6; Week 1, Block 2b), and the year is now long enough that the first telling has gone quiet. The room is being re-anchored tonight anyway, so the reminder belongs here and costs nothing. **One sentence, absorbed inside Block 5 — no retiming; the run sheet still sums to 75.** Do not dwell on it and do not invite questions about it in the room. The lightness is the point, the same as it was in September.
+
+*“One more thing while we are getting our bearings. Pastor Bobby Gore is still there, and he is still not part of our team — his number is on the safety page at the front of your journal. If something ever needs saying that you would rather not say to me, or to your Companion, or to your parents, you can go straight to him. Same as we said in September.”*
 
 ## **Block 6 — Between-Session Practice: Restart One (5:13–5:16, 3 min)**
 

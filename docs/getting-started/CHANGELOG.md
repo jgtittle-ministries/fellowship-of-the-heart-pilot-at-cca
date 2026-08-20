@@ -11,6 +11,87 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — What the watching keeps, said out loud
+
+The permission conversation told families what the pages are and what a no costs, and said that the team's
+own watching is care rather than a survey. What it never said is that the watching leaves a written record
+with their names on it: a page per participant, written four times across the year. A family that is asked
+for permission while the thing most worth knowing goes unmentioned has not really been asked.
+
+So the conversation now names it, unprompted, in the same breath as everything else: notes with names on
+them, what we notice and how we are praying, never a score, never read to the room. **Permission that hides
+what is kept is not permission.** The carry card in the CCA folder carries the same line and still prints on
+one page.
+
+# August 2026 — The door out has a name
+
+**Pastor Bobby Gore, (831) 277-9878**, named 19 August 2026. He is not a Companion, not a parent of a
+participant, and not the Lead, which is the whole requirement. The launch-blocking checklist item is
+satisfied on the name; the number is still to be phone-verified with the rest of the crisis card
+before Week 1.
+
+Two gaps closed alongside it. The Week 1 script promised *“it is on the page you take home tonight”*
+and the take-home page did not carry it — Handout H1.1 now does. And the handbook said the door is
+named again at Week 12, once the first telling has gone quiet, but Week 12’s own plan had no such
+line — Block 5 now closes with one sentence, absorbed, and the run sheet still sums to seventy-five.
+
+His name and number also sit on the safety page at the front of the Personal Heart Journal, under the
+Cohort Companion line and above 988. The journal is the one thing every participant keeps all year,
+and a door nobody can find at eleven at night is not a door.
+
+# August 2026 — The door out, and four other things decided in advance
+
+The methodology review put six items on a separate clock from the manuscript, because they concern
+minors in a program that opens in two weeks. Five are settled here; the sixth is a name the founder
+must supply.
+
+**The door out.** Every safeguard in Section 6 fires on what a Companion *sees* — the Settle
+Protocol, the watching Companion during a parent’s telling, the crisis protocol. That machinery is
+real, and it cannot by construction reach a young person who shows nothing, which is exactly what a
+teenager does when the hard thing is at home, or is about a Companion, or is about this program. So
+the program now names one adult outside the Companion team, prints how to reach them on the take-home
+page, and says it aloud in Week 1 in front of the parents: *if something ever needs saying that you do
+not want to say to me, or to your Companion, or to your parents, you can go straight to them — no
+reason, no permission, and nobody here will be told you did.* Their use of that door is never reported
+to the team, never appears on a debrief sheet, and is never an instrument reading. **The name is a
+launch-blocking item: if it is blank, the program does not open.** Week 1 gains a one-minute block for
+it, paid for out of the Connects block, and the run sheet still sums to seventy-five.
+
+**A stopping rule on being sought.** The sought stray is the one sign whose practice acts on someone
+who did not ask for it. Pursuit is an offer; a decline is honored the first time; nobody is asked
+twice in the same week after a clear no. And the reading does not drop when someone declines — the
+sign measures whether the room noticed and went, not whether the person yielded, so a stray sought and
+declined is marked *seen* with the decline recorded beside it. Otherwise the instrument would quietly
+reward pursuing people until they gave in. Three weeks of declines is a care question for the Thursday
+Call, never a reason to press harder.
+
+**A pass is data.** The sheet now records who passed in the circle. A participant who passes is
+exercising a right the container promised them, and an answer given because an answer was expected is
+compliance rather than costly telling — the counterfeits already name it, and the pass-read lets the
+team tell the two apart.
+
+**When a family stops coming.** One warm reach within a week, from the Companion who knows them best,
+and then silence is an answer: no second chase, nothing passed through their teenager or another
+family. It is recorded as data with a date and no diagnosis, and it is read as a safety question
+first, since a family that quietly leaves is the earliest warning this design has.
+
+**How long we keep what we gather.** The Measurement Covenant had ten commitments about how the
+material is held and nothing about how long, and a promise with no endpoint is not a limit. Family-
+facing pages are destroyed at the end of the school year following the one they describe; weekly
+debrief sheets, which carry names, are destroyed when the cohort finishes its series; the de-identified
+ledger is kept, because it carries nobody’s heart in it; journals are never collected, so there is
+nothing to destroy. Destruction is recorded by date and confirmed to the overseer. Retention periods
+must still be confirmed against school policy and Virginia law by counsel.
+
+**And a promise made keepable.** “The room never learns who answered which way” was a promise
+about other people’s eyes. At three to six families it cannot be kept, so it now says what we can
+keep: nobody is told, nobody on the team asks, and no page is handed out or collected in front of the
+room.
+
+# August 2026 — The reader from outside, and the line only surprise can answer
+
+The source-fidelity review's one structural finding was that nothing in this design is positioned to notice what the whole team takes for granted: the covenant is ours, the disconfirmation conditions are ours, the instruments are ours, and every reading passes through people formed inside our own vocabulary. The remedy turned out to sit inside the method we had already claimed — theological action research is a partnership between insiders and outsiders, and a practitioner reporting alone is not doing it. Two things follow, both adopted for the pilot year. The weekly debrief gains a line only surprise can answer: *one thing tonight that did not go as I expected, and what I did in the moment* — not a quality rating and not a confession, but the one place a working theory shows itself, since what we actually believe appears where the plan stopped holding. And once a quarter a reader from outside the team spends two hours with the published materials and one session and answers a single question: *judging only by what this program does, what does it appear to believe?* They see no debrief sheets, no journals and no verbatim notes; the covenant does not permit it and it is not what we are asking them for. Their answer is recorded as given, whether or not we recognize ourselves in it, and the Thursday Call after each visit spends ten minutes on the gap between their sentence and ours.
+
 # August 2026 — What the safety research actually validates
 
 A source-fidelity review of the protocol paper, run with the cited authors seated on their own work, caught two overclaims that lived in the [Watching Trust Grow](../shared/watching-trust-grow.md) card in the same words. First, the card said all six markers were validated by the safety research; checked against Edmondson's own scale items, the first three sit close to what psychological safety actually measures, the fourth belongs to the group-development work on conflict, the fifth to the reciprocity gradient, and the sixth — your own necessity falling — is this project's observation, now offered as such. Second, the KNOWN example sentence was pointing the wrong way: knowledge-based trust in the model is the predictability *you* hold about other people, so *“I know how they'll take it”* is the KNOWN tell, not *“they know me there,”* which is being known and belongs to the disclosure gradient. The three ages, the six markers, and the two warnings are otherwise unchanged. Nothing about how a Companion uses the card changes; what changes is what we claim the research says.

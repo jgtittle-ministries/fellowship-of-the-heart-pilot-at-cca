@@ -182,7 +182,32 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 “What this is, more than anything, is an invitation. Specifically, the invitation Jesus made in the verse we’ll come back to in a few minutes — to a kind of life that most of us experience only in flashes. We’re going to spend this year together practicing the disciplines that, in our experience, characterize the people who live in that kind of life regularly.”
 
-## Block 3 — The Four Connects, Kitchen-Table Version (4:22–4:30, 8 min)
+## Block 2b — The Door Out (4:22–4:23, 1 min)
+
+**Aim.** Every participant leaves Week 1 knowing one adult they can reach who is not on this team.
+
+**Why it is here and not later.** The people this conversation might one day be about are all in
+this room. A young person who needs a door needs to have been told about it long before the night
+they need it, and told in front of their parents, so that using it later is ordinary rather than an
+act of defiance.
+
+**Script.**
+
+*“One more person you should know about before we start. This is Pastor Bobby Gore, and Pastor
+Gore is not part of our team. Here is how you reach him — it is on the page you take home tonight,
+and it is on the safety page at the front of your journal. If something ever needs saying that you
+do not want to say to me, or to your Companion, or to your parents, you can go straight to him. You
+do not need a reason, you do not need permission, and nobody here will be told that you did. I hope
+nobody ever needs it. It is there because you should not have to wonder.”*
+
+**Then move on.** Do not dwell, do not explain further, and do not invite questions about it in the
+room. One minute, plainly said, and into the Connects. Weight added here reads as warning; the
+lightness is the point.
+
+**Repeat it** at Week 12, in one sentence, when the year is long enough that the first telling has
+faded.
+
+## Block 3 — The Four Connects, Kitchen-Table Version (4:23–4:30, 7 min)
 
 **Stand at the whiteboard.** The Four Connects diagram should already be drawn. Walk the cohort through it briefly.
 
@@ -511,6 +536,10 @@ Four ways of living the great commandment (Matthew 22:37–39):
 ### A visit before Week 2
 
 In the days between tonight and Week 2, the Lead Companion will ask your family for a few unhurried minutes — partly to meet you properly, and partly to ask your permission for one thing: a before-and-after look at whether this curriculum works. Nothing comes home tonight, and nothing is ever handed out without your yes.
+
+### One more person you should know about
+
+**Pastor Bobby Gore — (831) 277-9878.** Pastor Gore is not part of our team. If something ever needs saying that you do not want to say to your Companion, or to your parents, you can go straight to him. You do not need a reason and you do not need permission, and nobody here will be told that you did. His number is also on the safety page at the front of the Personal Heart Journal.
 
 ### This week’s practice
 

@@ -40,6 +40,30 @@ The first seven are the Guardrails of [*A Church Prepared for Revival*](https://
 
 10. **Renewal or lapse.** Every instrument in use is brought back to the table once a year: re-explained, re-consented, and re-signed under this covenant — or retired. No survey, tracker, or note-taking practice continues by momentum. Wineskins stiffen; this is how we keep ours supple, including the one this covenant is written on.
 
+# How long we keep what we gather
+
+The ten commitments govern how this material is held. This governs how long, because a promise with
+no endpoint is not a limit, and because whoever inherits these files after us will do whatever the
+document permits.
+
+- **Family-facing pages** — the before-and-after and the three quarterly check-ins — are
+  destroyed at the end of the school year following the one they describe. Their findings survive in
+  the de-identified ledger; the pages themselves do not.
+- **Weekly debrief sheets**, which carry names, are destroyed when the cohort finishes its series.
+  They exist to serve the care of people currently in the room, and they stop being that.
+- **The de-identified ledger** — counts, dates, room-level readings, no names — is kept. It
+  carries no one’s heart in it, and it is the only artifact that lets a later reader check what
+  was claimed against what was recorded.
+- **Journals are never collected**, so there is nothing here to destroy. That is the design and it
+  stays.
+- **Anything touching a reporting obligation** leaves this covenant entirely and follows the
+  school’s records policy and the law, whatever this page says.
+
+Destruction is done by the Lead Companion, recorded by date in the ledger, and confirmed to the
+overseer who holds the signed copy. *(Retention periods and the destruction method must be confirmed
+against CCA policy and Virginia law by qualified counsel before the first instrument runs; the
+periods above are this fellowship’s intent, not a legal opinion.)*
+
 # The signatures
 
 Each member of the Companion team and each leader with any access to instrument results signs below, annually, before the year's first instrument is used. Signing means: *I have read the Guardrails chapter, I accept these ten commitments as binding on me personally, and I accept the weep-test — if my heart goes cold toward these souls, I will hand the measures to someone whose heart is warm.*

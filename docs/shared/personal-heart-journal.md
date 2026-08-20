@@ -112,6 +112,7 @@ Some entries you may want to read aloud to someone trusted — your Cohort Compa
 The work in these pages is private, but you were never meant to carry the heavy things alone. If you are in danger, thinking about hurting yourself, or someone is hurting you, tell a trusted adult today — your Cohort Companion, a parent or guardian, a pastor, or a teacher you trust.
 
 - **Your Cohort Companion:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(name and how to reach them)*
+- **Someone outside this group — Pastor Bobby Gore, (831) 277-9878.** He is not part of the Companion team. If the thing that needs saying is one you would rather not say to your Companion or to your parents, go straight to him. You do not need a reason, you do not need permission, and nobody here will be told that you did.
 - **Anytime, day or night:** call or text **988** (Suicide & Crisis Lifeline); in an emergency, call **911**.
 
 You will not be in trouble for telling. Reaching out is the brave and faithful thing to do — and you will not be alone in it.
