@@ -11,6 +11,27 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — How far is the east from the west
+
+Week 1's saved discussion lands on a definition: *the desire to be connected to Christ, acted on by
+turning to Him.* The founder's own way of teaching that word has now been written into the plan, right
+after the definition, where the room has just heard it and has not yet been asked to do anything with it.
+
+The leader asks how far the east is from the west, takes the compass out on their phone, stands in the
+middle of the circle, faces east, and asks how far west is from here. Then the whole room is brought in:
+everybody up, turn and face east together, and then turn west together. *That is how far west is from
+east.* The room turns rather than watching one person turn, because that is where the teaching lands. It is all about which way you are pointing, and no matter when you catch
+yourself pointing east, all you have to do is turn around and point west. Then stop: the turn lands in
+the body before it lands in the head, and the room does not need the point made twice.
+
+Two minutes, paid for out of the blocks on either side so the deep work is untouched — One True Sentence
+goes from thirteen to twelve, the John 10:10 teaching from nine to eight, and the saved discussion from
+eleven to thirteen. The run sheet still sums to seventy-five and the clock runs unbroken.
+
+While retiming it, the run-sheet table turned out to be a version behind the block headings: the door out
+was added in August with its minute paid out of the Connects block, but the table still showed the
+Connects running eight minutes from 4:22 and carried no row for the door at all. Both corrected here.
+
 # August 2026 — What the watching keeps, said out loud
 
 The permission conversation told families what the pages are and what a no costs, and said that the team's

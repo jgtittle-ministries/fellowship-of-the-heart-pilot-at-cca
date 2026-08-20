@@ -139,11 +139,12 @@ Times below assume a 4:15 PM start. School releases the room at 4:00; the first 
 | 4:00 | Families arrive while the room builds — greeted by name; helping hands welcome. Name tags and light snacks from the crate. | Open | All Companions | — |
 | 4:15 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 4 |
 | 4:19 | What this is and isn’t — short framing. | Shared | Lead Comp | 3 |
-| 4:22 | The Four Connects — kitchen-table teaching. | Shared | Lead Comp | 8 |
+| 4:22 | The door out — one adult outside this team, named aloud. | Shared | Lead Comp | 1 |
+| 4:23 | The Four Connects — kitchen-table teaching. | Shared | Lead Comp | 7 |
 | 4:30 | Container introduction — the first full opening protocol. | Shared | Lead Comp | 12 |
-| 4:42 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 13 |
-| 4:55 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 9 |
-| 5:04 | What does it mean to be saved? — the thief’s case, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 11 |
+| 4:42 | One True Sentence — each person says why they are here. | Shared | Lead Comp + Co-Comps | 12 |
+| 4:54 | Scripture: John 10:10b — reading, reflection, and the seed stated plainly. | Shared | Lead Comp | 8 |
+| 5:02 | What does it mean to be saved? — the thief’s case, Psalm 103:12 and the compass, Romans 10, and the first-page question written in the journal. | Shared | Lead Comp | 13 |
 | 5:15 | Between-session practice introduced. | Shared | Parent Comp | 3 |
 | 5:18 | Closing container — first full closing protocol. | Shared | Lead Comp | 6 |
 | 5:24 | The Leader Feedback Round — debut. | Shared | Lead Comp | 3 |
@@ -253,7 +254,7 @@ This is the most important block of Week 1. Do not rush it.
 
 Have the cohort stand. Walk through the eight-step opening container protocol from the Handbook (Section 5). Read aloud or paraphrase from familiarity. Hold each step. Do not rush. The first one-word check-in is the most important moment of Week 1 — if every single person says one word, you have your first win.
 
-## Block 5 — One True Sentence (4:42–4:55, 13 min)
+## Block 5 — One True Sentence (4:42–4:54, 12 min)
 
 ## Script
 
@@ -293,7 +294,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 - Anyone who passes — acknowledge with “Thanks. We’re glad you’re here.” Move on without ceremony.
 - If someone says something heavier than expected (“I’m here because I’m drowning”), do NOT process in the circle. Simple: “Thank you for trusting us with that. We will hold that. Let’s keep going.” Follow up after.
 
-## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (4:55–5:04, 9 min)
+## Block 6 — Scripture: John 10:10b — and the Seed, Stated Plainly (4:54–5:02, 8 min)
 
 ## Script
 
@@ -321,7 +322,7 @@ The Lead Companion should pre-write three or four candidate sentences and pick t
 
 “That is the seed. Every Wednesday of this year, that is what will be landing on the ground of your heart. Which raises a question worth sitting with on our very first night —”
 
-## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (5:04–5:15, 11 min)
+## Block 7 — What Does It Mean to Be Saved? — The Thief’s Case (5:02–5:15, 13 min)
 
 Shared circle, Lead Companion holding. A real discussion, not a quiz — the room offers its answers first, and the thief does the correcting. Standing rules apply: parents may answer first to break the ice, nobody is cold-called, every answer is received without grading. *(On screen: the question slide alone — nothing else — until the room has had its say; then the response slide.)*
 
@@ -346,6 +347,33 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 “And hear how Paul says the same thing with two verbs: *‘because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved’* (Romans 10:9–10). Heart and mouth. Believe, and say so. That is exactly what the thief did — he believed who Jesus was, and he said so, out loud, with the only breath he had left.
 
 “So here is what this room means by *saved*, all year long: **the desire to be connected to Christ, acted on by turning to Him.** Not a certificate. Not a prayer said perfectly at the right age. A connection — begun the moment you honestly want Him and turn to Him. If that desire and that turning are in you — however young you were, whatever words you used, whether you remember a date or not — you are His.”
+
+### How far is the east from the west?
+
+*(Two minutes. Have the compass app open on your phone before you stand, and check it in the room during setup — phone compasses sulk indoors. If it will not settle, pick a wall beforehand and call it east; the demonstration does not need the needle to be right, only the turn to be real. Slide: Psalm 103:12.)*
+
+“One question before we write. How far is the east from the west?”
+
+*(Let two or three answers come. Somebody usually says infinite, or forever. Receive them. Then take your phone out, open the compass, and walk into the middle of the circle.)*
+
+“Okay. I am heading east.” *(Face east. Hold it a beat, long enough for the room to see you checking.)* “How far is west from here?”
+
+*(Then bring the room in. They have been sitting since the container opened, so ask for their feet.)*
+
+“Everybody up for a second. Turn and face east with me.”
+
+*(Wait for the whole room to come around. Let it be slightly awkward — the awkwardness is part of what makes it stick. Do not hurry them.)*
+
+“That is east. Now — turn west.”
+
+*(Turn with them. Slowly. Stop, and let the room stand there facing the other way for a beat before you say anything.)*
+
+“That is it. That is how far west is from east. It is all about which way you are pointing. And no matter when you catch yourself pointing east — no matter how long you have been walking that way — all you have to do is turn around and point west.”
+
+“That is what the verse means when it says He removes our transgressions as far as the east is from the west. And it is the same word we just used for what saved is: turning.”
+
+**Then stop.** Do not explain it further, and do not open it for discussion. The turn lands in the body before it lands in the head, which is why the whole room turns rather than watching one person do it, and a room that has just turned around on its own feet does not need the point made a second time.
+
 
 ### Facilitation notes
 
