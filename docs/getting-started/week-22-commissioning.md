@@ -8,6 +8,8 @@ Week 22
 
 *The exit gate as a witnessed rite — the seniors leave having begun, not finished*
 
+![Arms joined, and holding.](images/wk22-commissioning.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

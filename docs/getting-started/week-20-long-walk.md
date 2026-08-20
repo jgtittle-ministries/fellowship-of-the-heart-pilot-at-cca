@@ -8,6 +8,8 @@ Week 20
 
 *The dry-season teaching comes home — taught to the whole room by its own senior teens, the night before the sendings*
 
+![The walker on the high trail.](images/wk20-long-walk.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

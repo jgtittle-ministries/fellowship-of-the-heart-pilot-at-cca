@@ -8,6 +8,8 @@ Week 15
 
 *The long walk installed before the sending — and four questions a parent dares to ask at their own kitchen table*
 
+![The long road, in due season.](images/wk15-rhythm.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

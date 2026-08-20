@@ -8,6 +8,8 @@ Week 16
 
 *Cards and a shared meal — the night the year exhales*
 
+![Bread, broken at the table.](images/wk16-family-night.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

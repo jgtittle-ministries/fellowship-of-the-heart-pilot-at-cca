@@ -8,6 +8,8 @@ Week 14
 
 *The rotation’s evening — another willing teen takes a full leading rep with a practice the room already owns*
 
+![The baton, hand to hand.](images/wk14-second-running-a.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

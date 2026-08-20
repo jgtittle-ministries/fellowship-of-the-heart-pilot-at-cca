@@ -8,6 +8,8 @@ Week 17
 
 *The evening that absorbs the year’s surprises — or walks the rhythm together*
 
+![Rain on the glass; the light still on.](images/wk17-float.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

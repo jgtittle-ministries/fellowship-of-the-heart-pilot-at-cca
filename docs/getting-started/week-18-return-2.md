@@ -8,6 +8,8 @@ Week 18
 
 *A lighter homecoming — the room knows the way now, and the year begins to hand itself over*
 
+![Green, through the crack in the pavement.](images/wk18-return-2.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

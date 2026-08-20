@@ -8,6 +8,8 @@ Week 12
 
 *Coming home after the break — reading honestly what held, welcoming every walker back, and beginning again*
 
+![Light, at the end of the winter road.](images/wk12-return.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton

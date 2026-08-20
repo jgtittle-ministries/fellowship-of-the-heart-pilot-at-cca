@@ -8,6 +8,8 @@ Week 19
 
 *The rehearsal — the Companions-in-Formation teach the two mercy cards in the small room, one week before they teach them in the large*
 
+![One flame, and then another.](images/wk19-second-running-b.jpg)
+
 **COMPANION LESSON PLAN**
 
 Pilot edition — Covenant Christian Academy of Warrenton
