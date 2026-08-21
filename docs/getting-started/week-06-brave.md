@@ -8,7 +8,7 @@ Week 6
 
 *Confession and restoration in an age-appropriate community*
 
-![Standing through the weather.](images/wk05-brave.jpg)
+![A hand held while the hard thing is said.](images/wk06-brave.jpg)
 
 **COMPANION LESSON PLAN**
 
