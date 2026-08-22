@@ -671,4 +671,21 @@ Every Companion reads the Signs Card and the Path Home Card slowly, for themselv
 - ☐ Parents, for the willing — the Four Questions, asked of your teen at home (only if both willing; unhurried, no audience; “not yet” counts)
 - ☐ Married parents — the same four questions, asked of your spouse, separately (only if both willing)
 
+**The Rhythm Card — how to run it**
+
+Run your Rhythm Card as built — for real, at the times and places written on it; the break is its first field test. One journal line a day on where it held and where it slipped — the slips are data, not verdicts. Miss a day? Begin again on the next available day; do not start over, do not double up.
+
+**The Four Questions — for the willing**
+
+The parent asks the teen, in this order — unhurried, no audience, phone away, yours first; married parents also ask their spouse, separately:
+
+1. What has it been like to live with me all these years?
+2. What have been my messages to you?
+3. How have I wounded you?
+4. What would you like from me going forward?
+
+You ask, then you listen — listening questions and “thank you” only. Never correct the record, never litigate an answer, never punish one later. Not ready to hear the answers? Wait; waiting is wisdom.
+
+*Willing only, both directions — “pass” and “not yet” are full answers; a letter counts; nobody will ever check. If an answer touches abuse, self-harm, or anyone’s safety, it belongs with the Companions (Handbook §6). Goes home with this card: [H15.3](#handout-h15-3) (the Four Questions home card) and your own built Rhythm Card.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

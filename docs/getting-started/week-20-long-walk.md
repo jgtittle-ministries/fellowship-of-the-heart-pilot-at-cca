@@ -472,7 +472,11 @@ One printed handout for Week 20, plus the two mercy cards reprinted per particip
 
 **This week’s one-time practices (check when done):**
 
-- ☐ The Post-Series Survey ([H20.1](#handout-h20-1)) — about twenty honest minutes, your own page, back in the bin at the Week 21 door
+- ☐ The Post-Series Survey ([H20.1 — the pages handed out tonight](#handout-h20-1)) — about twenty honest minutes, your own copy, back in the bin at the Week 21 door
 - ☐ Find both mercy cards at home and show one other family member where they live
+
+**The Post-Series Survey — what goes home tonight**
+
+Your own pages — [H20.1](#handout-h20-1) — come home with this card. Write your answers there, not here: this card only tracks your practices. The bookend to orientation’s Pre-Series Survey: one per person — parents and teens each their own — about twenty honest minutes, signed or anonymous. This is a pilot, the first year this has ever run anywhere; your honest answers, especially the critical ones, are a gift to families you will never meet. Same covenant: no scores, no grades, mirrors not levers. Back in the bin at the Week 21 door.
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

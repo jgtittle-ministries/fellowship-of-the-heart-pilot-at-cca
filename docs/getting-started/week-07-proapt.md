@@ -573,4 +573,10 @@ Three handouts for Week 7. All three are the same for everyone; the passage shee
 | Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Five-Minute Examen (evening) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
+**Daily PROAPT — how to do it**
+
+One short passage a day, five to fifteen minutes, at a time you name tonight — “morning before school” / “right after dinner.” The six steps are on your PROAPT card ([H7.1](#handout-h7-1)): **Pray · Read · Observe · Apply · Pray again · Tell.** Pick a passage path from [H7.3](#handout-h7-3) — Mark 1–2 a story a day, the Sermon on the Mount or Romans 8, or a Psalm-and-Gospel pairing — and use the daily template on the journal’s Week 7 pages.
+
+*The chain only works if we work it. Goes home with this card: H7.1 (step card) and H7.3 (passage paths).*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

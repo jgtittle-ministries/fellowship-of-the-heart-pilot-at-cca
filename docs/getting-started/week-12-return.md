@@ -372,4 +372,10 @@ No new handouts for Week 12 — deliberately. The evening runs entirely on mater
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | My one practice — the one written in my journal, with its when and where | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
+**Restart one — how to do it**
+
+One daily practice — the morning question, the evening note, or PROAPT. Just one. Write it at the top of a fresh journal page tonight, with when and where: “the morning question, 6:50, kitchen table.” That one practice, daily, this week.
+
+*Miss a day? Do not start over — begin again on the next available day. One seed goes back in the ground.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

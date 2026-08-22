@@ -525,4 +525,12 @@ After the action, write three or four sentences in your Personal Heart Journal:
 - ☐ One small action aligned with your downhill answer — then three or four journal sentences on what happened
 - ☐ The Personal Doubts Inventory, kept alive — revisit or add to it once (not new this week)
 
+**One small action — how to do it**
+
+One. Not a campaign, not a new schedule. Specific — then journal what happens. If your downhill answer is “what the room gets is permission to be honest” — in one specific conversation this week, say one true thing you would normally have edited. (More examples on [H13.3](#handout-h13-3).)
+
+**Ahead — for the family calendar**
+
+Week 21 — the family commissioning: bring your whole family, even members who have not been here; we run to 6:15 that night, with light food from 4:00. Week 22 — the commissioning of our Companions-in-Formation: their night; come to witness it.
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

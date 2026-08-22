@@ -463,4 +463,12 @@ Sit as a participant. Journal like everyone else, and share or keep silence in y
 
 - ☐ ☐ Two returns to the garden — 5–10 minutes each; journal each visit, even two sentences
 
+**Returning to the garden — keeping the rhythm**
+
+- You know the way now — no script. Go back, walk a little, notice where He is.
+- Journal each visit, even two sentences — the garden speaks slowly, and the journal is how you hear it across weeks.
+- If something heavy surfaces — stop, open your eyes, come back another day, and tell a trusted adult.
+
+*Three visits drops to two on purpose — a rhythm that survives, not a sprint that impresses.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

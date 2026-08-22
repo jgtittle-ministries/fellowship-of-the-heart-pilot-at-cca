@@ -363,4 +363,10 @@ No new handouts for Week 19 — by design. The two mercy cards are shared materi
 
 - ☐ The two mercy cards — the Signs Card and the Path Home Card — given a findable spot at home, decided together as a family
 
+**The two mercy cards — how to do it**
+
+Somewhere findable — a drawer everyone knows about, the kitchen cabinet door, inside the family Bible. Decide the spot together. If all goes well, they will sit there gathering dust for years. That is the job — the cards wait.
+
+*Next Wednesday is The Long Walk — the whole room, the whole teaching. Come ready to receive it again.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

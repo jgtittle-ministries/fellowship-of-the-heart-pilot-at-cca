@@ -297,4 +297,10 @@ No handouts for Week 18 — none printed, none needed. The evening runs on the r
 
 - ☐ Parents, for the willing — the Four Questions door is still open (only if both willing; “not yet” counts; nobody checks)
 
+**This week**
+
+Run your Rhythm Card as built — nothing new, nothing extra; if the break knocked a piece loose, begin again on the next available day. The evening note, one extra flavor: where do you see God already handing pieces of this year over to you?
+
+*Put Week 21’s two hours on the family calendar tonight, and bring your journal next Wednesday.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

@@ -539,4 +539,13 @@ And: bring your hesitation to the Lead Companion. Real questions deserve real co
 
 - ☐ ☐ ☐ Three returns to the garden — 5–10 minutes each; journal each visit ([H9.2](#handout-h9-2))
 
+**Returning to the garden — how to do it**
+
+- Three returns this week, five to ten minutes each, journaled. You don’t need the guided script — you have the place now; just go back.
+- Notice what is the same and what has changed — notice if Jesus is in a different place than He was tonight.
+- Pick three days and a time; morning before the day starts is often best.
+- If something heavy surfaces — stop, open your eyes, come back another day, and tell a trusted adult.
+
+*Came in skeptical? The Note for the Skeptic ([H9.3](#handout-h9-3)) is for you — adapting or sitting out for now is okay. Goes home with this card: [H9.2](#handout-h9-2) (garden journal page) and H9.3.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

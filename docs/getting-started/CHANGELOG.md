@@ -22,6 +22,15 @@ H6.4) say the same thing, and Week 6 now prints the Quarterly Pulse in its first
 where before it pointed to the midpoint form at Week 11. The instrument is unchanged: three questions,
 one page, back in the bin at the Week 7 door.
 
+Later the same day the same treatment reached the rest of the year. Weeks 7–13 and 15–20 now carry,
+under the week's one-time practice, the words the room hears when the practice is introduced — daily
+PROAPT and its six steps, the garden returns, the Doubts Inventory and the one practice kept alive over
+the break, the restart, the one small action and the family-calendar note for the two commissionings,
+the Rhythm Card and the Four Questions with their guards, the break practice, the two mercy cards — and
+wherever a page goes home to be written on and returned (the midpoint Pulse at Week 11, Pulse 3 at
+Week 16, the Post-Series Survey at Week 20) the card says so plainly: answers go on that sheet, not on
+the card, which only tracks practices. Weeks 1, 4, 14, 21 and 22 were already self-explanatory.
+
 # August 2026 — How far is the east from the west
 
 Week 1's saved discussion lands on a definition: *the desire to be connected to Christ, acted on by

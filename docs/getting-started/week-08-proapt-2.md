@@ -474,4 +474,8 @@ Look at the card. Say the next one-liner. The steps carry you — that is what t
 | Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Five-Minute Examen (evening) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
+**Daily PROAPT — it continues**
+
+One passage, five to fifteen minutes, every day (journal Weeks 7–8 pages). If last week thinned out, restart tomorrow — no guilt, no doubling up. The steps are on your PROAPT card ([H7.1](week-07-proapt.md#handout-h7-1)).
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

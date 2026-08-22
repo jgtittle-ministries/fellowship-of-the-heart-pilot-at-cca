@@ -619,6 +619,24 @@ One sentence about why:
 **This week’s one-time practices (check when done):**
 
 - ☐ Personal Doubts Inventory — twenty minutes, once this week, in your journal ([H11.2](#handout-h11-2))
-- ☐ Quarterly Pulse ([H11.4](#handout-h11-4)) — one page, five minutes at home; back in the bin at The Return’s door
+- ☐ Quarterly Pulse ([H11.4 — the one-page sheet handed out tonight](#handout-h11-4)) — five minutes at home; back in the bin at The Return’s door
+- ☐ Over the break — one practice kept alive. Just one, your choice; write it in your journal tonight — the practice, when, and where. The Return asks what held.
+
+**The Personal Doubts Inventory — how to do it**
+
+Twenty minutes with your journal, once this week ([H11.2](#handout-h11-2)).
+
+1. List five to ten scriptures you say you believe; rate your honest trust in each, 1–5.
+2. For the two or three with the most hesitation, write the specific doubt — then sit with it.
+
+*No shame. Just data. Yours alone — never turned in, never seen by the team.*
+
+**The Quarterly Pulse — what goes home tonight**
+
+A separate one-page sheet — [H11.4](#handout-h11-4) — comes home with this card. Write your answers on that sheet, not here: this card only tracks your practices. Three questions, five minutes, honest; the team reads every one. Sign it or leave it anonymous — your choice. Drop the sheet in the bin at The Return’s door in January. The three questions, so you know what is coming:
+
+1. On a scale of 1–10, how present have I actually been in these sessions so far? — and one sentence about why.
+2. What is one thing that has surprised me — about myself, about God, or about someone in this room?
+3. What is one specific way I want to engage differently for the half that remains (Weeks 12–22)?
 
 *Filled or half-filled, bring yourself back when we gather again in January. The room is the practice too.*

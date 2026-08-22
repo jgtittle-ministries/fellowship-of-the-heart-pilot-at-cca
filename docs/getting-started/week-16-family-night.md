@@ -367,7 +367,15 @@ What is one specific way I want to engage differently in the final quarter — t
 
 **This week’s one-time practices (check when done):**
 
-- ☐ The Quarterly Pulse ([H16.1](#handout-h16-1)) — one page, about five minutes, back in the bin at next Wednesday’s door
+- ☐ The Quarterly Pulse ([H16.1 — the one-page sheet handed out tonight](#handout-h16-1)) — about five minutes, back in the bin at next Wednesday’s door
 - ☐ Optional — one Family Conversation Card at home, ten minutes (the car works, the table works)
+
+**The Quarterly Pulse — what goes home tonight**
+
+A separate one-page sheet — [H16.1](#handout-h16-1) — comes home with this card. Write your answers on that sheet, not here: this card only tracks your practices. This room steers by these pages — the final quarter, the consolidation weeks and the two commissionings, is shaped by what you write. Signed or unsigned, your choice; nobody watches the bin. The three questions, so you know what is coming:
+
+1. Presence — how present have I actually been in these sessions this quarter? Not attendance, presence (1–10, and one sentence why).
+2. Surprise — one thing that has surprised me this quarter, about myself, about God, or about someone in this room.
+3. Steering — one specific way I want to engage differently in the final quarter.
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

@@ -357,4 +357,10 @@ None for Week 17 — by design, in both modes.
 
 - ☐ Your one break practice, kept this week (if you chose a weekly one)
 
+**One practice across the break — how to do it**
+
+Look at your Rhythm Card and choose ONE practice — just one — to carry through this break deliberately. Not the whole card; the whole card can rest — that is sabbath, not failure. Write it in your journal — the practice, and when, and where.
+
+*The Returning Rule travels: begin again on the next available day. At The Return II the first question will be the kind one: what held?*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
