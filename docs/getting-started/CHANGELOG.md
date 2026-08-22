@@ -11,6 +11,13 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — Session slides at v1.5
+
+The session slide deck the site serves is now v1.5 — two hundred seventy-seven slides, up from v1.4's two
+hundred forty-one — carrying what the walk-through added: the door out named in Week 1, the Psalm 103:12
+compass, and the clasped-hands image for Week 6. The handbook's Section 9 and the Shared Materials hub
+point at it. The deck still serves the plans and never replaces them.
+
 # August 2026 — The card says how
 
 The printed Practice Check-Off Cards for Weeks 2, 3, 5 and 6 now carry, under the week's one-time

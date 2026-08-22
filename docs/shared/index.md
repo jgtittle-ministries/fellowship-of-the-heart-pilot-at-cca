@@ -34,7 +34,7 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Interrogating Reality Card**](interrogating-reality-card.md) — naming what the cohort already knows but has not yet said. Introduced in the Going Deeper series.
 
-- [**Getting Started Session Slides**](../getting-started/gs-session-slides-v1.4.pptx) — *team-facing*: the full twenty-two-session room screen (PowerPoint, v1.4) — one slide per road stop, five standing liturgical images. Section 9 of the Getting Started handbook describes how it serves the plans.
+- [**Getting Started Session Slides**](../getting-started/gs-session-slides-v1.5.pptx) — *team-facing*: the full twenty-two-session room screen (PowerPoint, v1.5) — one slide per road stop, five standing liturgical images. Section 9 of the Getting Started handbook describes how it serves the plans.
 
 - [**Weekly Companion Debrief Sheets**](../getting-started/gs-weekly-companion-debrief-sheets.pdf){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets (Weeks 1–22)" } — *team-facing*: the printable pack — one page per week, Weeks 1–22, with the cover rules and the Ladder of Signs calibration in front (the week’s sheet is page week + 3). Print the page for the week in front of you; the [Word original](../getting-started/gs-weekly-companion-debrief-sheets.docx) is the editable source. Each week’s lesson plan links straight to its own page.
 
