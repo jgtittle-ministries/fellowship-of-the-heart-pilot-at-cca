@@ -616,7 +616,7 @@ One sentence about why:
 
 **This week’s one-time practices (check when done):**
 
-- ☐ Personal Doubts Inventory — twenty minutes, once this week, in your journal (H11.2)
-- ☐ Quarterly Pulse (H11.4) — one page, five minutes at home; back in the bin at The Return’s door
+- ☐ Personal Doubts Inventory — twenty minutes, once this week, in your journal ([H11.2](#handout-h11-2))
+- ☐ Quarterly Pulse ([H11.4](#handout-h11-4)) — one page, five minutes at home; back in the bin at The Return’s door
 
 *Filled or half-filled, bring yourself back when we gather again in January. The room is the practice too.*

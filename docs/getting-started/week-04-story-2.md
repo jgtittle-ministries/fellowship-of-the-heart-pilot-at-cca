@@ -410,7 +410,7 @@ Spoken by the Companion-in-Formation tonight. The words are the same words; the 
 
 - The morning question (“Father, what are you up to today?”) (5 min, daily) — carried forward, everyone.
 - The evening journal note (1–2 min, daily) — carried forward, everyone.
-- The Joint Footprints exercise (20 min, once this week, parent-and-teen pair) — for every family that has not yet done it. See Handout H3.5. Families who did it after Week 3 are done; do not assign a repeat.
+- The Joint Footprints exercise (20 min, once this week, parent-and-teen pair) — for every family that has not yet done it. See [Handout H3.5 (Week 3)](week-03-story.md#handout-h3-5). Families who did it after Week 3 are done; do not assign a repeat.
 
 If a family reports back that they did not get to the Joint Footprints, this is data, not failure — same as last week. Note it for the team debrief and do not shame in Week 5.
 
@@ -460,7 +460,7 @@ Pray by name for each participant. The team now carries the texture of every sto
 One new handout for Week 4, plus reprints.
 
 - H4.1 — Companion-in-Formation Facilitation Card (Week 4)
-- Reprints as needed for this week’s tellers: H3.2 (the teen storytelling card), H3.4 (listener’s role card), H3.5 (Joint Footprints — one per family that has not yet done it).
+- Reprints as needed for this week’s tellers: H3.2 (the teen storytelling card), H3.4 (listener’s role card), [H3.5](week-03-story.md#handout-h3-5) (Joint Footprints — one per family that has not yet done it).
 
 **Handout H4.1 — Companion-in-Formation Facilitation Card (Week 4)**
 
@@ -525,6 +525,6 @@ The Lead Companion frames it; you answer first, plainly: *“What I think went w
 
 **This week’s one-time practices (check when done):**
 
-- ☐ Joint Footprints — parent and teen together, twenty minutes, phones away (H3.5) — for families who have not yet done it; families who did it after Week 3 are done
+- ☐ Joint Footprints — parent and teen together, twenty minutes, phones away ([H3.5 — printed on the Week 3 page](week-03-story.md#handout-h3-5)) — for families who have not yet done it; families who did it after Week 3 are done
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

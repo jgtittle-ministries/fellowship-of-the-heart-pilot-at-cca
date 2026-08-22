@@ -365,7 +365,7 @@ What is one specific way I want to engage differently in the final quarter — t
 
 **This week’s one-time practices (check when done):**
 
-- ☐ The Quarterly Pulse (H16.1) — one page, about five minutes, back in the bin at next Wednesday’s door
+- ☐ The Quarterly Pulse ([H16.1](#handout-h16-1)) — one page, about five minutes, back in the bin at next Wednesday’s door
 - ☐ Optional — one Family Conversation Card at home, ten minutes (the car works, the table works)
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

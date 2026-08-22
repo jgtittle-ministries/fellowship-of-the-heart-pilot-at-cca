@@ -546,7 +546,7 @@ In your Personal Heart Journal, on the Week 5 pages, answer:
 
 **This week’s one-time practices (check when done):**
 
-- ☐ Picked the one friendship and the one condition (H5.5)
+- ☐ Picked the one friendship and the one condition ([H5.5](#handout-h5-5))
 - ☐ End-of-week journal — what I did, what happened (Week 5 pages)
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

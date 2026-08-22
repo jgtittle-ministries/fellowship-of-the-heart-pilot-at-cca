@@ -599,6 +599,6 @@ If it goes well, you may want to do it again. Resist the urge to make it a weekl
 
 **This week’s one-time practices (check when done):**
 
-- ☐ Joint Footprints — parent and teen together, twenty minutes, phones away (H3.5)
+- ☐ Joint Footprints — parent and teen together, twenty minutes, phones away ([H3.5](#handout-h3-5))
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

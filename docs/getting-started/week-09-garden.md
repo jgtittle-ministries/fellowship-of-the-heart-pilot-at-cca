@@ -535,6 +535,6 @@ And: bring your hesitation to the Lead Companion. Real questions deserve real co
 
 **This week’s one-time practices (check when done):**
 
-- ☐ ☐ ☐ Three returns to the garden — 5–10 minutes each; journal each visit (H9.2)
+- ☐ ☐ ☐ Three returns to the garden — 5–10 minutes each; journal each visit ([H9.2](#handout-h9-2))
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
