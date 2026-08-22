@@ -36,6 +36,8 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Getting Started Session Slides**](../getting-started/gs-session-slides-v1.4.pptx) — *team-facing*: the full twenty-two-session room screen (PowerPoint, v1.4) — one slide per road stop, five standing liturgical images. Section 9 of the Getting Started handbook describes how it serves the plans.
 
+- [**Weekly Companion Debrief Sheets**](../getting-started/gs-weekly-companion-debrief-sheets.pdf){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets (Weeks 1–22)" } — *team-facing*: the printable pack — one page per week, Weeks 1–22, with the cover rules and the Ladder of Signs calibration in front (the week’s sheet is page week + 3). Print the page for the week in front of you; the [Word original](../getting-started/gs-weekly-companion-debrief-sheets.docx) is the editable source. Each week’s lesson plan links straight to its own page.
+
 ---
 
 ## Printing a handout
@@ -57,6 +59,7 @@ These materials are designed to work together across the year:
 - The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
 - The **Three Vital Signs** card is how the team actually watches, week to week — three questions at the top of every debrief, with the heavier instruments held in reserve.
 - The **Weekly Run Card** is the team's one-page who-holds-what for the next session — filled in on the Thursday Call (the team's single weekly meeting: look back, look at the flock, look ahead), read back aloud, and sent before anyone hangs up.
+- The **Weekly Companion Debrief Sheets** are where the week’s watching gets written down — the Three Vital Signs readings and the observation notes, one printed page per week, read back at the Thursday Call.
 
 A cohort can complete Getting Started using only the Personal Heart Journal, the Rhythm Card, and the PROAPT Card; the family cards and reading list are invitations, not assignments. Going Deeper and Going Out lean more heavily on the shared materials as the cohort matures.
 

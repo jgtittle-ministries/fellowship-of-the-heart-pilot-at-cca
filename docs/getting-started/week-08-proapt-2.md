@@ -353,6 +353,8 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 
 # **Companion Debrief Prompts**
 
+*Print this week’s sheet — page 11 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=11){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 8" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 ### **Signs the session worked**
 
 - The senior led all six steps within a few minutes of the card's timings, and led people *through* the practice rather than talking *about* it — specifically, the Apply coaching pushed for specifics.

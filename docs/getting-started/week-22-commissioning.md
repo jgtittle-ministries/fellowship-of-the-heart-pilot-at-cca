@@ -366,6 +366,8 @@ The three-layer closing pattern of the series runs one last time — and for the
 
 # **Companion Debrief Prompts**
 
+*Print this week’s sheet — page 25 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=25){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 22" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team meets within the week for the final debrief of Getting Started — 60 minutes. Bring the observation notes and the whole arc.
 
 ### **The new FC1s — the honest read**

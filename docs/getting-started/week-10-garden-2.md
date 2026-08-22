@@ -378,6 +378,8 @@ The load drops from three visits to two on purpose. Week 9 opened the practice a
 
 # Companion Debrief Prompts
 
+*Print this week’s sheet — page 13 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=13){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 10" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team debriefs Week 10 in the look-back of the Thursday Call (Handbook Section 3). Two subjects tonight, kept distinct: the room, and the senior. Take the room first.
 
 ### Signs the session worked

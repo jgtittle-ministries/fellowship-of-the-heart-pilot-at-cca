@@ -340,6 +340,8 @@ The teen runs the closing protocol: the standing circle, the one-word landing (*
 
 # **Team Debrief**
 
+*Print this week’s sheet — page 17 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=17){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 14" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 *Same night if possible, brief; the fuller debrief within 48 hours. The rotation ledger and the vital signs log both get written before anyone goes home.*
 
 ## **The Three Vital Signs log**

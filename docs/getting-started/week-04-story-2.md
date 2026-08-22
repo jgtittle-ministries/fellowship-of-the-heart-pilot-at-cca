@@ -414,7 +414,9 @@ Spoken by the Companion-in-Formation tonight. The words are the same words; the 
 
 If a family reports back that they did not get to the Joint Footprints, this is data, not failure — same as last week. Note it for the team debrief and do not shame in Week 5.
 
-# Companion Debrief Prompts
+# Companion Debrief Prompts
+
+*Print this week’s sheet — page 7 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=7){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 4" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 
 Companion team debriefs Week 4 in the look-back of the Thursday Call (Handbook Section 3). The Companion-in-Formation is not at this debrief — their feedback already happened in the room, and the team needs to talk freely. What the team decides to coach flows to the senior through the adult Cluster Companion and Lab 3.
 

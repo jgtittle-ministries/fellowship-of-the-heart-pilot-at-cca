@@ -379,7 +379,9 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 *"Go gently. See you Wednesday."*
 
-# **Team Debrief**
+# **Team Debrief**
+
+*Print this week’s sheet — page 23 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=23){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 20" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 
 Companion team debriefs Week 20 in the look-back of the Thursday Call (Handbook Section 3). Tonight's debrief carries two items with consequences beyond the week; take them in order and in writing.
 

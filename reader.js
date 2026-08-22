@@ -561,8 +561,21 @@
       if (targetAnchor) {
         const el = document.getElementById('h-' + targetAnchor) || document.getElementById(targetAnchor);
         if (el) {
-          const top = el.getBoundingClientRect().top + window.scrollY - 70;
-          window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
+          const scrollToTarget = () => {
+            const top = el.getBoundingClientRect().top + window.scrollY - 70;
+            window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
+          };
+          scrollToTarget();
+          // Long pages keep reflowing after the first paint (web fonts, lazy
+          // images), which can move the target a long way. Re-land on it as
+          // layout settles - unless the reader has started scrolling.
+          let userMoved = false;
+          ['wheel', 'touchstart', 'keydown'].forEach(ev => window.addEventListener(ev, () => { userMoved = true; }, { once: true, passive: true }));
+          const settle = () => { if (!userMoved) scrollToTarget(); };
+          if (document.fonts && document.fonts.ready) document.fonts.ready.then(settle);
+          window.addEventListener('load', settle, { once: true });
+          setTimeout(settle, 1500);
+          setTimeout(settle, 3500);
           scrolledToAnchor = true;
         }
       }

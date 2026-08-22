@@ -509,6 +509,8 @@ Spoken parent-to-teen and teen-to-parent. Use Numbers 6:24–26. The card goes h
 
 # Companion Debrief Prompts
 
+*Print this week’s sheet — page 4 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=4){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 1" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 The Companion team debriefs Week 1 in the look-back of the Thursday Call (Handbook Section 3). Use these prompts in order.
 
 ### Signs the session worked

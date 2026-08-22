@@ -409,6 +409,8 @@ Same three-layer pattern, expanded for the family-level commissioning. The commu
 
 # **Companion Debrief Prompts**
 
+*Print this week’s sheet — page 24 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=24){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 21" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team debriefs Week 21 in the look-back of the Thursday Call (Handbook Section 3). This is the longest debrief of Getting Started.
 
 ### **Signs the session worked**

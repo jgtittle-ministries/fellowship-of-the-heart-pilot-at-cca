@@ -386,6 +386,8 @@ Same as every week — and the senior speaks it tonight. In Week 22 they will sp
 
 # **Companion Debrief Prompts**
 
+*Print this week’s sheet — page 18 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=18){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 15" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 ### **Signs the session worked**
 
 - The Rhythm Cards are honest: small, specific, time-anchored — and visibly different from each other. Forty identical ambitious cards means the coaching failed; forty different honest ones means it worked.

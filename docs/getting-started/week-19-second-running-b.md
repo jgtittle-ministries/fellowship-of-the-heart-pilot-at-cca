@@ -287,6 +287,8 @@ A CiF runs the closing protocol, brief tonight: the standing circle, the one-wor
 
 # **Team Debrief**
 
+*Print this week’s sheet — page 22 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=22){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 19" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 *Tonight, brief, before anyone leaves — the coaching notes must be written while warm — and the full debrief within 48 hours, which doubles as the first half of The Long Walk prep.*
 
 ## **The Three Vital Signs log**

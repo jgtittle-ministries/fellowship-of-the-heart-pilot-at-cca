@@ -384,6 +384,8 @@ If the merge debrief was heavy, lengthen the closing prayer to 60–90 seconds. 
 
 # Companion Debrief Prompts
 
+*Print this week’s sheet — page 5 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=5){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 2" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team debriefs Week 2 in the look-back of the Thursday Call (Handbook Section 3).
 
 ### Signs the session worked

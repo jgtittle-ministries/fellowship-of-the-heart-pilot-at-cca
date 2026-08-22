@@ -419,7 +419,9 @@ Same three-layer pattern. Tonight the merge’s one-word landing carries the emo
 - PROAPT one short passage daily — carried forward from Week 7 (optional but encouraged).
 - Personal Doubts Inventory (NEW this week). Twenty minutes once this week. List 5–10 scriptures and what your honest trust level is. For the 2–3 with the most hesitation, write a specific sentence about the doubt. See Handout H11.2.
 
-# **Companion Debrief Prompts**
+# **Companion Debrief Prompts**
+
+*Print this week’s sheet — page 14 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=14){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 11" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 
 Companion team debriefs Week 11 in the look-back of the Thursday Call (Handbook Section 3).
 

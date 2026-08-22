@@ -291,7 +291,9 @@ Two or three voices on each question is plenty. The leader receives without defe
 - The morning question and the evening journal note continue inside the card, as they have since the fall.
 - Optional, and warmly commended: the Family Conversation Cards are a shared resource, not club property. If tonight’s table wanted more cards, the deck and its three ways of use live in the shared materials — see the [Family Conversation Cards](../shared/family-conversation-cards.md); one card a week at home is the whole method.
 
-# **Team Debrief**
+# **Team Debrief**
+
+*Print this week’s sheet — page 19 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=19){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 16" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 
 The Companion team debriefs within a day or two — thirty minutes is enough for tonight. Open with the Three Vital Signs, in order, same as every week:
 

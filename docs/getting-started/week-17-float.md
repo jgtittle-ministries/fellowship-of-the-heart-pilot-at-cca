@@ -306,6 +306,8 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 # **Team Debrief**
 
+*Print this week’s sheet — page 20 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=20){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 17" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 The Companion team debriefs within a day or two — thirty minutes, before the break scatters everyone. Open with the Three Vital Signs, in order, same as every week:
 
 1. **Costly Telling.** Who told something costly tonight — a genuinely slipped card walked without varnish, a hard thing surfaced in a Mode A exercise — and what did the room do with it?

@@ -368,6 +368,8 @@ Note: this week’s practice is the smallest of Getting Started. Resist the urge
 
 # **Companion Debrief Prompts**
 
+*Print this week’s sheet — page 16 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=16){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 13" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team debriefs Week 13 in the look-back of the Thursday Call (Handbook Section 3). Plus an additional 60 minutes specifically on Week 21 logistics (the commissioning is the most logistically complex session of Getting Started).
 
 ### **Signs the session worked**

@@ -316,6 +316,8 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 # **Team Debrief**
 
+*Print this week’s sheet — page 15 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=15){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 12" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team debriefs Week 12 in the look-back of the Thursday Call (Handbook Section 3).
 
 **The vital signs line.** What did the vital signs show tonight? Costly telling in the what-held round (who read a hard list straight); response to load in whoever the break sat heaviest on — and in how the room received them; and note anyone the cohort itself moved toward without being asked. Log the observations per Handbook §8 — patterns and initials in the team log only, nothing that travels.

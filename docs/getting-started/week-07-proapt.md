@@ -365,6 +365,8 @@ Same as prior weeks.
 
 # **Companion Debrief Prompts**
 
+*Print this week’s sheet — page 10 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=10){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 7" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 ### **Signs the session worked**
 
 - The room came back from Week 6 willing to engage with a different kind of work tonight.

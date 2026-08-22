@@ -242,6 +242,8 @@ The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at 
 
 # **Team Debrief**
 
+*Print this week’s sheet — page 21 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=21){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 18" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
+
 Companion team debriefs Week 18 in the look-back of the Thursday Call (Handbook Section 3) — lighter, matching the night.
 
 **The vital signs line.** What did the vital signs show tonight? Costly telling in the one-sentence round (the honest slips said cheerfully are still costly telling); response to load in anyone the break or the ending sat heavy on; and note anyone the cohort itself moved toward without being asked. Log per Handbook §8 — patterns and initials in the team log only.
