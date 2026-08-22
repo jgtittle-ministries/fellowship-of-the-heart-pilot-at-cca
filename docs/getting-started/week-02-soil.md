@@ -436,6 +436,13 @@ Two diagnostic handouts — teen and parent. In the cluster, each participant wo
 
 - ☐ ☐ ☐ Soil journal — three times this week: where did each kind of soil show up today?
 
+**The Soil Journal — how to do it**
+
+- Three times this week, five minutes each. Not every day; three times.
+- Today, where did the path show up? The rocky? The thorny? The good soil? One sentence per soil — specific, not general.
+- No fixing. We notice; the Spirit fixes.
+- Keep the morning question going too: “Father, what are you up to today?” The practices stack.
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
 
 **Handout H2.2 — Heart Soil Diagnostic (Teen)**

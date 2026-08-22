@@ -603,4 +603,14 @@ If it goes well, you may want to do it again. Resist the urge to make it a weekl
 
 - ☐ Joint Footprints — parent and teen together, twenty minutes, phones away ([H3.5](#handout-h3-5))
 
+**Joint Footprints — how to do it**
+
+Each parent-and-teen pair sits together once this week. Twenty minutes total. Not in the car, not at dinner, not while the TV is on. Phones away.
+
+1. Five minutes telling the footprints question — where you grew up, who shaped you, what places and people made you who you are.
+2. The listener asks one or two follow-ups, then one sentence: “What I love about your footprints is…”
+3. Then swap — the other person tells; the first listens and blesses.
+
+*The morning question and evening journal note continue daily. The full guide — the story question ([H3.2](#handout-h3-2), [H3.3](#handout-h3-3)), the listener’s card ([H3.4](#handout-h3-4)), and the parent-and-teen rules ([H3.5](#handout-h3-5)) — is on this page, and goes home as the Week 3 take-home pack.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

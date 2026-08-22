@@ -551,4 +551,15 @@ In your Personal Heart Journal, on the Week 5 pages, answer:
 - ☐ Picked the one friendship and the one condition ([H5.5](#handout-h5-5))
 - ☐ End-of-week journal — what I did, what happened (Week 5 pages)
 
+**One friendship, one condition — how to do it**
+
+Pick one friendship in your life. Just one — you don’t have to tell anyone which one. Pick one of the four conditions — **Safe, Present, Clear, Intentional** — the one most missing there, or the one you find hardest to offer. Practice that one condition in that one friendship more intentionally than usual this week — practically:
+
+- **Safe** — receive the hard thing without judging it, even silently; let them hear you’re glad they told you.
+- **Present** — your phone is in another room; listen instead of preparing what you’ll say next.
+- **Clear** — name something you have been quietly carrying about the friendship, briefly and gently; acknowledged is enough.
+- **Intentional** — before you’re together, ask God what He is doing in their life; ask one question you wouldn’t normally ask.
+
+*One friendship. One condition. Practice. Journal what happens — the Week 5 journal pages carry it.*
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*

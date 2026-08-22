@@ -778,7 +778,7 @@ A one-page, three-question instrument — the same page each quarter — distrib
 2. What is one thing that has surprised me — about myself, about God, or about someone in this room?
 3. What is one specific way I want to engage differently in the weeks that remain?
 
-Returns are anonymous (or signed at the participant’s choice) and inform the Companion team’s adjustments quarter by quarter. The printed form appears in the Week 11 lesson plan's handouts (H11.4); Weeks 6 and 16 print the same instrument as H6.3 and H16.1.
+Returns are anonymous (or signed at the participant’s choice) and inform the Companion team’s adjustments quarter by quarter. The printed forms appear in the lesson plans’ handouts — Week 6 (H6.3, first quarter), Week 11 (H11.4, midpoint), Week 16 (H16.1, final quarter) — the same three questions each time, framed for the quarter they close.
 
 ## When a family stops coming
 

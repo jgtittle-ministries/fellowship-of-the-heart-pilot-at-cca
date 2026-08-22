@@ -11,6 +11,17 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The card says how
+
+The printed Practice Check-Off Cards for Weeks 2, 3, 5 and 6 now carry, under the week's one-time
+practice, the same words the room hears when the practice is introduced — the Soil Journal's three
+five-minute sittings, the Joint Footprints steps, the four conditions by name with one line each, the
+Five-Minute Examen's three steps and the Quarterly Pulse's three questions — so a family can read the
+card at the kitchen table and know what to do without the website. The site's cards (H2.4, H3.6, H5.6,
+H6.4) say the same thing, and Week 6 now prints the Quarterly Pulse in its first-quarter framing as H6.3,
+where before it pointed to the midpoint form at Week 11. The instrument is unchanged: three questions,
+one page, back in the bin at the Week 7 door.
+
 # August 2026 — How far is the east from the west
 
 Week 1's saved discussion lands on a definition: *the desire to be connected to Christ, acted on by

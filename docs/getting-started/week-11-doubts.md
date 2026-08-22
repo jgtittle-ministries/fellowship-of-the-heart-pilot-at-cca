@@ -462,7 +462,7 @@ Four handouts for Week 11.
 - H11.1 — Any Doubts? Practice Card (teen and parent versions)
 - H11.2 — Personal Doubts Inventory (between-session work)
 - H11.3 — Sample Scriptures (for participants who don’t have one in mind)
-- H11.4 — The Quarterly Pulse (the same one-page instrument as Week 6; structure in Handbook Section 8; one per participant plus spares — returns at The Return’s door)
+- H11.4 — The Quarterly Pulse (the same one-page instrument as Week 6’s [H6.3](week-06-brave.md#handout-h6-3), re-framed for the midpoint; structure in Handbook Section 8; one per participant plus spares — returns at The Return’s door)
 
 **Handout H11.1 — Any Doubts? Practice Card**
 

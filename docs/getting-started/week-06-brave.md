@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Center.** Age-appropriate confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The Spirit does the work; we hold the space.
 
-**Between-session practice.** The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse ([H6.3 — printed form at Week 11, H11.4](week-11-doubts.md#handout-h11-4)) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
+**Between-session practice.** The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse ([H6.3](#handout-h6-3)) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
 
 **IJH source.** Vol 2 Second Exploration (Emotional Knots, including the Sin Knot type) and Vol 2 Fourth Exploration (Confession and Restoration); Vol 2 Eighth Exploration on container; Vol 2 Ninth Exploration on community amplification.
 
@@ -172,7 +172,7 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 | 4:37–4:38 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Parents-first named. Pray. Split. |
 | 4:38–5:11 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
 | 5:11–5:15 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 5:15–5:21 | Block 8: Between-session practice and the room’s questions | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse ([H6.3 → printed at H11.4](week-11-doubts.md#handout-h11-4)) distributed — Quarter 1 closes tonight. The round’s three questions sent home, answered together at Week 7. |
+| 5:15–5:21 | Block 8: Between-session practice and the room’s questions | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse ([H6.3](#handout-h6-3)) distributed — Quarter 1 closes tonight. The round’s three questions sent home, answered together at Week 7. |
 | 5:21–5:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
 | 5:24–5:30 | Block 10: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 5:30+ | After: pastoral availability | Floating | Lead Comp | Stay accessible at least ten minutes. This night produces door conversations. |
@@ -309,7 +309,7 @@ The between-session practice is introduced, and the first Quarterly Pulse goes h
 
 *“This week’s practice: the Five-Minute Examen. Each evening this week, before bed, take five minutes with God. Three steps. One — thank Him for one specific thing from the day. Two — notice one place where you saw God moving. Three — ask Him about one place where you walked in less honesty than you wanted to today. That third one is the carryover from tonight. Just notice. No fixing. The Spirit does the work.”*
 
-*“And one page goes home with you tonight.”* (Hold up [H6.3](week-11-doubts.md#handout-h11-4); hand the stack around.) *“Tonight closes our first quarter together. This is the Quarterly Pulse: three questions, five minutes at home, honest. The team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. It comes back to the bin at the door at our first gathering back.”*
+*“And one page goes home with you tonight.”* (Hold up [H6.3](#handout-h6-3); hand the stack around.) *“Tonight closes our first quarter together. This is the Quarterly Pulse: three questions, five minutes at home, honest. The team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. It comes back to the bin at the door at our first gathering back.”*
 
 *“And three questions go home tonight — no paper, no deadline, nothing to prepare. Every week we close the same way: the evening’s leader says what went well and what they’d do differently, and then the room answers the same two questions. Tonight closes a whole quarter — so over the break, carry those same questions for all of us. What’s working well in this group that we ought to keep doing next quarter? What could we do differently that would make things even better? And one more: what would you tell somebody else about what this group is like? First night back, we talk about all of us — the group, never any one person. Some of you think best out loud — you’ll get your turn. Some of you think best in the quiet — that’s why the questions go home two weeks early.”*
 
@@ -440,11 +440,11 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 
 # Handouts
 
-Three handouts for Week 6. The confession handout comes in teen and parent versions; the blessing card is one version for all. (The junior version of H6.1 is retired in the pilot edition — one high-school band.)
+Three handouts for Week 6. The confession handout comes in teen and parent versions; the blessing card is one version for all; the Quarterly Pulse prints here in its first-quarter framing. (The junior version of H6.1 is retired in the pilot edition — one high-school band.)
 
 - H6.1 — The Place I Want to Walk in Greater Honesty (Teen, Parent)
 - H6.2 — Blessing of Restoration card (everyone)
-- H6.3 — The Quarterly Pulse (the first of the year's three; the same one-page instrument each quarter — [printed form in the Week 11 handouts, H11.4](week-11-doubts.md#handout-h11-4); returns at the Week 7 door)
+- H6.3 — The Quarterly Pulse (Quarter 1) — the first of the year’s three; the same one-page instrument returns, re-framed, at the midpoint ([H11.4](week-11-doubts.md#handout-h11-4)) and at Week 16 (H16.1); one per participant plus spares — back in the bin at the Week 7 door
 
 **Handout H6.1 — The Place (Teen)**
 
@@ -547,6 +547,42 @@ Three handouts for Week 6. The confession handout comes in teen and parent versi
 - Do not compare. “Me too” — not in this practice. Save it for after.
 - Do not preach. The blessing is three sentences. If you are in your fourth, stop.
 
+**Handout H6.3 — The Quarterly Pulse (Quarter 1)**
+
+*One page. Three questions. Fold it and drop it in the bin at the door at Week 7 — our first gathering back.*
+
+**Tonight closes our first quarter together — six weeks behind us, sixteen ahead. We want to know what is working and what is not, so we can use the quarters ahead well. Be honest. The team reads every one of these, and they steer pacing, depth, and emphasis. Sign it or leave it anonymous — your choice.**
+
+### **1. On a scale of 1–10, how present have I actually been in these sessions so far?**
+
+*(1 = barely showing up; 5 = body in the room, mind elsewhere; 10 = fully engaged, doing the work)*
+
+My number: \_\_\_\_\_\_\_\_
+
+One sentence about why:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. What is one thing that has surprised me — about myself, about God, or about someone in this room?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **3. What is one specific way I want to engage differently in the quarter ahead (Weeks 7–22)?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Optional: my name (skip if you prefer anonymous)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 **Handout H6.4 — This Week’s Practice — the Check-Off Card**
 
 *Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
@@ -559,6 +595,26 @@ Three handouts for Week 6. The confession handout comes in teen and parent versi
 
 **This week’s one-time practices (check when done):**
 
-- ☐ Quarterly Pulse ([H6.3 — printed form at Week 11, H11.4](week-11-doubts.md#handout-h11-4)) — one page, five minutes at home; back in the bin at the Week 7 door
+- ☐ Quarterly Pulse ([H6.3 — the one-page sheet handed out tonight](#handout-h6-3)) — five minutes at home; back in the bin at the Week 7 door
+
+**The Five-Minute Examen — how to do it**
+
+Five minutes with God each evening, before bed — carried through the quarter break.
+
+1. Thank Him for one specific thing from the day.
+2. Notice one place where you saw God moving.
+3. Ask Him about one place where you walked in less honesty than you wanted to today — just notice. No fixing; the Spirit does the work.
+
+**The Quarterly Pulse — what goes home tonight**
+
+One page, three questions, five minutes, honest. Tonight closes our first quarter; the team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. Back in the bin at the door at Week 7. The form is [H6.3](#handout-h6-3).
+
+1. On a scale of 1–10, how present have I actually been in these sessions so far? (1 = barely showing up · 5 = body in the room, mind elsewhere · 10 = fully engaged, doing the work) — and one sentence about why.
+2. What is one thing that has surprised me — about myself, about God, or about someone in this room?
+3. What is one specific way I want to engage differently in the quarter ahead?
+
+**Also carried home — no paper**
+
+*Three questions for our first night back, about the group and never any one person: What’s working well that we ought to keep doing next quarter? What could we do differently that would make things even better? What would you tell somebody else about what this group is like?*
 
 *Filled or half-filled, bring yourself back when we gather again. The room is the practice too.*
