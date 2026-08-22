@@ -607,7 +607,7 @@ Five minutes with God each evening, before bed — carried through the quarter b
 
 **The Quarterly Pulse — what goes home tonight**
 
-One page, three questions, five minutes, honest. Tonight closes our first quarter; the team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. Back in the bin at the door at Week 7. The form is [H6.3](#handout-h6-3).
+A separate one-page sheet — [H6.3](#handout-h6-3) — comes home with this card tonight. Write your answers on that sheet, not here: this card only tracks your practices. Five minutes, honest; tonight closes our first quarter, and the team reads every one to steer the quarters ahead. Sign it or leave it anonymous — your choice. Drop the sheet in the bin at the Week 7 door. The three questions, so you know what is coming:
 
 1. On a scale of 1–10, how present have I actually been in these sessions so far? (1 = barely showing up · 5 = body in the room, mind elsewhere · 10 = fully engaged, doing the work) — and one sentence about why.
 2. What is one thing that has surprised me — about myself, about God, or about someone in this room?
