@@ -1,0 +1,87 @@
+/* --- Reader Theme Variables --- */
+:root {
+  --bg-primary: #ffffff;
+  --text-primary: #1a202c;
+  --bg-surface: #f7fafc;
+  --accent-color: #3182ce;
+  --border-color: #e2e8f0;
+}
+
+[data-theme="sepia"] {
+  --bg-primary: #fbf0d9;
+  --text-primary: #5f4b32;
+  --bg-surface: #f2e3c6;
+  --accent-color: #a05a2c;
+  --border-color: #e0d0b0;
+}
+
+[data-theme="dark"] {
+  --bg-primary: #121824;
+  --text-primary: #e2e8f0;
+  --bg-surface: #1e293b;
+  --accent-color: #60a5fa;
+  --border-color: #334155;
+}
+
+body {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* --- Progress Bar --- */
+#reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  width: 0%;
+  background: var(--accent-color);
+  z-index: 9999;
+  transition: width 0.1s ease-out;
+}
+
+/* --- Control Bar Component --- */
+.reader-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.read-time-badge {
+  font-size: 0.8rem;
+  font-weight: 600;
+  opacity: 0.85;
+  padding: 3px 8px;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+}
+
+.theme-selector {
+  display: inline-flex;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 2px;
+}
+
+.theme-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  opacity: 0.6;
+  transition: opacity 0.2s, background-color 0.2s;
+}
+
+.theme-btn:hover {
+  opacity: 1;
+}
+
+.theme-btn.active {
+  opacity: 1;
+  background-color: var(--bg-primary);
+}
