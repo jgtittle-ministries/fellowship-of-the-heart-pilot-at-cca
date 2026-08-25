@@ -372,7 +372,7 @@ Every session opens with the same protocol. The repetition matters — it is par
 
 **4. One-word check-in.** “One word for how you actually are right now — not how you usually are, not how you should be. Right now.” Each person, around the circle, says one word. No commentary. (‘Tired.’ ‘Anxious.’ ‘Excited.’ ‘Numb.’ ‘Grateful.’)
 
-**5. Put out / bring in.** “Is there something you need to put down before we start so you can be present? Name it silently and let it go for the next ninety minutes. Now, what blessing or intention do you want to bring in?” Silent for 30 seconds.
+**5. Put out / bring in.** “Is there something you need to put down before we start so you can be present? Name it silently and let it go for the next seventy-five minutes. Now, what blessing or intention do you want to bring in?” Silent for 30 seconds.
 
 **6. Spoken commitment.** Together: “I am here. I am paying attention. I am willing to be moved.” *The honest variant, taught at Week 1 and standing all year: anyone who cannot yet say “willing to be moved” truthfully says instead, aloud with the room, “I am here, and I am listening.” That is a full way to stand in the circle, not a lesser one. Nobody tracks who says which — the container asks honesty, not performance, and an honest listener keeps it better than a reciting one.*
 
@@ -1443,7 +1443,7 @@ We are choosing to spend a club year together as a small community where real in
 1. What is shared in this circle stays in this circle. The stories, struggles, victories, and questions that are spoken in our sessions are not repeated outside the room — not at school, not at church, not at home, not on social media.
 2. What I share is mine to share later if I want. The circle does not share for me. But I am free to share my own story with anyone I choose. Other people’s stories are theirs alone.
 3. I will not interrupt, fix, judge, or make fun. When someone in the circle is doing real work, I am present and respectful. I do not give unsolicited advice.
-4. I silence my phone and put it away during the session. I am here, in this room, with these specific people, for these ninety minutes.
+4. I silence my phone and put it away during the session. I am here, in this room, with these specific people, for these seventy-five minutes.
 5. If I cannot keep this covenant in any given week, I tell a Companion before the session begins. I do not pretend to be in when I am out.
 
 ## Limits to confidentiality
@@ -1535,7 +1535,7 @@ Sent to CCA families approximately eight weeks before Week 1. Customize the brac
 
 Dear [CCA family name],
 
-Beginning [date range], CCA is hosting a new club for high-school teens and their parents called Fellowship of the Heart. It is a year-long journey — Wednesday evenings across the school's four club quarters, ninety minutes a week — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
+Beginning [date range], CCA is hosting a new club for high-school teens and their parents called Fellowship of the Heart. It is a year-long journey — Wednesday evenings across the school's four club quarters, seventy-five minutes a week — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
 
 This is not a youth group with parent permission. It is a family formation series, and this year's shape is its heart: parents and teens share the same circle, families stay together, and on the sharing practices the parents go first. Your teen will hear you name real things — and you will hear your teen — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when the series ends.
 

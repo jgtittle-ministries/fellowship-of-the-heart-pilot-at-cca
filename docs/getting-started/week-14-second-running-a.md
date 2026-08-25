@@ -170,7 +170,7 @@ Three commitments, copied in spirit from Week 8 and non-negotiable:
 
 ## Leading teen’s script
 
-*“Welcome back. Phones silenced and away, please — just for these ninety minutes.”*
+*“Welcome back. Phones silenced and away, please — just for these seventy-five minutes.”*
 
 *“Let me speak the blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

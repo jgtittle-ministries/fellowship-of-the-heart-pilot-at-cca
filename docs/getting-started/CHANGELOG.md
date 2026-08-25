@@ -18,6 +18,19 @@ hundred forty-one — carrying what the walk-through added: the door out named i
 compass, and the clasped-hands image for Week 6. The handbook's Section 9 and the Shared Materials hub
 point at it. The deck still serves the plans and never replaces them.
 
+# August 2026 — Seventy-five minutes, said everywhere
+
+The founder's catch, starting from one slide: the session slide deck's Container Introduction still
+promised "the next ninety minutes" — the original evening design's length — while the pilot's actual
+clock has been seventy-five minutes (4:15–5:30) since the seamless year landed. The sweep that followed
+found the same residue wherever the room is spoken to about its own length: the Week 1 phone covenant and
+year framing, the put-out/bring-in container step (handbook and Week 12), Week 14's welcome-back line,
+Week 22's "ninety minutes is enough" watch-for, the series index's Length line, the covenant's item 4,
+the recruitment letter's "ninety minutes a week," and the printed consent form. All now say seventy-five.
+Deliberately untouched: real ninety-minute durations — the Companions' story-writing pre-work, the
+Going Deeper and Going Out team pre-meets, the Rhythm Card's ~90-minute monthly clearing time — and the
+approved CCA proposal, which stands as submitted.
+
 # August 2026 — The card says how
 
 The printed Practice Check-Off Cards for Weeks 2, 3, 5 and 6 now carry, under the week's one-time

@@ -167,7 +167,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 “Two. This is not a youth group with parent permission. Every single person in this room — teens, parents, all of us — is here as a participant. There are no chaperones tonight. There are no observers. We are all in this.
 
-“Three. For these ninety minutes, silence your phone and put it away. Not because phones are the enemy — because the people in this room deserve our full attention.”
+“Three. For these seventy-five minutes, silence your phone and put it away. Not because phones are the enemy — because the people in this room deserve our full attention.”
 
 (Pause a moment while phones are silenced. The ask is enough — no collecting, no policing.)
 
@@ -175,7 +175,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 ## Script
 
-“For ninety minutes at a time across this club year, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
+“For seventy-five minutes at a time across this club year, we’re going to walk through what we call the four Connects — connecting with yourself, with one another, with God, and with the work He has prepared for you.
 
 “Here’s what this is. This is a structured chance to do real interior work as a family and as a community. We are going to ask honest questions. We are going to give you a frame for them. We are going to invite the Holy Spirit to do what only the Holy Spirit can do, and we are going to try to get out of His way.
 

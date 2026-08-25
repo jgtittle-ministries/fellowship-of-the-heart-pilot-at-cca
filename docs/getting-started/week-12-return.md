@@ -132,7 +132,7 @@ From the Handbook, Section 5 — the opening protocol the room has used every we
 2. **Phones silenced and put away.** A simple ask — no box, no collection. Allow a few seconds.
 3. **Stand in a circle (yes, standing).** Standing brings different energy than slouching on a couch. Hold for the next four steps.
 4. **One-word check-in.** “One word for how you actually are right now — not how you usually are, not how you should be. Right now.” Each person, around the circle, says one word. No commentary.
-5. **Put out / bring in.** “Is there something you need to put down before we start so you can be present? Name it silently and let it go for the next ninety minutes. Now, what blessing or intention do you want to bring in?” Silent for 30 seconds.
+5. **Put out / bring in.** “Is there something you need to put down before we start so you can be present? Name it silently and let it go for the next seventy-five minutes. Now, what blessing or intention do you want to bring in?” Silent for 30 seconds.
 6. **Spoken commitment.** Together: “I am here. I am paying attention. I am willing to be moved.” (The honest variant stands here as everywhere: “I am here, and I am listening.”)
 7. **Opening prayer.** Brief, naming the Holy Spirit specifically. (“Holy Spirit, you are welcome here. Speak. We are listening.”)
 8. **Sit.** Begin the session.

@@ -103,7 +103,7 @@ By Week 10 you will not need the page. By the end of *Going Out* you may be writ
 
 ## Cadence and logistics
 
-- **Length.** Ninety minutes every week, except Week 21 — 120 minutes for the family commissioning night.
+- **Length.** Seventy-five minutes every week (4:15–5:30), except Week 21 — 120 minutes for the family commissioning night.
 - **Companion team.** A Lead Companion plus Cluster Companions. Most working weeks share opening and teaching whole-room, then move into FAMILY CLUSTERS — two or three whole families with a Cluster Companion, own family always together, parents first on sharing rounds — and MERGE for the Leader Feedback Round and closing. Weeks 1, 21, and 22 stay whole-room the entire session (Week 16 gathers at tables for the family meal); any week stays whole-room when attendance is about ten or fewer.
 - **Cohort size.** Three to six families in the v1.3 pilot — roughly six to fifteen participants; one breakout room when the room clusters.
 - **Participants.** Parent-teen pairs, individuals, and households (see [`../index.md`](../index.md) for the wider fit).
