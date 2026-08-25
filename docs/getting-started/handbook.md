@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 If you have this handbook in your hand, it is because someone trusted you with something delicate.
 
-What follows is a year-long club — twenty-two Wednesday evenings — for high-school teenagers, ages fourteen through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, across a school year of Wednesdays, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the year is over.
+What follows is a year-long club — twenty-two Wednesday afternoons — for high-school teenagers, ages fourteen through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, across a school year of Wednesdays, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the year is over.
 
 I want to say a few things before you turn the page.
 
@@ -520,7 +520,7 @@ Examples: a teen who shares a deep loss; a parent who breaks down naming a marri
 Sometimes a practice — the story circle, the confession practice, the Garden — touches something in a participant faster and harder than they can hold: tears that turn to shaking, a blank frozen look, breathing gone short, a participant who seems to leave the room behind their own eyes. This is not failure — theirs or yours. It is the signal to stop the practice for that person and help their body settle. Five moves, in order:
 
 1. **Stop.** Plain, directive words: *“Let’s stop here. You don’t have to go any further.”* Do not ask open-ended questions — *“what are you feeling?”* sends them back in. Statements bring them out.
-2. **Come back to the room.** Feet flat on the floor, eyes open. *“Look at me. You’re at CCA. It’s Wednesday evening. You’re safe. I’m right here.”* Name three ordinary things in the room together if needed.
+2. **Come back to the room.** Feet flat on the floor, eyes open. *“Look at me. You’re at CCA. It’s Wednesday afternoon. You’re safe. I’m right here.”* Name three ordinary things in the room together if needed.
 3. **Breathe and anchor.** Slow breath, the out-breath longer than the in. A hand flat on the table; a cold glass of water. The body settles first; words come later.
 4. **Do not resume.** That participant is done with the practice tonight — not as a penalty, as care. They stay in the circle if they want or sit apart if they want; a Companion stays close either way. Do not restart the exercise with them “now that they’re okay.”
 5. **Support before they go.** Nobody leaves activated (below). The Cohort Companion checks in before they leave the building; the Lead Companion follows up within 48 hours; and if anything surfaced that touches the limits-of-confidentiality list, the Section 6 protocols run as written.
@@ -632,7 +632,7 @@ Begin recruitment ten weeks before Week 1. For the v1.3 pilot the series stands 
 
 The single most important thing in recruitment is the parent-as-participant ask. Make it cleanly and early. The introductory letter (Appendix D) leads with it; the information meeting names it three times; the consent form requires the parent to acknowledge it explicitly.
 
-Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work — in the same room, in the same circle, side by side, with the parents going first. If you cannot commit to the club year — twenty-two Wednesday evenings — and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
+Sample language for the ask: “This is not a youth group with parent permission. This is a family formation series in which the teen and the parent each do their own work — in the same room, in the same circle, side by side, with the parents going first. If you cannot commit to the club year — twenty-two Wednesday afternoons — and to doing your own work, this is not the series for your family right now. There will be other opportunities.”
 
 ## Family Orientation Night
 
@@ -1360,7 +1360,7 @@ This form must be completed and signed by every participating parent or guardian
 
 ### About the program
 
-The Fellowship of the Heart Getting Started series is a 22-session formation program for high-school teens and their parents, meeting Wednesday evenings across CCA's four club quarters (September through spring), hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the family-commissioning session near the year's end extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+The Fellowship of the Heart Getting Started series is a 22-session formation program for high-school teens and their parents, meeting Wednesday afternoons across CCA's four club quarters (September through spring), hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the family-commissioning session near the year's end extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
 
 Parents and teens participate together in the same circles, with families kept together, and on sharing practices the parents speak first. Parents receive a briefing at orientation on appropriate sharing in front of teens. Teens are also offered — never required — a rotating turn at low-risk leadership moments (such as opening the session or reading scripture), always with adults present and leading the evening.
 
@@ -1535,7 +1535,7 @@ Sent to CCA families approximately eight weeks before Week 1. Customize the brac
 
 Dear [CCA family name],
 
-Beginning [date range], CCA is hosting a new club for high-school teens and their parents called Fellowship of the Heart. It is a year-long journey — Wednesday evenings across the school's four club quarters, seventy-five minutes a week — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
+Beginning [date range], CCA is hosting a new club for high-school teens and their parents called Fellowship of the Heart. It is a year-long journey — Wednesday afternoons across the school's four club quarters, seventy-five minutes a week — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
 
 This is not a youth group with parent permission. It is a family formation series, and this year's shape is its heart: parents and teens share the same circle, families stay together, and on the sharing practices the parents go first. Your teen will hear you name real things — and you will hear your teen — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when the series ends.
 
@@ -1543,7 +1543,7 @@ The series is based on the Intentional Journey of the Heart project (IJH), a bod
 
 Specifically:
 
-- Twenty-two Wednesday-evening sessions across the club year (September through spring), 90 minutes each, at CCA.
+- Twenty-two Wednesday-afternoon sessions across the club year (September through spring), 75 minutes each, at CCA.
 - Open to high-school teens. At least one parent (or grandparent, or guardian) attends every session as a participant.
 - Limited to about six families. We meet briefly with every interested family, and the team prayerfully composes each year's cohort as a whole — so please reach out early, but nobody is admitted or passed over by speed alone.
 - Free.
@@ -1868,7 +1868,7 @@ Lead Companion (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ## The rhythm
 
-- **Wednesday evenings** — twenty-two sessions across the school year, in quarters with real breaks.
+- **Wednesday afternoons** — twenty-two sessions across the school year, in quarters with real breaks.
 - **The Thursday Call** — forty-five minutes, every week. This one call is the team's whole meeting life; missing the call is missing the meeting.
 - **The eight weeks before Week 1** — the preparation rhythm in Section 3: every practice done on yourself first, weekly team meetings, a dress rehearsal.
 - **The moments that stand outside the call:** T-30 team prayer before every session; a dry run whenever a teen you are catching is leading; an occasional scheduled working session before the heavy weeks.

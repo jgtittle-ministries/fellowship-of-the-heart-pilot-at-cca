@@ -4,7 +4,7 @@ title: "Home"
 
 # Fellowship of the Heart — CCA Pilot
 
-*Three series, walked one weekly evening at a time.*
+*Three series, walked one Wednesday at a time.*
 
 ![Light through autumn woods.](images/home-path.jpg)
 

@@ -1,6 +1,6 @@
 # Getting Started
 
-*The Four Connects, walked over twenty-two Wednesday evenings.*
+*The Four Connects, walked over twenty-two Wednesday afternoons.*
 
 ![A table set, before the cohort arrives.](images/landing-table.jpg)
 

@@ -31,6 +31,13 @@ Deliberately untouched: real ninety-minute durations — the Companions' story-w
 Going Deeper and Going Out team pre-meets, the Rhythm Card's ~90-minute monthly clearing time — and the
 approved CCA proposal, which stands as submitted.
 
+The companion catch, swept the same day: "Wednesday evenings" — the original design's slot — survived
+in the handbook's opening line and grounding script, the commitment ask, the program overview, the
+recruitment letter, the Clear Agreement's rhythm line, the series and site taglines, the start-here
+page, and the deck's title slide, while the pilot meets Wednesday afternoons at 4:15. All now say
+afternoons. Real evenings stay: the Five-Minute Examen's evenings, the evening journal note, and
+Week 14's Option 1 and Option 2 evenings at the family's own table.
+
 # August 2026 — The card says how
 
 The printed Practice Check-Off Cards for Weeks 2, 3, 5 and 6 now carry, under the week's one-time
