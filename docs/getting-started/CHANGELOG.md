@@ -18,6 +18,17 @@ hundred forty-one — carrying what the walk-through added: the door out named i
 compass, and the clasped-hands image for Week 6. The handbook's Section 9 and the Shared Materials hub
 point at it. The deck still serves the plans and never replaces them.
 
+# August 2026 — The dip, the card, and the gradient
+
+Three small adoptions, occasioned by vetting an anonymous commercial trauma journal and keeping only
+what was honest in the category's research. First: the best-replicated finding about writing on hard
+things — that it often leaves a person lower for an hour or two, and that this passes — is now said
+wherever this year asks for that writing: the Week 3 story pre-work, the journal's own guidance, and
+the Doubts Inventory. Second: the journal's safety section now names the Path Home Card as the hard-night
+page — the door that never locks, in the spot each family chose — so the answer to a bad night is a card
+with people behind it, not another prompt. Third: the handbook now says plainly what the year has always
+been — a titration, graduated the way trust is built, and held rather than worked alone.
+
 # August 2026 — Seventy-five minutes, said everywhere
 
 The founder's catch, starting from one slide: the session slide deck's Container Introduction still

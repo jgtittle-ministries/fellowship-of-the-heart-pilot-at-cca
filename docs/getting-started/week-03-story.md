@@ -94,6 +94,8 @@ Before this session, the Lead Companion, every Cluster Companion, and any Compan
 
 Set aside ninety minutes this week for your own story writing. Use the Personal Heart Journal pages for Week 3. Be specific. Where you would normally generalize — “my parents’ divorce was hard” — keep going. “The sound of my mother crying in the bathroom in 1994.” That is the depth at which you write to yourself. You will not share that depth in the circle. But you will not tell a true story unless you have first told a true story to yourself.
 
+One more thing to know before you write — from the research on this kind of writing, and from long practice: honest writing about hard things often leaves you feeling lower for an hour or two afterward. That is normal; it passes; it is usually the sign that you did it honestly, not wrongly. Plan something gentle for right after your ninety minutes, and do not schedule them at midnight.
+
 ## Team pre-work
 
 The Thursday Call's look-ahead before Week 3 covers — heavy prep: if the call cannot hold this list, it schedules a separate working session:

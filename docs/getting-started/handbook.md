@@ -74,6 +74,10 @@ The Four Connects are not four topics on a syllabus. They are a sequence with di
 
 These two commandments are the source of the four Connects. Loving God with all the heart, soul, and mind requires honest knowledge of that heart, soul, and mind (Self). Loving neighbor as self requires being known and knowing (Others). Both rest on connection with God Himself, and both bear fruit in the works God has prepared for us to walk into (Mission).
 
+## The year itself is the titration
+
+One more thing the sequence is: graduated. The year is built the way trust is built. Week 1 asks for nothing braver than your name and one true sentence; every week after asks slightly more than the last, at a pace a person can actually keep. Practices are introduced before they are leaned on; the room grows safe before it is asked to be brave; the deepest nights — the stories, the confession, the garden — come only after the container has held for weeks. This is deliberate design, not drift: depth is never demanded, it is invited, in an order that makes the invitation answerable. And unlike a workbook worked alone, the gradient here is held — by a Companion team that can see when a week asked too much, by practices that always carry a pass, and by a door out with a name on it.
+
 ## Series outcomes
 
 By the end of the twenty-two-week Getting Started year, we expect the following outcomes — recognizing that the Holy Spirit is the agent of all real movement, and that some teens and parents will move further than others.

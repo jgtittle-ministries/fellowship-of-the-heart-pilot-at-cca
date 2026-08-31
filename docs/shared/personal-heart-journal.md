@@ -95,6 +95,10 @@ This journal works only if it is honest. The temptation is to write what sounds 
 
 If your morning question produced nothing, write nothing. If your evening review found you barely thought of God all day, write that. The Spirit meets honest journals; He cannot do much with performances of journals.
 
+## When honest writing leaves you low
+
+One more honest thing, known from the research on writing about hard things and from long practice: after you write something true and heavy, you may feel lower for an hour or two. That is normal. It passes. It is not a sign you did it wrong — it is usually the sign you did it honestly. Plan something gentle after the hard entries. And if the low does not lift, that is exactly what the names on the safety page are for.
+
 ## On returning when you fall away
 
 You will miss days. Most people who keep this kind of journal do. When you miss a day, do not start over from the beginning of a streak. Just write today. Returning is the practice; streaks are not.
@@ -114,6 +118,8 @@ The work in these pages is private, but you were never meant to carry the heavy 
 - **Your Cohort Companion:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ *(name and how to reach them)*
 - **Someone outside this group — Pastor Bobby Gore, (831) 277-9878.** He is not part of the Companion team. If the thing that needs saying is one you would rather not say to your Companion or to your parents, go straight to him. You do not need a reason, you do not need permission, and nobody here will be told that you did.
 - **Anytime, day or night:** call or text **988** (Suicide & Crisis Lifeline); in an emergency, call **911**.
+
+- **On a hard night that is not an emergency:** once the two mercy cards have come home (Week 19), go find the Path Home Card — the door that never locks — in the spot your family chose together. Until then, this page is your card.
 
 You will not be in trouble for telling. Reaching out is the brave and faithful thing to do — and you will not be alone in it.
 

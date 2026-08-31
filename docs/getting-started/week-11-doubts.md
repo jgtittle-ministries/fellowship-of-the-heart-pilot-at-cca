@@ -498,6 +498,8 @@ Four handouts for Week 11.
 
 *Twenty minutes this week, with your journal. The point is not to discover that you are full of doubt; it is to map honestly where the brakes are so the Spirit can address them. No shame. Just data.*
 
+*One honest note: naming doubts on paper can leave you feeling lower for an hour or two afterward. Normal; it passes; it is the feeling of honesty, not of failure.*
+
 ### **Step 1 — List five to ten scriptures you say you believe**
 
 Pick scriptures you would affirm in church without a second thought. “God is good.” “He will provide.” “He hears prayer.” “All things work together for good.” “I am loved.” “He is at work in everything.” “He will never leave me.” “His grace is sufficient.”
