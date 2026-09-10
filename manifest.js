@@ -24,6 +24,36 @@ window.SERIES = [
     "path": "docs/start-here.md"
   },
   {
+    "id": "evening",
+    "kind": "series",
+    "name": "FotH Evening",
+    "folder": "docs/evening",
+    "edition": "v1",
+    "index": "docs/evening/index.md",
+    "chapters": [
+      {
+        "path": "docs/evening/index.md",
+        "title": "FotH Evening"
+      },
+      {
+        "path": "docs/evening/handbook.md",
+        "title": "The Evening Handbook"
+      },
+      {
+        "path": "docs/evening/session-01-welcome-to-the-journey.md",
+        "title": "Session 1 — Welcome to the Journey"
+      },
+      {
+        "path": "docs/evening/session-05-knowing-and-being-known.md",
+        "title": "Session 5 — Knowing and Being Known"
+      },
+      {
+        "path": "docs/evening/CHANGELOG.md",
+        "title": "Change Log"
+      }
+    ]
+  },
+  {
     "id": "getting-started",
     "kind": "series",
     "name": "Getting Started",
@@ -369,6 +399,49 @@ window.PATH_TO_INFO = {
     "seriesName": "Start here",
     "title": "Start here",
     "indexPath": "docs/start-here.md"
+  },
+  "docs/evening/index.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "FotH Evening",
+    "indexPath": "docs/evening/index.md",
+    "next": "docs/evening/handbook.md"
+  },
+  "docs/evening/handbook.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "The Evening Handbook",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/index.md",
+    "next": "docs/evening/session-01-welcome-to-the-journey.md"
+  },
+  "docs/evening/session-01-welcome-to-the-journey.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Session 1 — Welcome to the Journey",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/handbook.md",
+    "next": "docs/evening/session-05-knowing-and-being-known.md"
+  },
+  "docs/evening/session-05-knowing-and-being-known.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Session 5 — Knowing and Being Known",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-01-welcome-to-the-journey.md",
+    "next": "docs/evening/CHANGELOG.md"
+  },
+  "docs/evening/CHANGELOG.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Change Log",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-05-knowing-and-being-known.md"
   },
   "docs/getting-started/index.md": {
     "seriesId": "getting-started",

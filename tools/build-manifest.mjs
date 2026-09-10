@@ -26,6 +26,7 @@ const SITE = {
 // Standalone root pages, in nav order, then series folders in nav order.
 const ROOT_PAGES = ['index.md', 'start-here.md'];
 const SERIES_DEFS = [
+  { id: 'evening',         name: 'FotH Evening',      edition: 'v1' },
   { id: 'getting-started', name: 'Getting Started',   edition: 'v3' },
   { id: 'going-deeper',    name: 'Going Deeper',      edition: 'v2' },
   { id: 'going-out',       name: 'Going Out',         edition: 'v3' },
@@ -43,6 +44,8 @@ const orderKey = (name) => {
   if (n.includes('guide')) return [2, 0, n];
   const wk = n.match(/week-(\d+)/);
   if (wk) return [3, parseInt(wk[1], 10), n];
+  const ss = n.match(/session-(\d+)/);
+  if (ss) return [3, parseInt(ss[1], 10), n];
   if (n.includes('changelog')) return [9, 0, n];
   return [5, 0, n];
 };

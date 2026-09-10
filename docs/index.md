@@ -10,6 +10,19 @@ title: "Home"
 
 The pilot edition of **Fellowship of the Heart**, the operational expression of the *Intentional Journey of the Heart* (IJH) framework, prepared for the first **Covenant Christian Academy of Warrenton** cohort beginning Fall 2026.
 
+---
+
+## One journey, two expressions
+
+Fellowship of the Heart is currently walked in two forms:
+
+- **[FotH Evening — Two-Week Rhythm · Teen-Led](evening/index.md)** — biweekly Tuesday evenings around a family table, teens leading, adults in the circle. **First evening: Tuesday, September 15, 2026.** If you were invited to an evening, start there.
+- **The CCA pilot** — the school-year expression: three sequential series on Wednesday afternoons, laid out below.
+
+Same journey, two clocks. The evening pages carry what that form changes; everything else on this site stands behind both.
+
+---
+
 **Coming from *A Church Prepared for Revival*?** That book — [*A Church Prepared for Revival: A Pilot Proposed*](https://jgtittle-ministries.github.io/a-church-prepared-for-revival-a-pilot-proposed/) — proposes Fellowship of the Heart as the way a church builds its small-group leadership *before* revival arrives: the vessel before the rain. The three series below are the mechanics it points to, and [Getting Started](getting-started/index.md) is where a leadership circle would begin.
 
 The pilot is organized as three sequential series the cohort walks together, with shared participant materials supporting all three:
