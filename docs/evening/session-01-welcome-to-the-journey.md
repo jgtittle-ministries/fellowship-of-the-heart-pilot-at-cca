@@ -9,6 +9,12 @@ state the seed plainly and settle what it means to be saved (the thief's
 case), and give every person their first taste of what genuine community
 feels like.
 
+**Where we are on the map.** Every evening now opens on the Four Connects
+map — Self, Others, God, Mission — locating the session on the journey.
+Tonight the map itself is the teaching: Session 1 opens all four boxes, a
+sequence rooted in the two great commandments (Matt. 22:37–40), and the
+kitchen-table block walks it in full.
+
 **Who leads.** The teens who walked the opening sessions in the prototype
 group hold the two roles tonight. A newcomer's first sight of this work is
 a teenager leading it well: that is the witness, and it is deliberate.
@@ -40,7 +46,7 @@ you were invited to dinner.
 
 *Printed sheets are handed out in the room; this is the same content.*
 
-**1. The practice — week one.** The two standing daily questions. Each
+**1. The homework practice — week one.** The two standing daily questions. Each
 morning, five minutes: "Lord, what are you up to today, and what do you
 want me to notice?" Each evening, one journal line: "What did I notice
 today?" One box per day, M–Su.
@@ -50,7 +56,7 @@ the partner you named at commissioning and report how it's going against
 the practice. A text, a call, or a hallway conversation all count. You are
 not grading each other; you are expecting each other.
 
-**3. The practice — week two.** Keep the morning and evening questions,
+**3. The homework practice — week two.** Keep the morning and evening questions,
 and add the abundance question: read John 10:10b once and ask, where is
 abundance in my life right now, and where isn't it? Watch for one specific
 moment worth telling the circle about.
@@ -82,6 +88,12 @@ what follows is what the evening form changes.
   family by family in the permission conversations afterward, on each yes.
 - **Veterans carry the one-sentence prep** from their handout; newcomers
   have none.
+- **A pair leads, visibly.** Name it in the welcome: two leaders hold
+  tonight — container and content — and the room will see the evening
+  handed back and forth between them. That is the design, not a hiccup.
+- **Practice the handoffs beforehand.** The leading pair walks the session
+  together before the evening — at the planning lab, or before dinner — so
+  each knows who is where in the flow.
 
 **Watch-fors, evening additions.** The school version's watch-fors all
 stand (first-night nerves, chaperoning parents, sentimentality,

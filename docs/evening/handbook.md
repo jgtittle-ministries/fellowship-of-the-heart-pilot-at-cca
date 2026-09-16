@@ -33,7 +33,7 @@ The 90-minute session keeps a steady shape:
 
 | Time | Block | Lead |
 |---|---|---|
-| 7:00–7:08 | Welcome and centering: blessing, container reminder, frame the evening. | Container holder |
+| 7:00–7:08 | Welcome and centering: blessing, the Four Connects map (where tonight sits), container reminder, frame the evening. | Container holder |
 | 7:08–7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares; a parent opens. | Container holder |
 | 7:25–7:45 | Teaching block: the session's content. | Content presenter |
 | 7:45–8:10 | Practice block: the session's exercise, in circle. | Content presenter, container holder watching the room |
@@ -43,6 +43,45 @@ The 90-minute session keeps a steady shape:
 
 Each session's page carries its own run sheet where the evening bends this
 shape; the shape itself is the constant.
+
+Two standing flexibilities inside the shape. **Every evening opens on the
+map**: the Four Connects — Self, Others, God, Mission — with tonight's
+session located on it, so the work is always grounded in the journey it
+serves. And **splits fit the room**: where a session's practice block
+splits the group, the split assumes numbers — a small room stays one
+circle, or drops into quick pair work in place, which does the same work
+faster and doubles as the time-recovery lever (a full split-and-merge
+costs about five minutes of the evening).
+
+## The current-condition walk
+
+The series is walked intentionally at the scale of the room it has —
+right now, the four prototype teens, their two parents, and John: a room
+that already knows each other. Three things follow. **One circle by
+default** — no room-splits, no parent/teen separation. **Condensations
+where completion doesn't need two evenings** — the second runnings fold
+into their firsts, each in the way its material asks:
+
+- **Sessions 3–4 combined**: everyone tells, one round, one evening
+  (proven in the prototype group's own running).
+- **Sessions 7–8 combined**: both PROAPT reps inside one evening — rep
+  one walked together, rep two in the pairs on Session 8's passage
+  (Mark 2:1–12).
+- **Sessions 9–10 combined**: one guided garden run, a senior reading
+  from the start; the week's three returns *are* the second visit,
+  received at the next check-in.
+- **Session 14 absorbed**: its purpose — every willing teen a full
+  leading rep — is the standing pattern of every current evening; any
+  re-run middle can be called at a planning lab.
+- **Session 19 moved to the lab**: the mercy-card rehearsal happens at
+  the off-week planning lab with John; Session 20 teaches the cards to
+  the room as designed.
+
+And **the full form held in reserve** — the two-session runnings, the
+room-splits, and the parent/teen separations all stand ready in the v1
+materials for a larger room of newer people; the walk backs up to them
+whenever the room grows. Safety never condenses: Section 6 preparation
+and the Settle Protocol apply to the combined forms in full.
 
 ## The two roles and the rotation
 
@@ -56,6 +95,18 @@ shape; the shape itself is the constant.
 With enough teens, the roles can be held by pairs or by individuals as the
 rotation allows. Teens step up as ready and willing — and they have been.
 The rotation is kept on the sign-up sheet, settled at the planning labs.
+
+In practice the container holder is often the *busier* seat: keeping the
+clock **and** continuously reading the room against the four conditions —
+safe, present, clear, intentional — including noticing anyone triggered or
+checked out. Anything of weight goes to the backstop adult; that is the
+bright line working, not the container failing.
+
+When two leaders hold an evening, two habits keep it smooth: the pair
+**practices the session together beforehand** — at the planning lab, or
+before dinner — so each knows who is where; and the welcome **names the
+pair out loud**, so the room expects to see the evening handed back and
+forth between them. The handoffs are the design, not a wobble.
 
 ## The adult backstop and the bright line
 
@@ -82,14 +133,14 @@ run sheet leaves open. No teen leads a session cold.
 
 Each session ends with a one-page take-home in four parts:
 
-1. **The practice, week one** — the session's practice for the first week,
-   with a box to check for each day.
+1. **The homework practice, week one** — the session's practice for the
+   first week, with a box to check for each day.
 2. **The end-of-week-one check-in** — at the end of week one, connect with
    the partner you named aloud at commissioning and report how it's going.
    A text, a call, or a hallway conversation all count. You are not
    grading each other; you are *expecting* each other.
-3. **The practice, week two** — the practice continued, deepened or
-   repeated as the session specifies.
+3. **The homework practice, week two** — the practice continued, deepened
+   or repeated as the session specifies.
 4. **One sentence of preparation** — read, notice, or bring something for
    the next session.
 

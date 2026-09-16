@@ -81,6 +81,12 @@ group is actually walking.
 - [Session 1 — Welcome to the Journey](session-01-welcome-to-the-journey.md)
 - [Session 5 — Knowing and Being Known](session-05-knowing-and-being-known.md)
 
+*The current group walks a condensed path where the room allows it —
+Sessions 3 and 4 ran combined in one evening (everyone tells, one
+circle). See the [Evening Handbook](handbook.md#the-current-condition-walk)
+for the current-condition walk and what stands in reserve for a larger
+room.*
+
 The [Evening Handbook](handbook.md) is the one-sitting guide to how the
 evenings work — the shape of the night, the two teen roles, the take-home
 rhythm, and what surrounds it all.
