@@ -76,6 +76,14 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.6 — September 17, 2026 — the divider flag closed
+
+The flag v2.5 left open is closed, and the record catches up with the
+work: the deck-ending quarter dividers were rebased from the school
+clock to the biweekly walk in the very next change — the “Quarter 2”
+divider no longer speaks “Weeks 7–11 · Five Wednesdays.” No new deck
+changes ride with this entry; it records a closure already shipped.
+
 ## v2.5 — September 16, 2026 — Session 6 pre-flight (John's review)
 
 Ahead of the next evening (September 29): the Companion Demo slide now
