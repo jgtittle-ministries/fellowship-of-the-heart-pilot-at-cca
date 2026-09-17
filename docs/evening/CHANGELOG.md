@@ -76,6 +76,23 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.11 — September 17, 2026 — Session 6 deck fixes (John’s slide review)
+
+Four fixes from John’s pass through the deck. Slide 83 (Tonight’s Road)
+now shrinks its text to the box instead of growing past it. Slide 87
+gains the missing sample: after the Co-Companion bullet, a worked
+blessing of restoration — “In the name of Jesus, we pray restoration
+over the place you named — may its grip break, and may honesty grow
+where it held” — matching the blessing card the pairs will hold. Slides
+88–89 are now pair-true: the school form’s circle order (“your Companion
+first”) is gone; the parents go first in every pair, then the teens, and
+the Lead Companion’s modeling stays where it happens, on the demo slide.
+Slide 90’s sending prayer now reads “Holy Spirit, walk my brothers and
+sisters home.” The pairs beats in the speaker notes and leader notes
+match, and slide 86 says the pair, not the circle, speaks the blessing.
+One sibling flagged, not touched: Session 3’s storytelling slide also
+sends the Lead Companion first — deliberate there or not is John’s call.
+
 ## v2.10 — September 17, 2026 — the interposed closing, kept and converted
 
 John’s call on v2.9’s held question: the closing choreography stays. In
