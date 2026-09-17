@@ -76,6 +76,22 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.10 — September 17, 2026 — the interposed closing, kept and converted
+
+John’s call on v2.9’s held question: the closing choreography stays. In
+Sessions 1, 12, and 14 the Leader Feedback Round sits inside the closing
+rather than before it, and the whole tail now runs on the evening clock —
+closing begins 8:24–8:26, the round interposes 8:26–8:29, and the return
+and blessing cap 8:29–8:30. Converted everywhere at once: the three run
+sheets’ tail rows rebuilt as three choreography rows (Week 1’s
+closing-before-the-round order named on its own row; Session 12 returns to
+“His mercies did not run out”; Session 14 teen-led with the Lead Companion
+running the round), the leader-notes and deck headers re-timed, and the
+Week 1 order cues converted. The minutes are the planning lab’s to tune,
+as always; the order is the design. The school clock now survives nowhere
+in the evening artifacts except Scripture references and Session 21’s
+deliberate school-version comparison.
+
 ## v2.9 — September 17, 2026 — the school-clock sweep
 
 John caught a stray “5:03” in Session 6’s leader notes — a school-form
