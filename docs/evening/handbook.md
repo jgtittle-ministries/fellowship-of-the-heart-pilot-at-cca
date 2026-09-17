@@ -88,9 +88,13 @@ and the Settle Protocol apply to the combined forms in full.
 - **The container holder** opens and closes the evening, holds the
   check-in and shared circles, and watches the room during practice.
   Safety and warmth, presence, clear and intentional — the container
-  holder's charge is the room itself.
-- **The content presenter** carries the teaching and practice blocks and
-  commissions the take-home.
+  holder's charge is the room itself. The criterion is simple: anything
+  that is important for reading the room belongs to the container holder —
+  which is why, when a split practice merges back, the container holder
+  leads the merge and its debrief.
+- **The content presenter** carries the teaching and practice blocks,
+  hands the room to the container holder at the merge, and takes it back
+  to commission the take-home.
 
 With enough teens, the roles can be held by pairs or by individuals as the
 rotation allows. Teens step up as ready and willing — and they have been.
