@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.9 — September 17, 2026 — the school-clock sweep
+
+John caught a stray “5:03” in Session 6’s leader notes — a school-form
+clock time that survived the evening adaptation, the same class as the
+“back at 5:11” the first debrief fixed. A full sweep of every evening
+artifact found the rest: sixteen residues across eight sessions, each now
+converted to its own run sheet’s clock — S2 (the 7:40 move; re-merge at
+8:10, and one minute to move, not three — the evening re-merge is
+tighter than the school form’s), S3 (back at 8:20; texture different
+than at 7:40), S4 (back at 8:16), S6 (pace not discovered at 8:00),
+S13/S18 (family night on the evening clock: light food from 6:00, 6:30
+to 8:30), S17 (hand to the lifted plan at 7:27; constants resume 7:50;
+leaders walk 7:59–8:03; the room walks 8:03–8:18), S19 (rotation at
+7:57; the send at 8:28). Scripture references and S21’s deliberate
+school-version comparison were left alone. HELD FOR A CALL: the closing
+choreography in S1, S12, and S14 still speaks the school clock because
+it encodes order, not just time — whether the evening form keeps the
+school form’s interposed feedback round (closing protocol, round inside,
+return) or the run sheets’ plain tail (commissioning, round, closing) is
+one design question, John’s to make, before those three convert.
+
 ## v2.8 — September 17, 2026 — the merge ripple (series-wide)
 
 The Session 6 decision rippled at John’s word: every merge after a split
