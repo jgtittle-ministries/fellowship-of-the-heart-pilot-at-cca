@@ -76,6 +76,20 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.5 — September 16, 2026 — Session 6 pre-flight (John's review)
+
+Ahead of the next evening (September 29): the Companion Demo slide now
+offers a worked sample of the pattern — an example naming and the
+blessing back — in the style the merge slide already models; the
+homework slide drops the quarter-break framing and the paper Quarterly
+Pulse (the Examen is carried through the two weeks; run sheet and
+take-home sheet match, and the on-screen sheet images re-rendered);
+“Three Questions, Carried Home” stays but as a thinking point, not a
+quarterly break — no paper, next evening we talk. And the garbled
+“leadsanion” (Lead Companion) is repaired across all ten decks that
+still carried it. Flag left open: the deck-ending “Quarter 2” divider
+still speaks the school clock (“Weeks 7–11 · Five Wednesdays”).
+
 ## v2.4 — September 16, 2026 — the condensation completed (7–8, 9–10, 14, 19)
 
 The current-condition pattern applied to the remaining second runnings,
