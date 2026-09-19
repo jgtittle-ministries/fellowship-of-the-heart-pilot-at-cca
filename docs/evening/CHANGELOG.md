@@ -76,6 +76,21 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.12 — September 19, 2026 — the Examen explained on the take-home (S6)
+
+John’s call: the Session 6 take-home sheet now says what the Five-Minute
+Examen is, not just its name. The three steps as the deck teaches them —
+thank Him for one specific thing from the day; notice one place where you
+saw God moving; ask Him about one place where you walked in less honesty
+than you wanted to today (just notice; no fixing; the Spirit does the
+work) — now sit under the week-one practice, on the md record and the
+Word rendition both, so the sheet in the room’s hands matches slide 12 on
+the screen. Flagged, not touched: the rendition and the deck say “carried
+through the two weeks” while the md record and run sheet still carry the
+quarter-break-and-Quarterly-Pulse framing, and the deck’s leader notes
+mark the current-condition walk as no quarter break, no paper Pulse —
+which frame the S6 sheet should carry on 9/29 is John’s call.
+
 ## v2.11 — September 17, 2026 — Session 6 deck fixes (John’s slide review)
 
 Four fixes from John’s pass through the deck. Slide 83 (Tonight’s Road)
