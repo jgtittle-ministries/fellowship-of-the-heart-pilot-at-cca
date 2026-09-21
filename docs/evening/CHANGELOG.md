@@ -76,6 +76,29 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.13 — September 21, 2026 — the homework practice by name; the quarter break leaves the active walk (S6–S7)
+
+John’s two calls on v2.12’s flag. First, the title: the v2 rename (“the
+homework practice”) had reached every deck, run-sheet and take-home
+rendition but never the md records — the records now say it too (45
+files, 90 headings and item names), and the one rendition that had
+missed it, the homework-handout template, is folded in. Second, the
+current active curriculum has no quarter break: Session 6’s record and
+run sheet now commission the Examen “carried through the two weeks,”
+matching slide 12 and the sheet in hands; the paper Quarterly Pulse is
+gone from the S6 commissioning and closing beats (deck notes + leader
+notes — the three questions still ride home on no paper, answered
+together next evening); and Session 7’s “Pulse 1 returns go in the bin
+at the door” cue now points at the 7:25 block where the room answers
+Session 6’s three questions together. Left standing deliberately: the
+quarter ARC labels (“Quarter 1: Connect with Self & Others” on the
+title slides, S6’s Quarter 2 preview slide, “Quarter 1 ends today”) —
+arcs are not breaks. Held for John’s design word: Sessions 11, 16, and
+17, whose homework is quarter-shaped in substance (S11 commissions the
+Pulse for January’s Return, S16’s week-one practice IS the Pulse
+return, S17 carries one practice through the break) — removing the
+break there changes what the homework is, not what it is called.
+
 ## v2.12 — September 19, 2026 — the Examen explained on the take-home (S6)
 
 John’s call: the Session 6 take-home sheet now says what the Five-Minute
