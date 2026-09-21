@@ -76,6 +76,18 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.15 — September 21, 2026 — The Road So Far (new S6 take-home page)
+
+At John’s word: a second Session 6 take-home page — one page summarizing
+the road walked before tonight (S1, S2, S3–4 combined, S5, and tonight’s
+S6), each with the evening’s heart and the practice that went home — so
+the quarter is fresh in memory while the three questions ride home. The
+sheet alludes to the questions without printing them, honoring the
+on-no-paper design; if John wants them printed, that is a deliberate
+amendment, not this one. New artifact (md record + Word rendition), sync
+rule added (lands as “Session 6 — The Road So Far” beside the take-home),
+and a fifth shortcut in Print for Tuesday.
+
 ## v2.14 — September 21, 2026 — the telling order belongs to the leaders (S3)
 
 John’s call on v2.11’s flagged sibling: the standalone Session 3 no
