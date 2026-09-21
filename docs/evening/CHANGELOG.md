@@ -76,6 +76,19 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.14 — September 21, 2026 — the telling order belongs to the leaders (S3)
+
+John’s call on v2.11’s flagged sibling: the standalone Session 3 no
+longer fixes the Lead Companion as the first teller in the pairs — the
+telling order is arranged beforehand, matching the combined form, with
+Companion-first kept in the leader notes as a depth-setting lever for a
+pair that needs it. Changed in step: the Stories-in-pairs slide, its
+speaker-notes beat, the small-room cue (“the arranged telling order
+holds”), and the leader notes; the combined form’s cue gains the same
+lever note. The demo slide keeps the modeling where it lives — the Lead
+Companion still tells first to the whole room, just not again inside
+every pair.
+
 ## v2.13 — September 21, 2026 — the homework practice by name; the quarter break leaves the active walk (S6–S7)
 
 John’s two calls on v2.12’s flag. First, the title: the v2 rename (“the
