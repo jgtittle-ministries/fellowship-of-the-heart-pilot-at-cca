@@ -76,6 +76,26 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.16 — October 2, 2026 — PROAPT: the why behind each step (S7–8)
+
+At John’s word, from his review of Sessions 7–8: the leaders may not yet
+understand what PROAPT is about, and above all why the order matters —
+data before interpretation, so that you are grounded in what the passage
+actually says before working out what it means, first in the world where
+it was written and then for yourself in yours. Slide 10 (PROAPT walked
+together) carried a good outline with little explanation. Its speaker
+notes gain a WHY line, one reason per step (the deck and the Leader Notes
+handout kept in step); the slide face is unchanged. A new one-page leader
+page, “PROAPT — What Each Step Is For” (md record under
+`_implementation-notes/evening-series/leader-pages/`, Word and PDF in the
+Planning folder), walks each step: what you do, why it matters, and what
+happens if it is skipped. It also includes a John 4 example, the
+watch-fors, and the prompts for getting a stuck pair moving. It may travel
+home as an attachment to the homework handout; held until the leaders have
+used it. One extension, flagged for John: the interpretation layer adds
+“why it would have mattered to those who first heard it” to “what stands
+out or surprises you.”
+
 ## v2.15 — September 21, 2026 — The Road So Far (new S6 take-home page)
 
 At John’s word: a second Session 6 take-home page — one page summarizing
