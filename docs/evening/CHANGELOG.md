@@ -76,6 +76,23 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.17 — October 3, 2026 — the PROAPT page goes home (S7–8 take-home)
+
+At John’s word, the PROAPT page is attached to the Session 7 take-home, the
+sheet the combined S7–8 evening uses, as a second page in the pattern of
+S6’s The Road So Far. This is a take-home edition rather than the leader
+page itself. The leader page names two failure types (the literalist, the
+over-spiritualizer) and carries a leaders-only “tonight” line; those are
+not what a family needs in hand. The edition keeps the same core: what it
+is, the one idea (*the order protects the hearing*), the seven-row table,
+and the John 4 example. Its last section becomes “When you get stuck,”
+written for the reader, with a missed-day line. New artifact (md record
+`handout-session-07-proapt.md` + Word rendition), a sync rule (it lands as
+“Session 7 — PROAPT, What Each Step Is For” beside the take-home), and a
+sync-map row for the companion pages (The Road So Far had none). The
+Session 7 take-home gains one pointer in its first item: the second page
+with this sheet explains each step and why the order matters.
+
 ## v2.16 — October 2, 2026 — PROAPT: the why behind each step (S7–8)
 
 At John’s word, from his review of Sessions 7–8: the leaders may not yet
