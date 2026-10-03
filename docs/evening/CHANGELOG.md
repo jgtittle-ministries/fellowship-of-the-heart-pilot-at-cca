@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.18 — October 3, 2026 — the front page shows where we are
+
+At John’s word: the FotH Evening front page was still set for the opening
+night of September 15, with a “next evening” long past, a calendar that no
+longer matched (September 29 moved to Wednesday, October 7), and only
+Sessions 1 and 5 listed. That misled a visitor looking for the current
+state of the pilot. The page now keeps itself current:
+
+- **Where we are**: what has been walked, the next evening (Wed Oct 7,
+  Session 6, closing Quarter 1), the one after (Tue Oct 13, Sessions 7–8,
+  opening Quarter 2), and how dates beyond are set (at the planning lab,
+  with holiday breaks being decided).
+- **The road**: every session of the current-condition walk, with when it
+  ran or runs and where it stands (walked, next, planned, ahead, absorbed,
+  moved to the lab). Each links to its evening page where one is published,
+  and otherwise to the Companion lesson plan.
+- The fixed fall calendar of projected Tuesdays was removed: after the
+  October 7 move it was no longer true. A “last updated” line was added.
+- **Standing practice:** refresh this page at each debrief, alongside the
+  Print for Tuesday shortcuts.
+
 ## v2.17 — October 3, 2026 — the PROAPT page goes home (S7–8 take-home)
 
 At John’s word, the PROAPT page is attached to the Session 7 take-home, the
