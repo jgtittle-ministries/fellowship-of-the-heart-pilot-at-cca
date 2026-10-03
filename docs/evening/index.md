@@ -20,10 +20,10 @@ together before the evening series opened, and the series' first evening,
 [Session 5 — Knowing and Being Known](session-05-knowing-and-being-known.md).
 
 **Next evening: Wednesday, October 7** (moved from Tuesday, September 29).
-*Session 6 — Safe and Brave Together*, the confession-and-restoration
+[Session 6 — Safe and Brave Together](session-06-safe-and-brave-together.md), the confession-and-restoration
 evening, which closes the first quarter.
 
-**Then: Tuesday, October 13.** *Sessions 7–8 — Hearing God in Scripture*,
+**Then: Tuesday, October 13.** [Sessions 7–8 — Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md),
 both PROAPT evenings combined in one, opening the second quarter, *Connect
 with God*.
 
@@ -80,8 +80,8 @@ the full Companion lesson plan in the Getting Started series.
 | 2 — [The Soil of Your Heart](../getting-started/week-02-soil.md) | Before the series opened | Walked |
 | 3–4 — Telling Your Story, I & II ([3](../getting-started/week-03-story.md), [4](../getting-started/week-04-story-2.md)), combined | Before the series opened | Walked |
 | 5 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
-| 6 — [Safe and Brave Together](../getting-started/week-06-brave.md) | **Wed Oct 7** | **Next:** closes Quarter 1 |
-| 7–8 — Hearing God in Scripture, PROAPT I & II ([7](../getting-started/week-07-proapt.md), [8](../getting-started/week-08-proapt-2.md)), combined | Tue Oct 13 | Planned: opens Quarter 2 |
+| 6 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | **Wed Oct 7** | **Next:** closes Quarter 1 |
+| 7–8 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II, combined | Tue Oct 13 | Planned: opens Quarter 2 |
 | 9–10 — The Garden of Your Heart, I & II ([9](../getting-started/week-09-garden.md), [10](../getting-started/week-10-garden-2.md)), combined | Set at the planning lab | Ahead |
 | 11 — [Any Doubts?](../getting-started/week-11-doubts.md) | | Ahead |
 | 12 — [The Return](../getting-started/week-12-return.md) | | Ahead |

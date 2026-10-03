@@ -76,6 +76,26 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.19 — October 3, 2026 — the next two evenings published (S6, S7–8)
+
+At John’s word: evening pages for the next two evenings join Sessions 1
+and 5, so the reader’s sidebar and the front page’s road table show the
+walk as it stands.
+
+- **Session 6 — Safe and Brave Together** (Wed Oct 7): the evening table,
+  the take-home (the Five-Minute Examen; the three questions sent home on
+  no paper; The Road So Far as the second page), and the evening form’s
+  notes for the leads (the place, not the details; parents first; the pass;
+  the merge to the container holder).
+- **Sessions 7–8 — Hearing God in Scripture** (Tue Oct 13): the combined
+  evening, timed to the rippled deck (the room reads itself at 7:25), with
+  the PROAPT steps table on the page, the take-home with its passage paths
+  and its PROAPT companion page, and the combined form’s notes for the leads.
+- Leader-only preparation (planning overlays and lab agendas) stays off the
+  public pages.
+- The front page’s *Where we are* and road table now link the two evening
+  pages.
+
 ## v2.18 — October 3, 2026 — the front page shows where we are
 
 At John’s word: the FotH Evening front page was still set for the opening

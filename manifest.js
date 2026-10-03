@@ -48,6 +48,14 @@ window.SERIES = [
         "title": "Session 5 — Knowing and Being Known"
       },
       {
+        "path": "docs/evening/session-06-safe-and-brave-together.md",
+        "title": "Session 6 — Safe and Brave Together"
+      },
+      {
+        "path": "docs/evening/session-07-08-hearing-god-in-scripture.md",
+        "title": "Sessions 7–8 — Hearing God in Scripture"
+      },
+      {
         "path": "docs/evening/CHANGELOG.md",
         "title": "Change Log"
       }
@@ -433,6 +441,24 @@ window.PATH_TO_INFO = {
     "title": "Session 5 — Knowing and Being Known",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-01-welcome-to-the-journey.md",
+    "next": "docs/evening/session-06-safe-and-brave-together.md"
+  },
+  "docs/evening/session-06-safe-and-brave-together.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Session 6 — Safe and Brave Together",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-05-knowing-and-being-known.md",
+    "next": "docs/evening/session-07-08-hearing-god-in-scripture.md"
+  },
+  "docs/evening/session-07-08-hearing-god-in-scripture.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Sessions 7–8 — Hearing God in Scripture",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-06-safe-and-brave-together.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -441,7 +467,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-05-knowing-and-being-known.md"
+    "prev": "docs/evening/session-07-08-hearing-god-in-scripture.md"
   },
   "docs/getting-started/index.md": {
     "seriesId": "getting-started",
