@@ -76,6 +76,25 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.22 — October 3, 2026 — the menu walks the whole road (S1–2, S3–4)
+
+At John’s word, after he saw that the reader’s menu looked stale (Session 1,
+then a jump to 5): the evening pages now follow the road as it was walked.
+
+- **Sessions 1–2 — Welcome to the Journey · The Soil of Your Heart.** The
+  Session 1 page becomes the opening pair, the way the founding group
+  walked them in a single August evening. Session 1’s content stands whole
+  under its own heading, and Session 2 joins it: its evening table, its
+  take-home (the soil-noticing journal), and notes for the leads. No timed
+  combined form is invented. A room with newcomers takes them as two
+  evenings, as the page says. The filename is unchanged, so existing links
+  hold.
+- **Sessions 3–4 — Telling Your Story** (new): the combined evening as
+  walked in August, from the combined run sheet: everyone tells in one
+  circle, Joint Footprints goes home, and the notes for the leads include
+  the combined form’s Section 6 vigilance.
+- The front page’s road table links both.
+
 ## v2.21 — October 3, 2026 — what kind of pilot this is; four evenings, not five
 
 - **What kind of pilot this is** (front page, John’s word). A new

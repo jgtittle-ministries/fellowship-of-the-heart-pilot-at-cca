@@ -41,7 +41,11 @@ window.SERIES = [
       },
       {
         "path": "docs/evening/session-01-welcome-to-the-journey.md",
-        "title": "Session 1 — Welcome to the Journey"
+        "title": "Sessions 1–2 — Welcome to the Journey · The Soil of Your Heart"
+      },
+      {
+        "path": "docs/evening/session-03-04-telling-your-story.md",
+        "title": "Sessions 3–4 — Telling Your Story"
       },
       {
         "path": "docs/evening/session-05-knowing-and-being-known.md",
@@ -429,9 +433,18 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Session 1 — Welcome to the Journey",
+    "title": "Sessions 1–2 — Welcome to the Journey · The Soil of Your Heart",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/handbook.md",
+    "next": "docs/evening/session-03-04-telling-your-story.md"
+  },
+  "docs/evening/session-03-04-telling-your-story.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Sessions 3–4 — Telling Your Story",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-01-welcome-to-the-journey.md",
     "next": "docs/evening/session-05-knowing-and-being-known.md"
   },
   "docs/evening/session-05-knowing-and-being-known.md": {
@@ -440,7 +453,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Session 5 — Knowing and Being Known",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-01-welcome-to-the-journey.md",
+    "prev": "docs/evening/session-03-04-telling-your-story.md",
     "next": "docs/evening/session-06-safe-and-brave-together.md"
   },
   "docs/evening/session-06-safe-and-brave-together.md": {

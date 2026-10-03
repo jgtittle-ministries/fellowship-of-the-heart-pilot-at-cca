@@ -90,8 +90,8 @@ the full Companion lesson plan in the Getting Started series.
 
 | Session | When | Where it stands |
 |---|---|---|
-| 1–2 — [Welcome to the Journey](session-01-welcome-to-the-journey.md) and [The Soil of Your Heart](../getting-started/week-02-soil.md), combined | An evening in August | Walked |
-| 3–4 — Telling Your Story, I & II ([3](../getting-started/week-03-story.md), [4](../getting-started/week-04-story-2.md)), combined | An evening in August | Walked |
+| 1–2 — [Welcome to the Journey · The Soil of Your Heart](session-01-welcome-to-the-journey.md), combined | An evening in August | Walked |
+| 3–4 — [Telling Your Story](session-03-04-telling-your-story.md), I & II, combined | An evening in August | Walked |
 | 5 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
 | 6 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | **Wed Oct 7** | **Next:** closes Quarter 1 |
 | 7–8 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II, combined | Tue Oct 13 | Planned: opens Quarter 2 |
