@@ -76,6 +76,19 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.21 — October 3, 2026 — what kind of pilot this is; four evenings, not five
+
+- **What kind of pilot this is** (front page, John’s word). A new
+  paragraph after *What this is*: this is a pilot of the curriculum and of
+  leader training, not a measured experiment. The August evenings made
+  that plain, because too much was still moving to measure honestly. It
+  needs both stabilizing and freedom to keep experimenting, and its
+  question is whether the journey can be handed on, with teens leading from
+  the page.
+- **The Road So Far** (S6 second take-home): “One quarter, five evenings”
+  corrected to “four evenings.” With Sessions 1–2 and 3–4 each walked as
+  one evening, the quarter is four evenings (S1–2, S3–4, S5, S6).
+
 ## v2.20 — October 3, 2026 — the S7–8 run sheet in step; the opening evenings set straight
 
 - **The Sessions 7–8 combined run sheet** predated v2.13: it had no

@@ -53,6 +53,20 @@ It is for teens, parents, and standalone adults alike. Every session
 stands alone by design: a newcomer or a drop-in lands softly, and the
 welcome always includes two minutes of *where we are on the map*.
 
+## What kind of pilot this is
+
+This is a pilot of the **curriculum and of leader training**, not a
+measured experiment. The first evenings, in August, made that plain: too
+much was still moving, from the materials to the shape of the night to
+teens learning to lead, for any measurement to be honest. The pilot needs
+two things at once. What works has to be stabilized, and what does not yet
+work needs freedom to be tried another way. So every evening is debriefed,
+the materials change as the room teaches us (each change is in the
+[change log](CHANGELOG.md)), and the question being asked is whether the
+journey can be handed on: whether teens can lead it from the page. Whether
+and how anyone's growth is ever read comes later, once there is something
+steady enough to read.
+
 ## The evening, fixed
 
 | Time | What |
