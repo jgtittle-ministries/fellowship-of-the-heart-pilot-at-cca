@@ -14,9 +14,9 @@ Last updated 3 October 2026.*
 ## Where we are
 
 **Walked so far.** The first quarter, *Connect with Self and Others*, is
-nearly complete. The founding group walked the opening sessions (1–4)
-together before the evening series opened, and the series' first evening,
-**Tuesday, September 15**, picked the thread up at
+nearly complete. In August the founding group walked the opening sessions
+in two evenings: Sessions 1 and 2 together, then Sessions 3 and 4. The
+series' first evening, **Tuesday, September 15**, picked the thread up at
 [Session 5 — Knowing and Being Known](session-05-knowing-and-being-known.md).
 
 **Next evening: Wednesday, October 7** (moved from Tuesday, September 29).
@@ -76,9 +76,8 @@ the full Companion lesson plan in the Getting Started series.
 
 | Session | When | Where it stands |
 |---|---|---|
-| 1 — [Welcome to the Journey](session-01-welcome-to-the-journey.md) | Before the series opened | Walked |
-| 2 — [The Soil of Your Heart](../getting-started/week-02-soil.md) | Before the series opened | Walked |
-| 3–4 — Telling Your Story, I & II ([3](../getting-started/week-03-story.md), [4](../getting-started/week-04-story-2.md)), combined | Before the series opened | Walked |
+| 1–2 — [Welcome to the Journey](session-01-welcome-to-the-journey.md) and [The Soil of Your Heart](../getting-started/week-02-soil.md), combined | An evening in August | Walked |
+| 3–4 — Telling Your Story, I & II ([3](../getting-started/week-03-story.md), [4](../getting-started/week-04-story-2.md)), combined | An evening in August | Walked |
 | 5 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
 | 6 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | **Wed Oct 7** | **Next:** closes Quarter 1 |
 | 7–8 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II, combined | Tue Oct 13 | Planned: opens Quarter 2 |

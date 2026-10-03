@@ -76,6 +76,23 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.20 — October 3, 2026 — the S7–8 run sheet in step; the opening evenings set straight
+
+- **The Sessions 7–8 combined run sheet** predated v2.13: it had no
+  “room reads itself” block, and its times differed from the deck’s. It
+  now follows the deck and the Session 7 run sheet. The check-in runs at
+  7:08, the three questions from Session 6 are answered at 7:25, the chain
+  at 7:34, PROAPT together at 7:40, two passes in pairs at 7:50, the Tell at
+  8:13, and the merge at 8:19, held by the container holder. The narrative
+  gains “the room reads itself first,” and the homework note names the
+  PROAPT companion page. The table’s Block column was widened to keep the
+  sheet at two pages.
+- **The opening evenings, as John recorded them.** In August the founding
+  group walked Sessions 1 and 2 in a single evening, then Sessions 3 and 4
+  in another, before the series’ first evening (Session 5, September 15).
+  The front page and its road table now say so; they had said only “before
+  the series opened.”
+
 ## v2.19 — October 3, 2026 — the next two evenings published (S6, S7–8)
 
 At John’s word: evening pages for the next two evenings join Sessions 1
