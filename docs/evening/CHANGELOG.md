@@ -76,6 +76,16 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.23 — October 3, 2026 — Sessions 3–4: the size of the room decides
+
+John’s word, confirming the opening forms. Sessions 1 and 2 are separate
+evenings for a newcomer room, as the Sessions 1–2 page says. Sessions 3–4
+depend on the number of participants: one evening in a small room, or the
+two sessions (the parents’ night, then the teens’ night) when the room is
+large enough, with parents and teens. The Sessions 3–4 page and the
+handbook’s current-condition walk now name size as the criterion; they had
+said the room’s familiarity.
+
 ## v2.22 — October 3, 2026 — the menu walks the whole road (S1–2, S3–4)
 
 At John’s word, after he saw that the reader’s menu looked stale (Session 1,

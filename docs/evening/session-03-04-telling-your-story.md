@@ -11,11 +11,11 @@ and a short blessing. Nothing leaves the circle.
 tonight crosses from the first box toward the second: *Self* opening toward
 *Others*.
 
-**Why combined.** The school form gives this two sessions, the parents'
-night and then the teens' night. This room already knows each other, so
-everyone tells in a single evening. That is how the founding group walked
-it in August 2026. The two-session form, with room-splits for a larger
-group of newer people, stands in reserve.
+**One evening or two.** It depends on the size of the room. In a small
+room, everyone can tell in a single evening, which is how the founding
+group walked it in August 2026 and the form set out below. A room large
+enough, with parents and teens, takes the school form's two sessions: the
+parents' night, then the teens' night.
 
 **Bring.** Your notebook or journal, and your take-home from Sessions 1–2.
 

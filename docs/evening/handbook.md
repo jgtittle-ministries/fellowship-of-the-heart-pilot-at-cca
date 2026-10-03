@@ -63,7 +63,9 @@ where completion doesn't need two evenings** — the second runnings fold
 into their firsts, each in the way its material asks:
 
 - **Sessions 3–4 combined**: everyone tells, one round, one evening
-  (proven in the prototype group's own running).
+  (proven in the prototype group's own running). The size of the room
+  decides it: a room large enough, with parents and teens, takes the two
+  sessions.
 - **Sessions 7–8 combined**: both PROAPT reps inside one evening — rep
   one walked together, rep two in the pairs on Session 8's passage
   (Mark 2:1–12).
