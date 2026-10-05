@@ -1,6 +1,6 @@
 # Shared participant materials
 
-The participant-facing artifacts used across all three Fellowship of the Heart series. Unlike the Companion Lesson Plans (which the team holds during a session), these materials live with the participant — in their journal, on the refrigerator, on the dinner table, in their pocket.
+The participant-facing artifacts used across every expression of Fellowship of the Heart: the Evening, the CCA pilot, and the adult sequence. (For the adult year, read them through the [Adult Register Key](../adult/adult-register-key.md): in places they still speak in the family edition's register.) Unlike the Companion Lesson Plans (which the team holds during a session), these materials live with the participant — in their journal, on the refrigerator, on the dinner table, in their pocket.
 
 ---
 
@@ -13,6 +13,8 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 - [**Rhythm Card**](rhythm-card.md) — the daily / weekly / monthly practice card. The long-term rhythm a cohort carries beyond Getting Started, sustained across Going Deeper and Going Out and beyond.
 
 - [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 7 and carried daily through the rest of the curriculum.
+
+- [**PROAPT — What Each Step Is For**](proapt-what-each-step-is-for.md) — the companion to the card: why the order protects the hearing (what the passage *says* before what it *means*), each step's reason, and what happens if it is skipped. Learned in the FotH Evening, October 2026.
 
 - [**Reading List**](reading-list.md) — an annotated guide for parents, teens, and the curious. Curated from the IJH Volume 5 References for the Fellowship of the Heart audience.
 

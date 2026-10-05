@@ -114,12 +114,14 @@ evenings work — the shape of the night, the two teen roles, the take-home
 rhythm, and what surrounds it all. What has changed, evening by evening, is
 in the [change log](CHANGELOG.md).
 
-## The same journey, two expressions
+## The same journey, three expressions
 
 FotH Evening walks the same curriculum as the
-[Getting Started series](../getting-started/index.md) of the CCA pilot —
-the school-year expression on Wednesday afternoons. Same journey, two
-clocks. The full Companion lesson plans, the
+[Getting Started series](../getting-started/index.md) of the
+[CCA pilot](../cca/index.md), the school-year expression on Wednesday
+afternoons. Same journey, different clocks. A third expression,
+[Adult FotH](../adult/index.md), walks it with a church's leaders first,
+and what the evenings teach is being carried into it. The full Companion lesson plans, the
 [Companion Handbook](../getting-started/handbook.md), and the
 [shared participant materials](../shared/index.md) all stand behind these
 evenings; the pages here carry what the evening form changes.

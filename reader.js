@@ -399,7 +399,12 @@
   sidebarTitle.textContent = info.seriesName;
   let listHTML = '';
   if (series && series.kind === 'series' && series.chapters.length) {
+    let lastGroup;
     series.chapters.forEach(ch => {
+      if (ch.group && ch.group !== lastGroup) {
+        listHTML += `<li><div class="ch-section">${escapeHTML(ch.group)}</div></li>`;
+      }
+      lastGroup = ch.group;
       const cur = ch.path === path ? ' class="current"' : '';
       listHTML += `<li><a href="reader.html#${encodeURIComponent(ch.path)}"${cur}>${escapeHTML(ch.title)}</a></li>`;
     });
@@ -422,6 +427,7 @@
     .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
     .then(text => {
       const meta = `<div class="chapter-meta"><span>${escapeHTML(info.seriesName)}</span>` +
+        (info.group ? `<span>·</span><span>${escapeHTML(info.group)}</span>` : '') +
         (info.edition || (series && series.edition) ? `<span>·</span><span>edition ${escapeHTML(info.edition || series.edition)}</span>` : '') +
         (series && series.kind === 'series' ? `<span>·</span><a href="reader.html#${encodeURIComponent(series.index)}">Series contents</a>` : '') +
         `</div>`;

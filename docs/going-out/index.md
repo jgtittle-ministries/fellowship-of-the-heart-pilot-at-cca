@@ -4,7 +4,7 @@
 
 ![An open gate onto the field.](images/landing-out.jpg)
 
-The third of the three Fellowship of the Heart series. Twelve ninety-minute sessions for the cohort that has walked Getting Started and Going Deeper and is now being prepared, individually and as a body, for what comes next.
+The third of the [CCA pilot's](../cca/index.md) three series. Twelve ninety-minute sessions for the cohort that has walked Getting Started and Going Deeper and is now being prepared, individually and as a body, for what comes next.
 
 Going Out is **not curriculum**. It is the missional outworking of what the Spirit has already formed across two prior series — the body sent into ordinary witness in the rooms it already occupies, discerning together, at Week 8, where each member is being sent.
 

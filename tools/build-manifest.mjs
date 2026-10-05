@@ -17,7 +17,7 @@ const DOCS = join(ROOT, 'docs');
 // ---- Site-level config (the only thing you hand-set) ----
 const SITE = {
   title: 'Fellowship of the Heart',
-  subtitle: 'CCA Pilot',
+  subtitle: 'Evening · CCA Pilot · Adult',
   envLabel: '',                    // '' for prod, 'DEV' for the dev repo (point 7)
   license: { label: 'CC BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0/' },
   repo: 'https://github.com/jgtittle-ministries/fellowship-of-the-heart-pilot-at-cca'
@@ -25,12 +25,26 @@ const SITE = {
 
 // Standalone root pages, in nav order, then series folders in nav order.
 const ROOT_PAGES = ['index.md', 'start-here.md'];
+// A tab is one or more folders. A tab with several folders shows each as a
+// labelled group in the sidebar (label: null = no heading, e.g. the tab's own
+// landing pages). `order` pins the first files of a group; the rest sort by
+// orderKey. Folders keep their paths, so links into them never break.
 const SERIES_DEFS = [
-  { id: 'evening',         name: 'FotH Evening',      edition: 'v1' },
-  { id: 'getting-started', name: 'Getting Started',   edition: 'v3' },
-  { id: 'going-deeper',    name: 'Going Deeper',      edition: 'v2' },
-  { id: 'going-out',       name: 'Going Out',         edition: 'v3' },
-  { id: 'shared',          name: 'Shared materials',  edition: null }
+  { id: 'evening', name: 'FotH Evening', groups: [
+    { dir: 'evening', label: null, edition: 'v1' } ] },
+  { id: 'cca', name: 'CCA Pilot', index: 'docs/cca/index.md', groups: [
+    { dir: 'cca',             label: null,                         edition: null },
+    { dir: 'getting-started', label: 'Getting Started · 22 weeks', edition: 'v3' },
+    { dir: 'going-deeper',    label: 'Going Deeper · 12 weeks',    edition: 'v2' },
+    { dir: 'going-out',       label: 'Going Out · 12 weeks',       edition: 'v3' } ] },
+  { id: 'adult', name: 'Adult FotH', index: 'docs/adult/index.md', groups: [
+    { dir: 'adult', label: null, edition: null,
+      order: ['index.md', 'start-here.md', 'leadership-year-handbook.md', 'adult-register-key.md'] },
+    { dir: 'adult/getting-started', label: 'Getting Started · 15 weeks', edition: 'v3' },
+    { dir: 'adult/going-deeper',    label: 'Going Deeper · 12 weeks',    edition: 'v2' },
+    { dir: 'adult/going-out',       label: 'Going Out · 12 weeks',       edition: 'v3' } ] },
+  { id: 'shared', name: 'Shared materials', groups: [
+    { dir: 'shared', label: null, edition: null } ] }
 ];
 
 // ---- helpers ----
@@ -72,16 +86,32 @@ for (const f of ROOT_PAGES) {
   series.push({ id: f.replace('.md',''), kind: 'page', name: pageMeta[f] || titleFromMd(abs, f), path: `docs/${f}` });
 }
 
-// series folders
+// series tabs (each tab = one or more folders, in group order)
 for (const def of SERIES_DEFS) {
-  const dir = join(DOCS, def.id);
-  let files;
-  try { files = listMd(dir); } catch { continue; }
-  files.sort((a, b) => cmp(orderKey(a), orderKey(b)));
-  const chapters = files.map(f => ({ path: `docs/${def.id}/${f}`, title: titleFromMd(join(dir, f), `${def.id}/${f}`) }));
+  const chapters = [];
+  for (const g of def.groups) {
+    const dir = join(DOCS, g.dir);
+    let files;
+    try { files = listMd(dir); } catch { continue; }
+    const pin = g.order || [];
+    files.sort((a, b) => {
+      const ia = pin.indexOf(a), ib = pin.indexOf(b);
+      if (ia >= 0 || ib >= 0) return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
+      return cmp(orderKey(a), orderKey(b));
+    });
+    for (const f of files) {
+      const ch = { path: `docs/${g.dir}/${f}`, title: titleFromMd(join(dir, f), `${g.dir}/${f}`) };
+      if (g.label) ch.group = g.label;
+      if (g.edition) ch.edition = g.edition;
+      chapters.push(ch);
+    }
+  }
+  if (!chapters.length) continue;
+  const first = def.groups[0];
   series.push({
-    id: def.id, kind: 'series', name: def.name, folder: `docs/${def.id}`,
-    edition: def.edition, index: `docs/${def.id}/index.md`, chapters
+    id: def.id, kind: 'series', name: def.name, folder: `docs/${first.dir}`,
+    edition: def.groups.length === 1 ? first.edition : null,
+    index: def.index || `docs/${first.dir}/index.md`, chapters
   });
 }
 
@@ -94,7 +124,8 @@ for (const s of series) {
   }
   s.chapters.forEach((ch, i) => {
     info[ch.path] = {
-      seriesId: s.id, seriesName: s.name, edition: s.edition || undefined,
+      seriesId: s.id, seriesName: s.name, edition: ch.edition || s.edition || undefined,
+      group: ch.group,
       title: ch.title, indexPath: s.index,
       prev: i > 0 ? s.chapters[i-1].path : undefined,
       next: i < s.chapters.length-1 ? s.chapters[i+1].path : undefined

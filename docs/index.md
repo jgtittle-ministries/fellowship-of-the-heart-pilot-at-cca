@@ -2,77 +2,60 @@
 title: "Home"
 ---
 
-# Fellowship of the Heart — CCA Pilot
+# Fellowship of the Heart
 
-*Three series, walked one Wednesday at a time.*
+*One journey of the heart, in three expressions.*
 
 ![Light through autumn woods.](images/home-path.jpg)
 
-The pilot edition of **Fellowship of the Heart**, the operational expression of the *Intentional Journey of the Heart* (IJH) framework, prepared for the first **Covenant Christian Academy of Warrenton** cohort beginning Fall 2026.
+**Fellowship of the Heart** is the operational expression of the
+*Intentional Journey of the Heart* (IJH): what IJH looks like when real
+people walk it together. The same journey, the Four Connects of Self,
+Others, God, and Mission, is written here for three different rooms.
 
 ---
 
-## One journey, two expressions
+## Three expressions
 
-Fellowship of the Heart is currently walked in two forms:
-
-- **[FotH Evening — Two-Week Rhythm · Teen-Led](evening/index.md)** — biweekly Tuesday evenings around a family table, teens leading, adults in the circle. **First evening: Tuesday, September 15, 2026.** If you were invited to an evening, start there.
-- **The CCA pilot** — the school-year expression: three sequential series on Wednesday afternoons, laid out below.
-
-Same journey, two clocks. The evening pages carry what that form changes; everything else on this site stands behind both.
-
----
-
-**Coming from *A Church Prepared for Revival*?** That book — [*A Church Prepared for Revival: A Pilot Proposed*](https://jgtittle-ministries.github.io/a-church-prepared-for-revival-a-pilot-proposed/) — proposes Fellowship of the Heart as the way a church builds its small-group leadership *before* revival arrives: the vessel before the rain. The three series below are the mechanics it points to, and [Getting Started](getting-started/index.md) is where a leadership circle would begin.
-
-The pilot is organized as three sequential series the cohort walks together, with shared participant materials supporting all three:
-
-| # | Series | Length | Focus |
+| | Expression | For | Where it stands |
 |---|---|---|---|
-| 1 | [**Getting Started**](getting-started/index.md) | 22 weeks (a club year) | The Four Connects — Self, Others, God, Mission |
-| 2 | [**Going Deeper**](going-deeper/index.md) | 12 weeks | Diagnostic, therapeutic, developmental work of IJH Volume 2 |
-| 3 | [**Going Out**](going-out/index.md) | 12 weeks | The body sent — discerning and equipping leaders for new groups |
+| 1 | [**FotH Evening**](evening/index.md) | Families around a table, every two weeks, teens leading | **Running now**, since September 2026 |
+| 2 | [**The CCA Pilot**](cca/index.md) | A school-year cohort of families: Getting Started (22 weeks), Going Deeper, Going Out | Fully written; **not yet run** as a cohort |
+| 3 | [**Adult FotH**](adult/index.md) | A church's leaders, first for themselves: Getting Started (15 weeks), Going Deeper, Going Out | The original adult design, **being retrofitted**; not yet walked |
 
-Read the series in order — each builds on what the cohort has already lived. A cohort that completes only Getting Started has done real work; the deeper series are for those the Spirit prepares to keep walking.
+The Evening is where the curriculum is being tested now. What it teaches,
+evening by evening, flows back into the other two. If you were invited to
+an evening, [start there](evening/index.md).
+
+**Coming from *A Church Prepared for Revival*?** That book,
+[*A Church Prepared for Revival: A Pilot Proposed*](https://jgtittle-ministries.github.io/a-church-prepared-for-revival-a-pilot-proposed/),
+proposes Fellowship of the Heart as the way a church builds its small-group
+leadership *before* revival arrives: the vessel before the rain.
+[Adult FotH](adult/index.md) is the mechanics it points to: a church's
+leaders walk the year first, for themselves, and are then formed to lead
+the family edition.
 
 ---
 
 ## Shared participant materials
 
-The [shared](shared/index.md) section holds the participant-facing artifacts used across all three series:
+The [shared](shared/index.md) materials walk alongside every expression:
 
-- [Personal Heart Journal](shared/personal-heart-journal.md) — the daily companion for the whole journey
-- [Family Conversation Cards](shared/family-conversation-cards.md) — forty cards organized around the Four Connects
-- [Rhythm Card](shared/rhythm-card.md) — the daily/weekly/monthly practice card
-- [Reading List](shared/reading-list.md) — annotated guide for parents, teens, and the curious
-
----
-
-## What each series contains
-
-Every series follows the same shape:
-
-- A **landing page** opening the series and laying out the weeks.
-- A **Handbook** for the Companion team — the long-form context, the theology, the protocols.
-- **Weekly Companion Lesson Plans** — Quick Reference Card, WATCH FOR, Session at a Glance, Pre-Work, Materials, Detailed Run Sheet, Block-by-Block Scripts, Between-session practice, and the IJH source pointer for each session.
-- A **CHANGELOG** tracking what has shifted between versions.
-
-The lesson plans are written for the Companion team. They are detailed on purpose. A new Companion preparing for a heavy session should not be guessing at what to do when the room goes quiet, when a teen weeps, when a parent tries to fix what they should be receiving. The page is a floor under your feet, not a script you read from.
-
----
-
-## Cadence and logistics
-
-- **Series length.** Getting Started is a twenty-two-week club year; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across two school years.
-- **Session length.** On the CCA pilot's clock, standard sessions are 75 minutes (Wednesdays 4:15–5:30 PM; the school day releases the room at 4:00 and the first fifteen minutes are the room build). Week 21's family commissioning extends to 6:15 — flagged in its lesson plan. A body meeting in the evening will find the plans breathe easily back out to ninety minutes.
-- **Companion team.** A Lead Companion plus a Co-Companion team. In Getting Started (the v1.4 family-integrated pilot edition), working weeks share opening and teaching whole-room, move into FAMILY CLUSTERS — whole families together, parents first on sharing practices — for the experiential center, and merge for closing. Going Deeper and Going Out retain the split-and-merge structure with age-and-role circles.
-- **Participants.** Parent–teen pairs, individuals, and households. See each series landing page for the specific fit of that series.
+- [Personal Heart Journal](shared/personal-heart-journal.md): the daily companion for the whole journey
+- [Family Conversation Cards](shared/family-conversation-cards.md): forty cards organized around the Four Connects
+- [Rhythm Card](shared/rhythm-card.md): the daily, weekly, and monthly practice card
+- [PROAPT Card](shared/proapt-card.md): hearing God in scripture, in six steps
+- [Reading List](shared/reading-list.md): an annotated guide for parents, teens, and the curious
 
 ---
 
 ## Status
 
-**Curriculum draft, May 2026.** Pilot edition for the first Covenant Christian Academy cycle (Fall 2026 onward). These materials will change as the cohort teaches us where they are right, where they bend, and where they break. Each series has its own CHANGELOG.
+The Evening is running and is updated after each evening's debrief. The CCA
+pilot is written and waiting for its first cohort. The adult sequence is
+being retrofitted with what the CCA edition and the evenings have taught.
+Every part will keep changing as rooms teach us where it is right, where it
+bends, and where it breaks; each has its own change log.
 
 ---
 

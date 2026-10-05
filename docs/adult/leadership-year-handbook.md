@@ -1,0 +1,83 @@
+# The Leadership Year — Handbook
+
+*The year-wide spine of FotH for a CPR. Each series carries its own handbook for its own sessions; this page governs what is true across all fifty-one weeks. Where a seeded series page and this handbook disagree, this handbook and the newest ruling win — the seams are being retrofitted, and this page is the retrofit's leading edge.*
+
+*Retrofit, October 2026 — from the [FotH Evening](../evening/index.md)'s first season, at John's word: the two leader roles and the pair that leads (§4), the map at every opening (§3), fitting the year to the room (§2), the named check-in partner (§2), the pilot stance (§1), the PROAPT order and the where-we-are page (§9).*
+
+## 1. The offer, and the gates
+
+A church that says *we are interested* is offered the leadership-first challenge: its leaders walk this year before any family is asked to trust anything. The gates are three, and only the first looks like one.
+
+**The entry gate** carries the whole seriousness test, and none of its demands falls on an individual: the covering's blessing, formally given — the pastor or elders commission the cohort and take spiritual authority over it before session one; the year committed to the church's own calendar; and the Measurement Covenant signed by everyone, since in this year everyone who observes is also observed. A church that will not do these three has answered its own question at the door, at no cost to anyone.
+
+**The year itself is the second gate — read, never scored.** No attendance threshold, no published targets. Attrition is data, read honestly. What the reading holds: whether the team finished together, who led and received the round, what survived the holds, and whether the covenant ever cost anything.
+
+**The exit is a discernment and a rite, not a certificate.** The cohort's own keep-change-tell, the covering's read, and the year's evidence on the table, ending in the host church's decision to proceed to the family edition — with FotH glad to help witness, and the discernment and its consequences belonging to the host church. Then a commissioning, deliberately unmeasured. The materials themselves are freely published; what completing the challenge earns is not permission but relationship.
+
+**What kind of pilot the first years are.** A first cohort is a pilot of the **curriculum and of its leaders**, not a measured experiment. The Evening's first season made this plain: while the materials, the shape of the session, and the leaders themselves are all still moving, no measurement of anyone's growth can be honest. The year needs two things at once: to stabilize what works, and freedom to try again what does not yet. Its real question is whether the journey can be handed on: whether someone other than its author can lead it from the page. The reading in §6 serves formation; claims about outcomes wait for something steady enough to read.
+
+## 2. The shape of the year
+
+Three series — Getting Started (fifteen sessions, a 5/5/5 rhythm), Going Deeper (twelve), Going Out (twelve) — with four two-week practice holds at the seams where a practice was just commissioned, and at least two weeks between series. Fifty-one calendar weeks wall to wall, which is why the holds should overlay the church's natural breaks. Sessions run ninety minutes, in the evening, and every session is whole: a family that comes once received something complete, while the practices accumulate for those who stay. The breaks are the instrument: what continues when no meeting is holding anyone is what the year has actually formed, and every re-entry session opens on *what held*.
+
+**Fitting the year to the room.** The series are written for a cohort of some size; walk them at the scale of the room you actually have. One circle by default: split into smaller circles only when the room needs it, and pair work in place does the same work faster. Where a practice's completion does not need two sessions, fold the second running into the first, and let the size of the room decide: a small room can tell its stories in one evening, while a large one needs two. Keep the full forms in reserve for when the room grows. One thing never condenses: safety. The settle protocol, the preparation for heavy sessions, and the backup on call apply in full to every condensed form.
+
+**A named partner between sessions.** Every practice that goes home goes home with a check-in partner, named aloud at the commissioning: midweek for a weekly session, or at the end of the first week of a hold. A text, a call, or a hallway conversation all count. *You are not grading each other; you are expecting each other.* The partner rotates each cycle.
+
+## 3. The weekly liturgy
+
+Five elements run every single week of the year, in every series. They are the practices the pilot year proved, and they are the curriculum's real spine.
+
+**The container, spoken open and spoken closed.** Four conditions — safe, present, clear, intentional — named aloud at every opening, with confidentiality promised out loud and its legal limits named honestly rather than discovered. The container is rebuilt every week, because a container that sat empty needs time to hold again; after a hold, it needs a little more, and the leader gives it that time without apology. With the container comes its response side: the settle protocol for a practice that lands too hard, stopping is success, and nobody leaves activated.
+
+**The map, at every opening.** Every session opens on the Four Connects (Self, Others, God, Mission) and says in two minutes where tonight stands on it. A newcomer or a returner lands softly, and the room never loses sight of where the year is going.
+
+**One True Sentence.** Once each session, every person is invited to say one true thing, however small, and the room receives it without fixing it. *Nothing came* is a true sentence. This is the smallest rung of costly telling, scheduled weekly so that the muscle always has an occasion.
+
+**The Leader Feedback Round, with the teach-back.** Every session closes with the evening's leader telling the room what they think went well and what they would do differently — then inviting the room to answer the same two questions about the evening. The leader goes first, every time, because by the time anyone else leads anything, they will have watched the most senior person in the room receive correction dozens of times, and receiving it will look like strength because it has only ever been modeled as strength. The leader alone adds a third move, the teach-back: *if I were to teach tonight's process to someone, here is what I would tell them.* In a leadership year this round is not garnish; it is half the formation.
+
+**The blessing.** The session opens and closes under a spoken blessing. This the seeded series already carry everywhere.
+
+**And the engine beneath all four: the leader tells first.** The family edition runs on parents telling first, a parent's true telling licensing a depth no teen volunteers cold. The adult year transposes the engine rather than losing it: whoever leads goes first, with something real, at every invitation to tell — the sentence, the story, the confession, the round. The room will go no deeper than the person in front of it has just gone. In a leadership year that is not merely how depth is licensed; it is half of what is being taught.
+
+Every session's run sheet now carries this liturgy (the map at the opening is the newest element, and is being added to the run sheets as the seams are retrofitted), with one deliberate exception: the commissioning rites and final sendings at the series' ends keep the container and the blessing and lay the round down. A commissioning is received, not critiqued.
+
+## 4. Rotation — a role discerned, not required
+
+**Two charges, and a pair that leads.** The Evening found that a session is best held by two people with two different charges. The **container holder** opens and closes, holds the circles of telling, and reads the room continuously against the four conditions: anything important for reading the room is the container holder's, which is why the merge after any split comes back to them. The **content presenter** carries the teaching and the practice, hands the room to the container holder at the merge, and takes it back to commission the take-home. An adult room leading adults may merge the two into one leader, and that is allowed. **Separation is recommended**, because each charge has its own intention and its own reading focus: one person cannot fully read the room while also carrying the teaching. When two lead, name it in the welcome, so the room sees the session handed back and forth and understands that this is the design. And the pair practices the session together beforehand, at a planning lab or before the room gathers, so each knows who holds what at every turn.
+
+Every practice the cohort learns is run at least twice, and second runnings are led by cohort members who volunteer. For a leadership cohort this is not an enrichment activity; it is the formation itself, and it carries the year's absence test for free: when a member holds the room and the container survives in another voice, the year has just observed something no interview could elicit. Leading is a self-discerned and observed role, never a requirement. A member who never leads a session has not failed the year — the family edition needs hosts, watchers, pray-ers, and scribes as much as it needs session-leaders — and the discernment at the year's end reads what each member's leading, and choosing not to lead, revealed.
+
+## 5. The self-read: keep, change, tell
+
+At the close of the last session before each hold, the room is handed a question on no paper: across the hold, think about *us* — what should we keep doing, what could we do differently, and what would you tell somebody else about what this group is like? At re-entry, after the what-held round, the room answers together, about the group and never about any one person. The leader answers first, with evidence, as always. Three disciplines keep it honest: the observation vocabulary is never handed to the room — the answers are mapped to the signs afterward, on the observing side of the paper; a gap between the room's read and the pages' read is data, never a correction issued to the room; and no target is ever announced. The tell-somebody question is the truest read the year gets, because unprompted description is worth more than any rating — and it quietly rehearses the words this cohort will one day use to invite its own congregation.
+
+## 6. Observation, in the adult register
+
+**Who observes whom.** In the family edition, a Companion team observes a room it leads. In this year the two are one body: the cohort is the future observing team in formation, so the cohort observes itself — which is not a compromise but the point, since these leaders must learn watching the way they learned leading, by doing it under the same roof where it will be done to them. The convening leader — whoever championed the challenge and holds the covering's commission — keeps the pages, and the observing disciplines rotate with the leading.
+
+**What is watched: the three vital signs, in their aged forms.** Costly telling, response to load, and the sought stray — each a muscle with three ages, read against the room's age, not its members'. A room of fifty-year-olds is still a young room in September: answering, settling, and prompted noticing are its healthy first forms, and months of first-form *seen* is a growing room, not a stalled one. Adult rooms may climb faster; the ladder does not change, only the pace. Each sign has its counterfeit — fluent sharing with nothing at stake, order that is really compliance, pursuit that smothers — and the counterfeit is what the watching reads against. The full discipline, including the marks (*seen*, *not yet*, *no occasion*), promotion after three consecutive weeks, and the withdrawn mark that is never a demotion, is carried on the Three Vital Signs card in the shared materials.
+
+**How lightly.** No form in anyone's hand during a session, nothing on a screen about the room, no level or stage ever spoken to a participant. One page per session, filled within a day in about ten minutes: each sign as a raw mark, the rung it promotes to, and an eight-word note of the occasion behind it; attendance; the round's echo; the decisions log line. A heavy instrument does not get filled out, and an unfilled instrument observes nothing.
+
+**The permission ethic, unchanged.** Nothing is administered; everything with a name on it is asked for. Permission is for pages, never for care — nobody asks permission to pay attention. The instruments are mirrors, never levers. And over all of it, the weep test: measure nothing you will not weep over, and stop anything that begins to harm what it watches, mid-year if need be.
+
+**The covenant, adult form.** Everyone signs, because everyone is on both sides of the watching. The absence of minors simplifies safeguarding; it does not simplify consent — named notes still require the asked-for conversation, the pages live in one secured place, and their destruction rhythm is agreed before the year begins.
+
+**The rules of the ruler.** The observation protocol is frozen for the year: the signs, their ages, and the marking rule do not change between session one and the commissioning. The content adapts freely to serve the people in the room; the ruler does not. Stopping is always allowed; revising is scheduled. And every change to anything — content, pace, design — gets one line in the decisions log: date, what, why, whose call. A year that cannot say what it changed cannot say what it learned.
+
+## 7. What this year is not
+
+It is not therapy. The rail from the prototype runs through every week: the work may be therapeutic, and often is, but it is not therapy, does not use therapy's tools, and does not go where therapy properly goes. In the adult year the sessions may go deeper inside that rail than the family edition goes — and the deeper work on the blockages to hearing and obeying, which the prototype found real and needed, is a named door, not a session: optional, self-chosen, outside the group room. Who may facilitate at that level is the host church's call, never this curriculum's — the host church qualifies its people for that work and holds spiritual authority and accountability over them; this project is not a certifying body. Its whole job here is to make sure no church can miss that it is a question. One further consideration is named without being ruled: the traditions behind the deepest of this work often run it single-gender, and that call, too, belongs to the host church.
+
+And because honest telling sometimes uncovers what a cohort cannot hold: one adult outside the cohort, agreed at the entry gate, whom any member can reach without going through the convening leader — named aloud in the first session, in adult dress the same door the family edition keeps for its young people.
+
+## 8. The shared materials
+
+The cards in the shared folder — the covenant, the Three Vital Signs, the practice cards, the journal — are carried from the pilot editions and still speak in the family edition's register in places. Until the adult-register sweep reaches them, read *family* as *cohort* and *teen and parent* as *member*, and trust this handbook where they differ.
+
+## 9. Two more from the Evening
+
+**The PROAPT order, taught as the lesson.** Observe has two layers, in order: first the data (who, what, when, where, straight off the page), then the interpretation of the data (what stands out, and why it would have mattered to those who first heard it), and only then Apply. Ground the room in what the passage *says* before anyone works out what it *means*, first in its own world and then in ours. Adults with long Bible-study habits skip the data most readily and most confidently. Teach the order before the pens move, and slow down at the line between data and interpretation. [PROAPT — What Each Step Is For](../shared/proapt-what-each-step-is-for.md) is the page to hand them.
+
+**A page that says where we are.** A cohort walking the year keeps one short page, updated after each session's debrief: what has been walked, the next session and its date, the one after, how dates beyond are set, and the date it was last updated. It is for the cohort, its covering, and anyone deciding whether to join, and it keeps the honest record of what actually happened rather than what the calendar once said. The Evening's [front page](../evening/index.md) is a working example.

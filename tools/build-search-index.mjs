@@ -17,9 +17,14 @@ const DOCS = join(ROOT, 'docs');
 const SERIES_NAMES = {
   '': 'Home',
   'evening': 'FotH Evening',
-  'getting-started': 'Getting Started',
-  'going-deeper': 'Going Deeper',
-  'going-out': 'Going Out',
+  'cca': 'CCA Pilot',
+  'getting-started': 'CCA Pilot · Getting Started',
+  'going-deeper': 'CCA Pilot · Going Deeper',
+  'going-out': 'CCA Pilot · Going Out',
+  'adult': 'Adult FotH',
+  'adult/getting-started': 'Adult FotH · Getting Started',
+  'adult/going-deeper': 'Adult FotH · Going Deeper',
+  'adult/going-out': 'Adult FotH · Going Out',
   'shared': 'Shared materials'
 };
 
@@ -50,7 +55,8 @@ for (const file of walk(DOCS)) {
   const rel = relative(ROOT, file).split(/[\\/]/).join('/');  // docs/<series>/<file>
   const docsRel = relative(DOCS, file).split(/[\\/]/).join('/'); // <series>/<file>
   const parts = rel.split('/');
-  const seriesKey = parts.length > 2 ? parts[1] : '';
+  let seriesKey = parts.length > 2 ? parts[1] : '';
+  if (seriesKey === 'adult' && parts.length > 3) seriesKey = 'adult/' + parts[2];
   const md = readFileSync(file, 'utf8');
   index.push({
     path: rel,

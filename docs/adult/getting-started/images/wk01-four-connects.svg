@@ -1,0 +1,46 @@
+<svg viewBox="0 0 920 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">The Four Connects</title>
+<desc id="d">The four Connects as a left-to-right sequence — 1. Self (knowing what is inside me: story, heart, questions), 2. Others (being known by one person and knowing them), 3. God (hearing and connecting with Him), and 4. Mission (the works He prepared, Ephesians 2:10). Arrows run from each to the next, because each connection makes the next one real. Rooted in the two great commandments — love God and love neighbor (Matthew 22:37–40).</desc>
+<defs>
+<marker id="ag" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C9851F"/></marker>
+</defs>
+<rect x="3" y="3" width="914" height="324" rx="14" fill="#FBFAF7" stroke="#E7E2D9" stroke-width="1.5"/>
+<text x="460" y="40" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="20" font-weight="600">The Four Connects</text>
+<text x="460" y="64" text-anchor="middle" fill="#6E7C8E" font-family="Georgia, serif" font-size="13">Self &#8594; Others &#8594; God &#8594; Mission</text>
+
+<!-- arrows between boxes -->
+<g fill="none" stroke="#C9851F" stroke-width="2.4">
+  <line x1="218" y1="166" x2="251" y2="166" marker-end="url(#ag)"/>
+  <line x1="443" y1="166" x2="476" y2="166" marker-end="url(#ag)"/>
+  <line x1="668" y1="166" x2="701" y2="166" marker-end="url(#ag)"/>
+</g>
+
+<g font-family="Georgia, serif" text-anchor="middle">
+  <!-- 1 Self -->
+  <rect x="30" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
+  <text x="122" y="150" fill="#C9851F" font-size="16" font-weight="700">1 &#183; Self</text>
+  <text x="122" y="172" fill="#6B7280" font-size="10.5">what's inside me —</text>
+  <text x="122" y="187" fill="#6B7280" font-size="10.5">story &#183; heart &#183; questions</text>
+
+  <!-- 2 Others -->
+  <rect x="255" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
+  <text x="347" y="150" fill="#C9851F" font-size="16" font-weight="700">2 &#183; Others</text>
+  <text x="347" y="172" fill="#6B7280" font-size="10.5">known by one person;</text>
+  <text x="347" y="187" fill="#6B7280" font-size="10.5">knowing them</text>
+
+  <!-- 3 God -->
+  <rect x="480" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
+  <text x="572" y="150" fill="#C9851F" font-size="16" font-weight="700">3 &#183; God</text>
+  <text x="572" y="172" fill="#6B7280" font-size="10.5">hearing and</text>
+  <text x="572" y="187" fill="#6B7280" font-size="10.5">connecting with Him</text>
+
+  <!-- 4 Mission -->
+  <rect x="705" y="120" width="185" height="92" rx="12" fill="#C9851F" fill-opacity="0.10" stroke="#C9851F" stroke-width="2.2"/>
+  <text x="797" y="150" fill="#C9851F" font-size="16" font-weight="700">4 &#183; Mission</text>
+  <text x="797" y="172" fill="#6B7280" font-size="10.5">the works He prepared</text>
+  <text x="797" y="187" fill="#6B7280" font-size="10.5">(Eph. 2:10)</text>
+</g>
+
+<text x="460" y="256" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="11.5">A sequence, not four separate topics — each connection makes the next one real.</text>
+<text x="460" y="286" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">Rooted in the two great commandments: love God, love neighbor (Matt. 22:37&#8211;40).</text>
+</svg>

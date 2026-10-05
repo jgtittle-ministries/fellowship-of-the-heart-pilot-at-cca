@@ -10,13 +10,13 @@ You are at the front door of *Fellowship of the Heart*. This page is the short a
 
 ## What this is
 
-*Fellowship of the Heart* (FotH) is what it looks like when a real cohort walks the work of the *Intentional Journey of the Heart* together. Three sequential series, across about a year of Wednesday afternoons:
+*Fellowship of the Heart* (FotH) is what it looks like when real people walk the work of the *Intentional Journey of the Heart* together. The same journey, the Four Connects of Self → Others → God → Mission, is written for three rooms:
 
-- **[Getting Started](getting-started/index.md)** — a twenty-two-week club year introducing the four Connects: Self → Others → God → Mission, with the Companion-in-Formation track (senior teens learning to lead) built into the map.
-- **[Going Deeper](going-deeper/index.md)** — twelve weeks of the harder interior work, and learning to hear God as a body.
-- **[Going Out](going-out/index.md)** — twelve weeks of the body sent: into household, vocational, third-place contexts, and sometimes into starting new formation groups.
+- **[FotH Evening](evening/index.md)** — families around a table every two weeks, teens leading the sessions and adults in the circle. Running now, since September 2026.
+- **[The CCA Pilot](cca/index.md)** — the school-year family edition, in three series: Getting Started (a twenty-two-week club year, with the Companion-in-Formation track for senior teens learning to lead), Going Deeper (twelve weeks of the harder interior work, and learning to hear God as a body), and Going Out (twelve weeks of the body sent). Fully written; not yet run as a cohort.
+- **[Adult FotH](adult/index.md)** — the original adult design, walked leadership-first: a church's leaders walk Getting Started (fifteen weeks), Going Deeper, and Going Out for themselves, and are then formed to lead the family edition. Being retrofitted; not yet walked.
 
-Plus the [shared participant materials](shared/index.md) — the Personal Heart Journal, the Family Conversation Cards, the Rhythm Card, the Reading List — that walk alongside all three series.
+Plus the [shared participant materials](shared/index.md) — the Personal Heart Journal, the Family Conversation Cards, the Rhythm Card, the Reading List — that walk alongside every expression.
 
 The *Intentional Journey of the Heart* (IJH) sits behind FotH. IJH is the six-volume record of how God's love actually works in a human heart — the operative laws, the diagnostics for where you are, the practices that move you forward. FotH is what those volumes look like when a cohort actually walks them. IJH is the *what* and the *why*; FotH is the *how* and the *with whom*.
 
@@ -55,7 +55,9 @@ A word on how to hold all of this. The “laws” of IJH describe how God charac
 
 ## Where to start
 
-- **If you want to walk it with a cohort** — start with the [Getting Started series overview](getting-started/index.md). Week 1 is the on-ramp.
+- **If you were invited to an evening** — start with [FotH Evening](evening/index.md): where the group is now, and what comes next.
+- **If you lead in a church and want to walk it with your leaders** — start with [Adult FotH](adult/index.md) and its own Start here.
+- **If you want to walk it with a school-year cohort** — start with [the CCA Pilot](cca/index.md) and the [Getting Started series overview](getting-started/index.md). Week 1 is the on-ramp.
 - **If you are considering joining the CCA cohort** — read this page, then the [Getting Started overview](getting-started/index.md), then the [Pre-Cohort Discernment Guide](getting-started/precohort-discernment-guide.md).
 - **If you are wondering whether you are called to be a Companion** — read the [Getting Started Companion Handbook](getting-started/handbook.md).
 - **If you want to understand the underlying framework first** — read the [IJH *Read Me First*](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/read-me-first/), then IJH Volume 1 (the Laws of the Spirit) and Volume 2 (the heart-formation work that FotH is built on).
