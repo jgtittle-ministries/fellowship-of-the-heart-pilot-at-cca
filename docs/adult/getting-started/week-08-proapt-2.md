@@ -121,6 +121,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 2. Print the Mark 2:1–12 worked-example handout (H8.2, one per participant).
 3. Print the Mid-Series Pulse (H8.3, one per participant plus spares).
 4. Confirm cohort spaces from prior weeks.
+5. Print the Pair Card (H8.4) — one per pair, plus spares. Agree who keeps time — the Lead Companion by default.
 
 # **Materials and Setup**
 
@@ -133,6 +134,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 - Facilitation card: H8.1 (the rotation leader's copy, plus one spare).
 - Mark 2:1–12 handout: H8.2 (one per participant, with the passage printed and space to write).
 - Mid-Series Pulse: H8.3 (one per participant, plus spares; pens available).
+- PROAPT in Pairs — Pair Card: H8.4 (one per pair).
 - A private space per cohort circle.
 - Whiteboard or flip chart (the rotation leader may want PROAPT on the board; their call).
 
@@ -156,9 +158,9 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 | 7:07–7:15 | Block 2: Daily-practice check-in | Shared | rotation leader | How did the daily PROAPT go? Normalize restarting. |
 | 7:15–7:20 | Block 3: Why a second running | Shared | rotation leader | Romans 10:17 restated. Frame the fresh passage. |
 | 7:20–7:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | rotation leader | The marquee. All six steps, timed, from the card. Adults sit back. |
-| 7:32–7:34 | Block 5: Bridge to the split and pair structure | Shared | rotation leader | Pair structure restated. Pray. Split. |
-| 7:34–8:02 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | As Week 7. Switch reader/listener at 13 min. |
-| 8:02–8:12 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells the cohort circle ONE thing they heard. |
+| 7:32–7:34 | Block 5: Bridge to the split and pair structure | Shared | rotation leader | Pairs always: one Reader, one Listener. Name the timekeeper. One Pair Card (H8.4) per pair. Pray. Split. |
+| 7:34–8:02 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | As Week 7. The timekeeper calls the switch at 7:48 and the Tell at 8:02. |
+| 8:02–8:12 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells the cohort circle ONE thing they heard. Timekeeper calls the return to the main room at 8:12. |
 | 8:12–8:18 | Block 8: Merge and Leader Feedback Round | Shared | Lead Comp | Handbook 11.7. Affirmation, growth, consent, popcorn. |
 | 8:18–8:24 | Block 9: Mid-Series Pulse and between-session | Shared | Lead Comp | Pulse distributed and framed. Bring it back Tuesday. |
 | 8:24–8:30 | Block 10: Closing container | Shared | rotation leader | Container reaffirmed. Aaronic blessing. |
@@ -230,11 +232,17 @@ This is the marquee block of the night. The rotation leader leads all six steps,
 ## **Block 5 — Bridge to the Split and Pair Structure (7:32–7:34, 2 min)**
 ## rotation leader's script
 
-*"Same pair structure as last week. In your cohort circle you'll pair up — one Reader, one Listener. Reader leads the six steps; Listener works alongside without interrupting. After thirteen minutes, switch. Stay with Mark 2 or take a fresh passage — Reader's choice."*
+*"Same pair structure as last week. In your cohort circle you'll pair up — one Reader, one Listener. Reader leads the six steps; Listener works alongside without interrupting. At 7:48, switch. Stay with Mark 2 or take a fresh passage — Reader's choice."*
+
+*"Pairs, always — even if your circle is small, or we all stay in this room as one circle. That's only where we sit; the practice is one Reader and one Listener."*
+
+*"[Name] is our timekeeper tonight. They call the switch at 7:48, the Tell at 8:02 — back into your cohort circle — and back in this room at 8:12. Nobody needs to watch the clock. One Pair Card per pair: the six steps, the passages, the times, and what to ask if you get stuck."*
 
 *"Your Cohort Companion assigns the pairs. Mix it up."*
 
 *"Pray with me. Father, You've already spoken tonight. Speak again in the pairs — something specific, something each of us can hear. Amen. Go."*
+
+*(The timekeeper is named before anyone moves — the Lead Companion by default, agreed in the dry run so the rotation leader can simply name them. Where cohort circles meet in separate spaces, each Cohort Companion keeps the same clock for their circle. One Pair Card (H8.4) to each pair. If the evening is running late, shorten both passes equally rather than drop the second.)*
 
 ## **Block 6 — PROAPT in Pairs (7:34–8:02, 28 min)**
 Each cohort circle splits into pairs, as Week 7. The Cohort Companion pairs people deliberately — different pairings than last week if possible.
@@ -243,11 +251,11 @@ Each cohort circle splits into pairs, as Week 7. The Cohort Companion pairs peop
 
 **Pairing (1 min). Cohort Companion assigns pairs. Pairs find a quiet spot in or near the cohort space.**
 
-**First pass (13 min). Reader leads through PROAPT on the chosen passage. Listener works alongside but does not interrupt. Reader's Tell at the end goes to the Listener (1 sentence).**
+**First pass (13 min, to 7:48). Reader leads through PROAPT on the chosen passage. Listener works alongside but does not interrupt. Reader's Tell at the end goes to the Listener (1 sentence).**
 
-**Switch (1 min). Roles reverse. Same passage or new.**
+**Switch (at 7:48, 1 min). The timekeeper calls it. Roles reverse. Same passage or new.**
 
-**Second pass (13 min). Same structure with roles reversed.**
+**Second pass (13 min, 7:49–8:02). Same structure with roles reversed. If the evening is running late, the timekeeper shortens both passes equally; the second pass is never dropped.**
 
 ## Cohort Companion: when to intervene
 
@@ -256,7 +264,7 @@ Same interventions as Week 7 — the unstick prompts for Observe ("one specific 
 - If a pair treats the pass as a rerun ("we did this passage Thursday") — "Then you know what it said Thursday. What is it saying tonight? Second hearings are where the specific word comes."
 
 ## **Block 7 — Tell Step in Cohort (8:02–8:12, 10 min)**
-Re-form into cohort circle (out of pairs). Each participant tells the cohort circle ONE thing they heard tonight. By now the room expects this step; let the expectation work.
+Re-form into cohort circle (out of pairs) at the timekeeper’s call, 8:02. Each participant tells the cohort circle ONE thing they heard tonight. By now the room expects this step; let the expectation work.
 
 ## Inside the cohort circle
 
@@ -356,6 +364,13 @@ Same as prior weeks — spoken tonight by the rotation leader, which is its own 
 ## This week's practice
 
 - DAILY PROAPT continues (the journal Week 7–8 pages). One short passage. Five to fifteen minutes. Every day. If last week thinned, restart without guilt — no doubling up, pick up where you are.
+
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 - Complete the Mid-Series Pulse (H8.3) and bring it back to the Week 9 door. Fold it; drop it in the box.
 - The morning question, evening journal note, and Five-Minute Examen continue.
 
@@ -391,11 +406,12 @@ Same as prior weeks — spoken tonight by the rotation leader, which is its own 
 
 # **Handouts**
 
-Three handouts for Week 8. The facilitation card is for the rotation leader; the worked example and the Pulse are for every participant.
+Four handouts for Week 8. The facilitation card is for the rotation leader; the worked example and the Pulse are for every participant; the Pair Card goes one per pair.
 
 - H8.1 — rotation leader's PROAPT Facilitation Card (cardstock, the rotation leader's copy plus a spare)
 - H8.2 — Mark 2:1–12 Worked Example (with space to write each step)
 - H8.3 — The Mid-Series Pulse (one page, every participant, returns at the Week 9 door)
+- H8.4 — PROAPT in Pairs — Pair Card (one per pair)
 
 **Handout H8.1 — The rotation leader's PROAPT Facilitation Card**
 
@@ -508,3 +524,43 @@ One sentence about why:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Optional: my name (skip if you prefer anonymous)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Handout H8.4 — PROAPT in Pairs — Pair Card**
+
+*For the pair, away from the whiteboard — one per pair. One Reader, one Listener: the Reader leads the six steps, the Listener works alongside without interrupting. Then switch. Pairs, always — even when a small room stays as one circle.*
+
+## The times
+
+**Pass one** Mark 2:1–12, or the passage the Reader chooses — 7:35 to 7:48. **Switch at 7:48.** **Pass two** the new Reader’s choice — stay with Mark 2, or take a fresh passage — 7:49 to 8:02. **The Tell,** back in your cohort circle, 8:02–8:12. **Back in the main room at 8:12.**
+
+*The timekeeper calls each one; you don’t need to watch the clock.*
+
+## The six steps
+
+**1. Pray** — “Holy Spirit, you are welcome here. Speak. We are listening.”
+
+**2. Read** — slowly, to receive it; don’t analyze yet.
+
+**3. Observe** — first the data (who, what, when, where, straight off the page), then what stands out or surprises you.
+
+**4. Apply** — “What does this passage mean for me, today, in my life?” One specific thing.
+
+**5. Pray again** — tell God what you heard, what you are willing to do, what you’re struggling to be willing to do.
+
+**6. Tell** — the Reader tells the Listener one sentence: what I heard.
+
+## If you get stuck
+
+**On Observe:** “What’s one word or phrase that caught your attention?”
+
+**On Apply:** “Where in my life right now might this passage be talking?”
+
+**Rushing:** “Slow down. The Spirit isn’t in a hurry.”
+
+**Finished early:** take another passage and get another rep.
+
+## The Tell, in the cohort circle
+
+Each of you tells ONE specific thing you heard tonight, in one sentence. Receive it without preaching: “We hear that.” “Thank you for naming that.”
+
+*If something heavy comes up, honor it briefly and tell a Companion after the close; don’t work it through in the pair.*

@@ -34,7 +34,7 @@ Adult edition — the leadership-first year (FotH for a CPR)
 
 **Center.** Each cohort circle works through the four conditions and asks: where does each one show up in my actual friendships, and where is it missing? The discussion itself is the formation.
 
-**Between-session practice.** Pick one friendship in your life. This week, practice one of the four conditions in that friendship more intentionally than usual. Journal what happens.
+**Between-session practice.** Pick one relationship — a friend, a spouse, a sibling, a colleague — where you’d like a little more of one condition; it need not be your closest. This week, practice *offering* that condition there a little more than usual — what you give, not a test of them. Journal what you notice. Say the on-ramp (“If this stirs something hard”) aloud at commissioning.
 
 **IJH source.** Vol 2 Eighth Exploration (the four container conditions); Vol 2 Ninth Exploration (community as amplifier); Vol 1 First Exploration (the Word→Hearing→Faith chain) as the backbone.
 
@@ -138,7 +138,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 | 7:29–7:31 | Block 4: Bridge to split | Shared circle | Lead Comp | Frame the exercise. Pray. Split. |
 | 7:31–7:58 | Block 5: Friendship-mapping exercise | Cohort circles | Cohort Facs | Each cohort works through the four conditions in their friendships. |
 | 7:58–8:11 | Block 6: Merge and surface common patterns | Shared circle | Lead Comp | Surface what came up generally. No names. Brief. |
-| 8:11–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp | Pick one friendship; pick one condition; practice it this week. |
+| 8:11–8:19 | Block 7: Between-session practice | Shared circle | Co-Comp | Pick one relationship; offer one condition a little more than usual. Say the on-ramp aloud, warmly. |
 | 8:19–8:30 | Block 8: Feedback round and closing container | Shared circle | Lead Comp | Reaffirm container. Aaronic blessing. |
 
 # Block-by-Block: Scripts and Notes
@@ -263,13 +263,17 @@ If you finish before 8:00, ask one quiet final question: “Of the four conditio
 ## Block 7 — Between-Session Practice (8:11–8:19, 8 min)
 ## Script
 
-*“Here is the practice for this week. Pick one friendship in your life. Just one. The friendship you pick is yours — you don’t have to tell anyone which one.”*
+*“Here is the practice for this week. Pick one relationship in your life where you’d like a little more of one condition — a friend, a spouse, a sibling, a colleague. Just one. It doesn’t have to be your closest. The relationship you pick is yours — you don’t have to tell anyone which one.”*
 
-*“Pick one of the four conditions. The one you noticed is most missing in that friendship, or the one you find hardest to offer in that friendship. Doesn’t matter which.”*
+*“Pick one of the four conditions. The one you’d like a little more of there, or the one you find hardest to offer. Doesn’t matter which.”*
 
-*“This week, practice that one condition in that one friendship more intentionally than usual. Practically. If you picked Presence, that may mean: when I am with that friend this week, my phone is in another room. If you picked Safety, that may mean: I receive what they say without judging it, even quietly. If you picked Clear, that may mean: I name something I have been quietly carrying about that friendship and address it. If you picked Intentional, that may mean: I come into our next conversation watching for what God is doing in them, not just relating my week.”*
+*“This week, practice offering that one condition there, a little more than usual. You are practicing what you give, not testing them: how they respond is not a grade on you. Practically. If you picked Presence, that may mean: when I am with that friend this week, my phone is in another room. If you picked Safety, that may mean: I receive what they say without judging it, even quietly. If you picked Clear, that may mean: I name something I have been quietly carrying about that friendship and address it. If you picked Intentional, that may mean: I come into our next conversation watching for what God is doing in them, not just relating my week.”*
 
-*“One friendship. One condition. Practice. Journal what happens.”*
+*“One relationship. One condition, offered. Journal what you notice.”*
+
+*(Say the next paragraph aloud, warmly — it is the on-ramp, and it belongs to the commissioning, not to the handout alone.)*
+
+*“If this stirs something hard: looking at friendships can bring up loneliness, a friendship that has hurt you, or one that has faded. That is real, and it is worth noticing — not fixing this week. You can choose an easier relationship, or set the practice down for a few days. And tell someone you trust — your check-in partner, one of the Companions, a friend in this cohort. You are not meant to carry the heavy things alone.”*
 
 *“Your Personal Heart Journal has Week 5 pages with prompts. The handout in your folder — [H5.3](#handout-h5-3) — has the practice in writing.”*
 
@@ -324,7 +328,7 @@ Same three-layer pattern as prior weeks: surface what landed (briefly, since the
 
 - The morning question (5 min, daily) — carried forward from Weeks 1–3.
 - The evening journal note (1–2 min, daily) — carried forward.
-- One friendship, one condition (NEW this week). Pick one friendship. Pick one of the four conditions. Practice it more intentionally than usual this week. Journal what happens. See Handout H5.5.
+- One relationship, one condition offered (NEW this week). Pick one relationship — a friend, a spouse, a sibling, a colleague; not necessarily your closest. Pick one of the four conditions and practice *offering* it there a little more than usual — what you give, not a test of them. Journal what you notice. Through the hold, the same relationship — or a different one, if the first was too heavy. See Handout H5.3, which carries the on-ramp (“If this stirs something hard”); the leader says it aloud, warmly, at commissioning.
 
 If a participant chooses a friendship that is in the room — likely, in a leadership cohort — that is fine, but the practice is theirs alone. The other person does not need to know they are being practiced upon.
 
@@ -431,13 +435,17 @@ Three handouts for Week 5.
 
 **Handout H5.3 — Between-Session Practice (Week 5)**
 
-## This week’s practice — one friendship, one condition
+## This week’s practice — one relationship, one condition
 
-**Pick one friendship. Just one. The friendship you pick is yours — you don’t have to tell anyone which one.**
+**Pick one relationship where you’d like a little more of one condition — a friend, a spouse, a sibling, a colleague. Just one. It doesn’t have to be your closest. The relationship you pick is yours — you don’t have to tell anyone which one.**
 
-**Pick one of the four conditions — Safe, Present, Clear, Intentional. The one most missing in that friendship, or the one you find hardest to offer in that friendship.**
+**Pick one of the four conditions — Safe, Present, Clear, Intentional. The one you’d like a little more of there, or the one you find hardest to offer.**
 
-**Practice that one condition in that one friendship more intentionally than usual this week.**
+**Practice *offering* that one condition there, a little more than usual this week. You are practicing what you give, not testing them: how they respond is not a grade on you.**
+
+**If this stirs something hard.** *Looking at friendships can bring up loneliness, a friendship that has hurt you, or one that has faded. That is real, and it is worth noticing — not fixing this week. You can choose an easier relationship, or set the practice down for a few days. And tell someone you trust: your check-in partner, a Companion, or a friend in the cohort. You are not meant to carry the heavy things alone.*
+
+**Through the two-week hold.** Same relationship — or a different one, if the first was too heavy. A second condition, or the same one deeper if the first week opened something.
 
 ### What practice could look like
 
@@ -469,7 +477,7 @@ Three handouts for Week 5.
 
 In your Personal Heart Journal, on the Week 5 pages, answer:
 
-- Which friendship and which condition did I pick?
+- Which relationship and which condition did I pick?
 - What did I actually do this week?
-- What happened? In them, in me, in the friendship?
+- What happened? In them, in me, in the relationship?
 - What am I noticing about my capacity to offer this condition?

@@ -719,6 +719,12 @@ Person’s response (one phrase): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **THREE — NEW: Daily extended PROAPT. 30 minutes, longer passage. Chapter or full psalm.**
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 **FOUR — NEW: ONE Tell each weekday. Five Tells, five different people. Within 24 hours of each PROAPT.**
 
 **FIVE — Standing-pair mid-week check-in includes ‘what did you hear; who did you tell?’**

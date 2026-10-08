@@ -310,7 +310,7 @@ Forty-eight hours before Wk 12, the Companion team meets for ninety minutes.
 
 ## How each direction runs (≈8 min per direction)
 
-**Person A speaks the blessing over Person B. Specific. ‘What I have seen in you across these weeks is \_\_\_\_\_. The gift you carry is \_\_\_\_\_. The shadow you have learned to notice is \_\_\_\_\_. The question you carry into the Going Out series is \_\_\_\_\_. My blessing for you is \_\_\_\_\_.’ (5–6 min)**
+**Person A speaks the blessing over Person B. Specific. ‘What I have seen in you across these weeks is \_\_\_\_\_. The gift you carry is \_\_\_\_\_. The shadow you have learned to notice is \_\_\_\_\_. The question you carry into the Going Out series is \_\_\_\_\_. My blessing for you is \_\_\_\_\_.’ Eyes on the person, not the page or the screen — nothing to read; say what is on your heart for them, specific and short. (5–6 min)**
 
 **Person B receives in silence. No interrupting; no clarifying; just receiving. (No additional time; built into the 8 min.)**
 
@@ -607,6 +607,8 @@ Four handouts for Wk 12.
 **Handout H12.2 — Pair Blessing Frame**
 
 *Used during Block 5. Each partner speaks blessing over the other; the architecture is below. Specific, drawing on what you have actually witnessed across Going Deeper.*
+
+*Eyes on the person, not the page or the screen — nothing to read; say what is on your heart for them, specific and short. The frame is a scaffold, not a script.*
 
 **The blessing — five elements**
 

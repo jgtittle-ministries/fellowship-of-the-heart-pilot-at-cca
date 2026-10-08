@@ -305,7 +305,7 @@ Forty-eight hours before Wk 9, the Companion team meets for ninety minutes.
 
 **Lead Companion speaks: ‘Cohort, we lay hands on [name] for the sent-context the Spirit has shown them.’**
 
-**Standing pair partner speaks ONE specific blessing over the sender. Brief. Specific. (‘May the work the Spirit has shown you in [their context] bear fruit; may you walk it with the integrity that has formed in you across this year.’)**
+**Standing pair partner speaks ONE specific blessing over the sender. Brief. Specific. (‘May the work the Spirit has shown you in [their context] bear fruit; may you walk it with the integrity that has formed in you across this year.’) Eyes on the person, not the page or the screen — nothing to read; say what is on your heart for them, specific and short.**
 
 **The cohort speaks the Aaronic together over the individual.**
 

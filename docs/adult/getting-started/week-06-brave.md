@@ -30,7 +30,7 @@ Adult edition — the leadership-first year (FotH for a CPR)
 
 **Connect focus.** Others, deepening. Week 5 named the four conditions; tonight, one specific condition (Safe) gets exercised in a way most Christians have never practiced.
 
-**Mode.** Shared opening and teaching; SPLIT into cohort circles for the practice; MERGE for blessings and closing.
+**Mode.** Shared opening and teaching; SPLIT into cohort circles for the practice (the grouping is the leaders’ judgement for the room that night — see Block 6); MERGE for blessings and closing.
 
 **Re-entry.** This session follows the first two-week practice hold; Block 2 is the what-held round.
 
@@ -117,6 +117,7 @@ The team meets 48 hours before Week 6. Two specific things:
 2. Print the blessing-of-restoration card (H6.2).
 3. Confirm cohort spaces.
 4. Tissues in every cohort space. This session can be tearful.
+5. Print the Breakout Card (H6.4) — one per group, plus a spare.
 
 # Materials and Setup
 
@@ -127,6 +128,7 @@ The team meets 48 hours before Week 6. Two specific things:
 - Personal Heart Journals.
 - Confession-and-restoration handout: H6.1.
 - Blessing-of-restoration card: H6.2.
+- The Place, the Pattern, the Pull — Breakout Card: H6.4 (one per group, for the group’s holder).
 - A private space per cohort circle.
 - Tissues in every space.
 - Large-print Bible (ESV).
@@ -153,14 +155,15 @@ The team meets 48 hours before Week 6. Two specific things:
 | 6:45–7:00 | Arrival window | Forming | Co-Comp | Same arrival rhythm. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
 | 7:07–7:17 | Block 2: Practice hold re-entry — the what-held round | Shared | Lead Comp | What continued, what lapsed, what surprised. Received without fixing. |
-| 7:17–7:27 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
-| 7:27–7:31 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of cohort. |
-| 7:31–7:33 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Pray. Split. |
-| 7:33–8:05 | Block 6: Confession-and-restoration in circles | Cohort | Cohort Facs | Each person names one place; circle blesses with restoration. |
-| 8:05–8:11 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 8:11–8:15 | Block 8: Between-session practice | Shared | Co-Comp | Introduce Five-Minute Examen. |
-| 8:15–8:25 | Block 9: Feedback round and closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
-| 8:25–8:30 | Block 10: Pastoral availability | Floating | Lead Comp | Stay accessible 5+ minutes. |
+| 7:17–7:25 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
+| 7:25–7:30 | Block 4: The place, the pattern, the pull | Shared | Lead Comp | The three words, one example through all three; what is never named here. “Questions about the three words?” — and wait. |
+| 7:30–7:34 | Block 5: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of cohort. |
+| 7:34–7:36 | Block 6: Bridge to the split | Shared | Lead Comp | Walk handout. Name the groups (leaders’ judgement); one Breakout Card (H6.4) to each group’s holder. Pray. Split. |
+| 7:36–8:05 | Block 7: Confession-and-restoration in circles | Cohort | Cohort Facs | Each person names one place; circle blesses with restoration. |
+| 8:05–8:11 | Block 8: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
+| 8:11–8:15 | Block 9: Between-session practice | Shared | Co-Comp | Introduce Five-Minute Examen. |
+| 8:15–8:25 | Block 10: Feedback round and closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
+| 8:25–8:30 | Block 11: Pastoral availability | Floating | Lead Comp | Stay accessible 5+ minutes. |
 
 # Block-by-Block: Scripts and Notes
 
@@ -178,7 +181,7 @@ The team meets 48 hours before Week 6. Two specific things:
 ## Block 2 — Practice Hold Re-entry — the What-Held Round (7:07–7:17, 10 min)
 ## Script
 
-*“Before the hold, we committed to one condition in one friendship — and then the meetings stopped for two weeks, on purpose. So the round tonight is the what-held round, and it has three questions: what continued, what lapsed, and what surprised you. One sentence each, any of the three. ‘It lapsed by the first Thursday, and I noticed I missed it’ is a real answer — in this room it may be the most valuable answer.”*
+*“Before the hold, we committed to offering one condition in one relationship — and then the meetings stopped for two weeks, on purpose. So the round tonight is the what-held round, and it has three questions: what continued, what lapsed, and what surprised you. One sentence each, any of the three. ‘It lapsed by the first Thursday, and I noticed I missed it’ is a real answer — in this room it may be the most valuable answer.”*
 
 *(Around the circle, voluntary, pass anytime. Receive every report without fixing it — the honest lapse most warmly of all. Do not summarize the round into a lesson; the round is the lesson.)*
 
@@ -188,7 +191,7 @@ The team meets 48 hours before Week 6. Two specific things:
 
 *(The signs are never handed to the room; map what you hear to the observing pages afterward, on your side of the paper. A gap between the room’s read and yours is data, never a correction.)*
 
-## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (7:17–7:27, 10 min)
+## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (7:17–7:25, 8 min)
 Read both passages aloud, slowly, from the physical Bible.
 
 *“Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working.”*
@@ -213,7 +216,28 @@ Read both passages aloud, slowly, from the physical Bible.
 
 • The whole thing takes about three minutes per person. There will be silences. Tears are normal and welcome. Specifics about the sin itself are not requested and not required. The naming is enough.
 
-## Block 4 — Companion Demo (7:27–7:31, 4 min)
+## Block 4 — The Place, the Pattern, the Pull (7:25–7:30, 5 min)
+The whole practice rests on three words, so they get a few minutes of their own, on the whiteboard, before anyone sees the demo. Teach them plainly and walk one example through all three.
+
+## Script
+
+*“Three words for what each of us will name tonight.”*
+
+*“The place — where you want to walk in greater honesty; where growth has stalled. For example: how I talk about people who aren’t in the room.”*
+
+*“The pattern — how it keeps going. Not one time: the habit you’ve stopped expecting to change. For example: when I feel left out, I get clever at someone’s expense.”*
+
+*“The pull — what draws you back: the want or the fear underneath. For example: I want to be on the inside.”*
+
+*“Naming the place is enough. The pattern and the pull are yours to add — or to keep.”*
+
+*“And three things are never named here: the details of what happened, anyone else’s part, and anything about someone in this room.”*
+
+*“Questions about the three words?”*
+
+*(Wait — really wait. Get the three words clear in the room, not in the groups, where no one is at the front to answer.)*
+
+## Block 5 — Companion Demo (7:30–7:34, 4 min)
 The Lead Companion now does the practice in front of the whole cohort. This sets the depth and the form for the rest of the night.
 
 ## How to do this well
@@ -221,24 +245,30 @@ The Lead Companion now does the practice in front of the whole cohort. This sets
 - Stand. Make eye contact across the room.
 - Name one place specifically: “The place where I want to walk in greater honesty is \_\_\_\_\_.” Be real but not graphic. “The way I respond to my wife when I am anxious” is real. “The full list of every time I have failed her” is too much.
 - Pause. Let it land.
-- A pre-arranged Co-Companion speaks a brief blessing back. “John, in the name of Jesus, we bless this place where you are walking. We pray restoration over the way you respond when anxious. May the Father’s peace meet you there. May you walk in greater honesty this week.”
+- A pre-arranged Co-Companion speaks a brief blessing back, eyes on the Lead Companion, not a card. “John, in the name of Jesus, we bless this place where you are walking. We pray restoration over the way you respond when anxious. May the Father’s peace meet you there. May you walk in greater honesty this week.”
 - Receive it. Do not deflect, do not joke, do not minimize. Say “Thank you” and sit down.
 - Close: “That is the practice. You will do it in your circle. Yours doesn’t have to look like mine. Three minutes per person.”
 
-## Block 5 — Bridge to the Split (7:31–7:33, 2 min)
+## Block 6 — Bridge to the Split (7:34–7:36, 2 min)
 ## Script
 
 *“Okay. Each of you has the handout. Three things before we go.”*
 
 *“One. Take what helps from the prompts. You don’t have to use any of them. The prompts are scaffolding for the place where you might want to walk in greater honesty.”*
 
-*“Two. The blessing card has examples of how to bless someone after they’ve named their place. Specific. Short. Witnessed. ‘In the name of Jesus, we pray restoration over...’ Use the form or your own words.”*
+*“Two. The blessing card has examples of how to bless someone after they’ve named their place. Specific. Short. Witnessed. ‘In the name of Jesus, we pray restoration over...’ Use the form or your own words. And when you speak it: eyes on the person, not the card — nothing to read. Say what is on your heart for them, specific and short.”*
 
 *“Three. The container holds. Nothing leaves the cohort circle. Not even back to the main room. Especially this week.”*
 
+*(Before anyone moves: name the groups and each group’s holder, and hand one Breakout Card (H6.4) to each holder — the three words, the form, the order and a sample blessing, for when the group is away from the whiteboard.)*
+
 *“Let me pray. Father, we are about to do the most vulnerable thing we have done together. Make this room a place of grace and not shame. Make our words heavy enough to bless and light enough to release. Holy Spirit, do what only you can do. Amen. Go.”*
 
-## Block 6 — Confession-and-Restoration in Cohort Circles (7:33–8:05, 32 min)
+### Groups — the leaders’ judgement
+
+The default is the cohort circles, as assigned. But the leaders choose the grouping for the room that night: the cohort’s current circles; small groups by gender — men together, women together, which worked well in the evening pilot and gives each person more than one witness; pairs; or one circle when the room is small. Whatever the grouping, keep spouses in different groups wherever the room allows (see the watch-for on spouses). Every group has a named holder — the Cohort Companion, where there is one — who keeps the time and the order.
+
+## Block 7 — Confession-and-Restoration in Cohort Circles (7:36–8:05, 29 min)
 This is the heart of the night. Each cohort circle runs the same structure.
 
 ## Inside the cohort circle
@@ -247,7 +277,7 @@ This is the heart of the night. Each cohort circle runs the same structure.
 
 **Cohort Companion goes first (3 min). Names one place. Receives a blessing from one circle member (assigned in advance — talk through with the team).**
 
-**Around the circle (~3 min per person, 6 people total = 18 min). Each person names one place. After each, the next person clockwise (or anyone who feels led) speaks a brief blessing of restoration. The Cohort Companion may add a sentence if helpful, but the practice is for the circle to bless.**
+**Around the circle (~3 min per person, 6 people total = 18 min). Each person names one place. After each, the next person clockwise (or anyone who feels led) speaks a brief blessing of restoration — eyes on the person, not the card or the screen — nothing to read. Say what is on your heart for them, specific and short. The Cohort Companion may add a sentence if helpful, but the practice is for the circle to bless.**
 
 **Closing silence (1–2 min). The circle holds silence. Cohort Companion: “We have named real things tonight. Let’s sit with what was said for a minute before we go back to the room.”**
 
@@ -260,7 +290,7 @@ This is the heart of the night. Each cohort circle runs the same structure.
 - If something rises to crisis level (suicidal ideation, abuse, self-harm, substance abuse warranting intervention) — receive in the room with brief acknowledgment and blessing. After the cohort closes, you and one other Companion step aside with the participant. Section 6 protocols apply.
 - If you run out of time — do not skip anyone. Compress to two minutes per person if needed. Better to be three minutes late than to send a participant home un-named.
 
-## Block 7 — Merge and Shared Blessing (8:05–8:11, 6 min)
+## Block 8 — Merge and Shared Blessing (8:05–8:11, 6 min)
 ## Script
 
 *“Welcome back. Find your seat. Take a breath.”*
@@ -275,14 +305,14 @@ This is the heart of the night. Each cohort circle runs the same structure.
 
 *“Father, every person in this room named a real place tonight. Not a fake place, not a polished place — a real place where they want to walk in greater honesty before you. We bless that work. We pray restoration into every place that was named. We pray that the courage shown in these circles tonight would carry into Wednesday morning, when the place that was named will still be the place. Holy Spirit, walk these brothers and sisters home. In Jesus’ name, amen.”*
 
-## Block 8 — Between-Session Practice (8:11–8:15, 4 min)
+## Block 9 — Between-Session Practice (8:11–8:15, 4 min)
 The between-session practice is introduced. (The Mid-Series Pulse now belongs to Week 8, the series midpoint — do not distribute it tonight.)
 
 ## Script
 
 *“This week’s practice: the Five-Minute Examen. Each evening this week, before bed, take five minutes with God. Three steps. One — thank Him for one specific thing from the day. Two — notice one place where you saw God moving. Three — ask Him about one place where you walked in less honesty than you wanted to today. That third one is the carryover from tonight. Just notice. No fixing. The Spirit does the work.”*
 
-## Block 9 — Feedback Round and Closing Container (8:15–8:25, 10 min)
+## Block 10 — Feedback Round and Closing Container (8:15–8:25, 10 min)
 ## Script
 
 
@@ -336,7 +366,7 @@ This week the words will skew heavier. “Heavy.” “Tender.” “Relieved.�
 
 ### Layer 2 — The shared blessing of restoration
 
-New this week. The Lead Companion speaks one corporate blessing over the whole room (script in Block 7). This is the closing of the practice itself, not just the session.
+New this week. The Lead Companion speaks one corporate blessing over the whole room (script in Block 8). This is the closing of the practice itself, not just the session.
 
 ### Layer 3 — The Aaronic blessing
 
@@ -349,6 +379,12 @@ Same as prior weeks. Tonight it lands different. Notice it. Do not comment on it
 - Daily morning question (carried forward).
 - Daily evening journal note (carried forward).
 - FIVE-MINUTE EXAMEN each evening (NEW). Three steps: thank, notice, ask. The third step — ask God about one place where you walked in less honesty than you wanted to today — is the carryover from tonight.
+
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 # Companion Debrief Prompts
 
@@ -390,11 +426,12 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 
 # Handouts
 
-Two handouts for Week 6 — the confession handout and the blessing card, one version of each for every circle. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
+Three handouts for Week 6 — the confession handout, the blessing card, and the Breakout Card each group takes with it, one version of each for every circle. (The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
 
 - H6.1 — The Place I Want to Walk in Greater Honesty
 - H6.2 — Blessing of Restoration card
 - H6.3 — Mid-Series Pulse — the same one-page instrument as [H8.3, printed at Week 8](week-08-proapt-2.md#handout-h8-3)
+- H6.4 — The Place, the Pattern, the Pull — Breakout Card (one per group)
 
 **Handout H6.1 — The Place**
 
@@ -435,6 +472,8 @@ Two handouts for Week 6 — the confession handout and the blessing card, one ve
 
 *After someone in your cohort circle names their place, the circle (or one assigned member) speaks a brief blessing of restoration. Specific. Short. Witnessed. Not a sermon, not advice, not a prayer that becomes a teaching.*
 
+*Eyes on the person, not the card or the screen — nothing to read. Say what is on your heart for them, specific and short. The form below is a scaffold, not a script.*
+
 ### The form
 
 ## Three-sentence template
@@ -461,3 +500,38 @@ Two handouts for Week 6 — the confession handout and the blessing card, one ve
 - Do not compare. “Me too” — not in this practice. Save it for after.
 - Do not preach. The blessing is three sentences. If you are in your fourth, stop.
 
+**Handout H6.4 — The Place, the Pattern, the Pull — Breakout Card**
+
+*For the groups, away from the whiteboard — one per group, in the holder’s hand. Each of us names one place where we want to walk in greater honesty before God, and the group speaks a blessing of restoration over it.*
+
+## The three words
+
+**1. The place** — where you want to walk in greater honesty; where growth has stalled.
+
+*e.g. how I talk about people who aren’t in the room*
+
+**2. The pattern** — how it keeps going: not one time, the habit you’ve stopped expecting to change.
+
+*e.g. when I feel left out, I get clever at someone’s expense*
+
+**3. The pull** — what draws you back: the want or the fear underneath.
+
+*e.g. I want to be on the inside*
+
+**Naming the place is enough.** The pattern and the pull are yours to add — or to keep.
+
+**Never named here:** the details of what happened, anyone else’s part, anything about someone in this room.
+
+## How the group runs it
+
+**Settle.** Ninety seconds of silence first — the silence is part of the practice.
+
+**The order.** The holder goes first, about three minutes, own struggles only. Then around the group, each at whatever depth they choose. Passing is real and costs nothing.
+
+**The form.** “The place where I want to walk in greater honesty before God is \_\_\_\_\_\_\_\_\_\_.” Add the pattern or the pull if you want to.
+
+**The blessing back,** short and specific, by the next person or anyone in the group. Eyes on the person, not this card — nothing to read; say what is on your heart for them. A sample: “In the name of Jesus, we pray restoration over the place you named — may its grip break, and may honesty grow where it held.”
+
+**Close.** A minute of held silence. Then back to the room.
+
+*Nothing leaves the group. Not even back to the main room.*

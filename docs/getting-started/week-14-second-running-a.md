@@ -310,7 +310,7 @@ Each cluster works two or three cards from the teen’s chosen set — about ten
 
 ## **Block 9 — Closing Container (5:19–5:23, 4 min)**
 
-The teen runs the closing protocol: the standing circle, the one-word landing (*“one word for what is happening in you right now as we close”*), the one thing (*“one specific thing you are taking from tonight”*), the one practice (each person commits or modifies the between-session practice aloud). Any specific witnessed blessings offered are received; kept short. In Option 2, closing from memory completes the container half of the rep.
+The teen runs the closing protocol: the standing circle, the one-word landing (*“one word for what is happening in you right now as we close”*), the one thing (*“one specific thing you are taking from tonight”*), the one practice (each person commits or modifies the between-session practice aloud). Any specific witnessed blessings offered are received; kept short — eyes on the person, not the screen; nothing to read; what is on the heart, for them. In Option 2, closing from memory completes the container half of the rep.
 
 ## **Block 10 — The Leader Feedback Round (5:23–5:27, 4 min)**
 

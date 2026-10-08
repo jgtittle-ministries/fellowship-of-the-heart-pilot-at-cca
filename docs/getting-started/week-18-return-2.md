@@ -216,7 +216,7 @@ The Four Questions word is one paragraph, spoken to the middle distance, moved p
 
 ## **Block 6 — Closing Container (5:15–5:21, 6 min)**
 
-The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at its usual pace: stand again; the one-word landing (compare to the opening word — the contrast is data); the one thing each person is taking from tonight; the one practice each will actually keep this week (the card, as built); and the blessings — short, specific, witnessed blessings of what someone saw the Father doing in another person tonight. Expect the blessings step to lean toward the seniors tonight; let it.
+The Companion-in-Formation runs the Section 5 closing protocol, steps 1–5, at its usual pace: stand again; the one-word landing (compare to the opening word — the contrast is data); the one thing each person is taking from tonight; the one practice each will actually keep this week (the card, as built); and the blessings — short, specific, witnessed blessings of what someone saw the Father doing in another person tonight, spoken with eyes on the person, not the screen — nothing to read; say what is on your heart for them. Expect the blessings step to lean toward the seniors tonight; let it.
 
 ## **Block 7 — The Leader Feedback Round (5:21–5:26, 5 min)**
 

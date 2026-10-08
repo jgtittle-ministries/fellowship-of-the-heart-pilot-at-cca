@@ -269,7 +269,7 @@ The blessing block. The Week 14 discipline governs: specific, witnessed, true �
 
 **1. The member stands in the center.** Their household stands behind them.
 
-**2. Two fellow members speak their prepared blessings** — one to three sentences each, drawn from specific moments of the year: the container re-established when the room heated up, the feedback received and visibly acted on, the heavy moment handed across without heroics. What we saw; what we bless; what we see coming.
+**2. Two fellow members speak their prepared blessings** — one to three sentences each, drawn from specific moments of the year: the container re-established when the room heated up, the feedback received and visibly acted on, the heavy moment handed across without heroics. What we saw; what we bless; what we see coming. Read or spoken, either way: look up at the person as you finish.
 
 **3. A household member may add one sentence.** One. It will be the one they remember.
 

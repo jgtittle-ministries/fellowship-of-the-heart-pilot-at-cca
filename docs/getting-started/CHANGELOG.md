@@ -11,6 +11,50 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# 8 October 2026 — Carried over from the Evening: Weeks 5–8
+
+Five changes carried over from the FotH Evening's debriefs of Sessions 5–8 (John's word), each fitted
+to the school clock and the family-cluster design.
+
+**A gentler Week 5 practice.** Looking hard at friendships can stir loneliness, a friendship that hurt,
+or one that faded. The practice now asks for one *relationship* (a friend, a sibling, a parent, a
+teammate; not necessarily the closest) and for *offering* a condition a little more than usual, as
+what you give rather than a test of them: how they respond is not a grade on you. A new "If this
+stirs something hard" paragraph gives the on-ramp: choose an easier relationship, or set the practice
+down for a few days, and tell someone you trust. The Companion says it aloud, warmly, in Block 7. The
+Quick Reference Card, run sheet, script, Between-Session Practice, H5.5 and the H5.6 check-off card
+all match. Week 6's check-in line follows suit.
+
+**Week 6: the three words, the card, the grouping.** A four-minute teaching block, *The Place, the
+Pattern, the Pull* (Block 3a), now follows the confession-as-architecture teaching, because the whole
+practice rests on it: the place is enough; the pattern and the pull are each person's to add or keep;
+the details, anyone else's part and anything about someone in the room are never named. It ends on
+"Questions about the three words?" and a wait, so the words are clear in the room and not in the
+groups. The session total is unchanged: teaching 7 → 5 minutes, the practice 33 → 31. A new Breakout
+Card (H6.5) carries the three words, the form, the order and a sample blessing, one per group,
+handed to each group's holder at the bridge. And the grouping is now named as the leaders' judgement
+for the room that night: family clusters stay the default, with small groups by gender, pairs, or one
+circle open to them; every group has an adult and a named holder.
+
+**Weeks 7–8: pairs always, a timekeeper, a Pair Card.** PROAPT is practiced in pairs, one Reader and
+one Listener, even when a small room stays as one circle; one circle is now a seating arrangement
+only. The parent-pairing reassurance lines are gone. A timekeeper is named at the bridge before anyone
+moves, calling the switch, the Tell and the return (Week 7: 5:01, 5:13, 5:19; Week 8: 4:58, 5:12,
+5:18); a late evening shortens both passes equally rather than dropping the second. A new Pair Card
+(H7.5, H8.4), one per pair, carries the times, the six steps, the passage, the stuck-prompts and the
+Tell.
+
+**Blessings spoken to the person.** Wherever participants bless one another in their own words (the
+story blessings of Weeks 3–4, Week 6's blessing of restoration, the closing blessings step of Weeks
+12, 14, 18 and 20), the plans now say: eyes on the person, not the screen; nothing to read; say what
+is on your heart for them, specific and short. Starter cards stay as scaffolds. The prepared
+commissioning blessings (the family commissioning of Week 21, the Companions' blessings at Week 22)
+may still be read, at John's word; the plans add only: look up at the person as you finish. The
+Aaronic blessing is unchanged.
+
+**Day boxes.** Every daily take-home practice already has its row of day boxes on the week's
+Check-Off Card, so no new grids were needed; Week 5's row is renamed to match the new practice.
+
 # August 2026 — Session slides at v1.5
 
 The session slide deck the site serves is now v1.5 — two hundred seventy-seven slides, up from v1.4's two

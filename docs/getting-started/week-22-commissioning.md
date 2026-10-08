@@ -266,7 +266,7 @@ The blessing block. The Week 21 discipline governs: specific, witnessed, true �
 
 **1. The senior stands in the center.** Their family stands behind them.
 
-**2. Two Companions speak their prepared blessings** — one to three sentences each, drawn from specific moments of leading: the container re-established when the room heated up, the feedback received and visibly acted on, the heavy moment handed to the adult without heroics. What we saw; what we bless; what we see coming.
+**2. Two Companions speak their prepared blessings** — one to three sentences each, drawn from specific moments of leading: the container re-established when the room heated up, the feedback received and visibly acted on, the heavy moment handed to the adult without heroics. What we saw; what we bless; what we see coming. Read or spoken, either way: look up at the person as you finish.
 
 **3. The parent may add one sentence.** One. It will be the one the teen remembers.
 

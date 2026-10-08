@@ -103,7 +103,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 1. Confirm the worked-example passage.
 2. Each Cohort Companion commits to PROAPT-ing one passage daily for the rest of the series and on through the interlude. Tonight is not a one-time exercise.
-3. Walk through the pair structure for the cohort circles (one Reader, one Listener; switch halfway).
+3. Walk through the pair structure for the cohort circles (one Reader, one Listener — pairs always, even in a small room; switch at 7:51). Agree who keeps time — the Lead Companion by default.
 
 ## **Logistics pre-work**
 
@@ -111,6 +111,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 2. Print the Mark 1:14–20 worked-example handout (H7.2).
 3. Print the passage suggestion sheet (H7.3, three tracks on one sheet) for ongoing daily practice.
 4. Confirm cohort spaces from prior weeks.
+5. Print the Pair Card (H7.4) — one per pair, plus spares.
 
 # **Materials and Setup**
 
@@ -123,6 +124,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 - PROAPT step card: H7.1 (one per participant).
 - Mark 1:14–20 handout: H7.2 (one per participant, with the passage printed and space to write).
 - Passage suggestions: H7.3 (one per participant).
+- PROAPT in Pairs — Pair Card: H7.4 (one per pair).
 - A private space per cohort circle.
 - Whiteboard or flip chart.
 - Pens and notebooks if Personal Heart Journals are at home.
@@ -146,9 +148,9 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 | 7:07–7:15 | Block 2: Wk 6 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
 | 7:15–7:24 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
 | 7:24–7:35 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole cohort works Mark 1:14–20 step by step. 12 minutes. |
-| 7:35–7:37 | Block 5: Bridge to the split and pair structure | Shared | Lead Comp | Pair structure explained. Pray. Split. |
-| 7:37–8:05 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | Each pair PROAPTs one passage together. Switch reader/listener at 15 min. |
-| 8:05–8:14 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells their cohort circle ONE thing they heard. |
+| 7:35–7:37 | Block 5: Bridge to the split and pair structure | Shared | Lead Comp | Pairs always: one Reader, one Listener. Name the timekeeper. One Pair Card (H7.4) per pair. Pray. Split. |
+| 7:37–8:05 | Block 6: PROAPT in pairs in cohort circles | Cohort → pairs | Cohort Facs | Each pair PROAPTs one passage together. The timekeeper calls the switch at 7:51 and the Tell at 8:05. |
+| 8:05–8:14 | Block 7: Tell step — sharing in cohort | Cohort | Cohort Facs | Each person tells their cohort circle ONE thing they heard. Timekeeper calls the return to the main room at 8:14. |
 | 8:14–8:18 | Block 8: Merge and between-session | Shared | Lead Companion + Co-Comp | One word each. Daily PROAPT introduced. |
 | 8:18–8:30 | Block 9: Feedback round and closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 
@@ -215,11 +217,17 @@ This is the most important teaching block of the night. Walk the cohort through 
 ## **Block 5 — Bridge to the Split and Pair Structure (7:35–7:37, 2 min)**
 ## Script
 
-*“In your cohort circle, you’ll pair up. One person reads, the other listens. Reader leads through the six steps; Listener participates in their own working but does not interrupt the Reader’s pace. After fifteen minutes, switch. Different passage if you want, or stay with Mark 1.”*
+*“In your cohort circle, you’ll pair up. One person reads, the other listens. Reader leads through the six steps; Listener participates in their own working but does not interrupt the Reader’s pace. At 7:51, switch. Different passage if you want, or stay with Mark 1.”*
+
+*“Pairs, always — even if your circle is small, or we all stay in this room as one circle. That is only where we sit. The practice is one Reader and one Listener, and a circle can’t give you that.”*
+
+*“[Name] is our timekeeper tonight. They call the switch at 7:51, the Tell at 8:05 — when the pairs come back into the cohort circle — and back in this room at 8:14. You don’t need to watch the clock. Each pair takes one Pair Card: the six steps, the passages, the times, and what to ask if you get stuck.”*
 
 *“Your Cohort Companion will work the pair structure. Pairs will be chosen by the Companion — mix it up if you can; the practice is more useful with someone you don’t know as well.”*
 
 *“Pray. Holy Spirit, you have been good to us tonight already. Show up in these pairs. Say something to each of us we can hear. Amen. Go.”*
+
+*(Name the timekeeper before anyone moves — the Lead Companion by default. Where cohort circles meet in separate spaces, each Cohort Companion keeps the same clock for their circle. Hand one Pair Card (H7.4) to each pair. If the evening is running late, shorten both passes equally rather than drop the second.)*
 
 ## **Block 6 — PROAPT in Pairs (7:37–8:05, 28 min)**
 Each cohort circle splits into pairs. The Cohort Companion pairs people deliberately.
@@ -228,11 +236,11 @@ Each cohort circle splits into pairs. The Cohort Companion pairs people delibera
 
 **Pairing (1 min). Cohort Companion assigns pairs (mix it up). Pairs find a quiet spot in or near the cohort space.**
 
-**First pass (14 min). Reader leads through PROAPT on chosen passage. Listener works alongside but does not interrupt. Reader’s Tell at the end goes to Listener (1 sentence).**
+**First pass (13 min, to 7:51). Reader leads through PROAPT on chosen passage. Listener works alongside but does not interrupt. Reader’s Tell at the end goes to Listener (1 sentence).**
 
-**Switch (1 min). Reader and Listener switch roles. New passage or same passage.**
+**Switch (at 7:51, 1 min). The timekeeper calls it. Reader and Listener switch roles. New passage or same passage.**
 
-**Second pass (14 min). Same structure with roles reversed.**
+**Second pass (13 min, 7:52–8:05). Same structure with roles reversed. If the evening is running late, the timekeeper shortens both passes equally; the second pass is never dropped.**
 
 ## Cohort Companion: when to intervene
 
@@ -243,7 +251,7 @@ Each cohort circle splits into pairs. The Cohort Companion pairs people delibera
 - If a pair surfaces something heavy — honor it. Brief acknowledgment. Follow up after the cohort closes.
 
 ## **Block 7 — Tell Step in Cohort (8:05–8:14, 9 min)**
-Re-form into cohort circle (out of pairs). Each participant tells the cohort circle ONE thing they heard tonight. Brief, specific, witnessed.
+Re-form into cohort circle (out of pairs) at the timekeeper’s call, 8:05. Each participant tells the cohort circle ONE thing they heard tonight. Brief, specific, witnessed.
 
 ## Inside the cohort circle
 
@@ -356,11 +364,12 @@ Same as prior weeks.
 
 # **Handouts**
 
-Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are one version for everyone; the passage suggestions offer three tracks.
+Four handouts for Week 7. The PROAPT step card and Mark 1 worked example are one version for everyone; the passage suggestions offer three tracks; the Pair Card goes one per pair.
 
 - H7.1 — PROAPT Step Card (single page reference)
 - H7.2 — Mark 1:14–20 Worked Example (with space to write each step)
 - H7.3 — Passage Suggestions for the Week
+- H7.4 — PROAPT in Pairs — Pair Card (one per pair)
 
 **Handout H7.1 — PROAPT Step Card**
 
@@ -468,6 +477,12 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are on
 
 *One passage per day for the next seven days. Pick a track below, or stay with one Gospel and go in order.*
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 ## **Track one — Mark 1–2, a story a day**
 
 *Short narrative passages. Each one is a complete story. A good first track: five to seven minutes for the whole PROAPT while the practice is new.*
@@ -523,3 +538,43 @@ Three handouts for Week 7. The PROAPT step card and Mark 1 worked example are on
 *The first three days are easy. Days four through seven are where the practice forms or fails. If you miss a day, do not double up the next day. Pick up where you are. The chain breaks if you turn it into a guilt-engine.*
 
 *Tell step counts even if it is just to your spouse, a friend, or your circle Companion by text. Speak what you heard.*
+
+**Handout H7.4 — PROAPT in Pairs — Pair Card**
+
+*For the pair, away from the whiteboard — one per pair. One Reader, one Listener: the Reader leads the six steps, the Listener works alongside without interrupting. Then switch. Pairs, always — even when a small room stays as one circle.*
+
+## The times
+
+**Pass one** Mark 1:14–20, or the passage the Reader chooses — 7:38 to 7:51. **Switch at 7:51.** **Pass two** the new Reader’s choice — stay with Mark 1, or take another passage — 7:52 to 8:05. **The Tell,** back in your cohort circle, 8:05–8:14. **Back in the main room at 8:14.**
+
+*The timekeeper calls each one; you don’t need to watch the clock.*
+
+## The six steps
+
+**1. Pray** — “Holy Spirit, you are welcome here. Speak. We are listening.”
+
+**2. Read** — slowly, to receive it; don’t analyze yet.
+
+**3. Observe** — first the data (who, what, when, where, straight off the page), then what stands out or surprises you.
+
+**4. Apply** — “What does this passage mean for me, today, in my life?” One specific thing.
+
+**5. Pray again** — tell God what you heard, what you are willing to do, what you’re struggling to be willing to do.
+
+**6. Tell** — the Reader tells the Listener one sentence: what I heard.
+
+## If you get stuck
+
+**On Observe:** “What’s one word or phrase that caught your attention?”
+
+**On Apply:** “Where in my life right now might this passage be talking?”
+
+**Rushing:** “Slow down. The Spirit isn’t in a hurry.”
+
+**Finished early:** take another passage and get another rep.
+
+## The Tell, in the cohort circle
+
+Each of you tells ONE specific thing you heard tonight, in one sentence. Receive it without preaching: “We hear that.” “Thank you for naming that.”
+
+*If something heavy comes up, honor it briefly and tell a Companion after the close; don’t work it through in the pair.*

@@ -269,7 +269,7 @@ This is the heart of the night. Each cohort circle runs in parallel. The structu
 
 **Silence (10 seconds).**
 
-**Blessing round (1–2 minutes total). The Companion goes first or invites the next person on the right. Each circle member offers one or two sentences. “What I want to bless about your story is...” “What I noticed about you is...” “What I will be praying for you is...” Examples are on the listener card.**
+**Blessing round (1–2 minutes total). The Companion goes first or invites the next person on the right. Each circle member offers one or two sentences. “What I want to bless about your story is...” “What I noticed about you is...” “What I will be praying for you is...” Examples are on the listener card. Eyes on the teller, not the card — nothing to read; say what is on your heart for them, specific and short.**
 
 **Brief breath. Move to next teller.**
 
@@ -504,6 +504,8 @@ After each story, the circle offers one or two sentences each. Use one of these 
 Specific is better than generic. “Your courage to name that wound” is better than “thanks for sharing.”
 
 Brief is better than long. One or two sentences each. The teller needs to receive five blessings, not five mini-sermons.
+
+Eyes on the person, not this card or a screen — nothing to read. The starters are a scaffold; say what is on your heart for them, specific and short.
 
 **Handout H3.3 — Shared Footprints**
 

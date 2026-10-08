@@ -652,6 +652,12 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 
 **TWO — Sit with the named knot daily for 5 minutes. Not fixing. Just noticing. Set a timer if you need to. ‘This thing is in me; here it is again; I am not running from it tonight.’ The noticing alone changes things over weeks.**
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 **THREE — Three brief check-ins with your standing pair partner. Phone or text. Brief. ‘What’s alive in your knot work?’ ‘How can I pray for you tomorrow?’ Three is the floor; more is fine if it is mutual.**
 
 **FOUR — Watch for the lie. The lie often surfaces more clearly in the days after Wk 3 than during the session itself. If something specific clicks — a sentence in your head, a memory, a phrase you keep returning to — journal it. Bring it to your standing pair partner.**

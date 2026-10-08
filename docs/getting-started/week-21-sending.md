@@ -277,9 +277,9 @@ This is the heart of the night. Each family in turn. The Lead Companion calls fa
 
 **2. Brief framing. Lead Companion speaks one sentence about each family member that has been part of the program: ‘We have walked with [name] through Getting Started; we have seen \_\_\_\_\_.’ 30–60 seconds total.**
 
-**3. Teen blessing of parent first. (Going second is harder for teens; let them go first.) The teen reads or speaks their three-sentence blessing over their parent. ≈ 60–90 seconds.**
+**3. Teen blessing of parent first. (Going second is harder for teens; let them go first.) The teen reads or speaks their three-sentence blessing over their parent, and looks up at their parent as they finish. ≈ 60–90 seconds.**
 
-**4. Parent blessing of teen. The parent reads or speaks their three-sentence blessing over their teen. ≈ 60–90 seconds.**
+**4. Parent blessing of teen. The parent reads or speaks their three-sentence blessing over their teen, and looks up at their teen as they finish. ≈ 60–90 seconds.**
 
 **5. Community blessing. Lead Companion: ‘Family of [last name], the community now blesses you.’ The whole room speaks the Aaronic blessing aloud together, slowly. Parents and teens may extend hands; some families hold each other.**
 
@@ -461,7 +461,7 @@ Five handouts for Week 21. H21.1 is distributed to families one week before; the
 
 *Sent to families the Friday before Week 21*
 
-*Each parent and each teen prepares a three-sentence blessing for the other before Wednesday. Use this worksheet. Bring it back Wednesday — you may read from it during the commissioning.*
+*Each parent and each teen prepares a three-sentence blessing for the other before Wednesday. Use this worksheet. Bring it back Wednesday — you may read from it during the commissioning. Read or spoken, either way: look up at the person as you finish.*
 
 ## **Parent: writing your blessing for your teen**
 

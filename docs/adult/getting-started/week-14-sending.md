@@ -276,7 +276,7 @@ This is the heart of the night. Each member in turn, with their household. The c
 
 **2. Brief framing. The convening leader speaks one sentence about the member: ‘We have walked with [name] through Getting Started; we have seen \_\_\_\_\_.’ 30–60 seconds.**
 
-**3. The member blesses their household. Each person briefly, or the household together — pre-planned on the worksheet. Three sentences per blessing: what I see in you, what I bless in you, what I commit to you. ≈ 60–90 seconds per person; brevity is the discipline.**
+**3. The member blesses their household. Each person briefly, or the household together — pre-planned on the worksheet. Three sentences per blessing: what I see in you, what I bless in you, what I commit to you. Read or spoken, either way: look up at the person as you finish. ≈ 60–90 seconds per person; brevity is the discipline.**
 
 **4. The household may bless back. Any household member who wishes — a spouse, a child of any age, a parent — speaks a blessing or a sentence over the member. Extemporaneous is fine; one true sentence is enough; nothing is required of guests. ≈ 60–90 seconds.**
 
@@ -440,7 +440,7 @@ Five handouts for Week 14. H14.1 is distributed to members one week before; the 
 
 *Sent to members the Friday before Week 14*
 
-*Each member prepares a three-sentence blessing for each person of their household — or one for the household together — before the night. Use this worksheet. Bring it back — you may read from it during the blessing. Household members who wish to speak one back may use the same three sentences; nothing is required of guests.*
+*Each member prepares a three-sentence blessing for each person of their household — or one for the household together — before the night. Use this worksheet. Bring it back — you may read from it during the blessing. Read or spoken, either way: look up at the person as you finish. Household members who wish to speak one back may use the same three sentences; nothing is required of guests.*
 
 ## **Writing your blessing — one for each person of your household, or one for the household together**
 

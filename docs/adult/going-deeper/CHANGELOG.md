@@ -4,6 +4,10 @@
 
 *Editorial pass per the user's May 2026 review decisions*
 
+# 8 October 2026 — From the FotH Evening's debriefs of Sessions 5–8
+
+Carried over at John's word: blessings spoken to the person — eyes on the person, not the page, nothing to read (Week 5's blessing of restoration, Week 12's pair blessings and H12.2) — and day boxes under the daily practice on the between-session cards of Weeks 3–6.
+
 # August 2026 — The practice hold (adult edition)
 
 The adult edition gains its hold: two weeks, no meetings, after Week 6 — the extended hearing practice and its outside-cohort Tells proven before the corporate turn begins, with the standing pairs traveling through the hold and a post-confession care note for the Companion team. Re-entry at Week 7 opens on what held.

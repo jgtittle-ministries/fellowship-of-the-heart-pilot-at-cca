@@ -32,11 +32,11 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Mode.** Shared opening and teaching; SPLIT into family clusters for the practice; MERGE for blessings, the Leader Feedback Round, and closing.
 
-**Circles.** Family clusters — two or three whole families with a Cluster Companion; your own family is always with you, never divided. If the room is about ten people or fewer, skip the split: the whole room stays as one circle and everything below still applies.
+**Circles.** Family clusters — two or three whole families with a Cluster Companion; your own family is always with you, never divided. If the room is about ten people or fewer, skip the split: the whole room stays as one circle and everything below still applies. The grouping is the leaders’ judgement for the room that night — family clusters are the default here; small groups by gender (men and boys together, women and girls together), pairs, or one circle when the room is small are all open to them. Every group has an adult and a named holder who keeps time and the order.
 
 **Parents first.** In every cluster the parents confess first — the Cluster Companion models, then the arranged parent opens, then the other parents, then the teens. Every parent has been pre-briefed (Handbook Section 2): own struggles, yes; the marriage’s raw material, no; anything about the teen, never without asking the teen privately first. Teens choose their own depth; pass-anytime holds.
 
-**Center.** Age-appropriate confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The Spirit does the work; we hold the space.
+**Center.** Age-appropriate confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The three words — the place, the pattern, the pull — get their own short teaching block before the demo, and each group carries them away on the Breakout Card (H6.5). The Spirit does the work; we hold the space.
 
 **Between-session practice.** The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse ([H6.3](#handout-h6-3)) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
 
@@ -129,8 +129,9 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 
 1. Print the confession-and-restoration handout (H6.1, teen and parent versions).
 2. Print the blessing-of-restoration card (H6.2, everyone).
-3. Confirm cluster spaces.
-4. Tissues in every cluster space. This session can be tearful.
+3. Print the Breakout Card (H6.5) — one per group, for the group’s holder.
+4. Confirm cluster spaces.
+5. Tissues in every cluster space. This session can be tearful.
 
 # Materials and Setup
 
@@ -140,6 +141,7 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 - Personal Heart Journals.
 - Confession-and-restoration handout: H6.1 (teen and parent versions).
 - Blessing-of-restoration card: H6.2 (everyone).
+- The Place, the Pattern, the Pull — Breakout Card: H6.5 (one per group; handed to each group’s holder at the bridge).
 - A private space for each family cluster. (One circle in the main room if the whole room is ten or fewer.)
 - Tissues in every space.
 - Large-print Bible (ESV).
@@ -167,10 +169,11 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 | 4:00–4:15 | Families arrive while the room builds. | Open | All Companions | Greeted by name; helping hands welcome. |
 | 4:15–4:21 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 6. |
 | 4:21–4:25 | Block 2: Wk 5 check-in | Shared | Lead Comp | Brief: how did the friendship practice land? |
-| 4:25–4:32 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
-| 4:32–4:37 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of the room. |
-| 4:37–4:38 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Parents-first named. Pray. Split. |
-| 4:38–5:11 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
+| 4:25–4:30 | Block 3: James 5:16 and 1 John 1:9 — confession as architecture | Shared | Lead Comp | Teaching block. Frame three times: not specific sins, the place. |
+| 4:30–4:34 | Block 3a: The place, the pattern, the pull | Shared | Lead Comp | The three words on the board; what is never named here. Ask “Questions about the three words?” and wait — clear in the room, not in the groups. |
+| 4:34–4:39 | Block 4: Companion demo | Shared | Lead Comp | Lead Companion names one place and receives one blessing back, modeled in front of the room. |
+| 4:39–4:40 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Grouping named (the leaders’ call; family clusters by default). Breakout Card (H6.5) to each group’s holder. Parents-first named. Pray. Split. |
+| 4:40–5:11 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
 | 5:11–5:15 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
 | 5:15–5:21 | Block 8: Between-session practice and the room’s questions | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse ([H6.3](#handout-h6-3)) distributed — Quarter 1 closes tonight. The round’s three questions sent home, answered together at Week 7. |
 | 5:21–5:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
@@ -195,11 +198,11 @@ The Thursday Call's look-ahead before Week 6 covers three specific things:
 
 ## Script
 
-*“Last week we did the friendship audit and committed to one condition, one friendship, one week. Take ninety seconds: any one of you, one sentence about how that practice landed. [Arranged parent’s name], start us off?”*
+*“Last week we mapped our friendships, and each of us chose one condition to offer, in one relationship, for one week. Take ninety seconds: any one of you, one sentence about how that practice landed. [Arranged parent’s name], start us off?”*
 
 *(Take 2–3 voluntary contributions. Don’t ask for more. Move on.)*
 
-## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (4:25–4:32, 7 min)
+## Block 3 — James 5:16 and 1 John 1:9 — Confession as Architecture (4:25–4:30, 5 min)
 
 Read both passages aloud, slowly, from the physical Bible.
 
@@ -227,7 +230,29 @@ Read both passages aloud, slowly, from the physical Bible.
 
 • The whole thing takes about three minutes per person. There will be silences. Tears are normal and welcome. Specifics about the sin itself are not requested and not required. The naming is enough.
 
-## Block 4 — Companion Demo (4:32–4:37, 5 min)
+## Block 3a — The Place, the Pattern, the Pull (4:30–4:34, 4 min)
+
+*The whole practice rests on these three words, so they get their own few minutes — on the whiteboard or the screen, before the demo.*
+
+## Script
+
+*“Three words for tonight. They are on the card each group will take with it.”*
+
+*“The place. Where you want to walk in greater honesty — where growth has stalled. For example: how I talk about people who aren’t in the room.”*
+
+*“The pattern. How it keeps going. Not one time — the habit you’ve stopped expecting to change. For example: when I feel left out, I get clever at someone’s expense.”*
+
+*“The pull. What draws you back — the want or the fear underneath. For example: I want to be on the inside.”*
+
+*“Naming the place is enough. The pattern and the pull are yours to add — or to keep.”*
+
+*“And three things are never named here: the details of what happened, anyone else’s part, anything about someone in this room.”*
+
+*“Questions about the three words?”*
+
+*(Ask it, and wait. Get the three words clear here, in the whole room — not in the groups, where there is no one to ask.)*
+
+## Block 4 — Companion Demo (4:34–4:39, 5 min)
 
 The Lead Companion now does the practice in front of the whole room. This sets the depth and the form for the rest of the night.
 
@@ -240,7 +265,7 @@ The Lead Companion now does the practice in front of the whole room. This sets t
 - Receive it. Do not deflect, do not joke, do not minimize. Say “Thank you” and sit down.
 - Close: “That is the practice. You will do it in your cluster — parents first, then teens. Yours doesn’t have to look like mine. Three minutes per person.”
 
-## Block 5 — Bridge to the Split (4:37–4:38, 1 min)
+## Block 5 — Bridge to the Split (4:39–4:40, 1 min)
 
 ## Script
 
@@ -248,15 +273,19 @@ The Lead Companion now does the practice in front of the whole room. This sets t
 
 *“One. Take what helps from the prompts. You don’t have to use any of them. The prompts are scaffolding for the place where you might want to walk in greater honesty.”*
 
-*“Two. The blessing card has examples of how to bless someone after they’ve named their place. Specific. Short. Witnessed. ‘In the name of Jesus, we pray restoration over...’ Use the form or your own words.”*
+*“Two. The blessing card has examples of how to bless someone after they’ve named their place. Specific. Short. Witnessed. ‘In the name of Jesus, we pray restoration over...’ Use the form or your own words — and when you bless, eyes on the person, not the screen or the card. Nothing to read: say what is on your heart for them, specific and short.”*
 
 *“Three. The container holds. Nothing leaves the cluster. Not even back to the main room. Especially this week. And the order holds too: your Companion first, then the parents, then the teens. Teens — your depth is yours, and pass is always allowed.”*
+
+*“And one card per group.”* (Hand one Breakout Card — [H6.5](#handout-h6-5) — to each group’s holder.) *“The three words are on it, with the form and the order, for when you’re away from the screen. Back here at 5:11.”*
 
 *“Let me pray. Father, we are about to do the most vulnerable thing we have done together. Make this room a place of grace and not shame. Make our words heavy enough to bless and light enough to release. Holy Spirit, do what only you can do. Amen. Go.”*
 
 *(If the whole room is ten or fewer tonight, say instead: “We’re staying right here — one circle, same order, same rules.”)*
 
-## Block 6 — Confession-and-Restoration in Family Clusters (4:38–5:11, 33 min)
+**Groups are the leaders’ judgement.** The design’s default here is the family cluster, and nothing above changes it. But the leaders choose the grouping for the room that night: family clusters (the default), small groups by gender — men and boys together, women and girls together — pairs, or one circle when the room is small. Small groups by gender worked well in the evening pilot: each person had more than one witness, and the parents-first order held inside each group. Whatever the grouping, every group has an adult and a named holder who keeps time and the order — and the leaders name the grouping here, at the bridge, before anyone moves.
+
+## Block 6 — Confession-and-Restoration in Family Clusters (4:40–5:11, 31 min)
 
 This is the heart of the night. Each cluster runs the same structure. The order — Companion, then parents, then teens — is not etiquette; it is the safety architecture. The parents were pre-briefed this week (Handbook Section 2) and know their rails.
 
@@ -346,6 +375,8 @@ Two or three voices on each question is plenty. The leader receives without defe
 # Inside the Clusters: Parents First, Teens at Their Own Depth
 
 One band of teens in the pilot, confessing in the same circle as their parents — after them. The notes below replace the old age-circle differentiation.
+
+**The grouping is the leaders’ judgement.** Family clusters are this design’s default, and the notes below are written for them. The leaders may choose otherwise for the room that night: small groups by gender — men and boys together, women and girls together (in the evening pilot this worked well, giving each person more than one witness, with the parents-first order holding inside each group) — pairs, or one circle when the room is small. The notes hold in any grouping: every group has an adult and a named holder who keeps time and the order, and the parents go first.
 
 ## The teens
 
@@ -440,11 +471,12 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 
 # Handouts
 
-Three handouts for Week 6. The confession handout comes in teen and parent versions; the blessing card is one version for all; the Quarterly Pulse prints here in its first-quarter framing. (The junior version of H6.1 is retired in the pilot edition — one high-school band.)
+Four handouts for Week 6. The confession handout comes in teen and parent versions; the blessing card is one version for all; the Quarterly Pulse prints here in its first-quarter framing; the Breakout Card goes one per group. (The junior version of H6.1 is retired in the pilot edition — one high-school band.)
 
 - H6.1 — The Place I Want to Walk in Greater Honesty (Teen, Parent)
 - H6.2 — Blessing of Restoration card (everyone)
 - H6.3 — The Quarterly Pulse (Quarter 1) — the first of the year’s three; the same one-page instrument returns, re-framed, at the midpoint ([H11.4](week-11-doubts.md#handout-h11-4)) and at Week 16 (H16.1); one per participant plus spares — back in the bin at the Week 7 door
+- H6.5 — The Place, the Pattern, the Pull — Breakout Card (one per group, handed to each group’s holder at the bridge)
 
 **Handout H6.1 — The Place (Teen)**
 
@@ -520,6 +552,8 @@ Three handouts for Week 6. The confession handout comes in teen and parent versi
 *How to bless a brother or sister after they have named their place*
 
 *After someone in your cluster names their place, the circle (or one assigned member) speaks a brief blessing of restoration. Specific. Short. Witnessed. Not a sermon, not advice, not a prayer that becomes a teaching.*
+
+**Eyes on the person, not the screen — or this card.** Nothing to read: the template below is a scaffold. Say what is on your heart for them, specific and short.
 
 ### The form
 
@@ -618,3 +652,39 @@ A separate one-page sheet — [H6.3](#handout-h6-3) — comes home with this car
 *Three questions for our first night back, about the group and never any one person: What’s working well that we ought to keep doing next quarter? What could we do differently that would make things even better? What would you tell somebody else about what this group is like?*
 
 *Filled or half-filled, bring yourself back when we gather again. The room is the practice too.*
+
+**Handout H6.5 — The Place, the Pattern, the Pull — Breakout Card**
+
+*One per group, handed to the group’s holder at the bridge — for when your group is away from the screen. Each of us names one place where we want to walk in greater honesty before God, and the group speaks a blessing of restoration over it.*
+
+## The three words
+
+**1. The place** — where you want to walk in greater honesty; where growth has stalled.
+
+*e.g. how I talk about people who aren’t in the room*
+
+**2. The pattern** — how it keeps going: not one time, the habit you’ve stopped expecting to change.
+
+*e.g. when I feel left out, I get clever at someone’s expense*
+
+**3. The pull** — what draws you back: the want or the fear underneath.
+
+*e.g. I want to be on the inside*
+
+**Naming the place is enough.** The pattern and the pull are yours to add — or to keep.
+
+**Never named here:** the details of what happened, anyone else’s part, anything about someone in this room.
+
+## How the group runs it
+
+**Settle.** Ninety seconds of silence first — the silence is part of the practice.
+
+**The order.** The group’s adult goes first. Then the parents, about three minutes each, own struggles only. Then the teens, at whatever depth they choose. Passing is real and costs nothing.
+
+**The form.** “The place where I want to walk in greater honesty before God is \_\_\_\_\_\_\_\_\_\_.” Add the pattern or the pull if you want to.
+
+**The blessing back,** short and specific, by anyone in the group — eyes on the person, not the screen or this card; say what is on your heart for them: “In the name of Jesus, we pray restoration over the place you named — may its grip break, and may honesty grow where it held.”
+
+**Close.** A minute of held silence. The holder keeps the time: back in the main room at 5:11.
+
+*Nothing leaves the group. Not even back to the main room.*

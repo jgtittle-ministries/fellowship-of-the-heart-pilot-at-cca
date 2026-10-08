@@ -76,6 +76,21 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.28 — October 8, 2026 — blessings spoken to the person, every evening; the lessons carried into the other forms
+
+- **Blessings, every evening.** The closing container's blessing step now
+  reads, in every deck that has it, as it does in Sessions 7–8: eyes on the
+  person, not the screen; say what is on your heart for them. Specific,
+  witnessed, short. The leader notes carry the same line.
+- **Carried into the other forms.** At John's word, the lessons of the
+  Session 5–8 debriefs now also run in the 22-week CCA Getting Started and
+  in the adult series: the gentler Week 5 homework, the place / the pattern
+  / the pull taught on their own with a Breakout Card, Week 6 grouping as
+  the leaders' judgement (by gender is one of the options), pairs always
+  with a timekeeper and a Pair Card in Weeks 7–8, blessings spoken to the
+  person, and day boxes where the homework is daily. Each series' change
+  log records it.
+
 ## v2.27 — October 8, 2026 — day boxes wherever the homework is daily
 
 The day boxes added to Session 7's take-home are helping, so at John's

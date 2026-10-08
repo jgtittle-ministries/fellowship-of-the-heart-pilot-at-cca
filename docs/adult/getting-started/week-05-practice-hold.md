@@ -6,13 +6,14 @@ For the next two weeks there is no session. This is not a gap in the calendar; i
 
 ## Why the hold is here
 
-Five weeks have built the foundation: the container, the soil of your heart, your story told and received, the beginning of being known. And Week 5 sent you home with a practice — **one friendship, one condition, practiced more intentionally than usual**. A practice rehearsed inside the room proves the room. A practice that continues when no meeting is holding you proves something else: that the work has begun to live in you rather than in the schedule.
+Five weeks have built the foundation: the container, the soil of your heart, your story told and received, the beginning of being known. And Week 5 sent you home with a practice — **one relationship, one condition, offered a little more than usual**. A practice rehearsed inside the room proves the room. A practice that continues when no meeting is holding you proves something else: that the work has begun to live in you rather than in the schedule.
 
 So the structure lets go for two weeks, on purpose, to find out what holds.
 
 ## What to carry through the hold
 
-- **Keep the Week 5 practice running** — the one friendship, the one condition — through both weeks, not just the first.
+- **Keep the Week 5 practice running** — the one relationship, the one condition offered — through both weeks, not just the first. In the second week, the same relationship — or a different one, if the first was too heavy; a second condition, or the same one deeper.
+- **If it stirs something hard** — loneliness, a friendship that has hurt you, one that has faded — that is real and worth noticing, not fixing. Choose an easier relationship, or set the practice down for a few days, and tell someone you trust: your check-in partner, a Companion, a friend in the cohort. You are not meant to carry the heavy things alone.
 - **Keep whatever daily rhythm has begun** for you in these five weeks, in whatever honest size it actually has.
 - **And carry the room’s question** — keep, change, tell — sent home on no paper at the last session. We answer it together when we return.
 - Nothing else. The hold is not homework. These, held loosely and honestly, are worth more than five things performed.

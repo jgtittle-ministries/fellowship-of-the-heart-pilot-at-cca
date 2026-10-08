@@ -371,7 +371,7 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 *"Next Wednesday is Week 21 — the sending of the families. The Wednesday after is Week 22 — the commissioning of these Companions. Bring your whole family to both. What you gathered tonight will meet you there."*
 
-*(Run the standard closing protocol — the one-word landing, the one thing, the one practice, blessings. Then:)*
+*(Run the standard closing protocol — the one-word landing, the one thing, the one practice, blessings: eyes on the person, not the screen; nothing to read; say what is on your heart for them, specific and short. Then:)*
 
 *"The blessing. Hands up if you want."*
 

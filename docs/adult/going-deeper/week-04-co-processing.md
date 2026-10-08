@@ -651,6 +651,12 @@ Anything about how the team held the room around you that helped or did not help
 
 **TWO — 5-minute daily sit with the named knot continues. Notice; do not fix.**
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 **THREE — Three brief check-ins with your standing pair partner. Phone or text. ‘What’s alive in your work?’**
 
 **FOUR — NEW: one Co-Processing Journal entry by Friday. The prompt is on this card.**

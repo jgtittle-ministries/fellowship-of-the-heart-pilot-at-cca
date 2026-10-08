@@ -281,7 +281,7 @@ This is the heart of the night. Each cluster runs in parallel. The structure ins
 
 **Silence (10 seconds).**
 
-**Blessing round (1–2 minutes total). The Cluster Companion goes first or invites the next person on the right. Each circle member offers one or two sentences. “What I want to bless about your story is...” “What I noticed about you is...” “What I will be praying for you is...” Examples are on the listener card. When a parent has told, gently invite their own teen’s blessing too — one sentence from their own kid often lands deepest. Invite, never force.**
+**Blessing round (1–2 minutes total). The Cluster Companion goes first or invites the next person on the right. Each circle member offers one or two sentences. “What I want to bless about your story is...” “What I noticed about you is...” “What I will be praying for you is...” Examples are on the listener card. Eyes on the teller, not the screen or the card — nothing to read; say what is on your heart for them, specific and short. When a parent has told, gently invite their own teen’s blessing too — one sentence from their own kid often lands deepest. Invite, never force.**
 
 **Brief breath. Move to next teller.**
 
@@ -551,6 +551,8 @@ After each story, the circle offers one or two sentences each. Use one of these 
 Specific is better than generic. “Your courage to name that hard season” is better than “thanks for sharing.”
 
 Brief is better than long. One or two sentences each. The teller needs to receive five blessings, not five mini-sermons.
+
+Eyes on the person, not the screen or this card. Nothing to read — the starters are a scaffold; say what is on your heart for them, specific and short.
 
 **Handout H3.5 — Joint Footprints**
 

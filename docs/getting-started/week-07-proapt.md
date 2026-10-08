@@ -30,7 +30,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** God. Self has been done; Others has been built; tonight we turn the channel from horizontal to vertical.
 
-**Mode.** Shared teaching of PROAPT walked through together with the whole room; SPLIT for first practice in family clusters — 2–3 whole families with a Cluster Companion, own family always together — working in family pairs; MERGE for the Leader Feedback Round and closing. When the room is about ten or fewer, skip the clustering: the whole room stays as one circle.
+**Mode.** Shared teaching of PROAPT walked through together with the whole room; SPLIT for first practice in family clusters — 2–3 whole families with a Cluster Companion, own family always together — working in family pairs; MERGE for the Leader Feedback Round and closing. When the room is about ten or fewer, skip the clustering: the whole room stays as one circle — a space arrangement only; everyone still works in pairs, one Reader and one Listener.
 
 **Center.** PROAPT walked through with one passage as a whole-room exercise. Then each family cluster works the same passage in family pairs — parent and teen from the same family by default — with the Tell step shared back into the cluster, a parent telling first.
 
@@ -103,7 +103,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 1. Confirm the worked-example passage.
 2. Each Cluster Companion commits to PROAPT-ing one passage daily for the rest of the series and on through the interlude. Tonight is not a one-time exercise.
-3. Walk through the pair structure for the family clusters (family pairs — parent and teen from the same family by default; one Reader, one Listener; switch halfway).
+3. Walk through the pair structure for the family clusters (family pairs — parent and teen from the same family by default; one Reader, one Listener; switch halfway). Pairs always — even in one circle. Agree who keeps time (the Lead Companion by default) and the clock: switch at 5:01, the Tell at 5:13, back in the main circle at 5:19.
 4. Arrange before the session which parent will open the Tell round in each cluster. A parent opens every sharing round in v1.3 — never a cold call on a teen.
 
 ## **Logistics pre-work**
@@ -111,7 +111,8 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 1. Print PROAPT step card (H7.1, single page, same card for everyone).
 2. Print the Mark 1:14–20 worked-example handout (H7.2).
 3. Print the passage-suggestion sheet (H7.3) for ongoing daily practice.
-4. Confirm the family-cluster groupings (2–3 whole families per cluster, own family always together) and the cluster spaces — or plan for one circle if the room will be about ten or fewer.
+4. Print the Pair Card (H7.5) — one per pair, plus spares.
+5. Confirm the family-cluster groupings (2–3 whole families per cluster, own family always together) and the cluster spaces — or plan for one circle if the room will be about ten or fewer.
 
 # **Materials and Setup**
 
@@ -123,6 +124,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 - PROAPT step card: H7.1 (one per participant).
 - Mark 1:14–20 handout: H7.2 (one per participant, with the passage printed and space to write).
 - Passage suggestions: H7.3 (one per participant).
+- PROAPT in Pairs — Pair Card: H7.5 (one per pair; handed out at the bridge).
 - A space or corner for each family cluster — or none, when the whole room stays as one circle (about ten or fewer).
 - Whiteboard or flip chart.
 - Pens and notebooks if Personal Heart Journals are at home.
@@ -149,8 +151,8 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 | 4:21–4:31 | Block 2: Re-entry, and the room reads itself | Shared | Lead Comp | Break check-in, then the first room’s self-read — the three questions sent home at Week 6, answered together. |
 | 4:31–4:37 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
 | 4:37–4:47 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole room works Mark 1:14–20 step by step. 10 minutes. |
-| 4:47–4:48 | Block 5: Bridge to the clusters and pair structure | Shared | Lead Comp | Family pairs explained. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
-| 4:48–5:13 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | Each family pair PROAPTs one passage together. Switch reader/listener at the halfway mark. |
+| 4:47–4:48 | Block 5: Bridge to the clusters and pair structure | Shared | Lead Comp | Family pairs explained — pairs always, even in one circle. Timekeeper named (switch 5:01, Tell 5:13, back 5:19). Pair Card (H7.5) to each pair. Pray. Move to clusters (or stay as one circle if ~10 or fewer, still in pairs). |
+| 4:48–5:13 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | Each family pair PROAPTs one passage together. Switch reader/listener at 5:01, called by the timekeeper. Running late: shorten both passes equally. |
 | 5:13–5:19 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells their cluster ONE thing they heard. A parent opens (arranged beforehand). |
 | 5:19–5:21 | Block 8: Merge and between-session | Shared | Lead Companion + Co-Comp | One word each (a parent begins). Daily PROAPT introduced. |
 | 5:21–5:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Two questions from the leader, then the room. Same every week. |
@@ -234,11 +236,13 @@ This is the most important teaching block of the night. Walk the whole room thro
 
 *“In your family cluster, you’ll pair up — parent with teen, from your own family, by default. One person reads, the other listens. Reader leads through the six steps; Listener participates in their own working but does not interrupt the Reader’s pace. After twelve minutes, switch. Different passage if you want, or stay with Mark 1.”*
 
-*“Pairing up with your own parent or your own teen is not the consolation-prize version — it is the design working. The Tell step inside a family pair is a parent and a teen telling each other what they heard from God. That is the whole point of this fellowship.”*
-
 *“Your Cluster Companion will settle the pairs — if your family’s numbers are odd, they’ll complete a pair across families inside the cluster.”*
 
-*(If the room is about ten or fewer tonight, skip the clustering: stay as one circle and pair up in place.)*
+*(If the room is about ten or fewer tonight, skip the clustering: stay as one circle and pair up in place. One circle is a seating choice, not a different practice — everyone still works in pairs, one Reader and one Listener.)*
+
+*“Before anyone moves: [name] is our timekeeper tonight. They’ll call the switch at 5:01, the Tell at 5:13 — back with your cluster — and the return to this circle at 5:19. You don’t need to watch the clock.”* (Hand a Pair Card — [H7.5](#handout-h7-5) — to each pair.) *“One card per pair: the six steps, the passage, the times, and what to ask if you get stuck.”*
+
+*(Name the timekeeper before anyone moves — the Lead Companion by default, or whoever the leaders pick. Where clusters meet in separate spaces, each Cluster Companion keeps the same clock; the times are printed on the card. If the evening is running late, shorten both passes equally — never drop the second.)*
 
 *“Pray. Holy Spirit, you have been good to us tonight already. Show up in these pairs. Say something to each of us we can hear. Amen. Go.”*
 
@@ -252,9 +256,9 @@ Each family cluster settles into pairs — parent and teen from the same family 
 
 **First pass (12 min). Reader leads through PROAPT on chosen passage. Listener works alongside but does not interrupt. Reader’s Tell at the end goes to Listener (1 sentence).**
 
-**Switch (brief). Reader and Listener switch roles. New passage or same passage.**
+**Switch (at 5:01, called by the timekeeper). Reader and Listener switch roles. New passage or same passage.**
 
-**Second pass (12 min). Same structure with roles reversed.**
+**Second pass (12 min, to 5:13). Same structure with roles reversed. The timekeeper calls the Tell at 5:13. If the evening is running late, both passes shorten equally — the second is never dropped.**
 
 ## Cluster Companion: when to intervene
 
@@ -266,7 +270,7 @@ Each family cluster settles into pairs — parent and teen from the same family 
 
 ## **Block 7 — Tell Step in the Cluster (5:13–5:19, 6 min)**
 
-Re-form into the family cluster (out of pairs). Each participant tells the cluster ONE thing they heard tonight. Brief, specific, witnessed. A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.
+Re-form into the family cluster (out of pairs) when the timekeeper calls the Tell at 5:13; back in the main circle at 5:19. Each participant tells the cluster ONE thing they heard tonight. Brief, specific, witnessed. A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.
 
 ## Inside the family cluster
 
@@ -394,11 +398,12 @@ Same as prior weeks.
 
 # **Handouts**
 
-Three handouts for Week 7. All three are the same for everyone; the passage sheet offers several paths.
+Four handouts for Week 7. All are the same for everyone; the passage sheet offers several paths, and the Pair Card goes one per pair.
 
 - H7.1 — PROAPT Step Card (single page reference, everyone)
 - H7.2 — Mark 1:14–20 Worked Example (with space to write each step)
 - H7.3 — Passage Suggestions for the Week (Teens and Parents)
+- H7.5 — PROAPT in Pairs — Pair Card (one per pair)
 
 **Handout H7.1 — PROAPT Step Card**
 
@@ -580,3 +585,43 @@ One short passage a day, five to fifteen minutes, at a time you name tonight —
 *The chain only works if we work it. Goes home with this card: H7.1 (step card) and H7.3 (passage paths).*
 
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
+
+**Handout H7.5 — PROAPT in Pairs — Pair Card**
+
+*One per pair, for when the pairs are away from the screen. One Reader, one Listener: the Reader leads the six steps, the Listener works alongside without interrupting. Then switch.*
+
+## The times
+
+**Pass one** Mark 1:14–20 — about twelve minutes. **Switch at 5:01.** **Pass two** the same passage or a fresh one from H7.3 — to 5:13. **The Tell, back in your cluster,** 5:13–5:19. **Back in the main circle at 5:19.**
+
+*The timekeeper calls each one; you don’t need to watch the clock. Running late? Both passes shorten equally — the second is never dropped.*
+
+## The six steps
+
+**1. Pray** — “Holy Spirit, you are welcome here. Speak. We are listening.”
+
+**2. Read** — slowly, to receive it; don’t analyze yet.
+
+**3. Observe** — first the data (who, what, when, where, straight off the page), then what stands out or surprises you.
+
+**4. Apply** — “What does this passage mean for me, today, in my life?” One specific thing.
+
+**5. Pray again** — tell God what you heard, what you are willing to do, what you’re struggling to be willing to do.
+
+**6. Tell** — the Reader tells the Listener one sentence: what I heard.
+
+## If you get stuck
+
+**On Observe:** “What’s one specific word or phrase that caught your attention?”
+
+**On Apply:** “What’s one situation in my life right now where this passage might be talking?”
+
+**Rushing:** “Slow down. The Spirit isn’t in a hurry.”
+
+**Finished early:** take another passage and get another rep.
+
+## The Tell, in the cluster
+
+Each of us tells ONE specific thing we heard tonight, in one sentence — a parent opens. Receive it without preaching: “We hear that.” “Thank you for naming that.”
+
+*If something heavy comes up, honor it briefly and tell a leader after the close; don’t work it through in the pair.*

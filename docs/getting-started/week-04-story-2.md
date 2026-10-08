@@ -274,7 +274,7 @@ The teens tell tonight, and the senior is a teen: they tell first. The order is 
 
 ### The blessing rounds — parents first
 
-In every cluster, the arranged parent speaks the first blessing after each story; then the circle follows. No teen is cold-called into blessing any more than into telling. A parent blessing their own teen’s story, specifically and without fixing, is one of the quiet freights this night is built to carry — let it happen and do not comment on it.
+In every cluster, the arranged parent speaks the first blessing after each story; then the circle follows. No teen is cold-called into blessing any more than into telling. A parent blessing their own teen’s story, specifically and without fixing, is one of the quiet freights this night is built to carry — let it happen and do not comment on it. Every blessing is spoken to the person: eyes on the teller, not the screen or a card; nothing to read — say what is on your heart for them, specific and short.
 
 ### The disclosure handoff — scripted
 
@@ -494,7 +494,7 @@ After each story: ten seconds of silence, then the arranged parent blesses first
 - *“What I noticed about you while you were telling that is \_\_\_\_\_.”*
 - *“What I will be praying for you this week is \_\_\_\_\_.”*
 
-Specific beats generic. Brief beats long. Then a breath, and the next teller.
+Specific beats generic. Brief beats long. Eyes on the teller, not the screen or the card — nothing to read; say what is on your heart for them. Then a breath, and the next teller.
 
 ### THE HANDOFF RULE — the one rule that never bends tonight
 

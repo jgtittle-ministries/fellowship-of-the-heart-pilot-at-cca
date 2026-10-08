@@ -284,7 +284,7 @@ Run the Section 5 closing protocol, unhurried. From the Handbook:
 2. **One-word landing.** “One word for what is happening in you right now as we close.” Around the circle. Compare to the opening word — the contrast is data.
 3. **The one thing.** “What is one specific thing you are taking from tonight?” Each person, brief.
 4. **The one practice.** “What will you actually practice between now and next week?” The session’s between-session practice is offered, and each person commits or modifies aloud.
-5. **Blessings.** Anyone who has a specific blessing to speak over another person in the room — not a general prayer, but a specific witnessed blessing of what they saw the Father doing in that person tonight — does so. These should be short. They almost always land.
+5. **Blessings.** Anyone who has a specific blessing to speak over another person in the room — not a general prayer, but a specific witnessed blessing of what they saw the Father doing in that person tonight — does so — eyes on the person, not the screen; nothing to read; say what is on your heart for them, specific and short. They almost always land.
 
 ### **Notes**
 

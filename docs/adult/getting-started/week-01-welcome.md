@@ -444,6 +444,12 @@ Each morning, before you check your phone, sit with one question for five minute
 
 Each evening, write one sentence in your journal: what did I notice today?
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 ### Anchor scripture
 
 *“The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly.”*

@@ -234,7 +234,7 @@ The rotation leader takes the bridge — the same three reminders and prayer the
 
 *“First: take what helps from the questions. You don’t have to use all four, and you don’t have to go in order. They’re scaffolding, not a quiz.”*
 
-*“Second: when you’re listening — don’t fix, don’t advise, don’t relate back. Receive, and after each story, bless. One or two sentences. The listener card has starters.”*
+*“Second: when you’re listening — don’t fix, don’t advise, don’t relate back. Receive, and after each story, bless. One or two sentences. The listener card has starters — but when you bless, eyes on the teller, not the card. Nothing to read; say what is on your heart for them, specific and short.”*
 
 *“Third: nothing leaves your circle. Not a phrase, not a name, not a story.”*
 

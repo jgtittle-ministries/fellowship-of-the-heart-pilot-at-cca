@@ -344,7 +344,7 @@ Each circle splits into the standing pairs. The Cohort Companion floats; interve
 
 **After the confession, pair partner prays specifically. By name. Names the pattern out loud (if appropriate to the pair’s discernment) or summarizes (if more discreet is right). Asks the Father to restore the place where the pattern has been operating.**
 
-**Pair partner speaks the specific blessing of restoration. Some version of: ‘[Confessor’s name], in Christ, this pattern is forgiven. I am not granting that; I am speaking what 1 John 1:9 already names, and what the blood of Christ has already secured (1 John 1:7). The Father restores you in the place this pattern has been operating. The work He is doing in you is real, even when affect does not match. Walk in this freedom.’**
+**Pair partner speaks the specific blessing of restoration. Some version of: ‘[Confessor’s name], in Christ, this pattern is forgiven. I am not granting that; I am speaking what 1 John 1:9 already names, and what the blood of Christ has already secured (1 John 1:7). The Father restores you in the place this pattern has been operating. The work He is doing in you is real, even when affect does not match. Walk in this freedom.’ Eyes on the person, not the page or the screen — nothing to read; say what is on your heart for them, specific and short.**
 
 **Silence. Five to ten minutes of silence between the two directions. The receiving partner sits in what was just spoken; the confessing partner sits in what was just received.**
 
@@ -676,6 +676,12 @@ Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Da
 **TWO — 5-minute daily sit with the named knot continues. Notice; do not fix.**
 
 **THREE — Five-Minute Examen each evening (H5.3). Five movements, one minute each.**
+
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 **FOUR — ONE mid-week check-in with your standing pair partner. ‘How are you walking in what was spoken Tuesday?’**
 

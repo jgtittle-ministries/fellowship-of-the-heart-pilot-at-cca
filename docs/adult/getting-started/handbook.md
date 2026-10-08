@@ -355,7 +355,7 @@ How the meeting ends matters as much as how it begins (Volume 2, Tenth Explorati
 
 **4. The one practice.** “What will you actually practice between now and next week?” The session’s between-session practice is offered, and each person commits or modifies aloud.
 
-**5. Blessings.** Anyone who has a specific blessing to speak over another person in the room — not a general prayer, but a specific witnessed blessing of what they saw the Father doing in that person tonight — does so. These should be short. They almost always land.
+**5. Blessings.** Anyone who has a specific blessing to speak over another person in the room — not a general prayer, but a specific witnessed blessing of what they saw the Father doing in that person tonight — does so. These should be short. They almost always land. Eyes on the person, not the screen or a card — nothing to read; say what is on your heart for them, specific and short.
 
 **6. Closing prayer and dismissal.** Brief. Name the Lord. Send them out.
 

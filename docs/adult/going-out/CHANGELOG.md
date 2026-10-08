@@ -4,6 +4,10 @@
 
 *Editorial pass — superseding the prior round's GO/Inviting Others changelog*
 
+# 8 October 2026 — From the FotH Evening's debriefs of Sessions 5–8
+
+Carried over at John's word: blessings spoken to the person — eyes on the person, not the page, nothing to read (Week 9's sending blessings, Week 12's standing-pair blessings).
+
 # August 2026 — The practice hold (adult edition)
 
 The adult edition gains its hold: two weeks, no meetings, after Week 8 — the discernment night's sitting-with extended on purpose, because a yes worth acting on is a yes still standing after two unheld weeks. Re-entry at Week 9 opens on what held at two levels: for each person, and for the cohort's own yes.
