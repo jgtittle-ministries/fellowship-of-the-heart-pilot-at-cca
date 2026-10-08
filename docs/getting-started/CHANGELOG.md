@@ -44,6 +44,8 @@ moves, calling the switch, the Tell and the return (Week 7: 5:01, 5:13, 5:19; We
 (H7.5, H8.4), one per pair, carries the times, the six steps, the passage, the stuck-prompts and the
 Tell.
 
+**A second week of day boxes.** Where the next session is two or more weeks away, the Check-Off Card now carries a box for every day until then: Weeks 1, 5, 6, 9 and 14 gain a Week two grid; Week 17 gains Weeks two and three for the one break practice. Week 11's card is left as it is: over the Christmas break the design keeps one practice alive and lets the rest of the card rest.
+
 **Blessings spoken to the person.** Wherever participants bless one another in their own words (the
 story blessings of Weeks 3–4, Week 6's blessing of restoration, the closing blessings step of Weeks
 12, 14, 18 and 20), the plans now say: eyes on the person, not the screen; nothing to read; say what

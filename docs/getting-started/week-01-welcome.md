@@ -616,6 +616,15 @@ Each evening, write one sentence in your journal: what did I notice today?
 
 *Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
 
+**Week one**
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) — “Father, what are you up to today, and what do you want me to notice?” | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1 min) — one specific sentence: where did I see God today? | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**Week two**
+
 | Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Morning question (5 min) — “Father, what are you up to today, and what do you want me to notice?” | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |

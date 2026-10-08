@@ -621,6 +621,16 @@ One sentence about why:
 
 *Take this card home — fridge, mirror, journal pocket. One check per completed practice. The journal stays reflective; this card is just the checkmarks — a small sense of done each day, and a gentle nudge back when a day slips. A missed box is never a failure; it is an invitation to return.*
 
+**Week one**
+
+| Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Evening journal note (1–2 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| Five-Minute Examen (evening — thank, notice, ask) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**Week two**
+
 | Practice | Thu | Fri | Sat | Sun | Mon | Tue | Wed |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Morning question (5 min) | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
