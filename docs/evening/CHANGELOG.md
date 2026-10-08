@@ -76,6 +76,40 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.27 — October 8, 2026 — day boxes wherever the homework is daily
+
+The day boxes added to Session 7's take-home are helping, so at John's
+word they go wherever the homework practice is itself daily: Session 6
+(the Five-Minute Examen each evening), Session 8 (daily PROAPT continues),
+Session 12 (one daily practice, restarted) and Session 14 (the daily
+rhythm). Each now has a box for every day of week one and week two under
+its homework practice, not only under the standing practice. Every sheet
+is still one page, and each deck's "Four Parts" slide shows the new
+sheet. Session 1 already had them; sessions whose practice is a few times
+a week, not daily, are unchanged.
+
+## v2.26 — October 8, 2026 — Sessions 7–8: pairs always, a timekeeper, a Pair Card, day boxes
+
+John's review of the combined deck, ahead of October 13:
+
+- **Pairs, always.** The practice stays in pairs even in a small room: one
+  Reader and one Listener, which a circle cannot give. The "ten or fewer,
+  one circle" option and the parent-pairing reassurance are gone from the
+  bridge slide (P11), its notes, the run sheet and this site.
+- **One timekeeper, with times.** Named at the bridge (the container holder
+  by default), calling the switch at 8:02, the Tell at 8:13, and back in the
+  circle at 8:19 for the merge. If the evening runs late, both passes
+  shorten equally rather than the second being dropped.
+- **The Pair Card.** Slide P12 on paper, one per pair: the times, the six
+  steps, the two passages, the stuck-prompts and the Tell, for when the
+  pairs are away from the screen. The notes, run sheet and planning-lab
+  sheet say to print it.
+- **Day boxes on the homework practice.** The take-home now has a box for
+  each day of each week under the daily PROAPT practice as well as the
+  standing practice (still one page); the sheet on slide P16 shows it.
+- **Blessings spoken, not read** (P18): eyes on the person, not the screen;
+  say what is on your heart for them.
+
 ## v2.25 — October 8, 2026 — a gentler Session 5 take-home; the three words on paper; the front page
 
 John's word, the same day:

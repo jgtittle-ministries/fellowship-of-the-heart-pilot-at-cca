@@ -35,7 +35,7 @@ have one, and your take-home from Session 6.
 | 7:34–7:40 | Romans 10:17, the chain: Word, then hearing, then faith. | Content presenter |
 | 7:40–7:49 | PROAPT walked together on Mark 1:14–20, all six steps, teen-led. | Content presenter |
 | 7:49–7:50 | Bridge to the pairs: parent with your own teen by default; one Reader, one Listener. | Content presenter |
-| 7:50–8:13 | Two passes in pairs, about twelve minutes each: the Reader leads PROAPT, then switch; the second pass on Mark 2:1–12. | Content presenter, container holder watching the room |
+| 7:50–8:13 | Two passes in pairs, about twelve minutes each: the Reader leads PROAPT, then switch at 8:02; the second pass on Mark 2:1–12. A named timekeeper calls the times. | Content presenter, container holder watching the room |
 | 8:13–8:19 | The Tell step: one specific sentence of what you heard, to your pair partner. A parent opens. | Content presenter |
 | 8:19–8:20 | Merge: one word each on what the practice was like (not what you heard; that is yours). | Container holder |
 | 8:20–8:24 | Homework commissioning: daily PROAPT, a time of day named aloud, check-in partners named. | Content presenter |
@@ -106,8 +106,12 @@ combined evening form changes.
 - **The room reads itself first.** The leader answers the three questions
   first, with a moment attached to each, then the room. If an answer drifts
   toward a person, bring it back gently: the group, never any one person.
-- **Pairing with your own parent or teen is the design working,** not the
-  consolation prize. Say it before the split.
+- **Pairs, always,** even in a small room: the practice is one Reader and
+  one Listener, and a circle cannot give that. Name one timekeeper before
+  anyone moves (the container holder by default), who calls the switch at
+  8:02, the Tell at 8:13, and back in the circle at 8:19. Each pair takes
+  a printed Pair Card: the six steps, the passages, the times and the
+  stuck-prompts, for when it is away from the screen.
 - **Stuck on Observe?** "What's one word or phrase that caught your
   attention?" **Stuck on Apply?** "Where in your life right now might this
   passage be talking?" **Rushing?** "The Spirit isn't in a hurry."
