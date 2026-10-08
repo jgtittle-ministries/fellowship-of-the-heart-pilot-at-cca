@@ -7,25 +7,28 @@ title: "FotH Evening"
 *Two-Week Rhythm · Teen-Led — Fellowship of the Heart around a family table.*
 
 *This page is kept current: it is updated after each evening's debrief.
-Last updated 3 October 2026.*
+Last updated 8 October 2026.*
 
 ---
 
 ## Where we are
 
 **Walked so far.** The first quarter, *Connect with Self and Others*, is
-nearly complete. In August the founding group walked the opening sessions
-in two evenings: Sessions 1 and 2 together, then Sessions 3 and 4. The
-series' first evening, **Tuesday, September 15**, picked the thread up at
-[Session 5 — Knowing and Being Known](session-05-knowing-and-being-known.md).
+complete. In August the founding group walked the opening sessions in two
+evenings: Sessions 1 and 2 together, then Sessions 3 and 4. The series'
+first evening, **Tuesday, September 15**, picked the thread up at
+[Session 5 — Knowing and Being Known](session-05-knowing-and-being-known.md),
+and on **Wednesday, October 7**,
+[Session 6 — Safe and Brave Together](session-06-safe-and-brave-together.md),
+the confession-and-restoration evening, closed the quarter.
 
-**Next evening: Wednesday, October 7** (moved from Tuesday, September 29).
-[Session 6 — Safe and Brave Together](session-06-safe-and-brave-together.md), the confession-and-restoration
-evening, which closes the first quarter.
-
-**Then: Tuesday, October 13.** [Sessions 7–8 — Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md),
+**Next evening: Tuesday, October 13.** [Sessions 7–8 — Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md),
 both PROAPT evenings combined in one, opening the second quarter, *Connect
-with God*.
+with God*. We also answer, together, the three questions that went home
+on October 7.
+
+**Then:** Sessions 9–10, *The Garden of Your Heart*, combined in one
+evening, on a date set at the planning lab.
 
 **After that,** about every two weeks. Each date is set at the planning lab
 before it. Holiday breaks around Thanksgiving and Christmas are being decided.
@@ -93,9 +96,9 @@ the full Companion lesson plan in the Getting Started series.
 | 1–2 — [Welcome to the Journey · The Soil of Your Heart](session-01-welcome-to-the-journey.md), combined | An evening in August | Walked |
 | 3–4 — [Telling Your Story](session-03-04-telling-your-story.md), I & II, combined | An evening in August | Walked |
 | 5 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
-| 6 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | **Wed Oct 7** | **Next:** closes Quarter 1 |
-| 7–8 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II, combined | Tue Oct 13 | Planned: opens Quarter 2 |
-| 9–10 — The Garden of Your Heart, I & II ([9](../getting-started/week-09-garden.md), [10](../getting-started/week-10-garden-2.md)), combined | Set at the planning lab | Ahead |
+| 6 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | Wed Oct 7 | Walked: closed Quarter 1 |
+| 7–8 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II, combined | **Tue Oct 13** | **Next:** opens Quarter 2 |
+| 9–10 — The Garden of Your Heart, I & II ([9](../getting-started/week-09-garden.md), [10](../getting-started/week-10-garden-2.md)), combined | Set at the planning lab | Then |
 | 11 — [Any Doubts?](../getting-started/week-11-doubts.md) | | Ahead |
 | 12 — [The Return](../getting-started/week-12-return.md) | | Ahead |
 | 13 — [What Was Prepared for You](../getting-started/week-13-mission.md) | | Ahead |

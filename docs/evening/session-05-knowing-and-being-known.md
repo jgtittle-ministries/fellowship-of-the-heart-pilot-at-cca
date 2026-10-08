@@ -45,25 +45,35 @@ run in the background of every session's homework, from Session 1 to the
 Sending; the printed sheet's two week-grids of day boxes sit directly under
 them and track this practice.
 
-**1. The homework practice — week one.** Pick one friendship in your life.
-Pick one of the four conditions (Safe, Present, Clear, Intentional).
-Practice it in that friendship more intentionally than usual. Journal what
-happens. We are proposing deep investment in a *small number* of
-friendships — starting with one; at this depth, two or three may be all a
-life can honestly hold.
+**1. The homework practice — week one.** Pick one relationship where you’d
+like a little more of one condition — a friend, a sibling, a parent, a
+teammate. It doesn’t have to be your closest. Pick one of the four
+conditions (Safe, Present, Clear, Intentional) and practice *offering* it
+there, a little more than usual. You are practicing what you give, not
+testing them: how they respond is not a grade on you. Journal what you
+notice. We are proposing deep investment in a *small number* of friendships
+— starting with one; at this depth, two or three may be all a life can
+honestly hold.
+
+**If this stirs something hard.** *Looking at friendships can bring up
+loneliness, a friendship that has hurt you, or one that has faded. That is
+real, and it is worth noticing — not fixing this week. You can choose an
+easier relationship, or set the practice down for a few days. And tell
+someone you trust: your check-in partner, a parent, or one of the leaders.
+You are not meant to carry the heavy things alone.*
 
 **2. The end-of-week-one check-in.** At the end of week one, connect with
 the partner you named at commissioning and report how it's going against
 the practice. A text, a call, or a hallway conversation all count. You are
 not grading each other; you are expecting each other.
 
-**3. The homework practice — week two.** Same friendship, second
-condition — or the same condition, deeper, if the first week opened
-something. Journal what happens.
+**3. The homework practice — week two.** Same relationship — or a different
+one, if the first was too heavy. A second condition, or the same one deeper
+if the first week opened something. Journal what you notice.
 
-**4. One sentence of preparation.** Before we meet, finish this sentence
-in your journal: "The condition my friendships need most from me is
-________."
+**4. One sentence of preparation.** Before we meet, finish this sentence in
+your journal: "Someone who has made me feel safe is ________, and what they
+did was ________."
 
 *The journal's standing closer applies: if I were to teach this practice
 to someone, what would I tell them? And a missed box is never a failure —

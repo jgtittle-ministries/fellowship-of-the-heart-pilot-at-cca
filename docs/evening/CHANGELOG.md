@@ -76,6 +76,69 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.25 — October 8, 2026 — a gentler Session 5 take-home; the three words on paper; the front page
+
+John's word, the same day:
+
+- **Session 5's take-home, gentler.** A practice that looks at friendships
+  can stir loneliness, a friendship that hurt, or one that faded. The
+  homework now asks for any relationship (a friend, a sibling, a parent, a
+  teammate), and for *offering* a condition rather than testing the other
+  person: how they respond is not a grade on you. A new paragraph, "If this
+  stirs something hard", gives the on-ramp: choose an easier relationship,
+  or set the practice down for a few days, and tell someone you trust.
+  Week two may change relationship, and the preparation sentence now looks
+  for gratitude rather than a gap ("Someone who has made me feel safe
+  is…"). The printed sheet (still one page), its record, the run sheet,
+  the Session 5 page, and the deck's practice slide, notes and on-screen
+  sheet images all match.
+- **The Session 6 Breakout Card.** Slide 87 on paper, one per group: the
+  place, the pattern, the pull, with the form, the order and a sample
+  blessing, so the groups have the three words in hand when they are away
+  from the screen. The leader notes say to print it (in the evening's prep
+  and on slide 87) and to hand one to each group's holder at the bridge.
+- **The front page** is refreshed after the Session 6 debrief: Quarter 1 is
+  walked, and Sessions 7–8 on October 13 come next.
+
+## v2.24 — October 8, 2026 — Session 6's debrief: groups, the three words, the numbers
+
+Session 6 ran Wednesday, October 7, with two guests in the circle. The
+teen leads' facilitation was rough in places and the practices worked
+anyway, which is the scaffold doing its job. John's word on the debrief:
+
+- **Small groups by gender, by default.** The teen leads split the
+  confession-and-restoration practice by gender (five and four) rather
+  than in pairs, and it worked better. It is now the default: each person
+  has more than one witness, and the parents-first order holds inside each
+  group. Pairs, or one circle, are the leaders' judgement for the room
+  that night. Every group has an adult and a named holder. Deck, notes,
+  run sheet and the Session 6 page all say so.
+- **The place, the pattern, the pull** get a slide of their own (new,
+  after Confession as Architecture), because the whole practice rests on
+  them: what each word means, one example walked through all three, that
+  naming the place is enough, and what is never named here. The practice
+  slide repeats the three words for the groups. Timings re-cut; the
+  evening still ends at 8:30.
+- **The three questions go home on paper**, printed on The Road So Far
+  (still one page), and the take-home points to them. Before, they went
+  home "on no paper".
+- **Fewer repeats on screen.** The Companion Demo and the Bridge no longer
+  restate what the practice slide already shows; the homework slide is
+  retitled "Homework — the Five-Minute Examen".
+- **Leader notes rebuilt for every session from the decks' own speaker
+  notes** (new tool `tools/build-evening-leader-notes.py`). Each block now
+  leads with the number in the corner of the screen, so the notes and the
+  screen agree; the series title slide reads "Title" rather than "1".
+  Each block is colour-coded by its lead: container holder blue,
+  content presenter amber, both leaders purple, on-screen dividers grey.
+  The bar styles differ too, for black-and-white printing. The rebuild
+  also fixed Sessions 1 and 12, whose notes had skipped a slide added
+  later and run one number behind from there on.
+- **Master numbering.** The new slide adds one page after Session 6, so
+  Session 6 is now pages 81–98, and every later session moves up by one
+  (Session 7 starts at 99; the series ends at 322). The combined decks'
+  letter pages (C, P, G) are unchanged.
+
 ## v2.23 — October 3, 2026 — Sessions 3–4: the size of the room decides
 
 John’s word, confirming the opening forms. Sessions 1 and 2 are separate
