@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Fellowship of the Heart: a curriculum for formation in hearing and obeying God"
+authors:
+  - family-names: Tittle
+    given-names: John G.
+license: CC-BY-SA-4.0
+url: "https://fellowshipoftheheart.org"
+repository-code: "https://github.com/jgtittle-ministries/fellowship-of-the-heart-pilot-at-cca"
+keywords:
+  - spiritual formation
+  - hearing God
+  - curriculum
+  - action research
