@@ -133,7 +133,11 @@ In the off week, the leading team walks the coming session with John —
 about thirty minutes, by phone or at the dinner table when the schedule
 lets the lab happen face to face. The lab walks the session's issues,
 fragilities, and passes; names the watch-fors; and settles anything the
-run sheet leaves open. No teen leads a session cold.
+run sheet leaves open. No teen leads a session cold. The content presenter
+also practices delivering the teaching in the lab, to John if no one else,
+to get its rhythm before the evening; and a presenter who has not yet
+walked the session's practice as a participant walks it first, with a
+parent or a lead, before the evening.
 
 ## The two-week take-home
 

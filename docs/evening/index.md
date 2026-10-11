@@ -7,7 +7,7 @@ title: "FotH Evening"
 *Two-Week Rhythm · Teen-Led — Fellowship of the Heart around a family table.*
 
 *This page is kept current: it is updated after each evening's debrief.
-Last updated 8 October 2026.*
+Last updated 11 October 2026.*
 
 ---
 
@@ -28,7 +28,7 @@ with God*. We also answer, together, the three questions that went home
 on October 7.
 
 **Then:** Sessions 9–10, *The Garden of Your Heart*, combined in one
-evening, on a date set at the planning lab.
+evening, on **Monday, October 26**.
 
 **After that,** about every two weeks. Each date is set at the planning lab
 before it. Holiday breaks around Thanksgiving and Christmas are being decided.

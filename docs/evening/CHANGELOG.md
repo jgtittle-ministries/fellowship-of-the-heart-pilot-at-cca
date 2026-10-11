@@ -76,6 +76,38 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.29 — October 11, 2026 — the Sessions 7–8 planning lab: passages, the take-home, the clock, the next date
+
+From John's planning lab for Sessions 7–8 (11 October), the best lab so far:
+the content presenter had walked the material, run PROAPT on his own with
+the handout, and brought his questions and notes.
+
+- **A fresh passage for pass one.** Using Mark 1:14–20 for both the
+  room's walk-through and the first pass in pairs confused people. The Pair
+  Card now offers alternatives for pass one: Luke 5:1–11, John 1:35–42, or
+  Mark 10:46–52. The deck notes say the same.
+- **The take-home sheet.** The evening series has never used a Personal
+  Heart Journal, so the sheet now says: your own journal, using the second
+  page as your template. It says how to choose a passage: a paragraph, not
+  too big and not too little, because a paragraph is built around a single
+  central thought. And it repeats the Tell: do the practice, then tell
+  someone, and don't skip that step. Week two now says the same plainly.
+  Still one page.
+- **One sentence of preparation,** a template line that was never filled
+  in, now reads: finish this sentence in your journal, "The passage that
+  spoke to me most these two weeks was ___, and what I heard was ___."
+- **The clock belongs to the container holder** (John's word, 10 October).
+  There is no separate timekeeper; the Pair Card, the run sheet, the deck
+  notes and the session page now say the container holder keeps the clock
+  and calls the times. The leader notes were rebuilt from the deck.
+- **The planning lab** (handbook): the content presenter also practices
+  delivering the teaching in the lab, to John if no one else, to get its
+  rhythm; a presenter who has not yet walked the session's practice walks
+  it first, with a parent or a lead.
+- **Next date.** Sessions 9–10, *The Garden of Your Heart*, move to
+  **Monday, October 26**, at the families' request (front page and
+  sign-up sheet).
+
 ## v2.28 — October 8, 2026 — blessings spoken to the person, every evening; the lessons carried into the other forms
 
 - **Blessings, every evening.** The closing container's blessing step now

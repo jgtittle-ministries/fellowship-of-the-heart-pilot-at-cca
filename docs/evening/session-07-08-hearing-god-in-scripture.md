@@ -19,8 +19,7 @@ and one led. This room already knows each other, and its teens lead, so
 both reps fit inside one evening. The separate second session stands in
 reserve for a larger room of newer people.
 
-**Bring.** Your notebook or journal, your Personal Heart Journal if you
-have one, and your take-home from Session 6.
+**Bring.** Your notebook or journal, and your take-home from Session 6.
 
 ---
 
@@ -35,7 +34,7 @@ have one, and your take-home from Session 6.
 | 7:34–7:40 | Romans 10:17, the chain: Word, then hearing, then faith. | Content presenter |
 | 7:40–7:49 | PROAPT walked together on Mark 1:14–20, all six steps, teen-led. | Content presenter |
 | 7:49–7:50 | Bridge to the pairs: parent with your own teen by default; one Reader, one Listener. | Content presenter |
-| 7:50–8:13 | Two passes in pairs, about twelve minutes each: the Reader leads PROAPT, then switch at 8:02; the second pass on Mark 2:1–12. A named timekeeper calls the times. | Content presenter, container holder watching the room |
+| 7:50–8:13 | Two passes in pairs, about twelve minutes each: the Reader leads PROAPT, then switch at 8:02; the second pass on Mark 2:1–12. The container holder keeps the clock and calls the times. | Content presenter, container holder watching the room |
 | 8:13–8:19 | The Tell step: one specific sentence of what you heard, to your pair partner. A parent opens. | Content presenter |
 | 8:19–8:20 | Merge: one word each on what the practice was like (not what you heard; that is yours). | Container holder |
 | 8:20–8:24 | Homework commissioning: daily PROAPT, a time of day named aloud, check-in partners named. | Content presenter |
@@ -70,20 +69,24 @@ form of the table above.*
 "Lord, what are you up to today, and what do you want me to notice?"
 Evening, one journal line: "What did I notice today?"
 
-**1. The homework practice — week one.** PROAPT one short passage a day,
-five to ten minutes, at the time of day you named aloud. The Personal
-Heart Journal's Week 7–8 pages carry a daily template. Pick a passage path:
+**1. The homework practice — week one.** PROAPT one passage a day,
+five to ten minutes, at the time of day you named aloud, in your own
+journal, using the PROAPT handout as your template. Pick a passage path:
 Mark 1–2, a story a day; the Sermon on the Mount or Romans 8; or a
 Psalm-and-Gospel pairing.
+
+**Choosing your passage.** Not too big and not too little. For now, one paragraph in whatever version of Scripture you use is about right, because a paragraph is built around a single central thought.
+
+**The Tell.** Do the practice, then tell someone one sentence of what you heard. Don’t skip that step.
 
 **2. The end-of-week-one check-in.** At the end of week one, connect with
 the partner you named at commissioning and report how it's going against
 the practice. You are not grading each other; you are expecting each other.
 
-**3. The homework practice — week two.** Continue daily PROAPT, or deepen
-it; journal what happens.
+**3. The homework practice — week two.** Keep the same practice going: one
+paragraph a day, chosen the same way, ending with the Tell. Journal what happens.
 
-**4. One sentence of preparation.** Set at commissioning.
+**4. One sentence of preparation.** Before we meet, finish this sentence in your journal: “The passage that spoke to me most these two weeks was ________, and what I heard was ________.”
 
 *The chain only works if we work it. A missed day is never a failure — it
 is an invitation to return.*
@@ -107,8 +110,8 @@ combined evening form changes.
   first, with a moment attached to each, then the room. If an answer drifts
   toward a person, bring it back gently: the group, never any one person.
 - **Pairs, always,** even in a small room: the practice is one Reader and
-  one Listener, and a circle cannot give that. Name one timekeeper before
-  anyone moves (the container holder by default), who calls the switch at
+  one Listener, and a circle cannot give that. The container holder keeps
+  the clock and calls the switch at
   8:02, the Tell at 8:13, and back in the circle at 8:19. Each pair takes
   a printed Pair Card: the six steps, the passages, the times and the
   stuck-prompts, for when it is away from the screen.
