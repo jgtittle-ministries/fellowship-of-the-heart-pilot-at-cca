@@ -76,6 +76,43 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.30 — October 13, 2026 — Sessions 9–10: testing what you hear, before the garden
+
+John's word (13 October): the Garden evening now teaches how to test whether
+what you are hearing is God's word. It is taught as a practice, not a talk,
+and it lays the ground for Session 11, *Any Doubts?*. The material comes
+from the Four Connects deck (FotH, September 2025), "Hearing God — The How"
+and "Hearing God — What If?".
+
+- **When have you heard God?** A new slide after the check-in. A leader
+  tells first; everyone recalls one real time of hearing in their journal
+  (where, what was going on, what it looked, sounded or felt like, what they
+  did with it); then pairs, where the partner asks only "How did you know?"
+- **How did you know?** A second new slide. The room's own answers come
+  first; then they are lined up with the checks: Scripture first (the
+  court), sense, the Spirit's witness, peace, company, circumstances, and
+  over time, obedience. Tonight in the garden: notice, don't conclude.
+- **The garden is framed by it.** The bridge slide adds "notice, don't
+  conclude"; the homework adds two lines after each return: does it fit
+  Scripture? who could I tell?
+- **The clock** (John's call: trim the check-in and the framing). The
+  check-in is four minutes; the framing reads John 15:1–11 and Psalm 23:1–3;
+  the bridge, merge, commissioning, feedback round and close each give a
+  minute or two. The garden keeps its full 32 minutes. The deck notes' old
+  times, which no longer matched the run sheet, now match it.
+- **New card: How Did You Know?** (H9.4), one page beside the take-home:
+  the recall, the checks, and how to use them on a return. Synced to
+  Take-Home Sheets.
+- **The Session 9 take-home** is filled in: three returns with the two test
+  lines, week two keeps returning, and the preparation sentence points to
+  *Any Doubts?*: "One thing I'm not sure was God, or one question I'd bring
+  to Any Doubts?, is ___."
+- **Saved for Any Doubts?:** the same deck's "silent place" exercise
+  (remember where God seemed silent; bring in the time you heard; invite
+  Jesus in) is held for Session 11.
+- The deck now has 17 slides (G1–G17); the leader notes were rebuilt from
+  the deck. The run sheet stays on two pages.
+
 ## v2.29 — October 11, 2026 — the Sessions 7–8 planning lab: passages, the take-home, the clock, the next date
 
 From John's planning lab for Sessions 7–8 (11 October), the best lab so far:
