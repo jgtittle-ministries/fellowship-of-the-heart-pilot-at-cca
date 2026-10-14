@@ -76,6 +76,31 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.37 — October 13, 2026 — the school calendar stripped from the walk
+
+John's word (13 October): the school year's calendar comes out of Evenings
+9–14, as it came out of Evening 8; the same sweep caught five stray lines in
+Evenings 2, 4, 15 and 16.
+
+- **No Christmas, spring break, January or Wednesdays.** "First evenings
+  back after Christmas" is now "first evening back after the break"; "two
+  weeks without Wednesdays" is "time apart"; "when the Wednesdays stop" is
+  "when the evenings stop"; "back next Wednesday" is "back next evening";
+  "every other Tuesday" on the dividers is "every two weeks"; "a summer with
+  no Wednesday in it" is "a stretch with no evenings in it"; "fourteen
+  Wednesdays" is "fifteen evenings".
+- **The breaks themselves stay.** The design builds in two returns, Evening
+  9 (The Return) and Evening 14 (The Return II), with Evenings 11 and 13
+  preparing for the gap. Their leader notes now say: if no holiday break
+  falls there, the break is simply the two weeks since the last evening;
+  the evening form runs that test at every return. The real holiday dates
+  are still being decided (front page).
+- **Evening 13's precedent removed.** It said the room had already carried
+  one practice across Christmas; that line went out of Evening 8 in v2.33,
+  so Evening 13 now just names the move: one practice, carried on purpose
+  across the gap; The Return II will hear what held.
+- Leader notes rebuilt for the decks touched.
+
 ## v2.36 — October 13, 2026 — Evening 14: Ready, and Not Yet; and the invitation list
 
 - **Ready, and Not Yet** (John's word): a focused discussion right after
