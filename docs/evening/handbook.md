@@ -139,6 +139,13 @@ to get its rhythm before the evening; and a presenter who has not yet
 walked the session's practice as a participant walks it first, with a
 parent or a lead, before the evening.
 
+**Every lab also rehearses the cold start.** Each leading pair practices
+a 60–90 second *where we are* for someone walking in for the first time,
+from the middle of the series: what this group is, where tonight sits on
+the map, and what the guest will be asked to do (and not asked to do). A
+leader who can explain the evening from the middle can carry it anywhere.
+That is what keeps the work from depending on the people who started it.
+
 ## The two-week take-home
 
 Each session ends with a one-page take-home in four parts:
@@ -178,13 +185,36 @@ After the closing blessing, the evening turns to the leaders:
 This half hour is where the curriculum gets tested and the leaders get
 built. It is not an afterthought; it is half the point.
 
-## Newcomers and drop-ins
+## Newcomers, drop-ins, and guests
 
 Every session stands alone by design. The welcome block always includes
 two minutes of *where we are on the map*, so a first-time guest can
 usefully take part in any single evening. Bring a notebook or journal —
 there is reflective writing in every session — and clipboards with paper
 are on hand for anyone who needs them.
+
+**Guests are welcome, and invited by the group.** The teens are encouraged
+to invite their friends, and families to invite others. A guest is a
+guest: not a participant in the pilot in the way the founding families
+are, so no consent form and no special announcements. The adults in the
+room care for guests as they would in any Bible study.
+
+**Guests test the evening.** A guest arriving in the middle is the plainest
+test of the design's claim that every evening is whole on its own. The
+measure is light and belongs to the friendship: some days later, the
+person who invited the guest asks two questions.
+
+- *How did it land?*
+- *Are you doing anything with it?*
+
+Whatever the answers are, they come back to the leadership window as the
+inviter tells them, without names in any record, and they feed the
+five-question materials debrief: did that evening carry a newcomer?
+
+**Guests train the leaders.** Starting someone in the middle, and
+explaining enough of what is going on for them to take part, is part of
+what the teen leads are learning. It is rehearsed at every planning lab
+(the cold start, above).
 
 ## How the group is watched over
 

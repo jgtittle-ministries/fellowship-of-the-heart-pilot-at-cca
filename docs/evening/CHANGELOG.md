@@ -76,6 +76,24 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.38 — October 14, 2026 — guests, and the cold start
+
+John's word (14 October): it is time for the group to start inviting
+others, especially the teens inviting their friends. The handbook now says
+how guests fit, and why this matters for the long run.
+
+- **Guests are guests**, not participants in the pilot: no consent form, no
+  special announcements; the adults care for them as in any Bible study.
+- **Guests test the evening.** A guest arriving mid-series tests whether
+  each evening is whole on its own. The inviter follows up some days later:
+  *How did it land? Are you doing anything with it?* What comes back feeds
+  the materials debrief, without names in any record.
+- **Guests train the leaders.** Every planning lab now rehearses the cold
+  start: each leading pair practices a 60–90 second *where we are* for
+  someone walking in from the middle. A leader who can explain the evening
+  from the middle can carry it anywhere, which is what keeps the work from
+  depending on the people who started it.
+
 ## v2.37 — October 13, 2026 — the school calendar stripped from the walk
 
 John's word (13 October): the school year's calendar comes out of Evenings
