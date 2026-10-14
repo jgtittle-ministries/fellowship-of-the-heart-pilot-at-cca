@@ -76,6 +76,22 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.39 — October 14, 2026 — Evenings 1 and 2, two evenings
+
+John's word (14 October): Evenings 1 and 2 were walked together in August,
+but the next running takes them as two separate evenings.
+
+- **Two pages.** Evening 1, *Welcome to the Journey*, keeps its page and
+  address; Evening 2, *The Soil of Your Heart*, now has a page of its own.
+  Their content is unchanged. Each page notes that the founding group
+  walked both in one evening in August.
+- **The road.** The front page lists them as two rows, each marked as
+  walked together with the other. The site menu and the previous/next
+  links carry both.
+- The printed materials already stood apart (Evening 1 and Evening 2 each
+  have their own slides, run sheet, take-home and leader notes), so
+  nothing changed in OneDrive.
+
 ## v2.38 — October 14, 2026 — guests, and the cold start
 
 John's word (14 October): it is time for the group to start inviting

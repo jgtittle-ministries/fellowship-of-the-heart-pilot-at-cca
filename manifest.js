@@ -43,7 +43,12 @@ window.SERIES = [
       },
       {
         "path": "docs/evening/session-01-welcome-to-the-journey.md",
-        "title": "Evenings 1–2 — Welcome to the Journey · The Soil of Your Heart",
+        "title": "Evening 1 — Welcome to the Journey",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/session-02-the-soil-of-your-heart.md",
+        "title": "Evening 2 — The Soil of Your Heart",
         "edition": "v1"
       },
       {
@@ -895,9 +900,18 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Evenings 1–2 — Welcome to the Journey · The Soil of Your Heart",
+    "title": "Evening 1 — Welcome to the Journey",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/handbook.md",
+    "next": "docs/evening/session-02-the-soil-of-your-heart.md"
+  },
+  "docs/evening/session-02-the-soil-of-your-heart.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 2 — The Soil of Your Heart",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-01-welcome-to-the-journey.md",
     "next": "docs/evening/session-03-04-telling-your-story.md"
   },
   "docs/evening/session-03-04-telling-your-story.md": {
@@ -906,7 +920,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Evening 3 — Telling Your Story",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-01-welcome-to-the-journey.md",
+    "prev": "docs/evening/session-02-the-soil-of-your-heart.md",
     "next": "docs/evening/session-05-knowing-and-being-known.md"
   },
   "docs/evening/session-05-knowing-and-being-known.md": {

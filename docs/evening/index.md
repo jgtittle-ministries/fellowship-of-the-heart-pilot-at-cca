@@ -7,7 +7,7 @@ title: "FotH Evening"
 *Two-Week Rhythm · Teen-Led — Fellowship of the Heart around a family table.*
 
 *This page is kept current: it is updated after each evening's debrief.
-Last updated 13 October 2026. Evenings were numbered as Sessions until
+Last updated 14 October 2026. Evenings were numbered as Sessions until
 October; the series is now numbered Evening 1 to 17.*
 
 ---
@@ -16,7 +16,8 @@ October; the series is now numbered Evening 1 to 17.*
 
 **Walked so far.** The first movement, *Connect with Self and Others*, is
 complete. In August the founding group walked the opening evenings in two
-nights: Evenings 1 and 2 together, then Evening 3. The series' first
+nights: Evenings 1 and 2 together (from the next running on, they are two
+evenings), then Evening 3. The series' first
 evening, **Tuesday, September 15**, picked the thread up at
 [Evening 4 — Knowing and Being Known](session-05-knowing-and-being-known.md),
 and on **Wednesday, October 7**,
@@ -95,7 +96,8 @@ Started series.
 
 | Evening | When | Where it stands |
 |---|---|---|
-| 1–2 — [Welcome to the Journey · The Soil of Your Heart](session-01-welcome-to-the-journey.md), together | An evening in August | Walked |
+| 1 — [Welcome to the Journey](session-01-welcome-to-the-journey.md) | An evening in August | Walked, together with Evening 2 |
+| 2 — [The Soil of Your Heart](session-02-the-soil-of-your-heart.md) | An evening in August | Walked, together with Evening 1 |
 | 3 — [Telling Your Story](session-03-04-telling-your-story.md), I & II in one evening | An evening in August | Walked |
 | 4 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
 | 5 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | Wed Oct 7 | Walked: closed the first movement |
