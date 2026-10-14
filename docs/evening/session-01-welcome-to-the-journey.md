@@ -1,16 +1,16 @@
-# Sessions 1–2 — Welcome to the Journey · The Soil of Your Heart
+# Evenings 1–2 — Welcome to the Journey · The Soil of Your Heart
 
 *FotH Evening · the opening of the journey*
 
-**Two sessions, one opening.** Session 1 welcomes a room into the journey
-and opens the map; Session 2 turns the first box, *Connect with Self*, into
+**Two evenings, one opening.** Evening 1 welcomes a room into the journey
+and opens the map; Evening 2 turns the first box, *Connect with Self*, into
 honest self-knowledge. In August 2026 the founding group walked both in a
 single evening. A room with newcomers in it takes them as two evenings,
-Session 1 and then Session 2, as set out below.
+Evening 1 and then Evening 2, as set out below.
 
 ---
 
-## Session 1 — Welcome to the Journey
+## Evening 1 — Welcome to the Journey
 
 *Anchor: John 10:10b; Luke 23:39–43; Romans 10:9–10*
 
@@ -23,7 +23,7 @@ feels like.
 
 **Where we are on the map.** Every evening now opens on the Four Connects
 map — Self, Others, God, Mission — locating the session on the journey.
-Tonight the map itself is the teaching: Session 1 opens all four boxes, a
+Tonight the map itself is the teaching: Evening 1 opens all four boxes, a
 sequence rooted in the two great commandments (Matt. 22:37–40), and the
 kitchen-table block walks it in full.
 
@@ -126,17 +126,17 @@ anything longer flow into the 8:30 window.*
 
 ---
 
-## Session 2 — The Soil of Your Heart
+## Evening 2 — The Soil of Your Heart
 
 *Anchor: Mark 4:1–20; Romans 7:15–25*
 
-**This evening.** The seed stated at Session 1 is recalled, and the Heart
+**This evening.** The seed stated at Evening 1 is recalled, and the Heart
 Soil diagnostic from Mark 4, the parable of the Sower and Jesus' own
 explanation of it, becomes a frame for honest self-knowledge. Paul's own
 mixed ground (Romans 7) is the proof that an honest heart holds all four
 soils. This is where *Connect with Self* begins in earnest.
 
-**Bring.** Your notebook or journal, and your take-home from Session 1.
+**Bring.** Your notebook or journal, and your take-home from Evening 1.
 
 ### The evening
 

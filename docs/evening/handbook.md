@@ -62,21 +62,21 @@ default** — no room-splits, no parent/teen separation. **Condensations
 where completion doesn't need two evenings** — the second runnings fold
 into their firsts, each in the way its material asks:
 
-- **Sessions 3–4 combined**: everyone tells, one round, one evening
+- **Evening 3**: everyone tells, one round, one evening
   (proven in the prototype group's own running). The size of the room
   decides it: a room large enough, with parents and teens, takes the two
   sessions.
-- **Sessions 7–8 combined**: both PROAPT reps inside one evening — rep
-  one walked together, rep two in the pairs on Session 8's passage
+- **Evening 6**: both PROAPT reps inside one evening — rep
+  one walked together, rep two in the pairs on the Session 8 plan's passage
   (Mark 2:1–12).
-- **Sessions 9–10 combined**: one guided garden run, a senior reading
+- **Evening 7**: one guided garden run, a senior reading
   from the start; the week's three returns *are* the second visit,
   received at the next check-in.
 - **Session 14 absorbed**: its purpose — every willing teen a full
   leading rep — is the standing pattern of every current evening; any
   re-run middle can be called at a planning lab.
 - **Session 19 moved to the lab**: the mercy-card rehearsal happens at
-  the off-week planning lab with John; Session 20 teaches the cards to
+  the off-week planning lab with John; Evening 15 teaches the cards to
   the room as designed.
 
 And **the full form held in reserve** — the two-session runnings, the

@@ -1,4 +1,4 @@
-# Sessions 7–8 — Hearing God in Scripture
+# Evening 6 — Hearing God in Scripture
 
 *FotH Evening · PROAPT, I & II in one evening · Anchor: Romans 10:17; Mark 1:14–20; Mark 2:1–12*
 
@@ -11,7 +11,7 @@ reps.
 
 **Where we are on the map.** The evening opens on the Four Connects, and
 tonight opens the second quarter, *Connect with God*. It begins with the
-room reading itself: the three questions that went home from Session 6,
+room reading itself: the three questions that went home from Evening 5,
 answered together.
 
 **Why combined.** The school form gives PROAPT two sessions, one received
@@ -19,7 +19,7 @@ and one led. This room already knows each other, and its teens lead, so
 both reps fit inside one evening. The separate second session stands in
 reserve for a larger room of newer people.
 
-**Bring.** Your notebook or journal, and your take-home from Session 6.
+**Bring.** Your notebook or journal, and your take-home from Evening 5.
 
 ---
 
@@ -30,7 +30,7 @@ reserve for a larger room of newer people.
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00–7:08 | Welcome and centering; blessing; the map; container reminder; frame the turn toward God. | Container holder |
 | 7:08–7:25 | Check-in circle: two weeks of the Examen reported; week-one check-ins debriefed. A thin week is an honest answer. A parent starts the sharing. | Container holder |
-| 7:25–7:34 | The room reads itself: the three questions from Session 6, answered aloud about the group, never about any one person. The leader answers first. | Content presenter |
+| 7:25–7:34 | The room reads itself: the three questions from Evening 5, answered aloud about the group, never about any one person. The leader answers first. | Content presenter |
 | 7:34–7:40 | Romans 10:17, the chain: Word, then hearing, then faith. | Content presenter |
 | 7:40–7:49 | PROAPT walked together on Mark 1:14–20, all six steps, teen-led. | Content presenter |
 | 7:49–7:50 | Bridge to the pairs: parent with your own teen by default; one Reader, one Listener. | Content presenter |
@@ -102,7 +102,7 @@ combined evening form changes.
 
 - **Both reps in one evening.** The room's teens lead the walk-through
   together; the second running becomes pass two in the pairs, on
-  Session 8's passage. Say the reps aloud: pass one is rep one, pass two is
+  the Session 8 plan's passage. Say the reps aloud: pass one is rep one, pass two is
   rep two. A passage speaks differently on a second hearing.
 - **Teach the order before the pens move,** and slow down at the line
   between the data and the interpretation. That line is the lesson.

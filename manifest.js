@@ -43,27 +43,27 @@ window.SERIES = [
       },
       {
         "path": "docs/evening/session-01-welcome-to-the-journey.md",
-        "title": "Sessions 1–2 — Welcome to the Journey · The Soil of Your Heart",
+        "title": "Evenings 1–2 — Welcome to the Journey · The Soil of Your Heart",
         "edition": "v1"
       },
       {
         "path": "docs/evening/session-03-04-telling-your-story.md",
-        "title": "Sessions 3–4 — Telling Your Story",
+        "title": "Evening 3 — Telling Your Story",
         "edition": "v1"
       },
       {
         "path": "docs/evening/session-05-knowing-and-being-known.md",
-        "title": "Session 5 — Knowing and Being Known",
+        "title": "Evening 4 — Knowing and Being Known",
         "edition": "v1"
       },
       {
         "path": "docs/evening/session-06-safe-and-brave-together.md",
-        "title": "Session 6 — Safe and Brave Together",
+        "title": "Evening 5 — Safe and Brave Together",
         "edition": "v1"
       },
       {
         "path": "docs/evening/session-07-08-hearing-god-in-scripture.md",
-        "title": "Sessions 7–8 — Hearing God in Scripture",
+        "title": "Evening 6 — Hearing God in Scripture",
         "edition": "v1"
       },
       {
@@ -895,7 +895,7 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Sessions 1–2 — Welcome to the Journey · The Soil of Your Heart",
+    "title": "Evenings 1–2 — Welcome to the Journey · The Soil of Your Heart",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/handbook.md",
     "next": "docs/evening/session-03-04-telling-your-story.md"
@@ -904,7 +904,7 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Sessions 3–4 — Telling Your Story",
+    "title": "Evening 3 — Telling Your Story",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-01-welcome-to-the-journey.md",
     "next": "docs/evening/session-05-knowing-and-being-known.md"
@@ -913,7 +913,7 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Session 5 — Knowing and Being Known",
+    "title": "Evening 4 — Knowing and Being Known",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-03-04-telling-your-story.md",
     "next": "docs/evening/session-06-safe-and-brave-together.md"
@@ -922,7 +922,7 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Session 6 — Safe and Brave Together",
+    "title": "Evening 5 — Safe and Brave Together",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-05-knowing-and-being-known.md",
     "next": "docs/evening/session-07-08-hearing-god-in-scripture.md"
@@ -931,7 +931,7 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Sessions 7–8 — Hearing God in Scripture",
+    "title": "Evening 6 — Hearing God in Scripture",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-06-safe-and-brave-together.md",
     "next": "docs/evening/CHANGELOG.md"

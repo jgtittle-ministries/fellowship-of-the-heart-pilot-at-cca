@@ -1,4 +1,4 @@
-# Sessions 3–4 — Telling Your Story
+# Evening 3 — Telling Your Story
 
 *FotH Evening · I & II in one evening · Anchor: Psalm 139:23–24*
 
@@ -17,7 +17,7 @@ group walked it in August 2026 and the form set out below. A room large
 enough, with parents and teens, takes the school form's two sessions: the
 parents' night, then the teens' night.
 
-**Bring.** Your notebook or journal, and your take-home from Sessions 1–2.
+**Bring.** Your notebook or journal, and your take-home from Evenings 1–2.
 
 ---
 

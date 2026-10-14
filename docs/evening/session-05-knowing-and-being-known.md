@@ -1,4 +1,4 @@
-# Session 5 — Knowing and Being Known
+# Evening 4 — Knowing and Being Known
 
 *FotH Evening · Anchor: Ecclesiastes 4:9–12*
 
@@ -41,7 +41,7 @@ this follows an ordinary cycle.
 **The standing practice — every day, both weeks.** Morning, five minutes:
 "Lord, what are you up to today, and what do you want me to notice?"
 Evening, one journal line: "What did I notice today?" These two questions
-run in the background of every session's homework, from Session 1 to the
+run in the background of every session's homework, from Evening 1 to the
 Sending; the printed sheet's two week-grids of day boxes sit directly under
 them and track this practice.
 

@@ -1,4 +1,4 @@
-# Session 6 — Safe and Brave Together
+# Evening 5 — Safe and Brave Together
 
 *FotH Evening · Anchor: James 5:16 and 1 John 1:9*
 
@@ -13,7 +13,7 @@ Self, Others, God, Mission — and tonight closes the first quarter, *Connect
 with Self and Others*. Three questions about the group go home tonight and
 come back to be answered together when we next gather.
 
-**Bring.** Your notebook or journal, and your take-home from Session 5.
+**Bring.** Your notebook or journal, and your take-home from Evening 4.
 
 ---
 
