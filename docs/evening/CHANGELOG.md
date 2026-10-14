@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.35 — October 13, 2026 — Evening 14: the last stretch, and its sentence
+
+- **The frame sentence** (John's word): "From here, the evenings stop
+  holding you, and you start holding the practice." It replaces the school
+  design's "the year now begins to hand itself over": the teens have led
+  from the first night, so what steps back now is the structure. The line
+  above it reads "Evening by evening, the structure steps back, and the
+  practice stays with you." The title slide says "from here the practice is
+  yours to hold".
+- **The map of the last stretch** is three evenings, not four: Evening 15
+  (the Companions-in-Formation teach the two mercy cards; the Long Walk),
+  Evening 16 (Sending and Blessing), Evening 17 (the Commissioning). The
+  school series' Week 19 is gone from the map.
+- **The sending lines:** "Two evenings to the sending" and "See you in two
+  weeks — Evening 15. The teens have the cards."
+- **Evening 15's planning lab** carries the mercy-card rehearsal as its set
+  piece (John's word: the lab is enough, done well): each
+  Companion-in-Formation teaches their card in full to John and their named
+  catch, with the freeze-recovery practised once. In the deck notes and the
+  run sheet.
+
 ## v2.34 — October 13, 2026 — the walk renumbered: Evening 1 to 17
 
 John's word (13 October): the evening series is now numbered by evening,
