@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.36 — October 13, 2026 — Evening 14: Ready, and Not Yet; and the invitation list
+
+- **Ready, and Not Yet** (John's word): a focused discussion right after
+  the map and its sentence, everyone answering, parents first. Write three
+  questions (3 minutes): what can I do now, on my own, that I couldn't when
+  we started? where do I still need someone beside me — a parent, an adult,
+  this group? what would help me move one "not yet" toward ready before we
+  are sent? Then pairs within families (6 minutes): the parent answers
+  first, then names one place they see their teen ready and one place they
+  still want to walk beside them. Then a room round (3 minutes): one
+  "ready" each; the "not yets" stay in the pair. It grows from the Session 6
+  leader questions ("Where do you still need an adult?"). The map block is
+  now seven minutes.
+- **The invitation list** (John's word): the homework now starts a list of
+  who each family would invite to the follow-up series, names and not
+  categories, prayed over before anyone is asked. The preparation sentence:
+  "Two people I'd invite to the follow-up series are ___ and ___, because
+  ___." Names stay in journals; the team keeps no list.
+- Evening 14 has one more slide, so the master pages from Evening 14 on
+  moved up one (324 pages); leader notes rebuilt.
+
 ## v2.35 — October 13, 2026 — Evening 14: the last stretch, and its sentence
 
 - **The frame sentence** (John's word): "From here, the evenings stop
