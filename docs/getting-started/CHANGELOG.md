@@ -11,6 +11,18 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# 17 October 2026 — If someone reports oppression from outside
+
+A new example in Section 6 (John's word), written with the FotH Evening's guests in mind and
+governing both forms: what to do if a teen, parent or guest reports terrors at night, a sense of an
+evil presence, or fear of a place. Thank them and do not explore it in the room; pray with them
+afterward in Jesus' name, two adults with any teen; bring the parent in the same day; remember that
+not every bad night is an attack, and refer if it persists; voices urging self-harm go to the crisis
+protocol, and anything more than oppression to the pastoral covering. *What we hold back*, item 4,
+now says plainly that praying the ordinary protection with a frightened person belongs here. A five-line
+version joins the quick-reference cards at the back of the handbook. The Adult FotH handbook carries the
+same example, item 4 change and card, read through the Adult Register Key.
+
 # 8 October 2026 — Carried over from the Evening: Weeks 5–8
 
 Five changes carried over from the FotH Evening's debriefs of Sessions 5–8 (John's word), each fitted

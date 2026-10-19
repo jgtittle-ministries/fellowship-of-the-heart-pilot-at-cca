@@ -299,7 +299,7 @@ The Getting Started series intentionally does not include:
 1. Deep wound work or false-self exploration in their adult IJH form. The Eldredge masculine-heart material is foundational in Volume 2 but is written for adult men. We adapt the universal scriptural ground (Ephesians 2:10, Psalm 139) and pull back from depth that does not belong at this age.
 2. TPM-style cognitive blockage work in the room. If a teen surfaces a lie they are believing, we acknowledge, affirm, pray briefly, and follow up offline with parent and qualified care.
 3. Anger-knot or grief-knot processing in the group. Same protocol as above.
-4. Extended fasting, deliverance ministry, or similar high-intensity practices. (This means deliverance *ministry* — casting-out work — which is not for this setting. The believer’s ordinary watchfulness against the enemy’s lies, and the authority every Christian has in Christ, is a different thing and does belong in formation; we name the enemy plainly where Scripture does, without drama.)
+4. Extended fasting, deliverance ministry, or similar high-intensity practices. (This means deliverance *ministry* — casting-out work — which is not for this setting. The believer’s ordinary watchfulness against the enemy’s lies, and the authority every Christian has in Christ, is a different thing and does belong in formation; we name the enemy plainly where Scripture does, without drama. Praying the ordinary protection in Jesus' name with someone who is frightened is part of that watchfulness and belongs here; see *If someone reports oppression from outside* in Section 6.)
 5. Speculation about contested charismatic claims. We teach Romans 10:17 and the simple practice of hearing God in scripture; we do not litigate cessationism in either direction.
 
 ## A note on framing
@@ -475,6 +475,18 @@ Examples: a teen who shares a deep loss; a parent who breaks down naming a marri
 2. Do not try to process it in the room. Acknowledge, bless, move on.
 3. After session: the relevant Companion follows up individually (two adults present for any teen — never alone) and, if needed, refers to pastoral or clinical care.
 4. If the disclosure has significance for the parent-teen relationship, work with the family on how and when to bring the parent in. Generally, do this within a week.
+
+### If someone reports oppression from outside
+
+Examples: a teen who says they have been having terrors at night; a parent or guest who describes a sense of an evil presence in their room or home; someone who is afraid of a particular place.
+
+Take it seriously. Scripture is plain that the enemy is real (1 Pet. 5:8), and many ordinary believers have known this kind of pressure. Take it calmly, too. The protection is the ordinary one every believer has in Christ, not a special technique.
+
+1. **In the room: thank them, and do not explore it.** *“Thank you for telling us. We'll pray about that with you after.”* No questions about details, and no guesses about what it is. It is not a teaching moment for the circle.
+2. **After session: pray with them.** Two adults present for any teen, never alone. Pray simply, in Jesus' name, for His protection and peace. The Lord's Prayer (*“deliver us from evil”*) and Psalm 4:8 (*“In peace I will both lie down and sleep; for you alone, O LORD, make me dwell in safety”*) are enough. No rituals, no dramatic performance, no objects handed out.
+3. **Bring the parent in** for any teen, the same day if possible. The parent knows what the night has been like at home, and the parent's prayer at bedtime matters more than ours.
+4. **Remember that not every bad night is an attack.** Night terrors and fear also come from sleep problems, anxiety, grief, trauma, what someone has been watching, or medication. Never tell someone they are oppressed. If the trouble persists, refer to pastoral care, and to clinical care where sleep or anxiety may be involved.
+5. **Know the line.** If what they describe includes voices urging self-harm, or a plan to hurt themselves or anyone else, it is a crisis, not this protocol: the crisis response protocol above runs as written. If they describe involvement with the occult, or something that looks like more than oppression, it goes to the pastoral covering. Casting-out work is not done in this setting (see *What we hold back*, item 4).
 
 ### If a practice overwhelms someone — the Settle Protocol
 
@@ -1207,6 +1219,14 @@ Print on cardstock and laminate. Every Companion carries one in their session ba
 3. Follow up individually (two adults present, never alone) within 48 hours.
 4. Refer out as needed.
 5. Loop in parent within a week unless safety concerns dictate otherwise.
+
+## If someone reports oppression from outside (Handbook §6)
+
+1. Thank them: “Thank you for telling us. We’ll pray about that with you after.” Do not explore it in the room.
+2. Afterward, pray with them in Jesus’ name for protection and peace. Two adults present, never one alone. No rituals.
+3. Bring the parent in the same day.
+4. Not every bad night is an attack. Never tell someone they are oppressed. Refer to pastoral or clinical care if it persists.
+5. Voices urging self-harm, or a plan to hurt anyone: run the crisis protocol. The occult, or anything more: the pastoral covering.
 
 ## If a practice overwhelms someone — the Settle Protocol (Handbook §6)
 

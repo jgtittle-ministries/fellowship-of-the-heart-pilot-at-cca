@@ -76,6 +76,28 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.40 — October 17, 2026 — if someone reports oppression from outside
+
+John's word (17 October), alongside his testimony in IJH Volume 2,
+Exploration 2B: the evenings now welcome guests, so leaders need to know
+what to do if anyone says they have been troubled at night or by a sense
+of evil.
+
+- **A new safety example** in the Companion Handbook's Section 6, *If
+  someone reports oppression from outside*: thank them and do not explore
+  it in the room; pray with them afterward in Jesus' name, two adults with
+  any teen; bring the parent in; remember that not every bad night is an
+  attack (sleep, anxiety, grief, trauma, media, medication), and refer if
+  it persists; voices urging self-harm go straight to the crisis protocol.
+- **What we hold back, item 4,** now says plainly that praying the ordinary
+  protection with a frightened person belongs here. Casting-out work still
+  does not.
+- **The Evening Handbook** points to the new example from its backstop
+  section, and says the protocols cover guests too.
+- **The quick-reference cards** at the back of the Companion Handbook
+  carry a five-line version, and **the Adult FotH handbook** carries the
+  same example and item 4 change, read through the Adult Register Key.
+
 ## v2.39 — October 14, 2026 — Evenings 1 and 2, two evenings
 
 John's word (14 October): Evenings 1 and 2 were walked together in August,

@@ -125,7 +125,11 @@ every evening, along with the pastoral covering the group walks under.
 
 The full safety, confidentiality, and crisis protocols are in the
 [Companion Handbook](../getting-started/handbook.md) and they govern here
-unchanged.
+unchanged. They cover guests too. If anyone, teen, parent or guest, says
+they have been troubled at night or by a sense of evil, the backstop adult
+follows [If someone reports oppression from outside](../getting-started/handbook.md#if-someone-reports-oppression-from-outside):
+pray with them in Jesus' name afterward, bring the parent in, and never
+make it a moment in the circle.
 
 ## The planning lab
 
