@@ -76,6 +76,21 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.41 — October 19, 2026 — Evening 6 on Monday, October 26
+
+John's word (19 October): the rescheduled Evening 6, *Hearing God in
+Scripture*, takes the Monday, October 26 date. Evening 7, *The Garden of
+Your Heart*, moves to the next evening after it.
+
+- **The front page.** Evening 6 is the next evening, on Monday, October 26,
+  first set for Tuesday, October 13. Evening 7's date is to come. The road
+  table carries both.
+- **The teen lead sign-up** (repo notes and the Word sheet in OneDrive) now
+  shows what was walked and what is set: Evening 4 on September 15,
+  Evening 5 on October 7, Evening 6 on October 26, then Evenings 7 and 8
+  with dates to come. Later dates are set at the planning lab, with the
+  families; the holiday breaks are still being decided.
+
 ## v2.40 — October 17, 2026 — if someone reports oppression from outside
 
 John's word (17 October), alongside his testimony in IJH Volume 2,
