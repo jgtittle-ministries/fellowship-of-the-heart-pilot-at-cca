@@ -107,6 +107,12 @@ Why this question is here: Week 1 states the seed plainly (and the Week 1 journa
 
 Now the Companion names what Getting Started is, in a specific architectural way. Three things to name; do not add. Do not improvise outside this list. The architecture is what makes the cohort the cohort; vague descriptions produce vague applicants.
 
+## Before the three things: what we expect
+
+Say this first, in your own words or these, so the family hears what we expect before they hear how we work. Say it again at Family Orientation Night, in the "what to expect" segment.
+
+**What we expect to happen — and why.** Before anything else, you should know what this fellowship actually believes about these evenings, because everything else in this conversation follows from it. We hold one expectation, and it comes from the work this fellowship is built on: if you come wanting to hear and obey Christ, and you are willing to bring what blocks you into the light, with Scripture open on the table, a few people beside you who know your name, and trusted eyes over this group who can see how it is going — then the door will be open for the Holy Spirit to do the clearing, as He wills, and the way God's love works, which the Scriptures have described all along, will start to work in your family the way it was written, setting you on an intentional path to grow up into Christ, into hearing and obeying Him in everything. Notice what that sentence does not say. It does not say the Companions change anyone. It does not say the exercises change anyone. Nothing in this room is a lever. Everything in this room only opens a door, and the Spirit walks through it, or does not, in His time. If that expectation is one your family can share — even as a hope, even with honest doubts — this series is for you. If it is not, the most faithful thing you can do is say so tonight, and no one will think less of you for it.
+
 ## The three things to name
 
 ## ONE — The four Connects as the spine.

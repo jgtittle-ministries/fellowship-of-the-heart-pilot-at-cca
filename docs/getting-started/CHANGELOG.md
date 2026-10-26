@@ -11,6 +11,13 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# 26 October 2026 — The one expectation, named
+
+The theory of action that the IJH Council accepted on 25 October as a defining foundational thought now has two homes here, as drafted for the Council's counsel.
+
+- **Precohort Discernment Guide, Block 2.** A new opening, *Before the three things: what we expect*, said before the three things are named, and again at Family Orientation Night: what we expect to happen, and why, in kitchen-table words. Nothing in the room is a lever; everything only opens a door.
+- **Getting Started Handbook, Section 1.** A new subsection after *The big idea*, *Why the meeting has this shape*, maps each clause of the expectation to the part of the meeting that carries it, so a future team can see which clause it would remove by dropping a piece.
+
 # 17 October 2026 — If someone reports oppression from outside
 
 A new example in Section 6 (John's word), written with the FotH Evening's guests in mind and

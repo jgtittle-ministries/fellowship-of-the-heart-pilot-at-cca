@@ -74,6 +74,20 @@ The Four Connects are not four topics on a syllabus. They are a sequence with di
 
 These two commandments are the source of the four Connects. Loving God with all the heart, soul, and mind requires honest knowledge of that heart, soul, and mind (Self). Loving neighbor as self requires being known and knowing (Others). Both rest on connection with God Himself, and both bear fruit in the works God has prepared for us to walk into (Mission).
 
+## Why the meeting has this shape
+
+The series rests on one expectation, stated in the work this fellowship comes from: if you want to hear and obey Christ, and you bring what blocks you into the light, with the Word open, a few brothers or sisters beside you, and someone over you who can see your life, the door will be open for the Holy Spirit to clear the way as he wills, and the laws written down in Volume 1 will start to work in you the way they were written such that you are on an intentional path to grow up into Christ, into hearing and obeying Christ in everything. Every fixed element of the session is one clause of that sentence, built into furniture:
+
+- *You want to hear and obey Christ* is the *Intentional* condition — the spoken commitment at the open, and the permission conversation before any instrument. Consent is not paperwork here; it is the first clause of the expectation.
+- *You bring what blocks you into the light* is the shared circle and the graduated year — Week 1 asks for one true sentence, and the container grows safe before it is asked to be brave. *Safe*, *Present*, and *Clear* exist so that bringing things into the light is answerable.
+- *With the Word open* is the hearing practices — Heart Bible Study, PROAPT, the passage on the table every week. The Word is not curriculum decoration; it is the instrument the Spirit has said He uses.
+- *A few brothers or sisters beside you* is the cohort itself — families together, clusters small enough that every person is known by name and missed by name.
+- *Someone over you who can see your life* is the Companion team, the Thursday Call, the covering in Section 3, and the door out with a name on it. No one in this work leads uncovered, and no participant walks unwatched.
+- *The door will be open for the Spirit to clear the way as he wills* is the reason every practice carries a pass and nothing is ever forced. The Companions plant and water. God gives the growth (1 Cor. 3:6–7). The moment any element of this series starts to feel like a lever, set it down and come back to Him.
+- *The laws will start to work* is what the three vital signs watch for and what the outcomes in Section 1 describe — not compliance with a program, but the quiet evidence that something upstream has been unblocked.
+
+Hold this page loosely and the schedule tightly. The blocks can move; the clauses cannot, because the expectation is only as good as its conditions.
+
 ## The year itself is the titration
 
 One more thing the sequence is: graduated. The year is built the way trust is built. Week 1 asks for nothing braver than your name and one true sentence; every week after asks slightly more than the last, at a pace a person can actually keep. Practices are introduced before they are leaned on; the room grows safe before it is asked to be brave; the deepest nights — the stories, the confession, the garden — come only after the container has held for weeks. This is deliberate design, not drift: depth is never demanded, it is invited, in an order that makes the invitation answerable. And unlike a workbook worked alone, the gradient here is held — by a Companion team that can see when a week asked too much, by practices that always carry a pass, and by a door out with a name on it.
