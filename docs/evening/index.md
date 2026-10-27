@@ -27,7 +27,7 @@ October 26**, [Evening 6 — Hearing God in Scripture](session-07-08-hearing-god
 opened the second movement, *Connect with God*.
 
 **Next evening:** Evening 7, *The Garden of Your Heart*
-([lesson plan](../getting-started/week-09-garden.md)), on **Monday,
+([lesson plan](../getting-started/week-09-garden.md)), on **Tuesday,
 November 10**.
 
 **Then:** Evening 8, *Any Doubts?*, at the next evening after that; the
@@ -103,7 +103,7 @@ Started series.
 | 4 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
 | 5 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | Wed Oct 7 | Walked: closed the first movement |
 | 6 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II in one evening | Mon Oct 26 (moved from Tue Oct 13) | Walked: opened the second movement |
-| 7 — The Garden of Your Heart ([lesson plan](../getting-started/week-09-garden.md)) | Mon Nov 10 | **Next** |
+| 7 — The Garden of Your Heart ([lesson plan](../getting-started/week-09-garden.md)) | Tue Nov 10 | **Next** |
 | 8 — [Any Doubts?](../getting-started/week-11-doubts.md) | Date to come | Then |
 | 9 — [The Return](../getting-started/week-12-return.md) | | Ahead |
 | 10 — [What Was Prepared for You](../getting-started/week-13-mission.md) | | Ahead |

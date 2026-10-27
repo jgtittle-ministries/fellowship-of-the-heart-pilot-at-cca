@@ -76,18 +76,22 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
-## v2.42 — October 27, 2026 — Evening 6 walked; Evening 7 on Monday, November 10
+## v2.42 — October 27, 2026 — Evening 6 walked; Evening 7 on Tuesday, November 10
 
 John's word (27 October): Evening 6, *Hearing God in Scripture*, was walked
 on Monday, October 26, and opened the second movement. Evening 7, *The
-Garden of Your Heart*, is on Monday, November 10.
+Garden of Your Heart*, is on Tuesday, November 10. The evenings are back on
+Tuesdays.
 
 - **The front page.** Evening 6 is marked walked. Evening 7 is the next
-  evening, on Monday, November 10. Evening 8, *Any Doubts?*, follows, with
+  evening, on Tuesday, November 10. Evening 8, *Any Doubts?*, follows, with
   its date to come. The road table carries all three.
 - **The teen lead sign-up** (repo notes and the Word sheet in OneDrive)
-  marks Evening 6 walked and sets Evening 7 on November 10. Later dates are
-  still set at the planning lab, with the families.
+  marks Evening 6 walked and sets Evening 7 on Tuesday, November 10. The
+  evenings are on Tuesday again. Later dates are still set at the planning
+  lab, with the families.
+- **Corrected the same day.** This entry first said Monday, November 10.
+  November 10 is a Tuesday.
 
 ## v2.41 — October 19, 2026 — Evening 6 on Monday, October 26
 
