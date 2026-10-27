@@ -76,6 +76,26 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.43 — October 27, 2026 — the Tell step, clarified (Evening 6 debrief)
+
+John's word (27 October): the first beat of the Tell step (P13) read
+"Re-form pairs out of pairs," and it confused the room. It came from the
+CCA lesson plans, where pairs re-form into a family cluster. In the evening,
+the pair already is the family pair, so there is nothing to re-form.
+
+- **The Tell step (P13), deck and leader notes.** Beat 1 now reads: stay in
+  the pair you worked in; the Tell happens where you heard, before anyone
+  moves. The slide says "Still in your family pair." A new line covers a
+  short clock: if only one of you walked the six steps, that one still
+  tells, and the Listener tells one thing they noticed while listening.
+- **What happened on 26 October** is now in the Evening 6 leader notes. The
+  pairs worked against the clock. Most pairs both walked the steps; at least
+  one pair finished only one. Back in the circle, everyone had heard
+  something of their own, and the excitement in the room was plain: a
+  high-impact practice, worth guarding its time.
+- The spare two-session form (Session 7) gets the same beat and short-clock
+  line. The CCA lesson plans keep their wording, which fits their rooms.
+
 ## v2.42 — October 27, 2026 — Evening 6 walked; Evening 7 on Tuesday, November 10
 
 John's word (27 October): Evening 6, *Hearing God in Scripture*, was walked
