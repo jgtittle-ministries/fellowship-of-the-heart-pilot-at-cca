@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.44 — October 27, 2026 — the merge shares what was heard (Evening 6 debrief)
+
+John's word (27 October): the merge after the pairs now invites each person
+to say, briefly, what they heard. It used to ask for one word on what the
+practice was like, "not what you heard (that is yours)." On 26 October the
+room came alive when it heard that everyone had heard something of their
+own, so that is now the merge.
+
+- **The merge (P14), deck and leader notes.** Back in the circle, each of
+  us says briefly what we heard tonight: the one sentence told in the pair.
+  A parent begins; anyone may pass; it is received with "We hear that," with
+  no comment.
+- **The clock.** The Tell in the pair needs only one sentence each, so it
+  gives three minutes to the merge: the Tell is 8:13–8:16, back in the circle
+  at 8:16, and the merge is 8:16–8:20. Everything after 8:20 is unchanged.
+  The new times are in the decks, the leader notes, both run sheets, the
+  Pair Card, and the [Evening 6 page](session-07-08-hearing-god-in-scripture.md).
+- The spare two-session form (Session 7) gets the same merge and times. The
+  Tell step's new lines from v2.43 were shortened to keep the Evening 6
+  leader notes on four pages.
+
 ## v2.43 — October 27, 2026 — the Tell step, clarified (Evening 6 debrief)
 
 John's word (27 October): the first beat of the Tell step (P13) read
