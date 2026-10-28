@@ -91,6 +91,12 @@ were too brief for people to remember what the practices were.
   carries the same three parts for each practice.
 - **The decks' notes** for the long-gap slide (Evening 7) and the homework
   slide (Evening 8) say the same; leader notes rebuilt.
+- **Evening 5's entry** now carries the place, the pattern and the pull
+  (John's word: a powerful shape to help decide). As Evening 5 teaches it,
+  the place is named, and the pattern and the pull are each person's to
+  add: "one place to walk in greater honesty and, if we chose, its pattern
+  and its pull, never the details." The [Evening 5 page](session-06-safe-and-brave-together.md)
+  says the same in its opening and its small-group row.
 
 ## v2.50 — October 28, 2026 — the Pulse dropped from the evening form
 

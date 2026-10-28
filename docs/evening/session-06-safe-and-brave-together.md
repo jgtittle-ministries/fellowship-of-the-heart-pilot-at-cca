@@ -3,9 +3,9 @@
 *FotH Evening · Anchor: James 5:16 and 1 John 1:9*
 
 **This evening.** Confession and restoration as a community practice.
-Each of us names one place where we want to walk in greater honesty — *the
-place, not the details* — and the circle speaks a blessing of restoration
-over it. We are not probing for sins; we are practicing the architecture of
+Each of us names one place where we want to walk in greater honesty and,
+if we choose, its pattern and its pull — *the place, the pattern, the pull,
+not the details* — and the circle speaks a blessing of restoration over it. We are not probing for sins; we are practicing the architecture of
 confession, so that the room learns it is safe to be honest in.
 
 **Where we are on the map.** The evening opens on the Four Connects —
@@ -28,7 +28,7 @@ come back to be answered together when we next gather.
 | 7:31–7:37 | The place, the pattern, the pull: what each of us names, and what is never named here. | Content presenter |
 | 7:37–7:42 | The practice shown first: a leader names one place, and a pre-arranged partner speaks the blessing back, so the room sees its shape before trying it. | Content presenter |
 | 7:42–7:43 | Bridge to the groups. | Content presenter |
-| 7:43–8:16 | Confession and restoration in small groups, by gender by default: each names one place, the place and not the details; the group speaks a blessing of restoration. | Content presenter, container holder watching the room |
+| 7:43–8:16 | Confession and restoration in small groups, by gender by default: each names one place, with its pattern and pull if they choose, never the details; the group speaks a blessing of restoration. | Content presenter, container holder watching the room |
 | 8:16–8:20 | Merge and shared blessing. | Container holder leads; content presenter supporting |
 | 8:20–8:24 | Homework commissioning: the Five-Minute Examen; check-in partners named aloud; the three questions sent home. | Content presenter |
 | 8:24–8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
