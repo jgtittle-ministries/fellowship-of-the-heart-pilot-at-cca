@@ -15,13 +15,15 @@ honest doubts (Evening 8).
 
 **Why one run.** The school form gives the garden two sessions, one led by
 the team and one by a senior. Here a senior reads from the start, and the
-three returns to the garden in the first week are the second visit. Most
-of us only get all the way in on a return.
+returns to the garden at home are the second visit. Most of us only get
+all the way in on a return.
 
 **The long gap ahead.** There is no evening over Thanksgiving week, so the
-next evening is about four weeks away, on Tuesday, December 8. Tonight
-closes with a send-off: each of us chooses one practice to carry across
-the gap on purpose. On December 8 we open by asking how it went.
+next evening is about four weeks away, on Tuesday, December 8. The first
+two weeks run as always: the garden, with a check-in after week one. Weeks
+three and four are yours to choose: each week, pick one of the practices
+we have walked so far, whichever you would really like to do. On December
+8 we open by asking which ones you chose, and how it went.
 
 **Bring.** Your notebook or journal, and your one sentence from the
 Evening 6 take-home.
@@ -41,34 +43,34 @@ Evening 6 take-home.
 | 7:51–7:56 | Silent journaling: what did you notice? | Container holder |
 | 7:56–8:08 | Sharing by invitation, in the one circle. A parent shares first (arranged beforehand). Silence is a complete answer. | Container holder |
 | 8:08–8:12 | One-word landing, optional; a parent begins. Received without comment. | Container holder |
-| 8:12–8:20 | Take-home and the send-off: three returns to the garden in week one; then one practice chosen for the long gap and written in the journal (the practice, when, where); the returning rule said aloud; who to reach over the gap. The leader names theirs first. | Content presenter |
+| 8:12–8:20 | Take-home and the send-off: weeks one and two, the garden, with check-in partners named; weeks three and four, your choice from the practices so far (walk the list once, aloud); the returning rule said aloud; who to reach over the gap. | Content presenter |
 | 8:20–8:25 | Leader Feedback Round, both leaders. May be dropped if the room needs quiet. | Both leaders |
 | 8:25–8:30 | Closing container reaffirmed; Aaronic blessing; "See you on December 8." | Container holder |
 | 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The send-off — one practice across the gap
+## The practices so far — choose from these
 
-Four weeks is long enough for practices to fade without anyone deciding to
-stop. So tonight we decide on purpose.
+Every practice we have walked since August. In weeks three and four, choose
+one for each week: a different one each week. Choose the one you would
+really like to do, not the one you think you should.
 
-1. **Choose one.** Look at what you already carry — the morning question,
-   the evening line, a PROAPT paragraph, a return to the garden — and
-   choose **one** to keep across the gap. Just one. The rest may rest;
-   that is sabbath, not failure.
-2. **Write it down.** In your journal, tonight: the practice, when, and
-   where.
-3. **Hear the returning rule.** If it slips, begin again on the next
-   available day. No starting over, and no counting streaks.
-4. **Know who to reach.** If the gap brings up anything heavy, you know
-   who to call, and every family leaves knowing it.
+| Practice | From | What you do |
+|---|---|---|
+| **The abundance question** | Evening 1 | Read John 10:10b once, then ask: where is abundance in my life right now, and where isn't it? Watch for one specific moment. |
+| **Soil-noticing** | Evening 2 | Three times in the week, journal: where did each kind of soil show up today? No fixing; just noticing. |
+| **Joint Footprints** | Evening 3 | A parent and teen sit together once, for twenty minutes, phones away: five minutes of footprints each way, a follow-up question or two, then "What I love about your footprints is…" |
+| **Offering a condition** | Evening 4 | In one relationship, offer one of the four conditions (safe, present, clear, intentional) a little more than usual. Journal what you notice. |
+| **The Five-Minute Examen** | Evening 5 | Each evening: thank him for one specific thing; notice one place you saw God moving; ask him about one place you walked in less honesty than you wanted to. |
+| **PROAPT** | Evening 6 | One paragraph of scripture a day, the six steps, ending with the Tell: one sentence of what you heard, to someone. |
+| **The garden** | Evening 7 | Return to the garden, five to ten minutes. Journal what you notice. |
 
-On December 8 the first question will be simple: what held? The second is
-the one that matters most: when it slipped, did you come back to it on
-your own, because you wanted to?
+The morning question and the evening line keep running underneath all of
+these, as they have since Evening 1.
 
 ## The take-home (four weeks)
 
-*Printed sheets are handed out in the room; this is the same content.*
+*Printed sheets are handed out in the room, with the list of practices;
+this is the same content.*
 
 **The standing practice — every day, as you can.** Morning, five minutes:
 "Lord, what are you up to today, and what do you want me to notice?"
@@ -82,15 +84,23 @@ These returns are the second visit; you may get further in than tonight.
 say how the returns went. You are not grading each other; you are
 expecting each other.
 
-**3. Weeks two to four — your one practice, carried on purpose.** The one
-you wrote down tonight. Thanksgiving week included.
+**3. Week two — the garden again.** Keep returning, or go deeper; journal
+what happens.
 
-**4. When it slips — return.** Begin again on the next available day.
-Notice when you came back, and what brought you back.
+**4. Week three — your choice.** At the start of the week, choose one
+practice from the list, whichever you would really like to do. Write it in
+your journal: the practice, when, where, and in a few words, why this one.
 
-**5. One sentence of preparation.** Before December 8, finish this in your
-journal: "Over the four weeks, my one practice was ________. When it
-slipped, I came back ________, because ________."
+**5. Week four — a different choice.** Choose another practice from the
+list, not the one from week three. Write it down the same way.
+
+**6. When it slips — return.** Begin again on the next available day. No
+starting over, and no counting streaks. Notice when you came back, and
+what brought you back.
+
+**7. One sentence of preparation.** Before December 8, finish this in your
+journal: "In week three I chose ________, and in week four ________. The
+one I most wanted to keep doing was ________, because ________."
 
 *A missed day is never a failure — it is an invitation to return.*
 
@@ -113,10 +123,11 @@ the evening form changes.
 - **Receive without amplifying.** Simple, undramatic encounters are usually
   the most formative. Thank each share plainly and move on.
 - **Name the gap plainly.** "See you in a couple of weeks" is how
-  practices die. It is four weeks, Thanksgiving is in the middle, and the
-  one-practice choice is made as seriously as any assignment.
-- **The leader goes first** in the send-off: one real practice, with a time
-  and a place, said aloud. A parent follows.
+  practices die. It is four weeks, with Thanksgiving in the middle.
+- **Walk the list, don't pick for them.** Read the practices once, aloud,
+  so everyone knows the menu. The choices for weeks three and four are made
+  at home, freely. The point is to learn which practices people really
+  want to do, so nobody is steered toward one.
 - **Holidays are hard in some houses.** Watch the one-word landings
   closely tonight. Over the gap, the named adult makes one warm, light
   contact with each family, with no accounting asked.

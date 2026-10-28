@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.47 — October 28, 2026 — the long gaps choose from the practices so far
+
+John's word (28 October): give the room the list of practices it has
+walked, so the extra weeks are chosen, not assigned. Which practices
+people choose, and which they most want to keep, is part of the read on
+which practices carry the "I really want to do this" pull.
+
+- **[Evening 7](session-09-10-the-garden-of-your-heart.md#the-practices-so-far-choose-from-these)**
+  now carries the practices so far, Evenings 1 to 7, in one table. The
+  four-week take-home runs the standard two weeks first (the garden, with
+  the check-in after week one); in week three each person chooses one
+  practice from the list, and in week four a different one, each written
+  down with a few words on why.
+- **[Evening 8](session-11-any-doubts.md)** opens with the return round
+  asking which practices were chosen for weeks three and four and why,
+  what held, whether you came back on your own, and which one you would
+  keep. The leads tally the choices quietly at the debrief, a count for
+  each practice with no names. The Christmas take-home works the same
+  way: the doubts inventory and check-in in week one, then a practice of
+  your own choosing each week, with *Any Doubts?* now on the list.
+
 ## v2.46 — October 28, 2026 — breaks and returns, by the holidays
 
 John's word (28 October): the school form's quarter break, with its
