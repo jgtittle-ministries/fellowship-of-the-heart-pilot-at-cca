@@ -223,8 +223,9 @@ what the teen leads are learning. It is rehearsed at every planning lab
 ## How the group is watched over
 
 The [three vital signs](../shared/three-vital-signs.md) are watched as
-always, and roughly every sixth meeting the group takes its quarterly
-look, per the [measurement covenant](../shared/measurement-covenant.md)
+always. At each long break, the return round reads what held and which
+practices people chose, and the leads count the choices quietly, with no
+names, per the [measurement covenant](../shared/measurement-covenant.md)
 and the family's consent. What is measured is the health of the work —
 never the worthiness of the people.
 

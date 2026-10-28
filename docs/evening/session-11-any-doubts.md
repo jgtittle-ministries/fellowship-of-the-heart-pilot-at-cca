@@ -119,8 +119,9 @@ The full script is in the school form's Companion lesson plan,
 [Week 11](../getting-started/week-11-doubts.md). The evening's run sheet,
 deck and leader notes carry the silent place and the return round. The
 school form closes a quarter tonight; the evening form has no quarters, and
-its breaks are the holidays. Whether a Pulse goes home tonight is still to
-be decided. What follows is what the evening form changes.
+its breaks are the holidays. No Pulse goes home: the return rounds and the
+quiet tally of chosen practices are the evening form's read. What follows
+is what the evening form changes.
 
 - **Open with the return, not the content.** Rebuild the container slowly.
   The return round replaces the usual check-in and takes four more minutes,

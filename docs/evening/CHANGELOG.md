@@ -76,6 +76,26 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.50 — October 28, 2026 — the Pulse dropped from the evening form
+
+John's word (28 October): drop the Quarterly Pulse. The evening form's read
+is now the return round at each long break and the quiet tally of which
+practices people chose and would keep.
+
+- **Evening 8:** no Pulse goes home. Gone from the homework slide and its
+  notes, the run sheet, the take-home sheet (its slide image re-rendered),
+  and the page. The leader notes were rebuilt.
+- **Evening 9, *The Return*:** the cue to staff a Pulse return bin at the
+  door is gone from the deck notes; leader notes rebuilt.
+- **The handbook:** "roughly every sixth meeting the group takes its
+  quarterly look" now reads: at each long break, the return round reads
+  what held and which practices people chose, and the leads count the
+  choices quietly, with no names.
+- **Still to rework:** Evening 12 (*Family Conversation Night*) sends
+  Pulse 3 home as its week-one homework, and Evening 13 (*The Float*)
+  collects it. Both are redesigned when those evenings are prepared. The
+  school form keeps its Pulse.
+
 ## v2.49 — October 28, 2026 — Evening 8: the return, and the Christmas send-off
 
 John's word (28 October): build Evening 8's materials for the return after
@@ -101,9 +121,7 @@ Thanksgiving and the Christmas break.
   widened so it stays on three pages.
 - **The Evening 8 page** now matches the evening as designed on 13 October
   (v2.33): the silent place, the Garden thread, and its clock.
-- **Still open:** the Quarterly Pulse still goes home at Evening 8 in the
-  materials, now to come back at *The Return*. Whether the evening form
-  keeps it is John's call.
+- **The Quarterly Pulse** was decided the same day: see v2.50.
 
 ## v2.48 — October 28, 2026 — Evening 7's materials carry the long gap
 
