@@ -76,6 +76,35 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.49 — October 28, 2026 — Evening 8: the return, and the Christmas send-off
+
+John's word (28 October): build Evening 8's materials for the return after
+Thanksgiving and the Christmas break.
+
+- **The return round** opens the evening in place of the check-in, 7:06–7:18:
+  which practices you chose for weeks three and four, and why; what held;
+  did you come back on your own; which you would keep; then "one thing I'm
+  not sure was God." The pairs give back the four minutes (7:31–7:53, about
+  eleven minutes a turn); the rest of the clock moves with them.
+- **The quiet tally:** at the debrief, a count for each practice, chosen
+  and kept, with no names.
+- **The take-home** runs to *The Return* in January on one page: week one,
+  the doubts inventory; the check-in; week two, the two journal questions;
+  then the rest of the break, a practice of your own choosing each week;
+  two sentences of preparation. **The Practices So Far** card goes with it,
+  now with *Any Doubts?* on it.
+- **The deck** (no slides added, so the master numbering holds): the return
+  round on page 163; the road, homework, sheet and close slides carry the
+  break; "Quarter 2" and "Quarter 3" become the second and third
+  movements. Leader notes rebuilt.
+- **The run sheet:** the new clock and the breaks note; the Block column
+  widened so it stays on three pages.
+- **The Evening 8 page** now matches the evening as designed on 13 October
+  (v2.33): the silent place, the Garden thread, and its clock.
+- **Still open:** the Quarterly Pulse still goes home at Evening 8 in the
+  materials, now to come back at *The Return*. Whether the evening form
+  keeps it is John's call.
+
 ## v2.48 — October 28, 2026 — Evening 7's materials carry the long gap
 
 John's word (28 October): build Evening 7's materials for the four weeks.
