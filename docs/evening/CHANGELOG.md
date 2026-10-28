@@ -76,6 +76,38 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.46 — October 28, 2026 — breaks and returns, by the holidays
+
+John's word (28 October): the school form's quarter break, with its
+"midpoint" and "Quarter 3," does not fit evenings every two weeks. The
+idea stays: an extended absence, a send-off before it, and a report back
+after it. The breaks are now the holidays, and the question on return is
+"how did you do on returning, all by yourself, because you wanted to?"
+
+- **Break and return, as a standing move.** Any gap longer than the usual
+  two weeks gets a send-off at the close of the evening before it (one
+  practice chosen and written in the journal, the returning rule said
+  aloud, who to reach) and a return round at the opening of the evening
+  after it (what held, and, when it slipped, did you come back on your
+  own?).
+- **[Evening 7 — The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md)**
+  now has its own page: one guided run, a senior reading, and the
+  Thanksgiving send-off, with a four-week take-home.
+- **[Evening 8 — Any Doubts?](session-11-any-doubts.md)** now has its own
+  page: it opens with the return round after Thanksgiving and closes with
+  the Christmas send-off; *The Return* follows in January.
+- **No quarters.** "Quarter" becomes "movement" on the Evening 5 and
+  Evening 6 pages. Whether a Pulse goes home at Evening 8 is still to be
+  decided. Decks, run sheets and leader notes for Evenings 7 and 8 come
+  next.
+
+## v2.45 — October 28, 2026 — Evening 8 expected on Tuesday, December 8
+
+John's word (28 October): no evening over Thanksgiving week. Evening 8,
+*Any Doubts?*, is expected on Tuesday, December 8, not yet confirmed, and is
+the one evening in December. A Christmas break follows, and Evening 9,
+*The Return*, opens January. The front page and the road table say so.
+
 ## v2.44 — October 27, 2026 — the merge shares what was heard (Evening 6 debrief)
 
 John's word (27 October): the merge after the pairs now invites each person

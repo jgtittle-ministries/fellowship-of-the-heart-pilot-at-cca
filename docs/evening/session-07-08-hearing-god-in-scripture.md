@@ -10,7 +10,7 @@ pairs on a second passage, Mark 2:1–12. Hearing is a skill, and skills take
 reps.
 
 **Where we are on the map.** The evening opens on the Four Connects, and
-tonight opens the second quarter, *Connect with God*. It begins with the
+tonight opens the second movement, *Connect with God*. It begins with the
 room reading itself: the three questions that went home from Evening 5,
 answered together.
 

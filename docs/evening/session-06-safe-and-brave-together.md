@@ -9,7 +9,7 @@ over it. We are not probing for sins; we are practicing the architecture of
 confession, so that the room learns it is safe to be honest in.
 
 **Where we are on the map.** The evening opens on the Four Connects —
-Self, Others, God, Mission — and tonight closes the first quarter, *Connect
+Self, Others, God, Mission — and tonight closes the first movement, *Connect
 with Self and Others*. Three questions about the group go home tonight and
 come back to be answered together when we next gather.
 
@@ -68,7 +68,7 @@ journal what happens.
 **4. One sentence of preparation.** Set at commissioning.
 
 **A second page goes home tonight: The Road So Far.** One page recalling
-the quarter, evening by evening: the heart of each session and the
+the first movement, evening by evening: the heart of each session and the
 practice that went home, and the three questions themselves. It is there
 so the road is fresh while you think on them.
 

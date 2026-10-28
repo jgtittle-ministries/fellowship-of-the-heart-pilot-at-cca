@@ -72,6 +72,16 @@ window.SERIES = [
         "edition": "v1"
       },
       {
+        "path": "docs/evening/session-09-10-the-garden-of-your-heart.md",
+        "title": "Evening 7 — The Garden of Your Heart",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/session-11-any-doubts.md",
+        "title": "Evening 8 — Any Doubts?",
+        "edition": "v1"
+      },
+      {
         "path": "docs/evening/CHANGELOG.md",
         "title": "Change Log",
         "edition": "v1"
@@ -948,6 +958,24 @@ window.PATH_TO_INFO = {
     "title": "Evening 6 — Hearing God in Scripture",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-06-safe-and-brave-together.md",
+    "next": "docs/evening/session-09-10-the-garden-of-your-heart.md"
+  },
+  "docs/evening/session-09-10-the-garden-of-your-heart.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 7 — The Garden of Your Heart",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-07-08-hearing-god-in-scripture.md",
+    "next": "docs/evening/session-11-any-doubts.md"
+  },
+  "docs/evening/session-11-any-doubts.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 8 — Any Doubts?",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-09-10-the-garden-of-your-heart.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -956,7 +984,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-07-08-hearing-god-in-scripture.md"
+    "prev": "docs/evening/session-11-any-doubts.md"
   },
   "docs/cca/index.md": {
     "seriesId": "cca",
