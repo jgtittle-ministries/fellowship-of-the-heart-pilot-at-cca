@@ -76,6 +76,30 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.48 — October 28, 2026 — Evening 7's materials carry the long gap
+
+John's word (28 October): build Evening 7's materials for the four weeks.
+
+- **The take-home sheet** now covers four weeks on one page: one day-grid
+  for weeks one to four; week one, the garden returns with the two test
+  lines; the check-in; week two, keep returning; weeks three and four, a
+  practice of your own choosing each week, with a line for which and why;
+  and two sentences of preparation (the one for *Any Doubts?*, and the
+  practice you most wanted to keep).
+- **New card: The Practices So Far,** one page beside the take-home: the
+  seven practices from Evenings 1 to 7, each with what you do.
+- **The deck** has a new slide, *The Long Gap — Weeks Three and Four*
+  (G15), with the practices beside it. The homework slide is now weeks one
+  and two; the two sheet slides show the new sheet; the close says "see
+  you on Tuesday, December 8." The deck has 19 slides; the leader notes
+  were rebuilt from it.
+- **The run sheet:** homework 8:13–8:16; the long gap, the sheets and the
+  two cards 8:16–8:21. Still two pages.
+- **The Evening 7 page** now matches the evening as designed on 13 October
+  (v2.30–v2.32): remembering a time you heard God and how you knew, then
+  the garden in two rounds, and the impact question at the close. The
+  v2.46 page had followed the older school plan.
+
 ## v2.47 — October 28, 2026 — the long gaps choose from the practices so far
 
 John's word (28 October): give the room the list of practices it has
