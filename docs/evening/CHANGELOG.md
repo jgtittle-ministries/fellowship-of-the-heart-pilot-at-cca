@@ -76,6 +76,22 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.51 — October 28, 2026 — the practices so far, remembered
+
+John's word (28 October): the descriptions on the Practices So Far card
+were too brief for people to remember what the practices were.
+
+- **Each practice now has three parts:** *That evening* (what we did in
+  the room), *The homework* (as it went home), and *In your journal* (what
+  to look back at). The card asks everyone, before choosing, to look back
+  in their journal at what they actually did and noticed.
+- **The cards** for Evening 7 (seven practices) and Evening 8 (eight, with
+  *Any Doubts?*) are now two pages each; each page stands on its own.
+- **The [Evening 7 page](session-09-10-the-garden-of-your-heart.md#the-practices-so-far-choose-from-these)**
+  carries the same three parts for each practice.
+- **The decks' notes** for the long-gap slide (Evening 7) and the homework
+  slide (Evening 8) say the same; leader notes rebuilt.
+
 ## v2.50 — October 28, 2026 — the Pulse dropped from the evening form
 
 John's word (28 October): drop the Quarterly Pulse. The evening form's read
