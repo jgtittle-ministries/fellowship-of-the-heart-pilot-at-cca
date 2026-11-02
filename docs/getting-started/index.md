@@ -10,7 +10,7 @@ A cohort that completes Getting Started can stop here and not go further. That e
 
 These files are the **Companion Lesson Plans** — what the Lead Companion and Co-Companion team hold during the session. The participant-facing materials — the [Personal Heart Journal](../shared/personal-heart-journal.md), the [Rhythm Card](../shared/rhythm-card.md), the [Family Conversation Cards](../shared/family-conversation-cards.md), and the [PROAPT card](../shared/proapt-card.md) — live in [Shared Materials](../shared/index.md). The **[session slide deck (PowerPoint, v1.5)](gs-session-slides-v1.5.pptx)** is the room screen for all twenty-two sessions — one slide per road stop, the five standing liturgical images, big read-aloud type; the plan carries the evening, the screen only keeps it visible.
 
-Companions who want the academic backbone of this series will find it in the IJH Hearing-God Paper [CTG — Clearing the Ground](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fclearing-the-ground-lower-levels.md), which develops formation through the lower levels — Receiving, Responding, Valuing — and takes this curriculum as its worked example.
+Companions who want the academic backbone of this series will find it in the IJH Hearing-God Paper [CTG — Clearing the Ground](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/reader.html#docs%2Fvolume-5-references%2Fclearing-the-ground-lower-levels.md), which develops formation through the lower levels — Receiving, Responding, Valuing — and takes this curriculum as its worked example.
 
 ---
 
@@ -23,6 +23,16 @@ Everything for Getting Started (CCA pilot), current with these pages. Each lesso
 - [Every lesson plan and handbook in one download (zip of Word files)](downloads/getting-started.zip)
 - [The full slide deck, all twenty-two weeks (PowerPoint)](gs-session-slides-v1.5.pptx); each week's page also has just that week's slides.
 - [The Weekly Companion Debrief Sheets (Word)](gs-weekly-companion-debrief-sheets.docx)
+
+**The measurement instruments.** What the pilot asks of families, and when. Each is used only on a family's yes, under the [Measurement Covenant](../shared/measurement-covenant.md); the full plan is Section 8 of the [Handbook](handbook.md).
+
+- [The Measurement Map (Word)](downloads/instrument-measurement-map.docx) — the year at a glance: what is measured, when, and the guards around it.
+- [The Pre-Series Survey (Word)](downloads/instrument-pre-series-survey.docx) — the before, on each family's yes.
+- [Quarterly Pulse 1 (Word)](downloads/instrument-pulse-1.docx) — Week 6, three questions.
+- [Quarterly Pulse 2, the Midpoint (Word)](downloads/instrument-pulse-2-midpoint.docx) — Week 11, three questions.
+- [Quarterly Pulse 3 (Word)](downloads/instrument-pulse-3.docx) — Week 16, three questions.
+- [The Post-Series Survey (Word)](downloads/instrument-post-series-survey.docx) — the after, Week 20.
+- [The Practice Check-Off Cards (Word)](downloads/instrument-practice-check-off-cards.docx) — Weeks 1–22; they go home and are never collected.
 
 ## The twenty-two weeks
 
