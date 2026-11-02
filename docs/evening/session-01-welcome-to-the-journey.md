@@ -35,6 +35,21 @@ you were invited to dinner.
 
 ---
 
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-01-take-home.docx) — handed out at the close; the practice until the next evening.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-01-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-01-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-01-leader-notes.docx) — what to say and watch for, slide by slide.
+
+
 ## The evening
 
 | Time | Block | Lead |

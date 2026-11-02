@@ -17,6 +17,23 @@ come back to be answered together when we next gather.
 
 ---
 
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-05-take-home.docx) — handed out at the close; the practice until the next evening.
+- [The Road So Far (Word)](materials/evening-05-road-so-far-handout.docx) — the first movement on one page.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-05-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-05-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-05-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Breakout card (Word)](materials/evening-05-breakout-card.docx) — the small-group steps.
+
+
 ## The evening
 
 | Time | Block | Lead |

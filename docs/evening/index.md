@@ -96,6 +96,10 @@ in reserve for a larger room. Each evening links to its page where one is
 published, and otherwise to the full Companion lesson plan in the Getting
 Started series.
 
+**Leading an evening?** Each evening's page has a **Materials** section:
+the slides, the run sheet, the leader notes, the take-home sheet and any
+cards, always the current versions. Start there.
+
 | Evening | When | Where it stands |
 |---|---|---|
 | 1 — [Welcome to the Journey](session-01-welcome-to-the-journey.md) | An evening in August | Walked, together with Evening 2 |

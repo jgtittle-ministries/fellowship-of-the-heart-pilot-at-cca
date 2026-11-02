@@ -23,6 +23,23 @@ reserve for a larger room of newer people.
 
 ---
 
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-06-take-home.docx) — handed out at the close; the practice until the next evening.
+- [PROAPT — what each step is for (Word)](materials/evening-06-proapt-handout.docx) — the scripture practice, step by step.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-06-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-06-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-06-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Pair card (Word)](materials/evening-06-pair-card.docx) — the steps the pairs follow.
+
+
 ## The evening
 
 | Time | Block | Lead |

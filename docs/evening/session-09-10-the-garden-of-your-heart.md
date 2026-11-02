@@ -30,6 +30,24 @@ Evening 6 take-home.
 
 ---
 
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-07-take-home.docx) — handed out at the close; the practice until the next evening.
+- [The Practices So Far (Word)](materials/evening-07-practices-so-far-card.docx) — every practice walked so far, to choose from.
+- [How Did You Know? card (Word)](materials/evening-07-how-did-you-know-card.docx) — the checks for testing what you heard.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-07-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-07-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-07-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Reading card (Word)](materials/evening-07-reading-card.docx) — the senior reader's script, with the pauses.
+
+
 ## The evening
 
 | Time | Block | Lead |

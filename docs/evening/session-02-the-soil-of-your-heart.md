@@ -20,6 +20,21 @@ soils. This is where *Connect with Self* begins in earnest.
 
 **Bring.** Your notebook or journal, and your take-home from Evening 1.
 
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-02-take-home.docx) — handed out at the close; the practice until the next evening.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-02-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-02-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-02-leader-notes.docx) — what to say and watch for, slide by slide.
+
+
 ## The evening
 
 | Time | Block | Lead |

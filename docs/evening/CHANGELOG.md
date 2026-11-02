@@ -76,6 +76,22 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.52 — November 2, 2026 — one stop for each evening's materials
+
+John's word (2 November): the teens should find everything for an evening
+on its page, now and when they lead later evenings.
+
+- **A Materials section on every evening page** (Evenings 1–8), just
+  before *The evening*: for everyone, the take-home sheet and any cards
+  that go home; for the two leads, the slides, the run sheet, the leader
+  notes, and any reader's or pair card. Word and PowerPoint downloads,
+  under short names in `docs/evening/materials/` (`evening-07-slides.pptx`).
+- **Kept current by a tool:** `tools/build-evening-materials.py` copies the
+  current files from the evening series and rewrites each page's section.
+  Rerun it whenever a material changes, then mirror `docs/evening`. Add an
+  evening to the tool's tables when its page goes up.
+- **The index** says where to find them.
+
 ## v2.51 — October 28, 2026 — the practices so far, remembered
 
 John's word (28 October): the descriptions on the Practices So Far card
