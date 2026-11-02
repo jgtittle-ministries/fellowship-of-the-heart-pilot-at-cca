@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/companions-and-coverings.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series*

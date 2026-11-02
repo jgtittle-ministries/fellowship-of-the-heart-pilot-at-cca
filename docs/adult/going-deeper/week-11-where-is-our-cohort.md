@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-11-where-is-our-cohort.docx) · [The whole series (zip)](downloads/adult-going-deeper.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Deeper series*

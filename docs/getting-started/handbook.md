@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/handbook.docx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *for Teens and Their Parents*

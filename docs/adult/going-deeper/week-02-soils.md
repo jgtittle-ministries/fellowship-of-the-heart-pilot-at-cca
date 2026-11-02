@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-02-soils.docx) · [The whole series (zip)](downloads/adult-going-deeper.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Deeper series*

@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-15-commissioning.docx) · [The whole series (zip)](downloads/adult-getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

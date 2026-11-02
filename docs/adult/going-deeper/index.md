@@ -10,6 +10,13 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 
 ---
 
+## Downloads
+
+Everything for Going Deeper (Adult), current with these pages. Each lesson plan also carries its own download at the top of its page.
+
+- [Companion Handbook (Word)](downloads/handbook.docx)
+- [Every lesson plan and handbook in one download (zip of Word files)](downloads/adult-going-deeper.zip)
+
 ## The twelve weeks
 
 | # | Title | Focus |

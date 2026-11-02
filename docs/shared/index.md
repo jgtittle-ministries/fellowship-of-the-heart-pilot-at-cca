@@ -4,6 +4,26 @@ The participant-facing artifacts used across every expression of Fellowship of t
 
 ---
 
+## Downloads
+
+Every card and page here, as a Word file to print or adapt:
+
+- [Companions and Coverings](downloads/companions-and-coverings.docx)
+- [Family Conversation Cards](downloads/family-conversation-cards.docx)
+- [Interrogating Reality Card](downloads/interrogating-reality-card.docx)
+- [Keeping the Flame](downloads/keeping-the-flame.docx)
+- [Measurement Covenant](downloads/measurement-covenant.docx)
+- [Path Home Card](downloads/path-home-card.docx)
+- [Personal Heart Journal](downloads/personal-heart-journal.docx)
+- [PROAPT Card](downloads/proapt-card.docx)
+- [PROAPT — What Each Step Is For](downloads/proapt-what-each-step-is-for.docx)
+- [Reading List](downloads/reading-list.docx)
+- [Rhythm Card](downloads/rhythm-card.docx)
+- [Signs Card](downloads/signs-card.docx)
+- [Three Vital Signs](downloads/three-vital-signs.docx)
+- [Watching Trust Grow](downloads/watching-trust-grow.docx)
+- [Weekly Run Card](downloads/weekly-run-card.docx)
+
 ## What's here
 
 - [**Personal Heart Journal**](personal-heart-journal.md) — the private daily companion for the journey. One participant per copy. The journal scales to what each week actually has time for — a sentence can be a complete entry.

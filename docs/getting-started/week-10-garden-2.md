@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-10-garden-2.docx) · [This week's slides (PowerPoint)](downloads/week-10-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

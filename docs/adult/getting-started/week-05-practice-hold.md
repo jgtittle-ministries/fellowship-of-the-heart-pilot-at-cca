@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-05-practice-hold.docx) · [The whole series (zip)](downloads/adult-getting-started.zip)
+
 # Practice Hold I — Two Weeks, No Meetings
 
 *After Week 5 · the first seam of the 5/5/5 rhythm · re-entry at Week 6*

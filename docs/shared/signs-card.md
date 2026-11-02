@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/signs-card.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series*

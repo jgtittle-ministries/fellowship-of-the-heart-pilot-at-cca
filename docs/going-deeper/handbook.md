@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/handbook.docx) · [The whole series (zip)](downloads/going-deeper.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Intentional Journey of the Heart*

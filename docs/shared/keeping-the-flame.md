@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/keeping-the-flame.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series*

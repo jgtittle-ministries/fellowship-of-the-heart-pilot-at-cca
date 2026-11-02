@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/three-vital-signs.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series*

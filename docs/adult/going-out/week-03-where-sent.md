@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-03-where-sent.docx) · [The whole series (zip)](downloads/adult-going-out.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Out series*

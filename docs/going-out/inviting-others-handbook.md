@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/inviting-others-handbook.docx) · [The whole series (zip)](downloads/going-out.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Inviting Others series*

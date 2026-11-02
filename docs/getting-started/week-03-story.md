@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-03-story.docx) · [This week's slides (PowerPoint)](downloads/week-03-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*
@@ -416,7 +418,8 @@ The Joint Footprints exercise is the central practice this week. It is described
 
 If a parent or teen reports back that they did not get to the Joint Footprints, this is data, not failure. Note it for the team debrief and do not shame in Week 4. The work is real even when the practice is uneven.
 
-# Companion Debrief Prompts
+# Companion Debrief Prompts
+
 
 *Print this week’s sheet — page 6 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=6){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 3" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 

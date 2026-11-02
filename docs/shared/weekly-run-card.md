@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/weekly-run-card.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — team-facing*

@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-20-long-walk.docx) · [This week's slides (PowerPoint)](downloads/week-20-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*
@@ -379,7 +381,8 @@ Merge to the single circle. The Co-Companion (Parent) frames the survey — with
 
 *"Go gently. See you Wednesday."*
 
-# **Team Debrief**
+# **Team Debrief**
+
 
 *Print this week’s sheet — page 23 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=23){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 20" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 

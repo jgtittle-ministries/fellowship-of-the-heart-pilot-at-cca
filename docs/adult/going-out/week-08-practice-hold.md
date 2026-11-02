@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-08-practice-hold.docx) · [The whole series (zip)](downloads/adult-going-out.zip)
+
 # Practice Hold — Two Weeks, and the Cohort's Yes
 
 *After Week 8 · re-entry at Week 9*

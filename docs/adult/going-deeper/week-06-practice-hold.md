@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-06-practice-hold.docx) · [The whole series (zip)](downloads/adult-going-deeper.zip)
+
 # Practice Hold — Two Weeks, No Meetings
 
 *After Week 6 · the series' seam · re-entry at Week 7*

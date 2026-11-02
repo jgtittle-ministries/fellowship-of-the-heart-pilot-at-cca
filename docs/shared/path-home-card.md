@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/path-home-card.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series*

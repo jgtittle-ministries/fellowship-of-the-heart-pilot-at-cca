@@ -12,6 +12,14 @@ These files are the **Companion Lesson Plans** — what the Lead Companion and C
 
 ---
 
+## Downloads
+
+Everything for Going Out (Adult), current with these pages. Each lesson plan also carries its own download at the top of its page.
+
+- [Companion Handbook (Word)](downloads/handbook.docx)
+- [Inviting Others Handbook (Word)](downloads/inviting-others-handbook.docx)
+- [Every lesson plan and handbook in one download (zip of Word files)](downloads/adult-going-out.zip)
+
 ## The twelve weeks
 
 | # | Title | Focus |

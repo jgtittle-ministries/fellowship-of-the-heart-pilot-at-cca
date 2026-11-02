@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/proapt-what-each-step-is-for.docx)
+
 # PROAPT — What Each Step Is For
 
 *A companion to the [PROAPT Card](proapt-card.md), for every expression of Fellowship of the Heart: why each step comes where it does. The order is the lesson.*

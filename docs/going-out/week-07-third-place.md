@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-07-third-place.docx) · [The whole series (zip)](downloads/going-out.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Out series*

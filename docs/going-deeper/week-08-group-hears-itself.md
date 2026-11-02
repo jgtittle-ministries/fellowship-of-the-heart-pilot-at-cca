@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-08-group-hears-itself.docx) · [The whole series (zip)](downloads/going-deeper.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Deeper series*

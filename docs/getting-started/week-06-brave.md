@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-06-brave.docx) · [This week's slides (PowerPoint)](downloads/week-06-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*
@@ -425,7 +427,8 @@ Same as prior weeks. Tonight it lands different. Notice it. Do not comment on it
 - Daily evening journal note (carried forward).
 - FIVE-MINUTE EXAMEN each evening (NEW). Three steps: thank, notice, ask. The third step — ask God about one place where you walked in less honesty than you wanted to today — is the carryover from tonight.
 
-# Companion Debrief Prompts
+# Companion Debrief Prompts
+
 
 *Print this week’s sheet — page 9 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=9){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 6" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 

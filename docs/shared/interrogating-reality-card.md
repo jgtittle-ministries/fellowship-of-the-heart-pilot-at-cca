@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/interrogating-reality-card.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Deeper series*

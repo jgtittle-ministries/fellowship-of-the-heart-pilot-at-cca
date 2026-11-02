@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-05-known.docx) · [This week's slides (PowerPoint)](downloads/week-05-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*
@@ -360,7 +362,8 @@ If a participant chooses a relationship that is in the room — a teen choosing 
 
 **If this stirs something hard.** Looking at friendships can bring up loneliness, a friendship that has hurt, or one that has faded. That is real and worth noticing — not fixing this week. Participants may choose an easier relationship, or set the practice down for a few days, and are encouraged to tell someone they trust (a parent, a Companion, a friend in the group). The on-ramp is printed on H5.5 and said aloud in Block 7; nobody is meant to carry the heavy things alone.
 
-# Companion Debrief Prompts
+# Companion Debrief Prompts
+
 
 *Print this week’s sheet — page 8 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=8){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 5" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 

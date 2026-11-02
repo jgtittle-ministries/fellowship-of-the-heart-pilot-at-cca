@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-09-garden.docx) · [This week's slides (PowerPoint)](downloads/week-09-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*
@@ -360,7 +362,8 @@ Three layers, same pattern as prior weeks. Tonight’s closing is shorter than t
 
 This is the most internally demanding between-session week of Getting Started. Be honest with participants: many will not get to all three garden visits. Two is fine. One is fine. Even setting the time aside and not getting there is fine — the practice is the turning toward, not the metric.
 
-# Companion Debrief Prompts
+# Companion Debrief Prompts
+
 
 *Print this week’s sheet — page 12 of the [Weekly Companion Debrief Sheets (PDF)](gs-weekly-companion-debrief-sheets.pdf#page=12){: .pdf-popup data-pdf-label="Weekly Companion Debrief Sheets — Week 9" } · [Word original](gs-weekly-companion-debrief-sheets.docx).*
 

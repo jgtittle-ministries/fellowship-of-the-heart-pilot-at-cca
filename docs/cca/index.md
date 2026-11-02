@@ -64,3 +64,13 @@ under your feet, not a script you read from.
 
 The participant materials the cohort carries, the Personal Heart Journal
 and the cards, are in [Shared materials](../shared/index.md).
+
+## Downloads
+
+Every lesson plan, handbook and card is also a Word file, and each Getting
+Started week has its own slides. Each page has its downloads at the top;
+each series page has the whole series in one download:
+[Getting Started](../getting-started/index.md#downloads),
+[Going Deeper](../going-deeper/index.md#downloads),
+[Going Out](../going-out/index.md#downloads), and
+[Shared materials](../shared/index.md#downloads).

@@ -14,6 +14,16 @@ Companions who want the academic backbone of this series will find it in the IJH
 
 ---
 
+## Downloads
+
+Everything for Getting Started (CCA pilot), current with these pages. Each lesson plan also carries its own download at the top of its page.
+
+- [Companion Handbook (Word)](downloads/handbook.docx)
+- [Pre-Cohort Discernment Guide (Word)](downloads/precohort-discernment-guide.docx)
+- [Every lesson plan and handbook in one download (zip of Word files)](downloads/getting-started.zip)
+- [The full slide deck, all twenty-two weeks (PowerPoint)](gs-session-slides-v1.5.pptx); each week's page also has just that week's slides.
+- [The Weekly Companion Debrief Sheets (Word)](gs-weekly-companion-debrief-sheets.docx)
+
 ## The twenty-two weeks
 
 **Quarter 1 — Self and Others**

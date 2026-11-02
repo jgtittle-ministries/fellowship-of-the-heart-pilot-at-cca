@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/measurement-covenant.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series · For the Companion team and church leadership*

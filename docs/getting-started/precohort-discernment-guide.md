@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/precohort-discernment-guide.docx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

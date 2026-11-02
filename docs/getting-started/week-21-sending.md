@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-21-sending.docx) · [This week's slides (PowerPoint)](downloads/week-21-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

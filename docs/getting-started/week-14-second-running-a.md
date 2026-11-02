@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-14-second-running-a.docx) · [This week's slides (PowerPoint)](downloads/week-14-slides.pptx) · [The whole series (zip)](downloads/getting-started.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

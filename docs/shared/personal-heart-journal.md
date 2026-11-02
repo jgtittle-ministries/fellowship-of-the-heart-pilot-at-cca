@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/personal-heart-journal.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

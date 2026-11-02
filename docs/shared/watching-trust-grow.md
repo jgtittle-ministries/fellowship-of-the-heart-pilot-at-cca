@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/watching-trust-grow.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Shared materials — all three series*

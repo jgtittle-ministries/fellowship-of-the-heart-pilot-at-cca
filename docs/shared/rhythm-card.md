@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/rhythm-card.docx)
+
 **FELLOWSHIP OF THE HEART**
 
 *Getting Started series — The Four Connects*

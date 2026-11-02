@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-09-shadow-mission.docx) · [The whole series (zip)](downloads/going-deeper.zip)
+
 **FELLOWSHIP OF THE HEART**
 
 *Going Deeper series*

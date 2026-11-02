@@ -1,3 +1,5 @@
+> **Downloads** · [This page (Word)](downloads/week-10-practice-hold.docx) · [The whole series (zip)](downloads/adult-getting-started.zip)
+
 # Practice Hold II — Two Weeks, No Meetings
 
 *After Week 10 · the second seam of the 5/5/5 rhythm · re-entry at Week 11*
