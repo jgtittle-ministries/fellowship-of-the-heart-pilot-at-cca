@@ -30,6 +30,12 @@ window.SERIES = [
     "path": "docs/four-connects.md"
   },
   {
+    "id": "how-we-got-here",
+    "kind": "page",
+    "name": "How we got here",
+    "path": "docs/how-we-got-here.md"
+  },
+  {
     "id": "evening",
     "kind": "series",
     "name": "FotH Evening",
@@ -900,6 +906,12 @@ window.PATH_TO_INFO = {
     "seriesName": "The Four Connects",
     "title": "The Four Connects",
     "indexPath": "docs/four-connects.md"
+  },
+  "docs/how-we-got-here.md": {
+    "seriesId": "how-we-got-here",
+    "seriesName": "How we got here",
+    "title": "How we got here",
+    "indexPath": "docs/how-we-got-here.md"
   },
   "docs/evening/index.md": {
     "seriesId": "evening",

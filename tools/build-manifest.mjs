@@ -24,7 +24,7 @@ const SITE = {
 };
 
 // Standalone root pages, in nav order, then series folders in nav order.
-const ROOT_PAGES = ['index.md', 'start-here.md', 'four-connects.md'];
+const ROOT_PAGES = ['index.md', 'start-here.md', 'four-connects.md', 'how-we-got-here.md'];
 // A tab is one or more folders. A tab with several folders shows each as a
 // labelled group in the sidebar (label: null = no heading, e.g. the tab's own
 // landing pages). `order` pins the first files of a group; the rest sort by
@@ -79,7 +79,7 @@ const listMd = (dir) => {
 const series = [];
 
 // root pages
-const pageMeta = { 'index.md': 'Home', 'start-here.md': 'Start here', 'four-connects.md': 'The Four Connects' };
+const pageMeta = { 'index.md': 'Home', 'start-here.md': 'Start here', 'four-connects.md': 'The Four Connects', 'how-we-got-here.md': 'How we got here' };
 for (const f of ROOT_PAGES) {
   const abs = join(DOCS, f);
   try { statSync(abs); } catch { continue; }

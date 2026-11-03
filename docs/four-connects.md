@@ -64,6 +64,8 @@ sessions**. Fellowship of the Heart itself began with one full day: all of
 the adults walked the Four Connects end to end in a single sitting, before
 anything else was built.
 
+*Fellowship of the Heart* itself began that way; [How we got here](how-we-got-here.md) tells the rest.
+
 It is a prequel, not a prerequisite. A group can start a curriculum
 without it. But it is a good on-ramp, and we recommend it highly: it
 exposes people to heart work most of them have never thought of, and

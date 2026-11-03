@@ -29,7 +29,7 @@ const SERIES_NAMES = {
 };
 
 // Root pages get nav-friendly names (mirrors build-manifest.mjs pageMeta).
-const PAGE_TITLES = { 'index.md': 'Home', 'start-here.md': 'Start here', 'four-connects.md': 'The Four Connects' };
+const PAGE_TITLES = { 'index.md': 'Home', 'start-here.md': 'Start here', 'four-connects.md': 'The Four Connects', 'how-we-got-here.md': 'How we got here' };
 
 const walk = (dir) => {
   let out = [];
