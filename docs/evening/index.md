@@ -143,6 +143,10 @@ and what the evenings teach is being carried into it. The full Companion lesson 
 [shared participant materials](../shared/index.md) all stand behind these
 evenings; the pages here carry what the evening form changes.
 
+Before all three comes [the Four Connects](../four-connects.md), the
+recommended prequel: six modules that ground heart work in the two greatest
+commandments.
+
 Behind both stands the *Intentional Journey of the Heart* — start with
 [Start here](../start-here.md) if you want the why underneath the how.
 

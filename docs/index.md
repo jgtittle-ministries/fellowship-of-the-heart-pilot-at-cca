@@ -15,6 +15,15 @@ Others, God, and Mission, is written here for three different rooms.
 
 ---
 
+## Start with the Four Connects
+
+[**The Four Connects**](four-connects.md) is the starting place: six modules
+that ground heart work in the two greatest commandments (Matthew 22:37–40).
+It is the recommended prequel to all three expressions below, and the spine
+of every choice in them.
+
+---
+
 ## Three expressions
 
 | | Expression | For | Where it stands |

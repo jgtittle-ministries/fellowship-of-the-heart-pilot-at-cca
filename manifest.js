@@ -24,6 +24,12 @@ window.SERIES = [
     "path": "docs/start-here.md"
   },
   {
+    "id": "four-connects",
+    "kind": "page",
+    "name": "The Four Connects",
+    "path": "docs/four-connects.md"
+  },
+  {
     "id": "evening",
     "kind": "series",
     "name": "FotH Evening",
@@ -888,6 +894,12 @@ window.PATH_TO_INFO = {
     "seriesName": "Start here",
     "title": "Start here",
     "indexPath": "docs/start-here.md"
+  },
+  "docs/four-connects.md": {
+    "seriesId": "four-connects",
+    "seriesName": "The Four Connects",
+    "title": "The Four Connects",
+    "indexPath": "docs/four-connects.md"
   },
   "docs/evening/index.md": {
     "seriesId": "evening",

@@ -55,6 +55,8 @@ A word on how to hold all of this. The “laws” of IJH describe how God charac
 
 ## Where to start
 
+- **Before any of the three** — walk [the Four Connects](four-connects.md), the recommended prequel: six modules, in one full day or six sessions, that ground heart work in the two greatest commandments.
+
 - **If you were invited to an evening** — start with [FotH Evening](evening/index.md): where the group is now, and what comes next.
 - **If you lead in a church and want to walk it with your leaders** — start with [Adult FotH](adult/index.md) and its own Start here.
 - **If you want to walk it with a school-year cohort** — start with [the CCA Pilot](cca/index.md) and the [Getting Started series overview](getting-started/index.md). Week 1 is the on-ramp.

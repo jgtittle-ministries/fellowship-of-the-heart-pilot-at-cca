@@ -10,6 +10,9 @@ curriculum is what the [FotH Evening](../evening/index.md) series walks now,
 in a home-evening form around a family table, and what the evenings teach
 flows back into these plans.
 
+**Before Week 1:** the recommended prequel is [the Four Connects](../four-connects.md),
+six modules that ground heart work in the two greatest commandments.
+
 ---
 
 ## The three series

@@ -12,6 +12,6 @@ A church that says *we are interested in trying this out* is not handed a progra
 
 A leadership team that completes this year is formed to lead the family edition, and has proven it wants to. That is the whole gate, and it is offered plainly.
 
-**Start with [Start here](start-here.md).**
+**Start with [Start here](start-here.md).** Before Getting Started, the recommended prequel is [the Four Connects](../four-connects.md): six modules that ground heart work in the two greatest commandments, and the spine of all three series.
 
 **Downloads.** Every lesson plan and handbook is also a Word file: each page has its download at the top, and each series page ([Getting Started](getting-started/index.md), [Going Deeper](going-deeper/index.md), [Going Out](going-out/index.md)) has the whole series in one download.
