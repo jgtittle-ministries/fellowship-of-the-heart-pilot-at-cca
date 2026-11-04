@@ -28,7 +28,7 @@ Parents going first is the engine of this design. But the engine has a depth lim
 
 ## The prototype
 
-The prototype was four families with seven teenagers among them, and it ran about two years. The design was adults first. The parents did the process work together, men and women in one group, and got it clear and working. Around the six-month mark the teenagers were invited in, so they could see in their own parents how this work changes a life.
+The prototype was four families with nine teenagers among them, and it ran about two years. The design was adults first. The parents did the process work together, men and women in one group, and got it clear and working. Around the six-month mark the teenagers were invited in, so they could see in their own parents how this work changes a life.
 
 Along the way the group wore smooth the working vocabulary the curriculum still runs on: the container, the clearing, being present, being intentional, and the blockages to hearing and obeying God, with what to do about them.
 
