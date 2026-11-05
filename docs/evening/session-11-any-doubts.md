@@ -16,12 +16,12 @@ it slipped, whether you came back to it on your own, because you wanted
 to.
 
 **Where we are on the map.** The evening opens on the Four Connects.
-Tonight closes the second movement, *Connect with God*: hearing him in
-scripture, meeting him in the garden, and now bringing him our honest
-doubts.
+Tonight is the third evening of the second movement, *Connect with God*:
+hearing him in scripture, meeting him in the garden, and now bringing him
+our honest doubts. Heart Bible Study, in January, closes the movement.
 
 **The Christmas break ahead.** Tonight is the one evening in December. The
-Christmas break follows, and Evening 9, *The Return*, opens January. So
+Christmas break follows; in January, Evening 9, *Heart Bible Study*, welcomes everyone home, and Evening 10, *The Return*, follows it. So
 tonight closes with a send-off, as Evening 7 did: two weeks as always,
 then, each week of the break, one practice of your own choosing.
 

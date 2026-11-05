@@ -76,7 +76,7 @@ into their firsts, each in the way its material asks:
   leading rep — is the standing pattern of every current evening; any
   re-run middle can be called at a planning lab.
 - **Session 19 moved to the lab**: the mercy-card rehearsal happens at
-  the off-week planning lab with John; Evening 15 teaches the cards to
+  the off-week planning lab with John; Evening 19 teaches the cards to
   the room as designed.
 
 And **the full form held in reserve** — the two-session runnings, the

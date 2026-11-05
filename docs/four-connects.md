@@ -85,7 +85,7 @@ to share carries a pass.
 
 The Four Connects is the recommended prequel to all three expressions:
 
-- [**FotH Evening**](evening/index.md): seventeen evenings for families, teens leading. The Garden of Your Heart returns there as its own evening ([The Garden of Your Heart](evening/session-09-10-the-garden-of-your-heart.md)).
+- [**FotH Evening**](evening/index.md): twenty-one evenings for families, teens leading. The Garden of Your Heart returns there as its own evening ([The Garden of Your Heart](evening/session-09-10-the-garden-of-your-heart.md)).
 - [**The CCA Pilot**](cca/index.md): the school-year family edition.
 - [**Adult FotH**](adult/index.md): a church's leaders, first for themselves.
 

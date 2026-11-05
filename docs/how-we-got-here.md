@@ -4,7 +4,7 @@ title: "How Fellowship of the Heart Got Here, 2024–2026"
 
 # How Fellowship of the Heart Got Here, 2024–2026
 
-*From one full day to seventeen evenings. A history of adaptation: the core held while the room, the rhythm and the length changed.*
+*From one full day to twenty-one evenings. A history of adaptation: the core held while the room, the rhythm and the length changed.*
 
 The longer history, from 2002, is in *Intentional Journey of the Heart*: [The Four Connects, a Dated History](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-2-knowing-to-doing%2Fexploration-05-appendix-four-connects-dated-history.md). This page tells the part that belongs to *Fellowship of the Heart*.
 
@@ -48,7 +48,7 @@ Offered as a fall after-school club in 2026, the twenty-two-week series drew no 
 
 ## The evening form
 
-The re-scope that followed took the work into a home. [FotH Evening](evening/index.md) meets every two weeks, dinner first. The twenty-two sessions were re-clocked to ninety minutes, and where two sessions worked better as one, they were combined, so the series runs to seventeen evenings. Two teenagers lead each evening, one holding the room's container and one carrying the content, prepared in a planning lab between meetings. The first evening was 15 September 2026.
+The re-scope that followed took the work into a home. [FotH Evening](evening/index.md) meets every two weeks, dinner first. The twenty-two sessions were re-clocked to ninety minutes, and where two sessions worked better as one, they were combined, so the series ran to seventeen evenings. In November four evenings were added: Heart Bible Study, the group form of the scripture practice; Doing the Word, an evening for the obey step; Serving Together, where the room serves someone side by side; and Carrying the Word, Scripture learned by heart as families. The series now runs to twenty-one. Two teenagers lead each evening, one holding the room's container and one carrying the content, prepared in a planning lab between meetings. The first evening was 15 September 2026.
 
 The two-week rhythm turned out to do something the school design had planned only for its breaks. Each gap is two weeks in which nobody gathers the room, and what a family brings back is the reading. The evening form runs that test at every return.
 

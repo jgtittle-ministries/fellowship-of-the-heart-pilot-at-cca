@@ -76,6 +76,176 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.56 — November 5, 2026 — Evening 16: Carrying the Word, and the walk at twenty-one
+
+John's word (5 November): an evening for learning Scripture by heart, as
+families, just before the Float. Nothing in the evenings or the school
+series taught Scripture memory. Deuteronomy 6:6–9 is the design in one
+sentence: the Word on the heart, taught to children at home, in the
+sitting, walking, lying down and rising. Psalm 119:11 and Colossians 3:16
+stand beside it. It serves the goal of helping it stick for the next
+generation: a verse carried by heart is the most portable thing a teen can
+take out of the series.
+
+| Evening | 1–15 | 16 | 17 | 18 | 19 | 20 | 21 |
+|---|---|---|---|---|---|---|---|
+| Was Evening (v2.55) | 1–15 | new | 16 | 17 | 18 | 19 | 20 |
+| School session | as before | none | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–17 and 18–21.
+
+- **New page:** [Evening 16 — Carrying the Word](session-16a-carrying-the-word.md):
+  choosing the passage (from the family's own journey, two to four verses,
+  every age carrying what it can), the teens teaching the room how to
+  memorize, family tables, each family saying its passage to the room, and
+  the take-home (said daily together at a named moment). Guards: no
+  contests, no grading, no shame; parents first; the Word, not a
+  performance. Its slides, run sheet, leader notes and take-home sheet are
+  still to build.
+- **Renumbered:** the old Evenings 16–20, now 17–21, everywhere people see
+  them; leader notes rebuilt; OneDrive resynced, and the old Evening 16
+  files (The Float) archived in a folder that says so.
+- **Evening 15, Family Conversation Night:** its preparation sentence asks
+  each family to talk over which passage it might learn by heart.
+- **Evening 17, The Float:** each family says its passage first, and it is
+  the first practice offered to carry through the break; the preparation
+  sentence asks families to say it together on the last day of the break.
+- **Evening 18, The Return II:** each family says its passage once, as far
+  as it carried, before the room's "what held" sentences. What carried is
+  data, tallied without names: a plain reading of whether the Word
+  survived the break.
+- **Length:** at every two weeks from January, plus the break after the
+  Float, the walk now runs into early summer. The recommendation with
+  this insert: further reinforcement is better placed in take-homes inside
+  existing evenings than in new evenings.
+
+## v2.55 — November 5, 2026 — Evening 13: Serving Together, and the walk at twenty
+
+John's word (5 November): an evening where the room leaves the table and
+serves someone together, right after Mission. *What Was Prepared for You*
+helps each person discern the works prepared for them, but no evening had
+the group do one. Evening 11 is each person's obedience; Evening 13 is the
+room's: the group level of the hunger bet, and a real leadership rep for
+the teens, who plan it at the lab. Anchors: John 13:1–17 ("If you know
+these things, blessed are you if you do them") and Matthew 25:35–40.
+
+| Evening | 1–12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|
+| Was Evening (v2.54) | 1–12 | new | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| School session | as before | none | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–16 and 17–20.
+
+- **New page:** [Evening 13 — Serving Together](session-13a-serving-together.md):
+  choosing what to serve (local, concrete, families together, about an
+  hour, arranged with the people served), the evening's clock (a short
+  meal, John 13, an hour of work, a twenty-minute circle), guards for the
+  leads (serve with people, not at them; no photos for show; no pressure
+  on the people served; safe and covered) and the take-home (one more
+  chance to serve, unplanned). Written for the usual evening; the lab may
+  move it to a Saturday morning. Its slides, run sheet, leader notes and
+  take-home sheet are still to build.
+- **Renumbered:** the old Evenings 13–19, now 14–20, everywhere people see
+  them; leader notes rebuilt; OneDrive resynced, and the old Evening 13
+  files (The Rhythm) archived in a folder that says so.
+- **Evening 12, What Was Prepared for You:** its road-ahead slide and
+  notes now name Serving Together before the Rhythm, and its preparation
+  sentence asks each person to bring the planning team one idea of someone
+  the room could serve.
+- **Evening 11, Doing the Word:** its map paragraph points ahead to
+  Serving Together.
+- **Still to rework:** the Rhythm's check-in hears the serving reports
+  under its usual "two weeks of practice reported"; name them explicitly
+  when its materials are next touched. The Evening Series Outline, and the
+  curriculum article's evening count.
+
+## v2.54 — November 5, 2026 — Evening 11: Doing the Word, and the walk at nineteen
+
+John's word (5 November): an evening for the obey step goes in between The
+Return and Mission. The series is a curriculum for hearing *and obeying*
+God. Four evenings teach hearing (PROAPT, the Garden, Any Doubts?, Heart
+Bible Study); until now obeying had a step (Pray again) and a journal
+question, but no evening. Tonight each person reads back their Tell
+sentences from Evenings 6 to 9, picks one thing heard and not yet done,
+names the smallest next step of obedience (*I heard ________. By ________ I will
+________.*), tests it, and does it in the two weeks. The reports at the next
+check-in are the room's first stories of something heard and obeyed,
+months before Return II gathers testimonies, and a mid-series reading of
+the hunger bet.
+
+| Evening | 1–10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Was Evening (v2.53) | 1–10 | new | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| School session | as before | none | 13 | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–15 and 16–19.
+
+- **New page:** [Evening 11 — Doing the Word](session-12a-doing-the-word.md),
+  on Luke 6:46–49 and James 1:22–25, with the clock, the sentence, guards
+  for the two leads (test before doing; a step that involves another person
+  is talked over with an adult first; no secrets from parents; no
+  comparing) and the take-home. Its slides, run sheet, leader notes and
+  take-home sheet are still to build.
+- **Renumbered:** the old Evenings 11–18, now 12–19, everywhere people see
+  them; leader notes rebuilt; OneDrive resynced, and the old Evening 11
+  files (Mission) archived in a folder that says so.
+- **Evening 10, The Return:** its map slide and closing now point ahead to
+  Doing the Word, and its take-home's preparation sentence is: find your
+  Tell sentences from Evenings 6 to 9 and mark each one.
+- **Evening 12, What Was Prepared for You:** its check-in, which still
+  carried the Any Doubts? inventory from before the break, now hears the
+  Doing the Word reports: one sentence each, *what I did, and what
+  happened*, received as witness. John notes them, without names, for the
+  testimony gathering at Return II.
+- **Still to rework:** the Evening Series Outline in OneDrive, and the
+  curriculum article's evening count, in its next draft.
+
+## v2.53 — November 5, 2026 — Evening 9: Heart Bible Study, and the walk at eighteen
+
+John's word (5 November): a Heart Bible Study evening goes in before The
+Return, as the first evening back in January. Heart Bible Study is PROAPT
+in its group form: three slow readings, the images, *same and different*,
+then Observe, Apply, Pray again and Tell. The Getting Started handbook
+already named it among the hearing practices, but no evening taught it.
+Every step is one the room already knows (PROAPT from Evening 6, the short
+*Any Doubts?* close from Evening 8), so the first night back asks for
+nothing new. It is also the Hebrews 5 step, from being taught to teaching
+others: a teen leads the room's hearing.
+
+| Evening | 1–8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Was Evening | 1–8 | new | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| School session | as before | none | 12 | 13 | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–14 and 15–18. Heart
+Bible Study closes *Connect with God*, though it meets after the break.
+
+- **New page:** [Evening 9 — Heart Bible Study](session-11a-heart-bible-study.md),
+  on 1 Samuel 3:1–10, with the evening's clock, what each step is for,
+  notes for the two leads and the take-home. Its slides, run sheet, leader
+  notes and take-home sheet are still to build.
+- **Renumbered:** everything people see in the old Evenings 9–17, now
+  10–18: slide titles and dividers, speaker-note tags, run sheets,
+  take-home sheets and leader notes (rebuilt from the decks). The
+  OneDrive files now run Evening 10 to 18; the old Evening 9 files (The
+  Return) went to the archive, in a folder that says so.
+- **Evening 8:** no longer the last evening of *Connect with God*. Its
+  page, closing notes and take-home now say Heart Bible Study opens
+  January and The Return follows. Its last slide, the Mission and Rhythm
+  divider, is now an Evening 9 welcome slide. The movement divider moves
+  to the Heart Bible Study deck when that is built.
+- **Evening 10, The Return:** now the second evening back. Its opening
+  note says Heart Bible Study welcomed the room home two weeks ago, and its
+  map slide adds *hearing together* to what lies behind. Its reading of
+  what held over the break is unchanged.
+- **Kept:** repo filenames and web addresses; corner page numbers; links to
+  the school series' lesson plans, still "Week N". The school series has
+  no Heart Bible Study session.
+- **Still to rework:** a full read of The Return's materials as the second
+  evening back, at its planning lab; the Evening Series Outline in
+  OneDrive; and the curriculum article, which says seventeen evenings, in
+  its next draft.
+
 ## v2.52 — November 2, 2026 — one stop for each evening's materials
 
 John's word (2 November): the teens should find everything for an evening
@@ -408,8 +578,8 @@ Evenings 2, 4, 15 and 16.
 - **The invitation list** (John's word): the homework now starts a list of
   who each family would invite to the follow-up series, names and not
   categories, prayed over before anyone is asked. The preparation sentence:
-  "Two people I'd invite to the follow-up series are ___ and ___, because
-  ___." Names stay in journals; the team keeps no list.
+  "Two people I'd invite to the follow-up series are ________ and ________, because
+  ________." Names stay in journals; the team keeps no list.
 - Evening 14 has one more slide, so the master pages from Evening 14 on
   moved up one (324 pages); leader notes rebuilt.
 
@@ -493,7 +663,7 @@ missing; all four are now in, and the school-year calendar is gone.
 - **Two journal questions for week two** (from "Hearing God — What If?"): is
   there something I heard and did not obey? what is at risk for me to hear?
   The preparation sentence: "One thing I heard that I will act on before
-  we meet is ___."
+  we meet is ________."
 - **The clock:** check-in 7:06–7:14, Mark 9 7:14–7:20, teaching 7:20–7:28,
   pairs 7:30–7:56 (about twelve minutes a turn), the silent place
   7:56–8:09, merge 8:09–8:15, homework 8:15–8:21, feedback 8:21–8:25, close
@@ -583,7 +753,7 @@ and "Hearing God — What If?".
 - **The Session 9 take-home** is filled in: three returns with the two test
   lines, week two keeps returning, and the preparation sentence points to
   *Any Doubts?*: "One thing I'm not sure was God, or one question I'd bring
-  to Any Doubts?, is ___."
+  to Any Doubts?, is ________."
 - **Saved for Any Doubts?:** the same deck's "silent place" exercise
   (remember where God seemed silent; bring in the time you heard; invite
   Jesus in) is held for Session 11.
@@ -609,7 +779,7 @@ the handout, and brought his questions and notes.
   Still one page.
 - **One sentence of preparation,** a template line that was never filled
   in, now reads: finish this sentence in your journal, "The passage that
-  spoke to me most these two weeks was ___, and what I heard was ___."
+  spoke to me most these two weeks was ________, and what I heard was ________."
 - **The clock belongs to the container holder** (John's word, 10 October).
   There is no separate timekeeper; the Pair Card, the run sheet, the deck
   notes and the session page now say the container holder keeps the clock
