@@ -40,12 +40,20 @@ Evening 8.
 
 ## Materials
 
-The slides, run sheet, leader notes and take-home sheet for this evening
-are being prepared, and will be posted here before the evening. Until
-then, this page is the plan.
+Everything for this evening, current as of the last update. Download, open, print.
 
-The protocol behind tonight is *Intentional Journey of the Heart*,
-Volume 5, [A28 — Heart Bible Study with PROAPT](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fa28-heart-bible-study-with-proapt.md).
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-09-take-home.docx) — handed out at the close; the practice until the next evening.
+- [Heart Bible Study — what each step is for (Word)](materials/evening-09-heart-bible-study-handout.docx) — the group practice, step by step, for the family table.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-09-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-09-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-09-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Reading card (Word)](materials/evening-09-reading-card.docx) — the senior reader's script, with the pauses.
+
 
 ## The evening
 
@@ -73,6 +81,8 @@ rounds are brief. If the room runs long, the same-and-different round
 shortens first; the Tell is never skipped.
 
 ## Heart Bible Study — what each step is for
+
+The protocol behind tonight is *Intentional Journey of the Heart*, Volume 5, [A28 — Heart Bible Study with PROAPT](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-5-references%2Fa28-heart-bible-study-with-proapt.md).
 
 | Step | What the room does | Why it matters |
 |---|---|---|

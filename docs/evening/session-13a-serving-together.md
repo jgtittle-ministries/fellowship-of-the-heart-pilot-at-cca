@@ -31,12 +31,6 @@ your family to bring.
 
 ---
 
-## Materials
-
-The slides, run sheet, leader notes and take-home sheet for this evening
-are being prepared, and will be posted here before the evening. Until
-then, this page is the plan.
-
 ## Choosing what to serve
 
 The planning lab after *What Was Prepared for You* chooses, with the teens
@@ -57,6 +51,22 @@ drives, and the time on site. That is their leadership rep tonight.
 **A weeknight or a Saturday.** This page is written for the usual evening.
 If the work needs more time, the planning lab may move it to a Saturday
 morning instead; the shape stays the same.
+
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-13-take-home.docx) — handed out at the close; the practice until the next evening.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-13-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-13-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-13-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Serving plan (Word)](materials/evening-13-serving-plan.docx) — the planning teens' sheet: who, what, the jobs, the rides and the guards.
+
 
 ## The evening
 

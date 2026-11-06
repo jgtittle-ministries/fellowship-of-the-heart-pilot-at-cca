@@ -76,6 +76,73 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.60 — November 6, 2026 — Evening 16's materials
+
+The full set for Evening 16, Carrying the Word, drafted for John's review
+and posted in the page's Materials section:
+
+- **Slides** (14), made from Evening 11's deck, corner pages W1–W14. The
+  teens teach five ways to carry a passage, and the room tries each on
+  Psalm 119:11 before the families turn to their own. The divider picture
+  (two candles, one flame passing to the other) comes from the spare
+  Session 19 deck, which is not in the walk.
+- **Run sheet**, **leader notes** (built from the deck), the **take-home
+  sheet** (the family's passage, the part each carries and the daily moment
+  at the top; said together every day; brought back to The Float), and a
+  one-page **How to Carry the Word** card for every family: the five ways,
+  and lines for the family's passage.
+- **Tools:** the materials and OneDrive sync tools take the file key "16a"
+  and the card, which goes home with everyone (Take-Home Sheets folder).
+
+## v2.59 — November 6, 2026 — Evening 13's materials
+
+The full set for Evening 13, Serving Together, drafted for John's review and
+posted in the page's Materials section:
+
+- **Slides** (13), made from Evening 11's deck, corner pages S1–S13. Only
+  the opening and the circle use the screen; there is none on site. The
+  opening container is the short form tonight. The divider picture (two
+  hands reaching) comes from the spare Session 14 deck, which is not in the
+  walk.
+- **Run sheet**, **leader notes** (built from the deck), the **take-home
+  sheet** (eyes open for one more chance to serve, unplanned), and a
+  one-page **Serving Plan** for the planning teens: who, what they asked
+  for, the jobs, the rides and the guards, checked.
+- **Tools:** the materials and OneDrive sync tools take the file key "13a"
+  and the Serving Plan.
+
+## v2.58 — November 6, 2026 — Evening 11's materials, and Evening 9's take-home slides
+
+The full set for Evening 11, Doing the Word, drafted for John's review and
+posted in the page's Materials section:
+
+- **Slides** (16), made from Evening 9's deck. Corner pages are D1–D16, for
+  the same reason as Evening 9's H pages.
+- **Run sheet**, **leader notes** (built from the deck), the **take-home
+  sheet** with the evening's sentence at the top, and a one-page **pair
+  card**: the sentence, the two questions, three of the *How Did You Know?*
+  checks, and prayer.
+- **Evening 9's take-home slides** (H13, H14) were too small; each now shows
+  one part of the sheet at full size, as in the earlier decks (John's note,
+  6 November).
+- **Tools:** the materials and OneDrive sync tools take Evening 11's file key
+  "12a"; the run-sheet tool no longer capitalizes small words in titles.
+
+## v2.57 — November 5, 2026 — Evening 9's materials
+
+The full set for Evening 9, Heart Bible Study, drafted for John's review and
+posted in the page's Materials section:
+
+- **Slides** (17), made from Evening 6's deck. Corner pages are H1–H17,
+  because this evening has no school-series session and sits outside the
+  series' one numbering. The last slide is the Mission and Rhythm divider,
+  moved here from Evening 8.
+- **Run sheet**, **leader notes** (built from the deck), a **reading card**
+  for the content presenter and the three readers, the **take-home sheet**,
+  and **Heart Bible Study, What Each Step Is For** for the family table.
+- **Tools:** the materials and OneDrive sync tools now take the evening's
+  file key "11a"; the leader-notes tool explains the H numbering.
+
 ## v2.56 — November 5, 2026 — Evening 16: Carrying the Word, and the walk at twenty-one
 
 John's word (5 November): an evening for learning Scripture by heart, as

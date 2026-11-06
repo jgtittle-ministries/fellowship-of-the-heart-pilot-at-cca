@@ -33,12 +33,6 @@ talked about which passage it might choose.
 
 ---
 
-## Materials
-
-The slides, run sheet, leader notes and take-home sheet for this evening
-are being prepared, and will be posted here before the evening. Until
-then, this page is the plan.
-
 ## Choosing the passage
 
 - **From the family's own journey,** if it can be: the passage that spoke
@@ -48,6 +42,22 @@ then, this page is the plan.
   or one line of it, and that counts as fully as a parent's four. A
   teen may choose to carry more.
 - **One translation per family,** so everyone says the same words.
+
+## Materials
+
+Everything for this evening, current as of the last update. Download, open, print.
+
+**For everyone**
+
+- [Take-home sheet (Word)](materials/evening-16-take-home.docx) — handed out at the close; the practice until the next evening.
+- [How to Carry the Word (Word)](materials/evening-16-carrying-card.docx) — the five ways to learn a passage by heart, and your family's passage.
+
+**For the two leads**
+
+- [Slides (PowerPoint)](materials/evening-16-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-16-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-16-leader-notes.docx) — what to say and watch for, slide by slide.
+
 
 ## The evening
 
