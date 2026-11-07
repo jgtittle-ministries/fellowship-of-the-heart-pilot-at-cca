@@ -76,6 +76,58 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.61 — November 7, 2026 — Evening 13 reshaped: hear, plan, agree
+
+John's word (7 November): the room plans its serving project during the
+evening, carries it out in the two weeks that follow, and reports back at
+the next evening. The evening is now about three skills a group needs to
+obey together: hearing God together, planning together and agreeing
+together. New anchors beside John 13: Acts 13:1–3 (the Spirit spoke to the
+whole group at Antioch) and Acts 15:28 ("it has seemed good to the Holy
+Spirit and to us").
+
+- **The page:** a new section, *Hearing, planning, agreeing*. The ideas
+  people bring go on a flip chart at the check-in. Then come three
+  minutes of listening prayer, the four checks, a first and a second
+  choice, and the Serving Plan, with the teens at the chart. The
+  agreement round is not a vote: *I'm in*, *I'm in, with a concern*, or
+  *Not yet*. The room also agrees ahead of time how the plan may change
+  after the call. New sections: the serving day, and the report at
+  Evening 14. The clock is now the usual 7:00–8:30 in the room.
+- **The room may pass** (John's word, the same day). A person may pass in
+  any circle, and so may the room. If every voice is not in by 8:08, or
+  the room says together that none of these is ours to do now, the room
+  passes for tonight. That is a full answer, not a failure. The container
+  holder names it plainly, with no blame and no names. The concerns go on
+  the Serving Plan as they were said, and the room prays for one mind
+  (John 17:21). Nobody finishes the plan afterwards: not the leaders, not
+  John, not by text. The two weeks still have a practice: eyes open for
+  one chance to serve, unplanned, and the question *what kept us from one
+  mind?* John records at the debrief whether the room agreed or passed. It
+  is one of the clearest signs of whether the group is becoming one.
+- **Slides** (17, S1–S17), rebuilt from Evening 11's deck, with one slide
+  added. Hear Together, Plan Together and Agree Together take the places
+  of Doing the Word's read-back, choose and test slides. A serving-day
+  slide with the guards is shown at the commissioning. A third take-home
+  slide, *If the Room Passed*, is shown only when the room passed.
+- **Run sheet**, **leader notes** and **take-home sheet** rebuilt. The
+  take-home now has the plan at the top (whom we serve, what they asked
+  for, our date, my part). Week one: the call and getting each part
+  ready. On our date: we serve. Then the report goes back to Evening 14.
+  The **Serving Plan** is now filled in during the evening: two choices,
+  the call, the jobs, the date, how we agreed (or that we passed), the
+  guards, and who gives the report. Still one page. The take-home's second
+  page carries the other practice, for a room that passed.
+- **Evening 12:** the preparation sentence now reads "bring one idea,
+  someone near us the room could serve together. We choose together." No
+  planning team chooses it any more. The road-ahead slide and notes say
+  the same. The take-home slide's picture of the sheet was redrawn; it
+  still showed the generic placeholder line.
+- **Evening 14:** its check-in now opens with the room's serving report,
+  given by the teens who planned it, or, if the room passed, a sentence
+  from each person. This closes the item left open in
+  v2.55.
+
 ## v2.60 — November 6, 2026 — Evening 16's materials
 
 The full set for Evening 16, Carrying the Word, drafted for John's review
