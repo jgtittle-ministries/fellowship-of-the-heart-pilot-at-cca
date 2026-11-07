@@ -76,6 +76,20 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.62 — November 7, 2026 — The Whole Road
+
+A new page, [The Whole Road](the-whole-road.md): all twenty-one evenings
+on one page, first written for the parents' review (John's word, 7
+November). It sets out the shape of every evening and three threads
+through the series: trust (held, then known, then owned), skills each
+built on the one before, and teen leadership growing by stages. A table
+shows where each recurring practice begins and where it comes back. Then
+each evening gives what it does, what goes home, and what it picks up from
+the evenings before. Each title links to that evening's page, and the
+page has a Word download. It sits after the Handbook in the sidebar and is
+linked from the landing page. The curriculum article links to it as the
+overview of what the evenings contain.
+
 ## v2.61 — November 7, 2026 — Evening 13 reshaped: hear, plan, agree
 
 John's word (7 November): the room plans its serving project during the

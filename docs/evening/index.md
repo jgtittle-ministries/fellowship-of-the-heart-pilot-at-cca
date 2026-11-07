@@ -138,6 +138,11 @@ the school series has no session for them. The school series' second runnings A 
 evenings here: every evening already gives willing teens a full leading rep,
 and the rehearsal moved to the planning lab.
 
+[The Whole Road](the-whole-road.md) is the whole plan on one page: what
+each of the twenty-one evenings does, what goes home, and how each evening
+builds on the ones before it, along three threads: trust, skills, and teen
+leadership.
+
 The [Evening Handbook](handbook.md) is the one-sitting guide to how the
 evenings work — the shape of the night, the two teen roles, the take-home
 rhythm, and what surrounds it all. What has changed, evening by evening, is

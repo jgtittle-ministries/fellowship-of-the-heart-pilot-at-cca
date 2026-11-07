@@ -31,7 +31,8 @@ const ROOT_PAGES = ['index.md', 'start-here.md', 'four-connects.md', 'how-we-got
 // orderKey. Folders keep their paths, so links into them never break.
 const SERIES_DEFS = [
   { id: 'evening', name: 'FotH Evening', groups: [
-    { dir: 'evening', label: null, edition: 'v1' } ] },
+    { dir: 'evening', label: null, edition: 'v1',
+      order: ['index.md', 'handbook.md', 'the-whole-road.md'] } ] },
   { id: 'cca', name: 'CCA Pilot', index: 'docs/cca/index.md', groups: [
     { dir: 'cca',             label: null,                         edition: null },
     { dir: 'getting-started', label: 'Getting Started · 22 weeks', edition: 'v3' },

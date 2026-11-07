@@ -54,6 +54,11 @@ window.SERIES = [
         "edition": "v1"
       },
       {
+        "path": "docs/evening/the-whole-road.md",
+        "title": "The Whole Road — Evenings 1 to 21",
+        "edition": "v1"
+      },
+      {
         "path": "docs/evening/session-01-welcome-to-the-journey.md",
         "title": "Evening 1 — Welcome to the Journey",
         "edition": "v1"
@@ -948,6 +953,15 @@ window.PATH_TO_INFO = {
     "title": "The Evening Handbook",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/index.md",
+    "next": "docs/evening/the-whole-road.md"
+  },
+  "docs/evening/the-whole-road.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "The Whole Road — Evenings 1 to 21",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/handbook.md",
     "next": "docs/evening/session-01-welcome-to-the-journey.md"
   },
   "docs/evening/session-01-welcome-to-the-journey.md": {
@@ -956,7 +970,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Evening 1 — Welcome to the Journey",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/handbook.md",
+    "prev": "docs/evening/the-whole-road.md",
     "next": "docs/evening/session-02-the-soil-of-your-heart.md"
   },
   "docs/evening/session-02-the-soil-of-your-heart.md": {
