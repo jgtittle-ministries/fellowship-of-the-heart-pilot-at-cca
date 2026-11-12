@@ -1,6 +1,6 @@
 # Evening 8 — Any Doubts?
 
-*FotH Evening · Tuesday, December 8 (expected) · Anchor: Mark 9:14–29; "I believe; help my unbelief!" (Mark 9:24)*
+*FotH Evening · Tuesday, December 1 · Anchor: Mark 9:14–29; "I believe; help my unbelief!" (Mark 9:24)*
 
 **This evening.** We practice naming the doubts we usually do not say out
 loud and bringing them honestly to God. The model is the father in Mark 9:
@@ -9,11 +9,11 @@ Spirit's work. The practice runs in pairs, a parent with their own teen,
 and the parent always goes first. Then we go to the silent place: a time
 when God seemed silent, with the time we did hear him brought in.
 
-**First, the return.** This is our first evening after four weeks apart.
+**First, the return.** This is our first evening after three weeks apart, across Thanksgiving.
 Before anything new, we come back together and read the gap honestly:
-which practices you chose for weeks three and four, what held, and, when
+which practice you chose after the first two weeks, what held, and, when
 it slipped, whether you came back to it on your own, because you wanted
-to.
+to. We talk it over at dinner; in the circle, one word each.
 
 **Where we are on the map.** The evening opens on the Four Connects.
 Tonight is the third evening of the second movement, *Connect with God*:
@@ -51,34 +51,39 @@ Everything for this evening, current as of the last update. Download, open, prin
 
 | Time | Block | Lead |
 |---|---|---|
-| 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
-| 7:00–7:06 | Welcome and centering; blessing; the map. Rebuild the container slowly, on purpose: it has been four weeks. | Container holder |
-| 7:06–7:18 | The return round, in place of the usual check-in: which practices you chose for weeks three and four, and why; what held; when it slipped, did you come back on your own; which you would keep. Then "one thing I'm not sure was God," said aloud or kept for the pair. Received with "We hear that." | Container holder |
-| 7:18–7:23 | Mark 9:14–29, read in full: the father names belief and unbelief at once, and Jesus heals the boy. | Content presenter |
-| 7:23–7:30 | The practice taught: Name, Exaggerate, Sit, Re-read. Two kinds of doubt: what God has said (the four steps), and whether I heard him (the How Did You Know? checks). A short, real demo. | Content presenter |
-| 7:30–7:31 | Bridge to the pairs: parent with own teen; the parent goes first. | Content presenter |
-| 7:31–7:53 | Any Doubts? in pairs: one full cycle each way, about eleven minutes a turn, the parent's turn first. | Content presenter; container holder watching the room |
-| 7:53–8:06 | The silent place: settle; remember a time or place where God seemed silent; bring in the time you heard (remembered at the Garden evening); invite Jesus in, with permission to do or say anything he wishes, then about three minutes of silence; write (is something blocking? what might be the downside of a deeper connection?); share, optional. | Content presenter reads; container holder watching the room |
-| 8:06–8:12 | Merge: one word about the practices, not the doubt. Received without comment. | Container holder |
-| 8:12–8:21 | Take-home and the Christmas send-off: the doubts inventory in week one, the check-in, two journal questions in week two; then each week of the break a practice of your own choosing from the list, now with *Any Doubts?* on it; the returning rule; who to reach. | Content presenter |
-| 8:21–8:25 | Leader Feedback Round, both leaders. | Both leaders |
-| 8:25–8:30 | Closing container; the Christmas break named; blessings; the Aaronic blessing. | Container holder |
-| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief, with the quiet tally of the practices chosen; planning January. | Everyone; John holds the debrief |
+| 6:00 | Dinner. Over the meal, John asks the return questions around the table (below), and asks Evening 7's two leads the leading question: "What did leading this teach you that hearing it did not?" The leading team's walk-through at the table's edge if needed. | Household; John asks |
+| 7:00–7:05 | Welcome and centering; blessing; the map. Rebuild the container slowly, on purpose: it has been three weeks. | Container holder |
+| 7:05–7:09 | The return, one word each: what your chosen practice did in you. Received with a nod. "One thing I'm not sure was God" goes to your pair tonight. | Container holder |
+| 7:09–7:12 | Mark 9:14–29, read in full: the father names belief and unbelief at once, and Jesus heals the boy. | Content presenter |
+| 7:12–7:16 | The practice taught: Name, Exaggerate, Sit, Re-read. Two kinds of doubt: what God has said (the four steps), and whether I heard him (the How Did You Know? checks). A short, real demo. | Content presenter |
+| 7:16–7:17 | Bridge to the pairs: parent with own teen; the parent goes first. | Content presenter |
+| 7:17–7:39 | Any Doubts? in pairs: one full cycle each way, about eleven minutes a turn, the parent's turn first. | Content presenter; container holder watching the room |
+| 7:39–7:52 | The silent place: settle; remember a time or place where God seemed silent; bring in the time you heard (remembered at the Garden evening); invite Jesus in, with permission to do or say anything he wishes, then about three minutes of silence; write (is something blocking? what might be the downside of a deeper connection?); share, optional. | Content presenter reads; container holder watching the room |
+| 7:52–7:56 | Merge: one word about the practices, not the doubt. Received without comment. | Container holder |
+| 7:56–8:02 | Take-home and the Christmas send-off, handed out on paper and walked: the doubts inventory in week one, the check-in, two journal questions in week two; then each week of the break a practice of your own choosing from the list, now with *Any Doubts?* on it; the returning rule; who to reach. | Content presenter |
+| 8:02–8:12 | Leader Feedback Round, in full: the leaders' own answers, then the room's, every parent answering, each adding only what hasn't been said. | Both leaders |
+| 8:12–8:16 | Closing container; the Christmas break named; blessings; the Aaronic blessing. | Container holder |
+| 8:16–8:30 | Buffer, for a practice that runs deep. | |
+| 8:30–9:00 | Fellowship; the five-question materials debrief, with the quiet tally of the practices chosen (from the dinner answers); planning January. | Everyone; John holds the debrief |
 
-## The return round — how it runs
+## The return — how it runs
 
-Around the circle, one person at a time, the leader first, then a parent,
-with the two sentences from the Evening 7 take-home in hand.
+**At dinner.** Over the meal, John asks the return questions around the
+table, the way he asks about the homework at every dinner. Bring the two
+sentences from the Evening 7 take-home.
 
-1. **Which did you choose?** The practice you chose for week three, and the
-   one for week four, and in a few words, why those.
+1. **Which did you choose?** The practice you chose after the first two
+   weeks, and in a few words, why.
 2. **What held?** Which made it through the week, and which slipped. Plain
    words.
 3. **Did you come back?** When it slipped, did you return to it on your
-   own — not because an evening was coming, but because you wanted to?
+   own — not because an evening was coming, but because you wanted to? And
+   did anyone remind you?
 4. **Which one would you keep?** The one you most wanted to keep doing.
-5. **What you're not sure was God.** Say it aloud, or keep it for your
-   pair tonight.
+
+**In the circle,** after the welcome: one word around the room for what
+your chosen practice did in you, received with a nod. What you're not
+sure was God goes to your pair tonight, or stays in your journal.
 
 Nobody fixes anybody, and nobody compares. Slips are data, not a verdict.
 Nobody owes anyone an explanation for the gap. If the gap was hard in ways

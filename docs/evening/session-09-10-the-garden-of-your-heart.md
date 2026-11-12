@@ -19,7 +19,7 @@ senior reads from the start, and the returns to the garden at home are the
 second visit. Most of us only get all the way in on a return.
 
 **The long gap ahead.** There is no evening over Thanksgiving week, so the
-next evening is four weeks away, on Tuesday, December 8. The first two
+next evening is four weeks away, on Tuesday, December 8. *(Update, 11 November: the next evening is now Tuesday, December 1, three weeks on, so the practice you choose covers one week, not two.)* The first two
 weeks run as always: the garden, with a check-in after week one. Weeks
 three and four are yours to choose: each week, pick one of the practices
 we have walked so far, whichever you would really like to do. On December
@@ -65,7 +65,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 8:13–8:16 | Homework, weeks one and two: three returns this week, five to ten minutes, journaled, with two lines after each: does it fit Scripture? who could I tell? | Content presenter |
 | 8:16–8:21 | The long gap: weeks three and four, one practice each from the practices so far, chosen freely; the returning rule; who to reach. Then the sheets, the two cards, and check-in partners named aloud. | Content presenter |
 | 8:21–8:24 | Leader Feedback Round, both leaders. Drop it if the room is still deep in the garden's quiet. | Both leaders |
-| 8:24–8:30 | Closing container, gently: "What will you do or say differently?"; blessings; the Aaronic blessing; see you December 8. | Container holder |
+| 8:24–8:30 | Closing container, gently: "What will you do or say differently?"; blessings; the Aaronic blessing; see you December 1. | Container holder |
 | 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
 ## The practices so far — choose from these
@@ -155,7 +155,7 @@ from the list above, the one you would really like to do; a different one
 in week four. Write down which, and why. If it slips, begin again the next
 day. No starting over, and no counting streaks.
 
-**5. Two sentences of preparation.** Before December 8, in your journal:
+**5. Two sentences of preparation.** Before December 1, in your journal:
 "One thing I'm not sure was God, or a question I'd bring to *Any Doubts?*,
 is ____." And: "The practice I most wanted to keep was ____, because ____."
 

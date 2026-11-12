@@ -29,12 +29,11 @@ the confession-and-restoration evening, closed the movement. On **Monday,
 October 26**, [Evening 6 — Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md)
 opened the second movement, *Connect with God*.
 
-**Next evening:** [Evening 7 — The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md),
-on **Tuesday, November 10**.
+On **Tuesday, November 10**, [Evening 7 — The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md)
+followed it.
 
-**Then:** no evening over Thanksgiving. [Evening 8 — Any Doubts?](session-11-any-doubts.md) is
-expected on **Tuesday, December 8** (to be confirmed), the one evening in
-December.
+**Next evening:** no evening over Thanksgiving. [Evening 8 — Any Doubts?](session-11-any-doubts.md),
+on **Tuesday, December 1**, is the one evening in December.
 
 **After that,** a Christmas break. In January,
 [Evening 9 — Heart Bible Study](session-11a-heart-bible-study.md) welcomes
@@ -114,8 +113,8 @@ cards, always the current versions. Start there.
 | 4 — [Knowing and Being Known](session-05-knowing-and-being-known.md) | Tue Sep 15 | Walked: the first evening |
 | 5 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | Wed Oct 7 | Walked: closed the first movement |
 | 6 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II in one evening | Mon Oct 26 (moved from Tue Oct 13) | Walked: opened the second movement |
-| 7 — [The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md), Garden I & II in one evening | Tue Nov 10 | **Next** |
-| 8 — [Any Doubts?](session-11-any-doubts.md) | Tue Dec 8 (expected) | Then |
+| 7 — [The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md), Garden I & II in one evening | Tue Nov 10 | Walked |
+| 8 — [Any Doubts?](session-11-any-doubts.md) | Tue Dec 1 | **Next** |
 | 9 — [Heart Bible Study](session-11a-heart-bible-study.md) | January, the first evening after the Christmas break | Ahead: added 5 November |
 | 10 — [The Return](../getting-started/week-12-return.md) | January | Ahead |
 | 11 — [Doing the Word](session-12a-doing-the-word.md) | | Ahead: added 5 November |

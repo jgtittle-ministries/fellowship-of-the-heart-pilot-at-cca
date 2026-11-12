@@ -24,7 +24,7 @@ materials change. Nobody in the circle is being graded.
 
 | Time | What | Who leads |
 |---|---|---|
-| 6:00 | Dinner together. Arrival, names, hospitality — the table is part of the container. | The household |
+| 6:00 | Dinner together. Arrival, names, hospitality — the table is part of the container. Over the meal, John asks about the homework: what's working, and what's not. | The household; John asks |
 | 7:00 | The session begins (blocks below). | The teen leads |
 | 8:30 | Curriculum session complete. Fellowship, leadership feedback, planning for next meeting. | Everyone |
 | 9:00 | Done. | |
@@ -33,16 +33,51 @@ The 90-minute session keeps a steady shape:
 
 | Time | Block | Lead |
 |---|---|---|
-| 7:00–7:08 | Welcome and centering: blessing, the Four Connects map (where tonight sits), container reminder, frame the evening. | Container holder |
-| 7:08–7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares; a parent opens. | Container holder |
-| 7:25–7:45 | Teaching block: the session's content. | Content presenter |
-| 7:45–8:10 | Practice block: the session's exercise, in circle. | Content presenter, container holder watching the room |
-| 8:10–8:22 | Shared circle: what surfaced. Parents first. | Container holder |
-| 8:22–8:28 | Homework commissioning: the take-home walked, check-in partners named aloud. | Content presenter |
-| 8:28–8:30 | Closing blessing. | Container holder |
+| 7:00–7:05 | Welcome and centering: blessing, the Four Connects map (where tonight sits), container reminder, frame the evening. | Container holder |
+| 7:05–7:09 | Check-in: one word around the room for what the homework did in you. The homework itself was talked over at dinner. | Container holder |
+| 7:09–7:25 | Teaching block: the session's content, one block (Scripture, teaching, framing and bridge together). | Content presenter |
+| 7:25–7:50 | Practice block: the session's exercise, in circle or pairs. Its time is protected. | Content presenter, container holder watching the room |
+| 7:50–7:57 | Shared circle: what surfaced, two or three voices or one word each. Parents first. | Container holder |
+| 7:57–8:02 | Homework commissioning: the take-home handed out on paper and walked, check-in partners named aloud. | Content presenter |
+| 8:02–8:12 | Leader Feedback Round: the leaders' own answers, then the room's, every parent answering, each adding only what hasn't been said. | Both leaders |
+| 8:12–8:16 | Closing blessing. | Container holder |
+| 8:16–8:30 | Buffer: for a practice that runs deep or a room that needs it. | |
 
 Each session's page carries its own run sheet where the evening bends this
 shape; the shape itself is the constant.
+
+## Keeping the evening to time
+
+*Added 11 November 2026, after Evening 7 (John's word).* The evenings were
+running long. Pair work takes the same time however many are in the room;
+whole-room rounds grow with every person added, and with guests and a
+growing group they are what overran. So the fix keeps the practice and
+shortens the rest.
+
+- **Protect the practice.** The practice blocks keep their full time. So do
+  a short container open and close, the return question after a break, the
+  take-home, and the Leader Feedback Round.
+- **The homework is talked over at dinner.** John asks around the table
+  what's working and what's not. In the circle, the check-in is one word
+  each: what the homework did in you.
+- **Whole-room rounds scale.** A round that everyone answers becomes one
+  word each, or two or three voices, or pairs. One-word merges stay.
+- **One teaching block.** Scripture, teaching, framing and bridge run as one
+  block. Anything more goes on the take-home sheet.
+- **The take-home goes out on paper**, walked in a few minutes, not read.
+- **The Leader Feedback Round stays whole.** The leaders give their own
+  answers, then the room answers the same two questions about them, and
+  every parent answers. It is feedback and affirmation at once, for leaders
+  who are still finding their way, and the parents' word is a big deal to
+  the teens. When a teen leads, the room's answers are kind and brief, but
+  every voice is welcome. It is never the block that gets squeezed. **Each
+  person adds only what hasn't already been said**; agreeing with what
+  someone said is a nod, or "same." At Evening 7 the round ran about
+  fifteen minutes, much of it repeating what others had said.
+- **An adult keeps a visible clock**, with each block's end time, and gives
+  the container holder a two-minute signal.
+- **The buffer is for depth, not for more material.** A messy evening
+  whose practice lands is a good evening.
 
 Two standing flexibilities inside the shape. **Every evening opens on the
 map**: the Four Connects — Self, Others, God, Mission — with tonight's
@@ -131,11 +166,44 @@ follows [If someone reports oppression from outside](../getting-started/handbook
 pray with them in Jesus' name afterward, bring the parent in, and never
 make it a moment in the circle.
 
+## When something said isn't right
+
+The circle receives what is told, with *"We hear that,"* and no fixing,
+advice or comment. Receiving is not agreeing. Sooner or later someone, a
+teen or a guest, will say in the circle something a parent knows is not
+right. The rule moves correction; it does not remove it.
+
+- **Not in the circle.** The circle never debates or corrects what a person
+  says they heard. Correction in front of the room teaches everyone that
+  honesty is unsafe.
+- **Testing is the practice.** Anything heard that is to be acted on is
+  first tested in company: Scripture first, then others, then time (the
+  *How Did You Know?* checks, and the whole *Any Doubts?* evening). A
+  leader may point the room to the checks in general, never at one
+  person's sentence.
+- **Afterward, privately, gently.** Anything said that conflicts with
+  Scripture, or that could do harm, is taken up after the evening, in
+  private and gently (Matt 18:15; Gal 6:1): by the teen's parent, or by the
+  backstop adult when no parent is there, as with a guest. Anything that
+  could do harm, or a step that involves another person, goes to the
+  backstop adult that same evening.
+- **Parents keep their authority.** What a family teaches at home is the
+  family's. The group never overrides a parent, and no one in the group
+  asks a teen to keep anything from a parent.
+- **Weighing together comes later.** Later in the series the room learns to
+  weigh what it hears together (Evening 13: hearing, planning, agreeing).
+  Receiving first is the rule for this stage of the road, not the whole of
+  it.
+
 ## The planning lab
 
 In the off week, the leading team walks the coming session with John —
 about thirty minutes, by phone or at the dinner table when the schedule
-lets the lab happen face to face. The lab walks the session's issues,
+lets the lab happen face to face. **Every lab opens with one question:
+have you reviewed the slides?** Then John walks the slides with the
+leading pair, from a printed copy he brings, and the content presenter
+says each teaching transition aloud once: the container is learned by
+now, and the content is the challenge each time. The lab then walks the session's issues,
 fragilities, and passes; names the watch-fors; and settles anything the
 run sheet leaves open. No teen leads a session cold. The content presenter
 also practices delivering the teaching in the lab, to John if no one else,
@@ -159,7 +227,11 @@ Each session ends with a one-page take-home in four parts:
 2. **The end-of-week-one check-in** — at the end of week one, connect with
    the partner you named aloud at commissioning and report how it's going.
    A text, a call, or a hallway conversation all count. You are not
-   grading each other; you are *expecting* each other.
+   grading each other; you are *expecting* each other. If your family
+   wants to do the week-one check-in together at the table as well, that
+   is welcome: one family found the parents hearing each check-in was a
+   gift. Keep your named partner too; the partners cross families on
+   purpose, and listening is not checking.
 3. **The homework practice, week two** — the practice continued, deepened
    or repeated as the session specifies.
 4. **One sentence of preparation** — read, notice, or bring something for
@@ -176,9 +248,11 @@ it is an invitation to return.*
 
 After the closing blessing, the evening turns to the leaders:
 
-- **The room's feedback to the leads**, following the leaders' own three
-  answers — what went well, what I would do differently, and the
-  teach-back.
+- **After the Leader Feedback Round.** The round itself happens in the
+  room, before the closing: the leaders' own three answers (what went
+  well, what I would do differently, and the teach-back), then the room's,
+  every parent answering. Anything harder than the room's kind, brief
+  answers is taken up here, not in front of the room.
 - **The five-question materials debrief**, held by John: Were the
   instructions clear? Could the team use them as written? What changed on
   the fly? Where did the room wobble? What should the materials say
@@ -215,10 +289,24 @@ Whatever the answers are, they come back to the leadership window as the
 inviter tells them, without names in any record, and they feed the
 five-question materials debrief: did that evening carry a newcomer?
 
+**A guest who comes back is one sign.** Even one evening gives outside eyes
+on whether the work holds anything of value, and a return says more. It is
+one sign among others, since friendship and a good table bring people back
+too, and a guest who doesn't return is never held against an evening. So
+at each leadership window John notes, with no names, how many guests came,
+what the inviters heard, and how many guests have come back.
+
 **Guests train the leaders.** Starting someone in the middle, and
 explaining enough of what is going on for them to take part, is part of
 what the teen leads are learning. It is rehearsed at every planning lab
 (the cold start, above).
+
+**A guest's partner is a bridge.** At commissioning, invite a guest to
+choose a check-in partner who knows them and has walked the practices. That
+partner explains any practice the guest missed and expects to hear from
+them in the week, which is also the likeliest reason a guest comes back.
+It is teaching others in its smallest form. Anything of weight still goes
+to an adult.
 
 ## How the group is watched over
 

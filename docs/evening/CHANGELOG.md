@@ -76,6 +76,131 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.70 — November 12, 2026 — Evening 15's cards go home; the last Pulse lines out
+
+John's word (12 November). The Pulse was dropped in October (v2.50), but
+Evening 15 still sent "Pulse 3" home, and Evening 17 still had a slide for
+collecting it. Week one's homework now carries the evening's own practice home.
+
+- **Evening 15, Family Conversation Night.** Each family takes a set of
+  tonight's dessert cards home (the same two or three prompts). Week one:
+  at one family meal, one card, with parents answering first; "the card you
+  built in Evening 14 is still the assignment" stands. Week two: another
+  meal, another card, and a journal line on what the conversation opened.
+  The 8:17–8:20 block is now "The cards go home"; its slide, its notes, the
+  road slide, the closing notes, the aim line and the take-home were all
+  changed. The run sheet asks for one set of cards per family as well as
+  one stack per table. The take-home's two slide images were re-rendered;
+  they still showed the school wording ("Session 16", "next Wednesday's
+  door").
+- **Evening 17, The Float.** The "Quarterly Pulse — Back in the Bin" slide
+  is gone, along with its road line and the "Pulse bin sits at the door" line
+  in the road notes. The corner numbers from there through Evening 21 moved
+  down by one (Evening 17 is now 243–254 and the last page is 323), and
+  `slide-numbering-map.md` was updated.
+- Leader notes rebuilt for Evenings 15 and 17 through 21; all of it synced
+  to OneDrive. The school version (`docs/getting-started/week-16-family-night.md`)
+  keeps its Pulse.
+
+## v2.69 — November 12, 2026 — A guest who comes back is one sign
+
+John's word, 12 November, from the review of the curriculum article. The
+handbook said a returning guest was the strongest answer, "because nothing
+brings a guest back but the evenings themselves." That claimed too much:
+friendship and a good table bring people back too. The guests section now
+reads a return as one sign among others, never held against an evening.
+The count at the leadership window is unchanged.
+
+## v2.68 — November 12, 2026 — When something said isn't right; guests who come back
+
+John's word, 12 November, carried over from the curriculum article (v17).
+
+- **When something said isn't right** (new handbook section, after the
+  bright line). The circle receives without fixing, and receiving is not
+  agreeing. Parents are charged to teach their children, so the rule moves
+  correction rather than removing it: never in the circle; testing is the
+  practice (the *How Did You Know?* checks, *Any Doubts?*); anything that
+  conflicts with Scripture or could do harm is taken up afterward,
+  privately and gently, by the teen's parent, or by the backstop adult when
+  no parent is there; parents keep their authority, and no one asks a teen
+  to keep anything from a parent. Weighing together comes later in the
+  series (Evening 13).
+- **A guest who comes back** (handbook, guests section). Guests are outside
+  eyes: even one evening says whether the work holds anything of value,
+  and a return says more. At each leadership window John notes, with no
+  names, how many guests came, what the inviters heard, and how many have
+  come back.
+
+## v2.67 — November 11, 2026 — The leading question at Evening 8's dinner
+
+John's word, 11 November. At the 1 December dinner John asks Evening 7's
+two leads the fixed leading question, asked the same way to each: "What
+did leading this teach you that hearing it did not?" Evening 8's page and
+run sheet say so. John keeps a one-page notes sheet in hand at dinner and
+the debrief (kept with his own papers, not published).
+
+## v2.66 — November 11, 2026 — The feedback round: add, don't repeat
+
+From the Evening 7 debrief (John's word, 11 November). The Leader Feedback
+Round ran about fifteen minutes, much of it repeating what others had
+already said. The room's direction now reads, in every deck and in the
+handbook: every parent answers, each adding only what hasn't been said;
+agreeing is a nod, or "same." The leader notes in sixteen decks still said
+"two or three voices is plenty" or that the round "may be dropped"; both
+now follow v2.63 (the round stays whole, never squeezed). The two rite
+evenings keep their note that the ceremony may take the round's place.
+Leader notes rebuilt for every evening; materials republished.
+
+## v2.65 — November 11, 2026 — A guest's partner is a bridge
+
+From Evening 7's commissioning (John's word, 11 November). Two guests
+chose check-in partners among teens who knew them and had walked the
+practices, so a partner could explain what the guests had missed and the
+guests had a reason to come back. The handbook's guests section now invites
+it: a guest chooses a partner who knows them and has walked the practices;
+anything of weight still goes to an adult.
+
+## v2.64 — November 11, 2026 — The family check-in, invited
+
+From the Evening 7 dinner (John's word, 11 November). One family does the
+end-of-week-one check-in largely together, with the parents hearing each
+check-in, while keeping their named partners. The handbook's take-home
+section now invites it as an option, not a requirement: the named partner
+stays the standard, because partners cross families on purpose, and
+listening is not checking.
+
+## v2.63 — November 11, 2026 — Keeping the evening to time; Evening 8 on December 1
+
+From the Evening 7 debrief (John's word, 11 November). The evenings were
+running long, with too much material for a growing room. Pair work takes
+the same time however many come; whole-room rounds grow with every person.
+So the practice keeps its time and the rest shortens.
+
+- **Handbook:** a new section, *Keeping the evening to time*. The homework
+  is talked over at dinner (John asks what's working and what's not), and
+  the circle's check-in is one word each. Whole-room rounds become one word,
+  two or three voices, or pairs. One teaching block. The take-home goes out
+  on paper. An adult keeps a visible clock. The standard shape now ends at
+  8:16 with a buffer for depth.
+- **The Leader Feedback Round stays whole** and moves into the standard
+  shape: the leaders' own answers, then the room's, every parent answering.
+  It is affirmation as much as feedback, and the parents' word matters
+  most to the teens. The slide notes no longer say it may be dropped.
+- **The planning lab opens with one question: have you reviewed the
+  slides?** John walks the slides with the leading pair from a printed
+  copy, and the content presenter says each teaching transition aloud once.
+- **Evening 8, *Any Doubts?*, is on Tuesday, December 1**, three weeks after
+  Evening 7. Re-timed: the return questions are asked at dinner (now with
+  "did anyone remind you?"), the circle names the return in one word each,
+  both practices keep their full time, the feedback round runs ten minutes,
+  and the evening closes at 8:16. The quiet tally is taken from the dinner
+  answers. Page, run sheet, slides and leader notes updated. The C5 return
+  question is unchanged in wording; only where it is asked has moved.
+- **Dates:** the landing page, The Whole Road (page and Word download) and
+  the Evening 7 page now say December 1. The Evening 7 take-home that went
+  home said December 8 and weeks three and four; its page keeps that plan
+  with a dated note.
+
 ## v2.62 — November 7, 2026 — The Whole Road
 
 A new page, [The Whole Road](the-whole-road.md): all twenty-one evenings

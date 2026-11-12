@@ -146,7 +146,7 @@ sentence of what I heard, said to someone.\
 reading practice. The trust built with each other now turns toward God
 and His Word.
 
-**Evening 7 — [The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md)** · *Tuesday 10 November, next*\
+**Evening 7 — [The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md)** · *Tuesday 10 November*\
 We remember a real time we heard God, and ask how we knew. Then a guided
 time of prayer: picturing the heart as a garden and inviting Jesus in.
 Notice, don't conclude.\
@@ -156,8 +156,8 @@ practice chosen from The Practices So Far.\
 *Picks up:* Evening 2's heart soil and Evening 6's hearing. It adds the
 first testing of what we hear: How Did You Know?
 
-**Evening 8 — [Any Doubts?](session-11-any-doubts.md)** · *Tuesday 1 or 8 December, expected depending on family situations*\
-First the return: what held over four weeks apart. Then naming honest
+**Evening 8 — [Any Doubts?](session-11-any-doubts.md)** · *Tuesday 1 December, next*\
+First the return: what held over three weeks apart. Then naming honest
 doubts to God, in parent–teen pairs, the parent first ("I believe; help my
 unbelief!", Mark 9:24). Then the silent place: a time God seemed silent,
 with a time we did hear Him brought in.\
