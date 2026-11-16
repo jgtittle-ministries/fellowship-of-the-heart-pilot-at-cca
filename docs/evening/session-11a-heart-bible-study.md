@@ -4,7 +4,7 @@ title: "Evening 9 — Heart Bible Study"
 
 # Evening 9 — Heart Bible Study
 
-*FotH Evening · Hearing God together · Anchor: 1 Samuel 3:1–10; Nehemiah 8:8; Acts 13:1–3*
+*FotH Evening · Hearing God together · Anchor: 1 Samuel 3:1–10; Nehemiah 8:8; Acts 13:1–3; Psalm 95:1–8; Hebrews 3:13*
 
 **This evening.** At Evening 6 each of us learned to hear God in Scripture
 for ourselves, with PROAPT. Tonight the room learns to hear Him
@@ -63,14 +63,14 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 7:00–7:08 | Welcome home and centering; blessing; the map (the last evening of *Connect with God*); container reminder. | Container holder |
 | 7:08–7:18 | The welcome-back round: one sentence each, *one thing from the break I want this room to know.* A parent starts; pass is a full answer. No reading of practices tonight: that is The Return's work. | Container holder |
 | 7:18–7:25 | From my hearing to our hearing: PROAPT is how I hear; Heart Bible Study is how we hear together. Nehemiah 8:8 and Acts 13:2. The question that makes it work: *what did you hear that was the same, and what was different?* | Content presenter |
-| 7:25–7:28 | Pray: the Spirit invited, briefly. | Content presenter |
-| 7:28–7:38 | Read: 1 Samuel 3:1–10, three slow readings, eyes closed except the reader's. Three readers: a teen, a parent, a teen. | Content presenter; three readers |
-| 7:38–7:48 | Images: *what pictures, words or feelings came as you listened?* Brief, one at a time, received with "We hear that." For anyone who doesn't think in pictures, the other door: a sound, a gesture, a shape. | Content presenter, container holder watching the room |
-| 7:48–7:55 | Same and different: what did others hear that you heard too? What did you hear that no one else did? | Content presenter |
+| 7:25–7:30 | Pray: thanks, then bow. Psalm 95:1–2 and a one-word thanks round from the break; Psalm 95:6–7 and heads bowed, kneeling for anyone who wants to; the Spirit invited; then *"Today, if you hear his voice"* (Psalm 95:7–8) opens the readings. | Content presenter |
+| 7:30–7:40 | Read: 1 Samuel 3:1–10, three slow readings, eyes closed except the reader's. Three readers: a teen, a parent, a teen. | Content presenter; three readers |
+| 7:40–7:50 | Images: *what pictures, words or feelings came as you listened?* Brief, one at a time, received with "We hear that." For anyone who doesn't think in pictures, the other door: a sound, a gesture, a shape. | Content presenter, container holder watching the room |
+| 7:50–7:55 | Same and different: what did others hear that you heard too? What did you hear that no one else did? | Content presenter |
 | 7:55–8:03 | Observe and Apply: what the passage says (who, what, where), then *what is the Spirit highlighting for me tonight?* One specific thing, written in the journal. | Content presenter |
 | 8:03–8:07 | Pray again, in silence, with the spoken frame: what I heard, what I am willing to do, what I am struggling to be willing to do. | Content presenter |
-| 8:07–8:14 | Tell, to the whole circle: *what I heard, and what I will do with it*, one sentence each. A parent opens. The room receives as witness, without comment. | Container holder |
-| 8:14–8:20 | Homework commissioning: the take-home walked, check-in partners named aloud. | Content presenter |
+| 8:07–8:14 | Tell, to the whole circle: *what I heard, and what I will do with it*, one sentence each. A parent opens. The room receives as witness, without comment. The Tell is the room's answer to "today." | Container holder |
+| 8:14–8:20 | Homework commissioning: the take-home walked, check-in partners named aloud (Hebrews 3:13: encourage one another daily, as long as it is called "today"). | Content presenter |
 | 8:20–8:24 | Leader Feedback Round, both leaders. | Both leaders |
 | 8:24–8:30 | Closing container; a brief word of what the Lord did in the room's hearing tonight; Aaronic blessing. | Container holder |
 | 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning The Return. | Everyone; John holds the debrief |
@@ -86,7 +86,7 @@ The protocol behind tonight is *Intentional Journey of the Heart*, Volume 5, [A2
 
 | Step | What the room does | Why it matters |
 |---|---|---|
-| **Pray** | Ask the Spirit to speak. | We come expecting to hear, together. |
+| **Pray** | Give thanks, bow, and ask the Spirit to speak (Psalm 95:1–8). | Thanks and worship come before hearing: "Today, if you hear his voice." We come expecting to hear, together. |
 | **Read, three times** | Three readers, slowly, eyes closed. | Each reading lands in a different place. Let the passage come to you before you go to it. |
 | **Images** | Say what pictures, words or feelings came. | The Spirit often speaks in pictures first. Not everyone thinks in pictures, and that is fine: there is another door. |
 | **Same and different** | Notice what others heard. | Often the moment the Spirit shows the group something no one heard alone. |

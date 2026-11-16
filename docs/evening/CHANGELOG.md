@@ -76,6 +76,31 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.71 — November 16, 2026 — Evening 9 opens with thanks, then bowing (Psalm 95)
+
+John's word (16 November), from the day's Derek Prince reading on Psalm 95:
+praise and thanksgiving lead to worship, and worship to hearing God's voice.
+Evening 9's opening prayer now walks that order before the readings.
+
+- **Pray, 7:25–7:30 (was three minutes, now five).** Psalm 95:1–2 and a
+  one-word thanks round from the break (the first night back); Psalm 95:6–7,
+  heads bowed, kneeling for anyone who wants to; the Spirit invited, as
+  before; then "Today, if you hear his voice" (Ps 95:7–8) opens the three
+  readings. The two minutes come from Same and different (now 7:50–7:55),
+  the round the run sheet already shortens first.
+- **The Tell answers "today."** The Tell's notes and run-sheet row name it as
+  the room's answer to "do not harden your hearts": what I heard, and what
+  I will do with it.
+- **Check-in partners under Hebrews 3:13.** Named at commissioning with
+  "exhort one another every day, as long as it is called 'today'."
+- **A new watch-for:** kneeling is an invitation only; a bowed head is a
+  full answer, and no one is watched.
+- Changed: the run sheet (anchor line, rows, "Worship before hearing"),
+  the Reading Card (Pray in four steps; later times moved), the steps slide
+  and its notes, the readings, images, Tell and commissioning notes, the
+  leader notes (rebuilt), the Heart Bible Study page's Pray row (kept to one
+  page), and the evening page.
+
 ## v2.70 — November 12, 2026 — Evening 15's cards go home; the last Pulse lines out
 
 John's word (12 November). The Pulse was dropped in October (v2.50), but
