@@ -166,6 +166,21 @@ follows [If someone reports oppression from outside](../getting-started/handbook
 pray with them in Jesus' name afterward, bring the parent in, and never
 make it a moment in the circle.
 
+## Who to call: the evening's referral list
+
+The Companion Handbook's referral list was written for the school setting.
+These are the entries that serve the evenings at home. Both safety adults
+keep them at hand every evening, and the door out is said aloud in the
+welcome.
+
+| For | Who | How to reach |
+|---|---|---|
+| Immediate danger to life or safety | Emergency services | 911 |
+| Thoughts of suicide or self-harm, or any acute crisis | Suicide and Crisis Lifeline | 988 (call or text) |
+| Suspected abuse or neglect of a child | Virginia Child Protective Services | 1-800-552-7096; the reporting duty is set out in the [Companion Handbook](../getting-started/handbook.md), Section 6 |
+| Anything a young person would rather not say to a leader or a parent | Pastor Bobby Gore, the door out: outside the team and outside the covering church | (831) 277-9878 |
+| A concern about the evenings, or about the host | The elder who oversees the evenings, named in the welcome; he can pause the work | In person, or through any parent in the room |
+
 ## When something said isn't right
 
 The circle receives what is told, with *"We hear that,"* and no fixing,

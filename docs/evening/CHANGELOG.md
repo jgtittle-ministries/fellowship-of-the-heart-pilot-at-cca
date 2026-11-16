@@ -76,6 +76,17 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.72 — November 16, 2026 — the referral list moves into the Evening Handbook
+
+John's word (16 November): the referral list, with Pastor Bobby Gore on it,
+lived only in the school version of the Companion Handbook, so it moves over.
+
+- **Handbook: "Who to call: the evening's referral list"** (new section,
+  after the adult backstop). Emergency services, the 988 Lifeline, Virginia
+  CPS with the reporting duty pointed to Section 6 of the Companion Handbook,
+  Pastor Gore as the door out, and the elder who oversees the evenings. Both
+  safety adults keep it at hand every evening.
+
 ## v2.71 — November 16, 2026 — Evening 9 opens with thanks, then bowing (Psalm 95)
 
 John's word (16 November), from the day's Derek Prince reading on Psalm 95:
