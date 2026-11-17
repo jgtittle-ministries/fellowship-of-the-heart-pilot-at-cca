@@ -76,6 +76,16 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.73 — November 16, 2026 — a counselor on the referral list
+
+John's word (16 November): the list had no counselor, but CCA has counselors
+it has used for referrals many times.
+
+- **Handbook, "Who to call"**: a new row for anything that needs more care
+  than the evening can give: a Christian counselor, through the counselors
+  CCA has referred families to; the safety adults help the family make the
+  contact through CCA.
+
 ## v2.72 — November 16, 2026 — the referral list moves into the Evening Handbook
 
 John's word (16 November): the referral list, with Pastor Bobby Gore on it,

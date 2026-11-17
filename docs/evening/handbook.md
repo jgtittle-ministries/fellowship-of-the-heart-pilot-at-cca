@@ -178,6 +178,7 @@ welcome.
 | Immediate danger to life or safety | Emergency services | 911 |
 | Thoughts of suicide or self-harm, or any acute crisis | Suicide and Crisis Lifeline | 988 (call or text) |
 | Suspected abuse or neglect of a child | Virginia Child Protective Services | 1-800-552-7096; the reporting duty is set out in the [Companion Handbook](../getting-started/handbook.md), Section 6 |
+| Something that needs more care than the evening can give | A Christian counselor, through the counselors CCA has referred families to many times | The safety adults help the family make the contact through CCA |
 | Anything a young person would rather not say to a leader or a parent | Pastor Bobby Gore, the door out: outside the team and outside the covering church | (831) 277-9878 |
 | A concern about the evenings, or about the host | The elder who oversees the evenings, named in the welcome; he can pause the work | In person, or through any parent in the room |
 
