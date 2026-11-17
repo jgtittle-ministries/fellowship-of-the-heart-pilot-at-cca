@@ -7,7 +7,7 @@ title: "FotH Evening"
 *Two-Week Rhythm · Teen-Led — Fellowship of the Heart around a family table.*
 
 *This page is kept current: it is updated after each evening's debrief.
-Last updated 5 November 2026. Evenings were numbered as Sessions until
+Last updated 17 November 2026. Evenings were numbered as Sessions until
 October; the series is now numbered Evening 1 to 21. On 5 November four
 evenings were added, Heart Bible Study as Evening 9, Doing the Word as
 Evening 11, Serving Together as Evening 13 and Carrying the Word as
@@ -41,6 +41,10 @@ everyone home and closes *Connect with God*; then Evening 10, *The Return*, and 
 [Doing the Word](session-12a-doing-the-word.md).
 From there, about every two weeks. Each date is set at the planning lab
 before it.
+
+**For the leads.** [Leading the Room — A Facilitation Evening](leading-the-room.md)
+is one evening for the teen leads and the parents who serve as safety
+adults, outside the numbered evenings, on a date set at a planning lab.
 
 If you were invited, you are welcome, and you are welcome to bring
 someone. **Bring:** a notebook or journal, and yourself. Dinner is

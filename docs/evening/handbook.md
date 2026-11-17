@@ -234,6 +234,15 @@ the map, and what the guest will be asked to do (and not asked to do). A
 leader who can explain the evening from the middle can carry it anywhere.
 That is what keeps the work from depending on the people who started it.
 
+**A facilitation evening for the leads.** *Added 17 November 2026 (John's
+word).* Beyond the labs, the leads have one evening of their own:
+[Leading the Room](leading-the-room.md). It trains facilitation, leading
+a room so that the room owns its own evening, in four moves: ask an open
+question, wait, turn it to the room, lean back. Each leading pair also
+writes its pair agreement there, including what the second chair does if
+the first keeps going alone. John leads it; the teen leads take part in
+it first.
+
 ## The two-week take-home
 
 Each session ends with a one-page take-home in four parts:

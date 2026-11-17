@@ -76,6 +76,50 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.75 — November 17, 2026 — Evening 8 closes with a minute of stillness
+
+John's word (17 November), from a reflection Curt Thompson shared after the
+Center for Being Known's Connections 2026 conference, where Pepper Sweeney
+led the closing liturgy. The shape and the one question are borrowed with
+thanks; the anchor is Philippians 1:6, which the series already carries.
+
+- **Evening 8, the close (8:12–8:18, was 8:12–8:16; buffer from 8:18).**
+  Before the blessings, about a minute: two slow breaths; Philippians 1:6
+  read aloud; then one question, asked once and not answered aloud: *What
+  has God begun in me that I can trust him to continue?* It goes home into
+  the Christmas break. It fits the doubts evening: doubt held honestly and
+  with curiosity, without hurrying to resolve it. Page (new section, *The
+  stillness before the break*), run sheet (row and a standing note), deck
+  (Tonight's Road, the closing slide's steps 5 and 6, and the question in a
+  box under the blessing), leader notes rebuilt.
+- **Evening 9, the thanks round** (Psalm 95:1–2, the first night back)
+  now answers December's question: one thing you thank God for from the
+  break, perhaps what he continued while we were apart. Page, run sheet,
+  Reading Card, deck notes, leader notes rebuilt.
+
+## v2.74 — November 17, 2026 — Leading the Room, a facilitation evening for the leads
+
+John's word (17 November): the evenings have shown that the leads need
+facilitation skills of their own. The lead best prepared to run a room is
+not always the one best prepared to hand it over, and the training is
+offered a little late on purpose, now that the leads have met the problems
+it answers.
+
+- **New page: [Leading the Room — A Facilitation Evening](leading-the-room.md).**
+  One evening, outside the numbered evenings, for the teen leads and the
+  parents who serve as safety adults. Try first, then name what happened
+  (a drawing of who spoke to whom: a star or a net), then the four moves
+  (an open question, the wait, turning it to the room, leaning back),
+  practice rounds with two practice moments played by parents, the pair
+  agreement, and the Leader Feedback Round. John leads; the teen leads take
+  part in it first.
+- **New materials (downloads):** a one-page run sheet and a one-page
+  Facilitator's Card, which everyone takes home.
+- **The question set before it:** in the next two evenings, does the talk
+  run from member to member more often?
+- **Handbook, The planning lab:** a pointer to the new evening.
+  **Landing page:** a "For the leads" line.
+
 ## v2.73 — November 16, 2026 — a counselor on the referral list
 
 John's word (16 November): the list had no counselor, but CCA has counselors

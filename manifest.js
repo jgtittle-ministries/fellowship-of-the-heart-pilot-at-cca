@@ -119,6 +119,11 @@ window.SERIES = [
         "edition": "v1"
       },
       {
+        "path": "docs/evening/leading-the-room.md",
+        "title": "Leading the Room — A Facilitation Evening",
+        "edition": "v1"
+      },
+      {
         "path": "docs/evening/CHANGELOG.md",
         "title": "Change Log",
         "edition": "v1"
@@ -1070,6 +1075,15 @@ window.PATH_TO_INFO = {
     "title": "Evening 16 — Carrying the Word",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-13a-serving-together.md",
+    "next": "docs/evening/leading-the-room.md"
+  },
+  "docs/evening/leading-the-room.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Leading the Room — A Facilitation Evening",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-16a-carrying-the-word.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -1078,7 +1092,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-16a-carrying-the-word.md"
+    "prev": "docs/evening/leading-the-room.md"
   },
   "docs/cca/index.md": {
     "seriesId": "cca",

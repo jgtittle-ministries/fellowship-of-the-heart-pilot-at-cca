@@ -62,8 +62,8 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 7:52–7:56 | Merge: one word about the practices, not the doubt. Received without comment. | Container holder |
 | 7:56–8:02 | Take-home and the Christmas send-off, handed out on paper and walked: the doubts inventory in week one, the check-in, two journal questions in week two; then each week of the break a practice of your own choosing from the list, now with *Any Doubts?* on it; the returning rule; who to reach. | Content presenter |
 | 8:02–8:12 | Leader Feedback Round, in full: the leaders' own answers, then the room's, every parent answering, each adding only what hasn't been said. | Both leaders |
-| 8:12–8:16 | Closing container; the Christmas break named; blessings; the Aaronic blessing. | Container holder |
-| 8:16–8:30 | Buffer, for a practice that runs deep. | |
+| 8:12–8:18 | Closing container; the Christmas break named; a minute of stillness: Philippians 1:6, and one question to carry into the break, not answered aloud; blessings; the Aaronic blessing. | Container holder |
+| 8:18–8:30 | Buffer, for a practice that runs deep. | |
 | 8:30–9:00 | Fellowship; the five-question materials debrief, with the quiet tally of the practices chosen (from the dinner answers); planning January. | Everyone; John holds the debrief |
 
 ## The return — how it runs
@@ -134,6 +134,29 @@ wanted to keep was ____, because ____."
 *A missed day is never a failure — it is an invitation to return.*
 
 ---
+
+## The stillness before the break
+
+*Added 17 November 2026 (John's word).* Before the blessings, the
+container holder slows the room for about a minute. The room is about to
+scatter for Christmas, and minds are already turning toward home; for
+these few minutes there is nowhere else we need to be.
+
+1. **Two slow breaths,** together.
+2. **Philippians 1:6, read aloud:** "And I am sure of this, that he who
+   began a good work in you will bring it to completion at the day of
+   Jesus Christ."
+3. **One question, asked once, slowly, and not answered aloud:** *What has God begun in me that I can trust him to continue?*
+   Carry it into the break.
+
+Then the blessings and the Aaronic blessing, as always. In January,
+Evening 9's thanks round gives the question its answer: one thing you
+thank God for from the break, perhaps what he continued while we were
+apart.
+
+*Doubt is held here the way tonight teaches it: honestly, with
+curiosity, and without hurrying to resolve it. The work God has begun
+is not finished, and he will finish it.*
 
 ## For the leads
 
