@@ -16,7 +16,7 @@
 
 Unlike every other card in this folder, this one is not for participants. It is for the people who will *hold* what the participants entrust to us — the surveys, the pulse checks, the observation notes, the trackers named in each series handbook's Assessment Plan. Those instruments are light by design, but they all touch the same material: the condition of a heart that trusted us enough to answer honestly. Knowledge of hearts, in institutional hands, does not stay neutral on its own. It drifts — toward sorting, then managing, then controlling — and the drift happens slowly enough that everyone involved still believes they are shepherding. Written limits are what hold. So before the first instrument is used, the team signs this covenant; and each year, before it is used again, the team re-signs it with the ink of a fresh decision.
 
-One sentence governs everything below, and it is the test each signer accepts personally: **measure nothing you will not weep over.** If you can look at what an instrument shows you about the souls in your care and feel nothing — if a hard result reads to you as a data problem rather than a grief — then you are, in that season, a standoff scientist and not a shepherd, and the measures should live in other hands until your heart is back in the room. This is not a slur on scientists; detachment is a virtue in a laboratory. It is a disqualification in a flock. The Lord Himself delivered the most severe diagnostic verdict in the Gospels — and He delivered it weeping (Luke 19:41–44). That is the posture this covenant binds us to: measurement as an act of love, held by people close enough to the faces to cry over them.
+One sentence governs everything below, and it is the test each signer accepts personally: **measure only what you are willing to shepherd.** If you can look at what an instrument shows you about the souls in your care and feel nothing — if a hard result reads to you as a data problem rather than a call to care — then you are, in that season, a standoff scientist and not a shepherd, and the measures should live in other hands until your heart is back in the room. This is not a slur on scientists; detachment is a virtue in a laboratory. It is a disqualification in a flock. The Lord Himself delivered the most severe diagnostic verdict in the Gospels — and He delivered it weeping (Luke 19:41–44). That is the posture this covenant binds us to: measurement as an act of love, held by people close enough to the faces to cry over them.
 
 # The commitments
 
@@ -68,7 +68,7 @@ periods above are this fellowship’s intent, not a legal opinion.)*
 
 # The signatures
 
-Each member of the Companion team and each leader with any access to instrument results signs below, annually, before the year's first instrument is used. Signing means: *I have read the Guardrails chapter, I accept these ten commitments as binding on me personally, and I accept the weep-test — if my heart goes cold toward these souls, I will hand the measures to someone whose heart is warm.*
+Each member of the Companion team and each leader with any access to instrument results signs below, annually, before the year's first instrument is used. Signing means: *I have read the Guardrails chapter, I accept these ten commitments as binding on me personally, and I accept the shepherd test — if my heart goes cold toward these souls, I will hand the measures to someone whose heart is warm.*
 
 | Name | Role | Signature | Date |
 | --- | --- | --- | --- |
@@ -82,4 +82,4 @@ Each member of the Companion team and each leader with any access to instrument 
 
 The commitments above were not invented cautiously in advance; they were demanded by review. The formation documents beneath this fellowship were examined in a twelve-part foundational review, and its most persistent structural finding was precisely this page's subject: measurement's relationship to power must be *designed*, in writing, before the first instrument is used — because sincerity does not protect the vulnerable; written limits do. The full trail, and the research program these commitments feed, live in the IJH [Research Register](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs/volume-6-governance/research-register.md). The pastoral heart of it fits in one line, and it is the line this covenant asks you to sign your name under:
 
-**Measure nothing you will not weep over.**
+**Measure only what you are willing to shepherd.**

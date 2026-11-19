@@ -42,7 +42,7 @@ Every card and page here, as a Word file to print or adapt:
 
 - [**Path Home Card**](path-home-card.md) — the written way back for anyone who has been away, however long, however it ended: confession, lament, return, celebration. The door that never locks.
 
-- [**Measurement Covenant**](measurement-covenant.md) — *team-facing*: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure nothing you will not weep over*. Signed before any instrument is used; re-signed annually.
+- [**Measurement Covenant**](measurement-covenant.md) — *team-facing*: ten signed commitments binding everyone who holds what the assessment instruments learn, anchored in the test *measure only what you are willing to shepherd*. Signed before any instrument is used; re-signed annually.
 
 - [**Three Vital Signs**](three-vital-signs.md) — *team-facing*: the Companion team's weekly lens. Three readings taken in ordinary sessions with no form in anyone's hand — Costly Telling, Response to Load, the Sought Stray — and the discipline for reading them. The companion card to the covenant: the covenant governs what is held; this card is most of what is watched.
 

@@ -60,7 +60,7 @@ At the close of the last session before each hold, the room is handed a question
 
 **How lightly.** No form in anyone's hand during a session, nothing on a screen about the room, no level or stage ever spoken to a participant. One page per session, filled within a day in about ten minutes: each sign as a raw mark, the rung it promotes to, and an eight-word note of the occasion behind it; attendance; the round's echo; the decisions log line. A heavy instrument does not get filled out, and an unfilled instrument observes nothing.
 
-**The permission ethic, unchanged.** Nothing is administered; everything with a name on it is asked for. Permission is for pages, never for care — nobody asks permission to pay attention. The instruments are mirrors, never levers. And over all of it, the weep test: measure nothing you will not weep over, and stop anything that begins to harm what it watches, mid-year if need be.
+**The permission ethic, unchanged.** Nothing is administered; everything with a name on it is asked for. Permission is for pages, never for care — nobody asks permission to pay attention. The instruments are mirrors, never levers. And over all of it, the shepherd test: measure only what you are willing to shepherd, and stop anything that begins to harm what it watches, mid-year if need be.
 
 **The covenant, adult form.** Everyone signs, because everyone is on both sides of the watching. The absence of minors simplifies safeguarding; it does not simplify consent — named notes still require the asked-for conversation, the pages live in one secured place, and their destruction rhythm is agreed before the year begins.
 
