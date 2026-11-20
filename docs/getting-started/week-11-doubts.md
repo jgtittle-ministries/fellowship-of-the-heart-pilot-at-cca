@@ -220,6 +220,8 @@ Read the full scene aloud, slowly, from the physical Bible. The whole context ma
 
 • What we are doing tonight is not generating new doubts. It is not faith-shaking. It is exactly what the father did. Bringing the unbelief that is already there, quietly, into the open — and bringing it to Jesus.
 
+• What scripture means by doubt (a sentence or two, not a word study). In scripture, doubt is mostly a divided heart, not a question. James joins two words: the one who doubts (*diakrinomenos*, judging two ways at once) is ‘a double-minded man’ (*dipsychos*, literally two-souled; James 1:6–8). Peter on the water ‘doubted’ (*distazō*, from ‘twice’: standing two ways; Matt. 14:31). Elijah asked how long the people would limp between two opinions (1 Kings 18:21). So honest questions are not the problem; the problem is a heart split between trusting God and hedging, and tonight’s practice brings the two halves together. That is why the father is the model: both halves said aloud, to Jesus. Scripture is gentle with the one caught there: ‘have mercy on those who doubt’ (Jude 22), and on the mountain ‘some doubted,’ and were sent out with the rest (Matt. 28:17).
+
 • Vol 2 of IJH calls this Any Doubts? It is one of the two highest-confidence formation practices we know of in this body of work. Tonight we walk it together.
 
 ## **Block 4 — The Any Doubts? Practice — Teaching (4:35–4:43, 8 min)**
