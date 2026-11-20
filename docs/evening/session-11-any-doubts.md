@@ -185,6 +185,15 @@ is what the evening form changes.
 - **Frame doubt three times before the pairs.** It is the gap between what
   we say and what we trust, not a faith crisis. Push gently for the small,
   personal doubt.
+- **What scripture means by doubt.** Mostly a divided heart, not a
+  question. The one who doubts is "a double-minded man," literally
+  two-souled (James 1:6–8); Peter on the water stood two ways (Matt.
+  14:31); Elijah's people limped between two opinions (1 Kings 18:21).
+  Honest questions are welcome; the practice brings the two halves of the
+  heart together, as the father did, both halves said aloud to Jesus.
+  Scripture is gentle with the one caught there: "have mercy on those who
+  doubt" (Jude 22); on the mountain "some doubted," and were sent out with
+  the rest (Matt. 28:17). A sentence or two in the room, not a word study.
 - **Parents go first in every pair,** arranged with each parent
   beforehand. The teen chooses their own depth, and pass-anytime holds.
   "I don't notice any right now" is a complete answer.

@@ -76,6 +76,27 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.76 — November 20, 2026 — what scripture means by doubt
+
+John's word (20 November). For Evening 8, Any Doubts?, a short word study
+the leads can say in a sentence or two: in scripture, doubt is mostly a
+divided heart, not a question.
+
+- **The words.** James joins two: the one who doubts (*diakrinomenos*,
+  judging two ways at once) is "a double-minded man" (*dipsychos*,
+  literally two-souled; James 1:6–8). Peter on the water "doubted"
+  (*distazō*, from "twice": standing two ways; Matt. 14:31). Elijah's
+  people limped between two opinions (1 Kings 18:21). Not every word for
+  doubt means divided (some mean perplexed, or questioning), and doubt is
+  not the same as unbelief; the note keeps to the main thread.
+- **What it changes in the room.** Honest questions are welcome; the
+  practice brings the two halves of the heart together, as the father in
+  Mark 9 did. Scripture is gentle with the one caught there (Jude 22;
+  Matt. 28:17).
+- Deck (the four-steps slide's notes, a new *The word 'doubt'* block),
+  leader notes rebuilt, page (*For the leads*, a new bullet); materials
+  rebuilt and synced.
+
 ## v2.75 — November 17, 2026 — Evening 8 closes with a minute of stillness
 
 John's word (17 November), from a reflection Curt Thompson shared after the
