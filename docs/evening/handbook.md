@@ -24,7 +24,7 @@ materials change. Nobody in the circle is being graded.
 
 | Time | What | Who leads |
 |---|---|---|
-| 6:00 | Dinner together. Arrival, names, hospitality — the table is part of the container. Over the meal, John asks about the homework: what's working, and what's not. | The household; John asks |
+| 6:00 | Dinner together. Arrival, names, hospitality — the table is part of the container. Over the meal, John asks about the homework: what's working, and what's not; and the one question about home. | The household; John asks |
 | 7:00 | The session begins (blocks below). | The teen leads |
 | 8:30 | Curriculum session complete. Fellowship, leadership feedback, planning for next meeting. | Everyone |
 | 9:00 | Done. | |
@@ -60,6 +60,14 @@ shortens the rest.
 - **The homework is talked over at dinner.** John asks around the table
   what's working and what's not. In the circle, the check-in is one word
   each: what the homework did in you.
+- **One question about home, at every dinner** (from the parents' meeting,
+  22 November 2026). The same words every time: "Since the last evening,
+  what did you notice at home? Anyone coming back to a practice on their
+  own, or a reminder being used?" If someone answers, one follow-up: "What
+  was done or said?" The family writes nothing and keeps no count. John
+  notes the answers in the debrief, for the room as a whole, with no names.
+  "Nothing this time" is a full answer, and anyone who would rather text an
+  answer may.
 - **Whole-room rounds scale.** A round that everyone answers becomes one
   word each, or two or three voices, or pairs. One-word merges stay.
 - **One teaching block.** Scripture, teaching, framing and bridge run as one

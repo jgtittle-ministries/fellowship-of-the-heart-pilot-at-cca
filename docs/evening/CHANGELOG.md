@@ -76,6 +76,24 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.79 — November 22, 2026 — one question about home, at dinner
+
+From the parents' meeting. The parents said reminders are being used at
+home, but they are not keeping track, and their weeks are full. So the
+three written questions from home stop, and one question is asked at
+every dinner instead, in the same words each time:
+
+> "Since the last evening, what did you notice at home? Anyone coming back
+> to a practice on their own, or a reminder being used?"
+
+If someone answers, one follow-up: "What was done or said?" The family
+writes nothing and keeps no count; John notes the answers in the debrief,
+for the room as a whole, with no names. "Nothing this time" is a full
+answer, and anyone who would rather text may. Consistency comes from
+asking the same question the same way, not from anyone keeping a record.
+Handbook (the dinner row and a standing note), Evening 8 page (the dinner
+and the return) and run sheet (the dinner row and a standing note).
+
 ## v2.78 — November 22, 2026 — twenty-three evenings
 
 The parents accepted the draft series of twenty-three evenings at their

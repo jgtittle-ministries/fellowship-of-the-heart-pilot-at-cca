@@ -54,7 +54,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 
 | Time | Block | Lead |
 |---|---|---|
-| 6:00 | Dinner. Over the meal, John asks the return questions around the table (below), and asks Evening 7's two leads the leading question: "What did leading this teach you that hearing it did not?" The leading team's walk-through at the table's edge if needed. | Household; John asks |
+| 6:00 | Dinner. Over the meal, John asks the return questions and the home question around the table (below), and asks Evening 7's two leads the leading question: "What did leading this teach you that hearing it did not?" The leading team's walk-through at the table's edge if needed. | Household; John asks |
 | 7:00–7:05 | Welcome and centering; blessing; the map. Rebuild the container slowly, on purpose: it has been three weeks. | Container holder |
 | 7:05–7:09 | The return, one word each: what your chosen practice did in you. Received with a nod. "One thing I'm not sure was God" stays in your journal tonight, to be tested later with someone you trust. | Container holder |
 | 7:09–7:12 | Mark 9:14–29, read in full: the father names belief and unbelief at once, and Jesus heals the boy. | Content presenter |
@@ -83,6 +83,13 @@ sentences from the Evening 7 take-home.
    own — not because an evening was coming, but because you wanted to? And
    did anyone remind you?
 4. **Which one would you keep?** The one you most wanted to keep doing.
+
+**Then the home question,** the one asked at every dinner from now on, the
+same words each time: "Since the last evening, what did you notice at home?
+Anyone coming back to a practice on their own, or a reminder being used?"
+If someone answers, one follow-up: "What was done or said?" Nothing is
+written down by the family. John notes the answers in the debrief, with no
+names.
 
 **In the circle,** after the welcome: one word around the room for what
 your chosen practice did in you, received with a nod. What you're not
