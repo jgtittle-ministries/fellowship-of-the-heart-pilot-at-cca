@@ -76,6 +76,39 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.77 — November 22, 2026 — Evening 8 at the slower pace, parents first
+
+From the parents' meeting on Sunday, November 22, with the teens present
+and taking part. The parents accepted the draft series of twenty-three
+evenings, and asked that Any Doubts? be done with the parents first.
+
+- **Evening 8, modeled, not paired.** John walks each parent through Any
+  Doubts?, one at a time, in front of the room (7:17–7:39, about seven
+  minutes each, then about four for the room to talk over the process,
+  not the doubt). Then the parents lead John through it, with his own real,
+  small doubt (7:39–7:50). Each parent brings a real doubt, not a raw one,
+  fine for the teens to hear. No separate demo in the teaching block: the
+  walk-throughs are the demonstration.
+- **The silent place moves if the parents' pass runs.** If the parents
+  lead John, the silent place does not fit and moves to another evening,
+  chosen at the debrief; it is never squeezed into the buffer. If the
+  parents' pass does not run, the silent place keeps its block.
+- **One teen holds the container; John carries the content.** The teens
+  watch, help talk over the process, and lead the practice themselves in
+  January, at Evening 12.
+- **Guests, and their parents.** If the two guest teens from Evening 7
+  come back, their parents are welcome too: this is family formation, not
+  only teen formation.
+- **The new numbering, where Evening 8 points ahead.** Evening 10 is now
+  *Spiritual Styles* (it takes The Return's place and asks what held over
+  the break), and the teens lead Any Doubts? at Evening 12. The rest of the
+  series is renumbered to twenty-three evenings in a later release.
+- Page, run sheet (rows and a standing note), deck (Tonight's Road, the
+  bridge and practice slides, the silent place's notes, the merge, the
+  homework and close), leader notes rebuilt; take-home sheet and Practices
+  So Far card. "One thing I'm not sure was God" now stays in the journal
+  tonight, to be tested later with someone you trust.
+
 ## v2.76 — November 20, 2026 — what scripture means by doubt
 
 John's word (20 November). For Evening 8, Any Doubts?, a short word study

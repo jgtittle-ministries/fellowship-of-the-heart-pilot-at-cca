@@ -5,9 +5,12 @@
 **This evening.** We practice naming the doubts we usually do not say out
 loud and bringing them honestly to God. The model is the father in Mark 9:
 "I believe; help my unbelief!" The naming is our part; the answer is the
-Spirit's work. The practice runs in pairs, a parent with their own teen,
-and the parent always goes first. Then we go to the silent place: a time
-when God seemed silent, with the time we did hear him brought in.
+Spirit's work. Tonight it is done slowly, parents first: John walks each
+parent through it, one at a time, in front of the room, and the room talks
+over the process after each. Then the parents lead John through it. The
+teens watch, help talk it over, and lead it themselves in January (Evening
+12). If there is time, we go to the silent place: a time when God seemed
+silent, with the time we did hear him brought in.
 
 **First, the return.** This is our first evening after three weeks apart, across Thanksgiving.
 Before anything new, we come back together and read the gap honestly:
@@ -21,7 +24,7 @@ hearing him in scripture, meeting him in the garden, and now bringing him
 our honest doubts. Heart Bible Study, in January, closes the movement.
 
 **The Christmas break ahead.** Tonight is the one evening in December. The
-Christmas break follows; in January, Evening 9, *Heart Bible Study*, welcomes everyone home, and Evening 10, *The Return*, follows it. So
+Christmas break follows; in January, Evening 9, *Heart Bible Study*, welcomes everyone home, and Evening 10, *Spiritual Styles*, follows it. So
 tonight closes with a send-off, as Evening 7 did: two weeks as always,
 then, each week of the break, one practice of your own choosing.
 
@@ -53,12 +56,12 @@ Everything for this evening, current as of the last update. Download, open, prin
 |---|---|---|
 | 6:00 | Dinner. Over the meal, John asks the return questions around the table (below), and asks Evening 7's two leads the leading question: "What did leading this teach you that hearing it did not?" The leading team's walk-through at the table's edge if needed. | Household; John asks |
 | 7:00–7:05 | Welcome and centering; blessing; the map. Rebuild the container slowly, on purpose: it has been three weeks. | Container holder |
-| 7:05–7:09 | The return, one word each: what your chosen practice did in you. Received with a nod. "One thing I'm not sure was God" goes to your pair tonight. | Container holder |
+| 7:05–7:09 | The return, one word each: what your chosen practice did in you. Received with a nod. "One thing I'm not sure was God" stays in your journal tonight, to be tested later with someone you trust. | Container holder |
 | 7:09–7:12 | Mark 9:14–29, read in full: the father names belief and unbelief at once, and Jesus heals the boy. | Content presenter |
-| 7:12–7:16 | The practice taught: Name, Exaggerate, Sit, Re-read. Two kinds of doubt: what God has said (the four steps), and whether I heard him (the How Did You Know? checks). A short, real demo. | Content presenter |
-| 7:16–7:17 | Bridge to the pairs: parent with own teen; the parent goes first. | Content presenter |
-| 7:17–7:39 | Any Doubts? in pairs: one full cycle each way, about eleven minutes a turn, the parent's turn first. | Content presenter; container holder watching the room |
-| 7:39–7:52 | The silent place: settle; remember a time or place where God seemed silent; bring in the time you heard (remembered at the Garden evening); invite Jesus in, with permission to do or say anything he wishes, then about three minutes of silence; write (is something blocking? what might be the downside of a deeper connection?); share, optional. | Content presenter reads; container holder watching the room |
+| 7:12–7:16 | The practice taught: Name, Exaggerate, Sit, Re-read. Two kinds of doubt: what God has said (the four steps), and whether I heard him (the How Did You Know? checks). No separate demo: the walk-throughs that follow are the demonstration. | Content presenter |
+| 7:16–7:17 | Bridge to the walk-throughs: the parents go first, as arranged; the teens watch and help talk it over. | Content presenter |
+| 7:17–7:39 | Any Doubts?, modeled: John walks each parent through it, one at a time, about seven minutes each; after each, about four minutes for the room to talk over the process, not the doubt. | John, as content presenter; container holder watching the room |
+| 7:39–7:52 | The parents lead John through it, the same way: about seven minutes, then four to talk it over. If this pass runs, the silent place moves to another evening, chosen at the debrief; if it does not, the silent place takes this block: settle; remember a time or place where God seemed silent; bring in the time you heard (remembered at the Garden evening); invite Jesus in, with permission to do or say anything he wishes, then about three minutes of silence; write (is something blocking? what might be the downside of a deeper connection?); share, optional. | Content presenter reads; container holder watching the room |
 | 7:52–7:56 | Merge: one word about the practices, not the doubt. Received without comment. | Container holder |
 | 7:56–8:02 | Take-home and the Christmas send-off, handed out on paper and walked: the doubts inventory in week one, the check-in, two journal questions in week two; then each week of the break a practice of your own choosing from the list, now with *Any Doubts?* on it; the returning rule; who to reach. | Content presenter |
 | 8:02–8:12 | Leader Feedback Round, in full: the leaders' own answers, then the room's, every parent answering, each adding only what hasn't been said. | Both leaders |
@@ -83,7 +86,7 @@ sentences from the Evening 7 take-home.
 
 **In the circle,** after the welcome: one word around the room for what
 your chosen practice did in you, received with a nod. What you're not
-sure was God goes to your pair tonight, or stays in your journal.
+sure was God stays in your journal tonight, to be tested later with someone you trust.
 
 Nobody fixes anybody, and nobody compares. Slips are data, not a verdict.
 Nobody owes anyone an explanation for the gap. If the gap was hard in ways
@@ -127,7 +130,7 @@ with a partner, Name, Exaggerate, Sit, Re-read. Write down which, and why.
 If it slips, begin again the next day. No starting over, and no counting
 streaks.
 
-**5. Two sentences of preparation.** Before *The Return*, in your journal:
+**5. Two sentences of preparation.** Before *Spiritual Styles* (Evening 10), in your journal:
 "One thing I heard that I will act on is ____." And: "The practice I most
 wanted to keep was ____, because ____."
 
@@ -180,9 +183,9 @@ is what the evening form changes.
   three and four, and which they most wanted to keep, tell us which
   practices carry the "I really want to do this" pull. At the debrief,
   tally them quietly: a count for each practice, chosen and kept, with no
-  names. The same tally runs again at *The Return* for the Christmas
-  choices.
-- **Frame doubt three times before the pairs.** It is the gap between what
+  names. The same tally runs again at *Spiritual Styles* (Evening 10)
+  for the Christmas choices.
+- **Frame doubt three times before the walk-throughs.** It is the gap between what
   we say and what we trust, not a faith crisis. Push gently for the small,
   personal doubt.
 - **What scripture means by doubt.** Mostly a divided heart, not a
@@ -194,13 +197,25 @@ is what the evening form changes.
   Scripture is gentle with the one caught there: "have mercy on those who
   doubt" (Jude 22); on the mountain "some doubted," and were sent out with
   the rest (Matt. 28:17). A sentence or two in the room, not a word study.
-- **Parents go first in every pair,** arranged with each parent
-  beforehand. The teen chooses their own depth, and pass-anytime holds.
-  "I don't notice any right now" is a complete answer.
+- **Tonight the parents go first, all the way** (the parents' meeting, 22
+  November). John walks each parent through it, one at a time, arranged
+  with each beforehand. Each brings a real doubt, not a raw one: honest,
+  and fine for the teens to hear, with adult matters kept for adult
+  conversation. Then the parents lead John through it, with his own real,
+  small doubt. Pass-anytime holds, and "I don't notice any right now" is a
+  complete answer.
+- **One teen holds the container; John carries the content.** The teen
+  leads the welcome, the return round, the merge and the close, and keeps
+  the room. The teens watch the walk-throughs, help talk over the process,
+  and lead the practice themselves in January, at Evening 12.
+- **Guests, and their parents.** The family is in touch with the two guest
+  teens from Evening 7. If they come, their parents are welcome too: this is
+  family formation, not only teen formation.
 - **The silent place is not a verdict.** If nothing comes, that is honest.
-  Sharing is optional; say so twice.
+  Sharing is optional; say so twice. If the parents' pass takes its time,
+  do not squeeze it into the buffer; it moves to another evening.
 - **Name the Christmas break plainly** in the send-off: how long it is, and
-  that *The Return* in January opens by asking which practices were
+  that *Spiritual Styles* (Evening 10) in January asks which practices were
   chosen and how it went. Walk the list once, aloud; the choices are made
   at home, freely.
 - **Holidays are hard in some houses.** Watch the return round and the
