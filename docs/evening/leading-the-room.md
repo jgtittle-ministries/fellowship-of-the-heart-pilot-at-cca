@@ -1,6 +1,6 @@
-# Leading the Room — A Facilitation Evening
+# Evening 11 — Leading the Room, a Facilitation Evening
 
-*FotH Evening · for the leads · not one of the numbered evenings*
+*FotH Evening · Evening 11 · for everyone who leads, and the parents who serve as safety adults*
 
 *Anchor: 1 Corinthians 14:26; James 1:19; 1 Peter 4:10*
 
@@ -31,8 +31,9 @@ in the [Evening Handbook](handbook.md) is unchanged.
 and this evening is new, so the teen leads take part in it first.
 Parents take part too; two of them play the practice moments.
 
-**When.** Outside the numbered evenings, on a date set at a planning
-lab. About ninety minutes.
+**When.** Evening 11, in the new year, after Spiritual Styles and before
+the teens lead Any Doubts? at Evening 12 (numbered at the parents' meeting,
+22 November 2026). About ninety minutes.
 
 **Bring.** Your journal, and the last run sheet you led from.
 

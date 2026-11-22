@@ -21,7 +21,7 @@ with God*. Nothing in it is new. Its steps are PROAPT's steps (Evening 6),
 and its optional close is the short form of *Any Doubts?* (Evening 8). So
 the first night back asks only for practices the room already knows, put
 together into one. The full reading of what held over the break comes at
-the next evening, [Evening 10 — The Return](../getting-started/week-12-return.md).
+the next evening, [Evening 10 — Spiritual Styles](evening-10-spiritual-styles.md).
 Tonight's opening simply welcomes everyone home.
 
 **Why this evening.** Two reasons. First, hearing together is how God has
@@ -61,7 +61,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 |---|---|---|
 | 6:00 | Dinner; the first table together since the break. Leading team's walk-through at the table's edge if needed. | Household |
 | 7:00–7:08 | Welcome home and centering; blessing; the map (the last evening of *Connect with God*); container reminder. | Container holder |
-| 7:08–7:18 | The welcome-back round: one sentence each, *one thing from the break I want this room to know.* A parent starts; pass is a full answer. No reading of practices tonight: that is The Return's work. | Container holder |
+| 7:08–7:18 | The welcome-back round: one sentence each, *one thing from the break I want this room to know.* A parent starts; pass is a full answer. No reading of practices tonight: that is Spiritual Styles' work. | Container holder |
 | 7:18–7:25 | From my hearing to our hearing: PROAPT is how I hear; Heart Bible Study is how we hear together. Nehemiah 8:8 and Acts 13:2. The question that makes it work: *what did you hear that was the same, and what was different?* | Content presenter |
 | 7:25–7:30 | Pray: thanks, then bow. Psalm 95:1–2 and a one-word thanks round from the break, which answers December's question (what God continued while we were apart); Psalm 95:6–7 and heads bowed, kneeling for anyone who wants to; the Spirit invited; then *"Today, if you hear his voice"* (Psalm 95:7–8) opens the readings. | Content presenter |
 | 7:30–7:40 | Read: 1 Samuel 3:1–10, three slow readings, eyes closed except the reader's. Three readers: a teen, a parent, a teen. | Content presenter; three readers |
@@ -73,7 +73,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 8:14–8:20 | Homework commissioning: the take-home walked, check-in partners named aloud (Hebrews 3:13: encourage one another daily, as long as it is called "today"). | Content presenter |
 | 8:20–8:24 | Leader Feedback Round, both leaders. | Both leaders |
 | 8:24–8:30 | Closing container; a brief word of what the Lord did in the room's hearing tonight; Aaronic blessing. | Container holder |
-| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning The Return. | Everyone; John holds the debrief |
+| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Spiritual Styles. | Everyone; John holds the debrief |
 
 **On the clock.** The protocol's own guide gives one passage sixty to
 ninety minutes. Tonight it has about fifty, so the passage is short and the
@@ -121,7 +121,7 @@ The protocol behind tonight is *Intentional Journey of the Heart*, Volume 5, [A2
 - **Week two:** one Heart Bible Study at your own table, a teen leading,
   on 1 Samuel 3:11–21 or a passage you choose. Three readings, the images,
   same and different, one sentence each.
-- **Before The Return:** two sentences in your journal: *the practice I
+- **Before Spiritual Styles:** two sentences in your journal: *the practice I
   kept over the break was ________*, and *the one I most want to keep is ________*.
 
 *Further up and further in.*

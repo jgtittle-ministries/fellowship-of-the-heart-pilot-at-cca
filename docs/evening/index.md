@@ -7,11 +7,13 @@ title: "FotH Evening"
 *Two-Week Rhythm · Teen-Led — Fellowship of the Heart around a family table.*
 
 *This page is kept current: it is updated after each evening's debrief.
-Last updated 17 November 2026. Evenings were numbered as Sessions until
-October; the series is now numbered Evening 1 to 21. On 5 November four
-evenings were added, Heart Bible Study as Evening 9, Doing the Word as
-Evening 11, Serving Together as Evening 13 and Carrying the Word as
-Evening 16, and the others moved down.*
+Last updated 22 November 2026. Evenings were numbered as Sessions until
+October; the series is now numbered Evening 1 to 23. On 5 November four
+evenings were added: Heart Bible Study, Doing the Word, Serving Together
+and Carrying the Word. On 22 November, at the parents' meeting, the draft
+series of twenty-three was accepted: Spiritual Styles became Evening 10,
+in The Return's place, Leading the Room Evening 11, and Any Doubts? led
+by the teens Evening 12, and the evenings after them moved down.*
 
 ---
 
@@ -37,14 +39,13 @@ on **Tuesday, December 1**, is the one evening in December.
 
 **After that,** a Christmas break. In January,
 [Evening 9 — Heart Bible Study](session-11a-heart-bible-study.md) welcomes
-everyone home and closes *Connect with God*; then Evening 10, *The Return*, and Evening 11,
-[Doing the Word](session-12a-doing-the-word.md).
-From there, about every two weeks. Each date is set at the planning lab
-before it.
-
-**For the leads.** [Leading the Room — A Facilitation Evening](leading-the-room.md)
-is one evening for the teen leads and the parents who serve as safety
-adults, outside the numbered evenings, on a date set at a planning lab.
+everyone home and closes *Connect with God*; then Evening 10,
+[Spiritual Styles](evening-10-spiritual-styles.md), Evening 11,
+[Leading the Room](leading-the-room.md), and Evening 12,
+[Any Doubts? — The Teens Lead](evening-12-any-doubts-the-teens-lead.md).
+From there, about every two weeks. In the summer, when families travel,
+about once a month, so the series runs into the fall of 2027. Each date is
+set at the planning lab before it.
 
 If you were invited, you are welcome, and you are welcome to bring
 someone. **Bring:** a notebook or journal, and yourself. Dinner is
@@ -99,7 +100,7 @@ named partner at the end of week one.
 ## The road
 
 The group walks the [current-condition walk](handbook.md#the-current-condition-walk):
-the full series, fitted to the room it has, in twenty-one evenings. Some
+the full series, fitted to the room it has, in twenty-three evenings. Some
 second runnings fold into their firsts, and the full two-session forms stand
 in reserve for a larger room. Each evening links to its page where one is
 published, and otherwise to the full Companion lesson plan in the Getting
@@ -120,29 +121,32 @@ cards, always the current versions. Start there.
 | 7 — [The Garden of Your Heart](session-09-10-the-garden-of-your-heart.md), Garden I & II in one evening | Tue Nov 10 | Walked |
 | 8 — [Any Doubts?](session-11-any-doubts.md) | Tue Dec 1 | **Next** |
 | 9 — [Heart Bible Study](session-11a-heart-bible-study.md) | January, the first evening after the Christmas break | Ahead: added 5 November |
-| 10 — [The Return](../getting-started/week-12-return.md) | January | Ahead |
-| 11 — [Doing the Word](session-12a-doing-the-word.md) | | Ahead: added 5 November |
-| 12 — [What Was Prepared for You](../getting-started/week-13-mission.md) | | Ahead |
-| 13 — [Serving Together](session-13a-serving-together.md) | | Ahead: added 5 November |
-| 14 — [The Rhythm and the Four Questions](../getting-started/week-15-rhythm.md) | | Ahead |
-| 15 — [Family Conversation Night](../getting-started/week-16-family-night.md) | | Ahead |
-| 16 — [Carrying the Word](session-16a-carrying-the-word.md) | | Ahead: added 5 November |
-| 17 — [The Float](../getting-started/week-17-float.md) | | Ahead |
-| 18 — [The Return II](../getting-started/week-18-return-2.md) | | Ahead |
-| 19 — [The Long Walk](../getting-started/week-20-long-walk.md) | | Ahead |
-| 20 — [Sending and Blessing](../getting-started/week-21-sending.md) | | Ahead |
-| 21 — [Commissioning the Companions](../getting-started/week-22-commissioning.md) | | Ahead |
+| 10 — [Spiritual Styles](evening-10-spiritual-styles.md) | January | Ahead: added 22 November, in The Return's place |
+| 11 — [Leading the Room](leading-the-room.md), a facilitation evening | | Ahead: numbered 22 November |
+| 12 — [Any Doubts? — The Teens Lead](evening-12-any-doubts-the-teens-lead.md) | | Ahead: added 22 November |
+| 13 — [Doing the Word](session-12a-doing-the-word.md) | | Ahead |
+| 14 — [What Was Prepared for You](evening-14-what-was-prepared-for-you.md) | | Ahead |
+| 15 — [Serving Together](session-13a-serving-together.md) | | Ahead |
+| 16 — [The Rhythm and the Four Questions](evening-16-the-rhythm-and-the-four-questions.md) | | Ahead |
+| 17 — [Family Conversation Night](evening-17-family-conversation-night.md) | | Ahead |
+| 18 — [Carrying the Word](session-16a-carrying-the-word.md) | | Ahead |
+| 19 — [The Float, with the Seeing Round](evening-19-the-float.md) | | Ahead |
+| 20 — [The Return II](evening-20-the-return-ii.md) | | Ahead |
+| 21 — [The Long Walk](evening-21-the-long-walk.md) | | Ahead |
+| 22 — [Sending and Blessing](evening-22-sending-and-blessing.md) | | Ahead |
+| 23 — [Commissioning the Companions](evening-23-commissioning-the-companions.md) | Fall 2027 | Ahead |
 
 The four movements: Evenings 1–5, *Connect with Self and Others*; 6–9,
-*Connect with God*; 10–17, *Mission and Rhythm*; 18–21, *Consolidation and
-Sending*. Evenings 9, 11, 13 and 16 (Heart Bible Study, Doing the Word,
-Serving Together and Carrying the Word) belong to the evening form alone:
-the school series has no session for them. The school series' second runnings A and B are not separate
+*Connect with God*; 10–19, *Mission and Rhythm*; 20–23, *Consolidation and
+Sending*. Seven evenings belong to the evening form alone, and the school
+series has no session for them: Heart Bible Study (9), Spiritual Styles
+(10), Leading the Room (11), Any Doubts? led by the teens (12), Doing the
+Word (13), Serving Together (15) and Carrying the Word (18). The school series' second runnings A and B are not separate
 evenings here: every evening already gives willing teens a full leading rep,
 and the rehearsal moved to the planning lab.
 
 [The Whole Road](the-whole-road.md) is the whole plan on one page: what
-each of the twenty-one evenings does, what goes home, and how each evening
+each of the twenty-three evenings does, what goes home, and how each evening
 builds on the ones before it, along three threads: trust, skills, and teen
 leadership.
 

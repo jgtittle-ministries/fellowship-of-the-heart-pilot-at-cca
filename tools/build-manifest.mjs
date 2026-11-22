@@ -32,7 +32,16 @@ const ROOT_PAGES = ['index.md', 'start-here.md', 'four-connects.md', 'how-we-got
 const SERIES_DEFS = [
   { id: 'evening', name: 'FotH Evening', groups: [
     { dir: 'evening', label: null, edition: 'v1',
-      order: ['index.md', 'handbook.md', 'the-whole-road.md'] } ] },
+      // the 23 evenings in order (22 Nov 2026); file names keep their old session keys so links never break
+      order: ['index.md', 'handbook.md', 'the-whole-road.md',
+        'session-01-welcome-to-the-journey.md', 'session-02-the-soil-of-your-heart.md', 'session-03-04-telling-your-story.md',
+        'session-05-knowing-and-being-known.md', 'session-06-safe-and-brave-together.md', 'session-07-08-hearing-god-in-scripture.md',
+        'session-09-10-the-garden-of-your-heart.md', 'session-11-any-doubts.md', 'session-11a-heart-bible-study.md',
+        'evening-10-spiritual-styles.md', 'leading-the-room.md', 'evening-12-any-doubts-the-teens-lead.md',
+        'session-12a-doing-the-word.md', 'evening-14-what-was-prepared-for-you.md', 'session-13a-serving-together.md',
+        'evening-16-the-rhythm-and-the-four-questions.md', 'evening-17-family-conversation-night.md', 'session-16a-carrying-the-word.md',
+        'evening-19-the-float.md', 'evening-20-the-return-ii.md', 'evening-21-the-long-walk.md',
+        'evening-22-sending-and-blessing.md', 'evening-23-commissioning-the-companions.md'] } ] },
   { id: 'cca', name: 'CCA Pilot', index: 'docs/cca/index.md', groups: [
     { dir: 'cca',             label: null,                         edition: null },
     { dir: 'getting-started', label: 'Getting Started · 22 weeks', edition: 'v3' },

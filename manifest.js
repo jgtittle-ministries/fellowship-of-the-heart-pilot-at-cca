@@ -55,7 +55,7 @@ window.SERIES = [
       },
       {
         "path": "docs/evening/the-whole-road.md",
-        "title": "The Whole Road — Evenings 1 to 21",
+        "title": "The Whole Road — Evenings 1 to 23",
         "edition": "v1"
       },
       {
@@ -104,23 +104,73 @@ window.SERIES = [
         "edition": "v1"
       },
       {
-        "path": "docs/evening/session-12a-doing-the-word.md",
-        "title": "Evening 11 — Doing the Word",
-        "edition": "v1"
-      },
-      {
-        "path": "docs/evening/session-13a-serving-together.md",
-        "title": "Evening 13 — Serving Together",
-        "edition": "v1"
-      },
-      {
-        "path": "docs/evening/session-16a-carrying-the-word.md",
-        "title": "Evening 16 — Carrying the Word",
+        "path": "docs/evening/evening-10-spiritual-styles.md",
+        "title": "Evening 10 — Spiritual Styles",
         "edition": "v1"
       },
       {
         "path": "docs/evening/leading-the-room.md",
-        "title": "Leading the Room — A Facilitation Evening",
+        "title": "Evening 11 — Leading the Room, a Facilitation Evening",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-12-any-doubts-the-teens-lead.md",
+        "title": "Evening 12 — Any Doubts? — The Teens Lead",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/session-12a-doing-the-word.md",
+        "title": "Evening 13 — Doing the Word",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-14-what-was-prepared-for-you.md",
+        "title": "Evening 14 — What Was Prepared for You",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/session-13a-serving-together.md",
+        "title": "Evening 15 — Serving Together",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-16-the-rhythm-and-the-four-questions.md",
+        "title": "Evening 16 — The Rhythm and the Four Questions",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-17-family-conversation-night.md",
+        "title": "Evening 17 — Family Conversation Night",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/session-16a-carrying-the-word.md",
+        "title": "Evening 18 — Carrying the Word",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-19-the-float.md",
+        "title": "Evening 19 — The Float, with the Seeing Round",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-20-the-return-ii.md",
+        "title": "Evening 20 — The Return II",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-21-the-long-walk.md",
+        "title": "Evening 21 — The Long Walk",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-22-sending-and-blessing.md",
+        "title": "Evening 22 — Sending and Blessing",
+        "edition": "v1"
+      },
+      {
+        "path": "docs/evening/evening-23-commissioning-the-companions.md",
+        "title": "Evening 23 — Commissioning the Companions",
         "edition": "v1"
       },
       {
@@ -964,7 +1014,7 @@ window.PATH_TO_INFO = {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "The Whole Road — Evenings 1 to 21",
+    "title": "The Whole Road — Evenings 1 to 23",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/handbook.md",
     "next": "docs/evening/session-01-welcome-to-the-journey.md"
@@ -1048,42 +1098,132 @@ window.PATH_TO_INFO = {
     "title": "Evening 9 — Heart Bible Study",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-11-any-doubts.md",
-    "next": "docs/evening/session-12a-doing-the-word.md"
+    "next": "docs/evening/evening-10-spiritual-styles.md"
   },
-  "docs/evening/session-12a-doing-the-word.md": {
+  "docs/evening/evening-10-spiritual-styles.md": {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Evening 11 — Doing the Word",
+    "title": "Evening 10 — Spiritual Styles",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-11a-heart-bible-study.md",
-    "next": "docs/evening/session-13a-serving-together.md"
-  },
-  "docs/evening/session-13a-serving-together.md": {
-    "seriesId": "evening",
-    "seriesName": "FotH Evening",
-    "edition": "v1",
-    "title": "Evening 13 — Serving Together",
-    "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-12a-doing-the-word.md",
-    "next": "docs/evening/session-16a-carrying-the-word.md"
-  },
-  "docs/evening/session-16a-carrying-the-word.md": {
-    "seriesId": "evening",
-    "seriesName": "FotH Evening",
-    "edition": "v1",
-    "title": "Evening 16 — Carrying the Word",
-    "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-13a-serving-together.md",
     "next": "docs/evening/leading-the-room.md"
   },
   "docs/evening/leading-the-room.md": {
     "seriesId": "evening",
     "seriesName": "FotH Evening",
     "edition": "v1",
-    "title": "Leading the Room — A Facilitation Evening",
+    "title": "Evening 11 — Leading the Room, a Facilitation Evening",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-10-spiritual-styles.md",
+    "next": "docs/evening/evening-12-any-doubts-the-teens-lead.md"
+  },
+  "docs/evening/evening-12-any-doubts-the-teens-lead.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 12 — Any Doubts? — The Teens Lead",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/leading-the-room.md",
+    "next": "docs/evening/session-12a-doing-the-word.md"
+  },
+  "docs/evening/session-12a-doing-the-word.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 13 — Doing the Word",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-12-any-doubts-the-teens-lead.md",
+    "next": "docs/evening/evening-14-what-was-prepared-for-you.md"
+  },
+  "docs/evening/evening-14-what-was-prepared-for-you.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 14 — What Was Prepared for You",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-12a-doing-the-word.md",
+    "next": "docs/evening/session-13a-serving-together.md"
+  },
+  "docs/evening/session-13a-serving-together.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 15 — Serving Together",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-14-what-was-prepared-for-you.md",
+    "next": "docs/evening/evening-16-the-rhythm-and-the-four-questions.md"
+  },
+  "docs/evening/evening-16-the-rhythm-and-the-four-questions.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 16 — The Rhythm and the Four Questions",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-13a-serving-together.md",
+    "next": "docs/evening/evening-17-family-conversation-night.md"
+  },
+  "docs/evening/evening-17-family-conversation-night.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 17 — Family Conversation Night",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-16-the-rhythm-and-the-four-questions.md",
+    "next": "docs/evening/session-16a-carrying-the-word.md"
+  },
+  "docs/evening/session-16a-carrying-the-word.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 18 — Carrying the Word",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-17-family-conversation-night.md",
+    "next": "docs/evening/evening-19-the-float.md"
+  },
+  "docs/evening/evening-19-the-float.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 19 — The Float, with the Seeing Round",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-16a-carrying-the-word.md",
+    "next": "docs/evening/evening-20-the-return-ii.md"
+  },
+  "docs/evening/evening-20-the-return-ii.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 20 — The Return II",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-19-the-float.md",
+    "next": "docs/evening/evening-21-the-long-walk.md"
+  },
+  "docs/evening/evening-21-the-long-walk.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 21 — The Long Walk",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-20-the-return-ii.md",
+    "next": "docs/evening/evening-22-sending-and-blessing.md"
+  },
+  "docs/evening/evening-22-sending-and-blessing.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 22 — Sending and Blessing",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-21-the-long-walk.md",
+    "next": "docs/evening/evening-23-commissioning-the-companions.md"
+  },
+  "docs/evening/evening-23-commissioning-the-companions.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 23 — Commissioning the Companions",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/evening-22-sending-and-blessing.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -1092,7 +1232,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/leading-the-room.md"
+    "prev": "docs/evening/evening-23-commissioning-the-companions.md"
   },
   "docs/cca/index.md": {
     "seriesId": "cca",

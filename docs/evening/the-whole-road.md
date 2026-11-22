@@ -1,16 +1,19 @@
 ---
-title: "The Whole Road — Evenings 1 to 21"
+title: "The Whole Road — Evenings 1 to 23"
 ---
 
-# The Whole Road — Evenings 1 to 21
+# The Whole Road — Evenings 1 to 23
 
-*FotH Evening · An overview of the twenty-one evenings · First written for the parents' review, 7 November 2026*
+*FotH Evening · An overview of the twenty-three evenings · First written for the parents' review, 7 November 2026; twenty-three evenings since the parents' meeting, 22 November 2026*
 
 > **Download** · [This page (Word)](downloads/the-whole-road.docx)
 
-Twenty-one evenings, about every two weeks, with breaks at Thanksgiving,
-at Christmas and in the spring. This page puts the whole plan in one
-place: what each evening does, what goes home, and how each evening picks
+Twenty-three evenings, about every two weeks, with breaks at Thanksgiving,
+at Christmas and in the spring, and about one a month in the summer, when
+families travel, so the series runs into the fall of 2027. The road ends
+where it has been heading all along: each person hearing something of
+their calling and mission, then commissioned, blessed and sent. This page
+puts the whole plan in one place: what each evening does, what goes home, and how each evening picks
 up what came before. It was written for the parents to review together.
 Nothing on it is fixed; the room's comments change it, and the
 [change log](CHANGELOG.md) records how.
@@ -48,7 +51,7 @@ Others, God, Mission, is also the order in which trust grows.
   of their inner life be seen, at their own pace: their story, their
   friendships, a place they want more honesty, their doubts. Nobody is
   pushed past what they are ready to share.
-- **Owned** (Evenings 9–21). The practices and the room become ours. Teens
+- **Owned** (Evenings 9–23). The practices and the room become ours. Teens
   lead the room's hearing, families keep practices at their own table, the
   room agrees and serves together, and each person builds a rhythm to keep
   after the evenings stop.
@@ -65,26 +68,28 @@ together. The last evenings teach how to keep it going, and how to lead it.
 
 **3. Teen leadership, growing by stages.** Teens lead the container and
 the teaching from the first evening. Along the road they take on more:
-leading the room's hearing (Evening 9), running the planning (13),
-teaching the ways to learn Scripture by heart (16), teaching the mercy
-cards (19), and finally being commissioned to lead others (21).
+leading the room's hearing (Evening 9), learning to facilitate (11),
+leading Any Doubts? themselves (12), running the planning (15), teaching
+the ways to learn Scripture by heart (18), teaching the mercy cards (21),
+and finally being commissioned to lead others (23).
 
 ## The practices that keep coming back
 
 | Practice | Begins | Comes back |
 |---|---|---|
-| The container, eight steps | Evening 1 | Opens and closes every evening; at 21 the teens run it from memory |
+| The container, eight steps | Evening 1 | Opens and closes every evening; at 23 the teens run it from memory |
 | The morning question and evening journal line | Evening 1 | On every take-home, every day |
 | A check-in partner | Evening 1 | Every cycle, a new partner, named aloud |
 | The four conditions: Safe, Present, Clear, Intentional | Evening 1; taught at 4 | Friendships (4), the room's safety (5), every container |
 | Being known in the circle, "We hear that" | Evening 3 | Deepened at 4, 5 and 8 |
-| PROAPT: hearing God in a passage | Evening 6 | Daily from then on; together at 9; the ground of 11 and 16 |
-| The Tell: one sentence of what I heard | Evening 6 | Said to the room at 9; read back and acted on at 11 |
-| How Did You Know? Testing what we hear | Evening 7 | Doubts (8), Doing the Word (11), hearing together (13) |
-| The Practices So Far: choose one | Evening 7 | Over the breaks (7, 8, 17); the Rhythm Card (14) |
-| Coming back after a break | Evening 8 | The Return (10), The Float (17), The Return II (18) |
-| The Rhythm Card | Evening 14 | Walked together (17), checked (18), kept after the series (20) |
-| The family passage, by heart | Evening 16 | Said again at The Float (17) and The Return II (18) |
+| PROAPT: hearing God in a passage | Evening 6 | Daily from then on; together at 9; the ground of 13 and 18 |
+| The Tell: one sentence of what I heard | Evening 6 | Said to the room at 9; read back and acted on at 13 |
+| How Did You Know? Testing what we hear | Evening 7 | Doubts (8, 12), Doing the Word (13), hearing together (15) |
+| The Practices So Far: choose one | Evening 7 | Over the breaks (7, 8, 19); the Rhythm Card (16) |
+| Coming back after a break | Evening 8 | Spiritual Styles (10), The Float (19), The Return II (20) |
+| The Rhythm Card | Evening 16 | Walked together (19), checked (20), kept after the series (22) |
+| The family passage, by heart | Evening 18 | Said again at The Float (19) and The Return II (20) |
+| The Seeing Round: what we see of God in each other | Evening 19 | Echoed at Sending and Blessing (22) |
 
 *And every cycle: a missed box is never a failure. It is an invitation to
 return.*
@@ -174,35 +179,57 @@ own family table, a teen leading.\
 *Picks up:* Evening 6's personal practice becomes the room's practice and
 the family's. Trust begins to be owned: teens lead the room and the table.
 
-### Third movement — Mission and Rhythm (Evenings 10–17)
+### Third movement — Mission and Rhythm (Evenings 10–19)
 
-**Evening 10 — [The Return](../getting-started/week-12-return.md)**\
-We rebuild the room after the break, read honestly what held and what
-slipped, and re-anchor the year (Lamentations 3:22–23). Slips are data,
-not failure.\
-*Goes home:* restart one daily practice, just one, and find and mark your
-Tell sentences from Evenings 6–9.\
-*Picks up:* every practice so far, chosen from rather than all at once.
+**Evening 10 — [Spiritual Styles](evening-10-spiritual-styles.md)**\
+The ways different people meet God (Christian Schwarz, *The 3 Colors of
+Your Spirituality*). The inventory is taken ahead; tonight we talk through
+our native styles, the styles we find hardest, and their dangers. It also
+does The Return's old work: what held over Christmas, what slipped, and
+one practice restarted (1 Corinthians 12:4–6).\
+*Goes home:* a practice in your native style daily, plus one small stretch,
+and the one practice restarted.\
+*Picks up:* Evening 9's passage, where Eli helps Samuel recognize a voice.
+Parents name where their teen is strong and they are not.
 
-**Evening 11 — [Doing the Word](session-12a-doing-the-word.md)**\
+**Evening 11 — [Leading the Room](leading-the-room.md)**\
+Facilitation for everyone who leads: leading a room so that the room owns
+its own evening. The leader's work is to hand the evening over, not to
+deliver it (1 Corinthians 14:26; James 1:19). Two parents play the practice
+moments.\
+*Goes home:* the four moves, tried at the next evening you lead.\
+*Picks up:* months of leading, and the hard moments the leads have already
+met. A facilitator runs a practice as written and hands anything heavy to
+an adult at once.
+
+**Evening 12 — [Any Doubts? — The Teens Lead](evening-12-any-doubts-the-teens-lead.md)**\
+The follow-up to December 1. Having seen John walk the parents through
+Any Doubts?, the teens present it and lead the rest of the teens through
+it, after a planning lab, with the adults close behind (Mark 9:24).\
+*Goes home:* the practice once more, with a partner, and find and mark
+your Tell sentences from Evenings 6–9, ready for Doing the Word.\
+*Picks up:* Evening 8's practice and Evening 11's facilitation, put
+together. Doubts honestly named lead straight into testing and doing.
+
+**Evening 13 — [Doing the Word](session-12a-doing-the-word.md)**\
 The obey step. Each person reads back what they have heard since Evening 6,
 picks one thing not yet done, and names the smallest next step (Luke
 6:46–49; James 1:22–25). It is tested first, then shared in parent–teen
 pairs.\
 *Goes home:* do it on the day named, then two journal lines: what I did,
 and what happened.\
-*Picks up:* everything heard in Evenings 6–9, and the testing from 7–8.
-Hearing becomes doing.
+*Picks up:* everything heard in Evenings 6–9, the testing from 7–8, and the
+doubts named at 8 and 12. Hearing becomes doing.
 
-**Evening 12 — [What Was Prepared for You](../getting-started/week-13-mission.md)**\
+**Evening 14 — [What Was Prepared for You](evening-14-what-was-prepared-for-you.md)**\
 Mission begins: the good works God prepared for each of us (Ephesians
 2:10). Our gifts, and the difference between what I do and who I am when I
 show up at my best.\
 *Goes home:* one small action that fits what you heard, and an idea of
 someone the room could serve together.\
-*Picks up:* Evening 11's one step, now set inside a calling.
+*Picks up:* Evening 13's one step, now set inside a calling.
 
-**Evening 13 — [Serving Together](session-13a-serving-together.md)**\
+**Evening 15 — [Serving Together](session-13a-serving-together.md)**\
 The room's obedience, and three skills a group needs: hearing God
 together, planning together and agreeing together (John 13:17; Acts
 13:1–3; Acts 15:28). Teens run the planning. Agreement is not a vote, and
@@ -210,11 +237,11 @@ the room may pass if it is not of one mind.\
 *Goes home:* the room serves someone together in the two weeks, then
 reports back. If the room passed: eyes open for one chance to serve, and
 the question, what kept us from one mind?\
-*Picks up:* each person's obedience (11) and calling (12) become the
+*Picks up:* each person's obedience (13) and calling (14) become the
 room's. Whether the room agrees or passes tells us how far the group has
 become one.
 
-**Evening 14 — [The Rhythm and the Four Questions](../getting-started/week-15-rhythm.md)**\
+**Evening 16 — [The Rhythm and the Four Questions](evening-16-the-rhythm-and-the-four-questions.md)**\
 The serving report opens the evening. Then each person builds a Rhythm
 Card: the practices they will keep after the evenings stop (Galatians
 6:9). Parents receive four questions to ask their teen at home, if they
@@ -225,7 +252,7 @@ questions.\
 rhythm. Evening 3's prayer, "Search me, O God," is now asked between
 parent and teen.
 
-**Evening 15 — [Family Conversation Night](../getting-started/week-16-family-night.md)**\
+**Evening 17 — [Family Conversation Night](evening-17-family-conversation-night.md)**\
 Low teaching, high warmth: a shared meal, a table grace (Acts 2:46), and
 conversation cards over dessert. The container simply holds us for an
 evening.\
@@ -233,7 +260,7 @@ evening.\
 learn by heart.\
 *Picks up:* the trust the room has built, enjoyed for its own sake.
 
-**Evening 16 — [Carrying the Word](session-16a-carrying-the-word.md)**\
+**Evening 18 — [Carrying the Word](session-16a-carrying-the-word.md)**\
 Each family chooses a short passage and starts learning it by heart
 together (Deuteronomy 6:6–9; Psalm 119:11). The teens teach five ways to
 carry it, and each family says its passage to the room.\
@@ -241,16 +268,20 @@ carry it, and each family says its passage to the room.\
 *Picks up:* hearing the Word (PROAPT, Heart Bible Study) becomes carrying
 it, at home, in ordinary moments.
 
-**Evening 17 — [The Float](../getting-started/week-17-float.md)**\
+**Evening 19 — [The Float, with the Seeing Round](evening-19-the-float.md)**\
 Nothing new is taught. If an evening was missed, it runs tonight. If not,
 the room walks its Rhythm Cards together, celebrating what held and
-borrowing ideas (Proverbs 16:9). Each family says its passage again.\
+borrowing ideas (Proverbs 16:9), and each family says its passage again.
+Then the Seeing Round, about fifteen minutes: each person hears what the
+room has seen of God in them, in two rounds and two sentences, and no one
+chooses whom to affirm (1 Thessalonians 5:11).\
 *Goes home:* one practice, carried on purpose through the spring break.\
-*Picks up:* the Rhythm Card (14) and the family passage (16).
+*Picks up:* the Rhythm Card (16) and the family passage (18), and a room
+that has watched each other for most of a year.
 
-### Fourth movement — Consolidation and Sending (Evenings 18–21)
+### Fourth movement — Consolidation and Sending (Evenings 20–23)
 
-**Evening 18 — [The Return II](../getting-started/week-18-return-2.md)**\
+**Evening 20 — [The Return II](evening-20-the-return-ii.md)**\
 A light return. The room knows how to come back now, and carries its own
 return (Galatians 6:9; Philippians 1:6). Each family says its passage once
 more, and the final stretch is set.\
@@ -258,7 +289,7 @@ more, and the final stretch is set.\
 invite to the next series.\
 *Picks up:* the returns of Evenings 8 and 10, now led by the room itself.
 
-**Evening 19 — [The Long Walk](../getting-started/week-20-long-walk.md)**\
+**Evening 21 — [The Long Walk](evening-21-the-long-walk.md)**\
 Teens teach the room two mercy cards: the signs of drifting, and the path
 home. Then the room walks back through its own year, journal in hand, and
 gathers one-sentence testimonies (Isaiah 50:10).\
@@ -267,21 +298,25 @@ they live.\
 *Picks up:* the whole year, read back in the journal. The teens teach the
 room.
 
-**Evening 20 — [Sending and Blessing](../getting-started/week-21-sending.md)**\
+**Evening 22 — [Sending and Blessing](evening-22-sending-and-blessing.md)**\
 The family commissioning. Each parent and teen stand together and speak a
 blessing over each other, and the room speaks the Aaronic blessing over
-each family (Numbers 6:24–26).\
+each family (Numbers 6:24–26). The Seeing Round's sentences can be echoed
+here.\
 *Goes home:* the Rhythm Card becomes the long-term practice, until the
 next series begins.\
 *Picks up:* all four Connects, gathered into one evening of blessing.
 
-**Evening 21 — [Commissioning the Companions](../getting-started/week-22-commissioning.md)**\
-The teens who have led are commissioned to lead others (2 Timothy 2:2;
-1 Timothy 4:12). They open and close the container from memory, the
-covering is named, and their first planning lab for leading others is set
-before anyone leaves.\
-*Goes home:* for the commissioned, the first lab; for everyone, the rhythm.\
-*Picks up:* twenty evenings of leading, now handed on. Trust, fully owned.
+**Evening 23 — [Commissioning the Companions](evening-23-commissioning-the-companions.md)**\
+Where the whole road has been heading. Each person names what they have
+heard of their calling and mission so far, and the teens who have led are
+commissioned to lead others (2 Timothy 2:2; 1 Timothy 4:12). They open and
+close the container from memory, the covering is named, and their first
+planning lab for leading others is set before anyone leaves.\
+*Goes home:* for the commissioned, the first lab; for everyone, the rhythm,
+and the calling heard so far.\
+*Picks up:* twenty-two evenings of leading, now handed on. Trust, fully
+owned.
 
 ## For the parents' conversation
 

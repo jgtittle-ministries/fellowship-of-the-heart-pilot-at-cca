@@ -8,8 +8,8 @@ loud and bringing them honestly to God. The model is the father in Mark 9:
 Spirit's work. Tonight it is done slowly, parents first: John walks each
 parent through it, one at a time, in front of the room, and the room talks
 over the process after each. Then the parents lead John through it. The
-teens watch, help talk it over, and lead it themselves in January (Evening
-12). If there is time, we go to the silent place: a time when God seemed
+teens watch, help talk it over, and lead it themselves in the new year, at
+Evening 12. If there is time, we go to the silent place: a time when God seemed
 silent, with the time we did hear him brought in.
 
 **First, the return.** This is our first evening after three weeks apart, across Thanksgiving.
@@ -207,7 +207,7 @@ is what the evening form changes.
 - **One teen holds the container; John carries the content.** The teen
   leads the welcome, the return round, the merge and the close, and keeps
   the room. The teens watch the walk-throughs, help talk over the process,
-  and lead the practice themselves in January, at Evening 12.
+  and lead the practice themselves in the new year, at Evening 12.
 - **Guests, and their parents.** The family is in touch with the two guest
   teens from Evening 7. If they come, their parents are welcome too: this is
   family formation, not only teen formation.

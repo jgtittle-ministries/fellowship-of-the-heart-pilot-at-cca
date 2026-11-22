@@ -76,6 +76,49 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.78 — November 22, 2026 — twenty-three evenings
+
+The parents accepted the draft series of twenty-three evenings at their
+meeting on November 22, with the teens present. The site now follows it.
+
+- **The three new evenings.** Evening 10, *Spiritual Styles*, takes The
+  Return's place and its work: what held over the break, what slipped, and
+  one practice restarted. Evening 11, *Leading the Room*, the facilitation
+  evening written on November 17, is now a numbered evening for everyone
+  who leads. Evening 12, *Any Doubts? — The Teens Lead*, follows December 1.
+  Evenings 10 and 12 have short pages for now; their full pages and
+  materials are written before they are walked.
+- **Everything after them moved down two.** Doing the Word is now 13, What
+  Was Prepared for You 14, Serving Together 15, the Rhythm 16, Family Night
+  17, Carrying the Word 18, the Float 19, the Return II 20, the Long Walk
+  21, Sending and Blessing 22, and Commissioning the Companions 23. The
+  movements are 1–5, 6–9, 10–19 and 20–23. The Return (school session 12)
+  is now a spare form.
+- **The Seeing Round at Evening 19.** About fifteen minutes, two rounds,
+  two sentences; no one chooses whom to affirm. It is tried first with the
+  IJH Council on December 6.
+- **Where the road ends.** Evening 23 now names the aim the whole series
+  serves: each person hearing something of their calling and mission, then
+  commissioned, blessed and sent.
+- **The calendar.** About every two weeks, but about once a month in the
+  summer, when families travel, so the series runs into the fall of 2027.
+- **Doing the Word (13) re-pointed.** Its check-in now reports the two
+  weeks since Evening 12, and Evening 12's take-home asks everyone to find
+  and mark their Tell sentences from Evenings 6–9, the read-back Doing the
+  Word needs. Heart Bible Study (9) now points ahead to Spiritual Styles.
+- **The menu runs straight through.** Short pages for Evenings 10, 12, 14,
+  16, 17 and 19–23 carry The Whole Road's summary and link to the full
+  Companion lesson plan until each evening's own page is written. File
+  names keep their old session keys, so no link breaks; the menu order is
+  set in the manifest builder.
+- **Materials renumbered.** The decks, run sheets, leader notes, take-home
+  sheets and cards for Evenings 9, 13, 15 and 18; their web copies are now
+  evening-13, evening-15 and evening-18; the OneDrive folders follow the new
+  numbers, and the files under the old numbers are in each folder's
+  Superseded. The Whole Road (page and Word copy) is now Evenings 1 to 23.
+- **A correction to v2.77.** Evening 8 said the teens lead Any Doubts? "in
+  January"; Evening 12 falls later, so it now says "in the new year."
+
 ## v2.77 — November 22, 2026 — Evening 8 at the slower pace, parents first
 
 From the parents' meeting on Sunday, November 22, with the teens present

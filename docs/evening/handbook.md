@@ -111,7 +111,7 @@ into their firsts, each in the way its material asks:
   leading rep — is the standing pattern of every current evening; any
   re-run middle can be called at a planning lab.
 - **Session 19 moved to the lab**: the mercy-card rehearsal happens at
-  the off-week planning lab with John; Evening 19 teaches the cards to
+  the off-week planning lab with John; Evening 21 teaches the cards to
   the room as designed.
 
 And **the full form held in reserve** — the two-session runnings, the
@@ -207,7 +207,7 @@ right. The rule moves correction; it does not remove it.
   family's. The group never overrides a parent, and no one in the group
   asks a teen to keep anything from a parent.
 - **Weighing together comes later.** Later in the series the room learns to
-  weigh what it hears together (Evening 13: hearing, planning, agreeing).
+  weigh what it hears together (Evening 15: hearing, planning, agreeing).
   Receiving first is the rule for this stage of the road, not the whole of
   it.
 

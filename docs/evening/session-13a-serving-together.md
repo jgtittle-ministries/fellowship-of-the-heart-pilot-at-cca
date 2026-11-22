@@ -1,8 +1,8 @@
 ---
-title: "Evening 13 — Serving Together"
+title: "Evening 15 — Serving Together"
 ---
 
-# Evening 13 — Serving Together
+# Evening 15 — Serving Together
 
 *FotH Evening · The room hears, plans and agrees together · Anchor: John 13:12–17; Acts 13:1–3; Acts 15:28*
 
@@ -13,12 +13,12 @@ the whole room chooses one to do side by side. We practice three things
 any group that obeys together has to learn: **hearing** God together,
 **planning** together, and **agreeing** together. The serving itself
 happens in the two weeks before the next evening, on a date the room sets
-tonight. At Evening 14 the room reports back.
+tonight. At Evening 16 the room reports back.
 
 **Where we are on the map.** The third movement, *Mission and Rhythm*.
-At Evening 11, *Doing the Word*, each person took one small step of
+At Evening 13, *Doing the Word*, each person took one small step of
 obedience. Tonight the room plans one together, and carries it out before
-we meet again. At Evening 14, *The Rhythm and the Four Questions*, the
+we meet again. At Evening 16, *The Rhythm and the Four Questions*, the
 room tells what happened, and each person builds the rhythm they will
 carry. Serving can be part of it.
 
@@ -102,14 +102,14 @@ Everything for this evening, current as of the last update. Download, open, prin
 
 **For everyone**
 
-- [Take-home sheet (Word)](materials/evening-13-take-home.docx) — handed out at the close; the practice until the next evening.
+- [Take-home sheet (Word)](materials/evening-15-take-home.docx) — handed out at the close; the practice until the next evening.
 
 **For the two leads**
 
-- [Slides (PowerPoint)](materials/evening-13-slides.pptx) — the room screen, with the leader's notes under each slide.
-- [Run sheet (Word)](materials/evening-13-run-sheet.docx) — the clock: each block, its time, and who leads it.
-- [Leader notes (Word)](materials/evening-13-leader-notes.docx) — what to say and watch for, slide by slide.
-- [Serving plan (Word)](materials/evening-13-serving-plan.docx) — filled in at the chart tonight: the choices, the jobs, the date, the call and the guards.
+- [Slides (PowerPoint)](materials/evening-15-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-15-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-15-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Serving plan (Word)](materials/evening-15-serving-plan.docx) — filled in at the chart tonight: the choices, the jobs, the date, the call and the guards.
 
 
 ## The evening
@@ -127,7 +127,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 8:14–8:20 | Homework commissioning: the take-home walked, each person's part written in (or, if the room passed, the other practice); check-in partners named aloud. | Content presenter |
 | 8:20–8:24 | Leader Feedback Round, both leaders. | Both leaders |
 | 8:24–8:30 | Closing container; Aaronic blessing. | Container holder |
-| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Evening 14, whose check-in hears the report. | Everyone; John holds the debrief |
+| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Evening 16, whose check-in hears the report. | Everyone; John holds the debrief |
 
 ## The serving day
 
@@ -141,9 +141,9 @@ On the date the room set, usually a Saturday morning in the two weeks:
   a blessing prayed for the people we served, out of their hearing if
   they would rather.
 
-## The report at Evening 14
+## The report at Evening 16
 
-At Evening 14's check-in, the teens who planned it give the room's
+At Evening 16's check-in, the teens who planned it give the room's
 report, about five minutes: **what we planned, what happened, what
 changed from the plan and why, and where we saw God.** Then each person
 adds one sentence. The report is the end of the work: hearing, planning,
@@ -191,7 +191,7 @@ and what they think kept us from one mind.
   ready? What do you need?*
 - **On our date:** we serve together. Afterwards, two lines in your
   journal: *what I did*, and *where I saw God in it*.
-- **Bring it back:** the report at Evening 14's check-in, and your one
+- **Bring it back:** the report at Evening 16's check-in, and your one
   sentence.
 - **If the room passed:** no project this time. Each day, eyes open for
   one chance to serve someone, unplanned; take it if you can. The

@@ -1,8 +1,8 @@
 ---
-title: "Evening 16 — Carrying the Word"
+title: "Evening 18 — Carrying the Word"
 ---
 
-# Evening 16 — Carrying the Word
+# Evening 18 — Carrying the Word
 
 *FotH Evening · Scripture by heart, as families · Anchor: Deuteronomy 6:6–9; Psalm 119:11; Colossians 3:16*
 
@@ -49,14 +49,14 @@ Everything for this evening, current as of the last update. Download, open, prin
 
 **For everyone**
 
-- [Take-home sheet (Word)](materials/evening-16-take-home.docx) — handed out at the close; the practice until the next evening.
-- [How to Carry the Word (Word)](materials/evening-16-carrying-card.docx) — the five ways to learn a passage by heart, and your family's passage.
+- [Take-home sheet (Word)](materials/evening-18-take-home.docx) — handed out at the close; the practice until the next evening.
+- [How to Carry the Word (Word)](materials/evening-18-carrying-card.docx) — the five ways to learn a passage by heart, and your family's passage.
 
 **For the two leads**
 
-- [Slides (PowerPoint)](materials/evening-16-slides.pptx) — the room screen, with the leader's notes under each slide.
-- [Run sheet (Word)](materials/evening-16-run-sheet.docx) — the clock: each block, its time, and who leads it.
-- [Leader notes (Word)](materials/evening-16-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Slides (PowerPoint)](materials/evening-18-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-18-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-18-leader-notes.docx) — what to say and watch for, slide by slide.
 
 
 ## The evening

@@ -1,8 +1,8 @@
 ---
-title: "Evening 11 — Doing the Word"
+title: "Evening 13 — Doing the Word"
 ---
 
-# Evening 11 — Doing the Word
+# Evening 13 — Doing the Word
 
 *FotH Evening · The obey step · Anchor: Luke 6:46–49; James 1:22–25*
 
@@ -15,11 +15,11 @@ picks one thing they heard and have not yet done, and names the smallest
 next step of obedience they can take in the next two weeks.
 
 **Where we are on the map.** The third movement, *Mission and Rhythm*,
-opened at The Return. Tonight sits between hearing and being sent: we
-have heard (Evenings 6–9), we have come back (Evening 10), now we do one
-thing, and next time, at *What Was Prepared for You*, we turn outward to
+opened at Spiritual Styles. Tonight sits between hearing and being sent:
+we have heard (Evenings 6–9), we have learned our styles, learned to lead
+and named our doubts (Evenings 10–12); now we do one thing, and next time, at *What Was Prepared for You*, we turn outward to
 Mission. Tonight's obedience is small and personal. Mission is the larger
-one, and at Evening 13, *Serving Together*, the whole room obeys
+one, and at Evening 15, *Serving Together*, the whole room obeys
 together.
 
 **Why this evening.** Jesus put it plainly: the one who hears His words
@@ -32,7 +32,7 @@ reports at the next evening will be the room's first stories of something
 heard and obeyed.
 
 **Bring.** Your journal, with your Tell sentences since Evening 6, and
-your take-home from The Return.
+your take-home from Evening 12.
 
 ---
 
@@ -42,14 +42,14 @@ Everything for this evening, current as of the last update. Download, open, prin
 
 **For everyone**
 
-- [Take-home sheet (Word)](materials/evening-11-take-home.docx) — handed out at the close; the practice until the next evening.
+- [Take-home sheet (Word)](materials/evening-13-take-home.docx) — handed out at the close; the practice until the next evening.
 
 **For the two leads**
 
-- [Slides (PowerPoint)](materials/evening-11-slides.pptx) — the room screen, with the leader's notes under each slide.
-- [Run sheet (Word)](materials/evening-11-run-sheet.docx) — the clock: each block, its time, and who leads it.
-- [Leader notes (Word)](materials/evening-11-leader-notes.docx) — what to say and watch for, slide by slide.
-- [Pair card (Word)](materials/evening-11-pair-card.docx) — the steps the pairs follow.
+- [Slides (PowerPoint)](materials/evening-13-slides.pptx) — the room screen, with the leader's notes under each slide.
+- [Run sheet (Word)](materials/evening-13-run-sheet.docx) — the clock: each block, its time, and who leads it.
+- [Leader notes (Word)](materials/evening-13-leader-notes.docx) — what to say and watch for, slide by slide.
+- [Pair card (Word)](materials/evening-13-pair-card.docx) — the steps the pairs follow.
 
 
 ## The evening
@@ -58,7 +58,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00–7:08 | Welcome and centering; blessing; the map (between hearing and being sent); container reminder. | Container holder |
-| 7:08–7:22 | Check-in circle: two weeks of practice since The Return, reported; week-one check-ins debriefed. A thin week is an honest answer. A parent starts. | Container holder |
+| 7:08–7:22 | Check-in circle: two weeks of practice since Evening 12, reported; week-one check-ins debriefed. A thin week is an honest answer. A parent starts. | Container holder |
 | 7:22–7:32 | Luke 6:46–49 and James 1:22–25: the rock and the sand, the mirror. Hearing that is not done does not hold. | Content presenter |
 | 7:32–7:40 | The read-back: quiet, each person alone with their journal, reading their Tell sentences from Evenings 6 to 9. | Content presenter |
 | 7:40–7:48 | Choose one, and make it small: *I heard ________. By ________ I will ________.* Then the test: run it through the *How Did You Know?* checks. | Content presenter |
