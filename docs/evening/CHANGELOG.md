@@ -76,6 +76,18 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.80 — November 22, 2026 — a Guide Card for the parents' pass
+
+John's word (22 November). On December 1 the parents lead John through
+Any Doubts? after watching it done twice. A one-page Guide Card holds the
+steps for them: who guides and who reads; the four steps with the guide's
+exact words (Name, Exaggerate, Sit, Re-read); their part and only their
+part (read, listen, re-read; never fix, argue or teach; never interrupt
+the re-read; what to do if it goes deeper than the evening can hold); the
+four minutes when the room talks over the process; and what to do if they
+get stuck. In Evening 8's Materials, and in the OneDrive Leader Notes
+folder; the page's leads notes point to it.
+
 ## v2.79 — November 22, 2026 — one question about home, at dinner
 
 From the parents' meeting. The parents said reminders are being used at

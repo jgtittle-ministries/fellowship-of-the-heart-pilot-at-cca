@@ -48,6 +48,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 - [Run sheet (Word)](materials/evening-08-run-sheet.docx) — the clock: each block, its time, and who leads it.
 - [Leader notes (Word)](materials/evening-08-leader-notes.docx) — what to say and watch for, slide by slide.
 - [Reading card (Word)](materials/evening-08-reading-card.docx) — the senior reader's script, with the pauses.
+- [Guide card (Word)](materials/evening-08-guide-card.docx) — for the parents who guide John through Any Doubts? in the third walk-through.
 
 
 ## The evening
@@ -209,7 +210,8 @@ is what the evening form changes.
   with each beforehand. Each brings a real doubt, not a raw one: honest,
   and fine for the teens to hear, with adult matters kept for adult
   conversation. Then the parents lead John through it, with his own real,
-  small doubt. Pass-anytime holds, and "I don't notice any right now" is a
+  small doubt, using the one-page Guide Card (Materials, above).
+  Pass-anytime holds, and "I don't notice any right now" is a
   complete answer.
 - **One teen holds the container; John carries the content.** The teen
   leads the welcome, the return round, the merge and the close, and keeps
