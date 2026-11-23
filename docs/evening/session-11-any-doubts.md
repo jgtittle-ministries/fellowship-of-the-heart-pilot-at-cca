@@ -42,6 +42,10 @@ Everything for this evening, current as of the last update. Download, open, prin
 - [Take-home sheet (Word)](materials/evening-08-take-home.docx) — handed out at the close; the practice until the next evening.
 - [The Practices So Far (Word)](materials/evening-08-practices-so-far-card.docx) — every practice walked so far, to choose from.
 
+**For the parents, ahead of the evening**
+
+- [Choosing your verse (Word)](materials/evening-08-verse-note.docx) — the verse each parent brings to the walk-through, and how to choose it.
+
 **For the two leads**
 
 - [Slides (PowerPoint)](materials/evening-08-slides.pptx) — the room screen, with the leader's notes under each slide.
@@ -207,7 +211,8 @@ is what the evening form changes.
   the rest (Matt. 28:17). A sentence or two in the room, not a word study.
 - **Tonight the parents go first, all the way** (the parents' meeting, 22
   November). John walks each parent through it, one at a time, arranged
-  with each beforehand. Each brings a real doubt, not a raw one: honest,
+  with each beforehand; the one-page verse note (Materials, above) goes to
+  the parents ahead, to help them choose. Each brings a real doubt, not a raw one: honest,
   and fine for the teens to hear, with adult matters kept for adult
   conversation. Then the parents lead John through it, with his own real,
   small doubt, using the one-page Guide Card (Materials, above).

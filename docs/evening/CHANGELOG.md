@@ -76,6 +76,20 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.81 — November 23, 2026 — choosing your verse, for the parents
+
+John's word (23 November). A one-page note John sends the parents before
+December 1, to help them choose the verse they bring to Any Doubts?: one
+they say they believe but do not fully trust yet, where a quiet "yes,
+but…" comes up; a small, specific, ordinary doubt the teens may carry too;
+real but not raw, fine for the teens to hear; not needing to be resolved.
+Five verses to start from (Philippians 4:6–7, 1 Peter 5:7, Matthew 6:33,
+Romans 8:28, Isaiah 41:10); tell John the verse and talk beforehand; bring
+a Bible with it marked; "I don't notice any right now" is a full answer.
+In Evening 8's Materials under a new heading, For the parents, ahead of
+the evening, and in the OneDrive Leader Notes folder; the page's leads
+notes point to it.
+
 ## v2.80 — November 22, 2026 — a Guide Card for the parents' pass
 
 John's word (22 November). On December 1 the parents lead John through
