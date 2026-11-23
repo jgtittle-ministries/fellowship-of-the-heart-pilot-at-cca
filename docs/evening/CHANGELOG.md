@@ -76,6 +76,16 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.82 — November 23, 2026 — the verse note on the run sheet
+
+John's word (23 November). Evening 8's run sheet carries the verse note:
+a standing note (sent before December 1; one verse each parent says they
+believe but does not fully trust yet; small, specific and ordinary, real
+but not raw; tell John and talk beforehand; bring a Bible with it marked;
+"I don't notice any right now" is a full answer), and the 7:17 block now
+says each parent comes with the verse chosen ahead. The page's run-sheet
+table says the same.
+
 ## v2.81 — November 23, 2026 — choosing your verse, for the parents
 
 John's word (23 November). A one-page note John sends the parents before
