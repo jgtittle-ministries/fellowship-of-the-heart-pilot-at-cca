@@ -30,6 +30,8 @@ const ROOT_PAGES = ['index.md', 'start-here.md', 'four-connects.md', 'how-we-got
 // landing pages). `order` pins the first files of a group; the rest sort by
 // orderKey. Folders keep their paths, so links into them never break.
 const SERIES_DEFS = [
+  { id: 'readers', name: 'For Readers', groups: [
+    { dir: 'readers', label: null, edition: null, order: ['index.md', 'design-status.md'] } ] },
   { id: 'evening', name: 'FotH Evening', groups: [
     { dir: 'evening', label: null, edition: 'v1',
       // the 23 evenings in order (22 Nov 2026); file names keep their old session keys so links never break

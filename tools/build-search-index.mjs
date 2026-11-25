@@ -17,6 +17,7 @@ const DOCS = join(ROOT, 'docs');
 const SERIES_NAMES = {
   '': 'Home',
   'evening': 'FotH Evening',
+  'readers': 'For Readers',
   'cca': 'CCA Pilot',
   'getting-started': 'CCA Pilot · Getting Started',
   'going-deeper': 'CCA Pilot · Going Deeper',

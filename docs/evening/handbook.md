@@ -67,7 +67,9 @@ shortens the rest.
   was done or said?" The family writes nothing and keeps no count. John
   notes the answers in the debrief, for the room as a whole, with no names.
   "Nothing this time" is a full answer, and anyone who would rather text an
-  answer may.
+  answer may. From December a second question, asked the same way: "Since
+  the last evening, did anyone explain or lead a practice for someone
+  else?" (See How the evenings are watched, below.)
 - **Whole-room rounds scale.** A round that everyone answers becomes one
   word each, or two or three voices, or pairs. One-word merges stay.
 - **One teaching block.** Scripture, teaching, framing and bridge run as one
@@ -141,6 +143,20 @@ and the Settle Protocol apply to the combined forms in full.
   hands the room to the container holder at the merge, and takes it back
   to commission the take-home.
 
+**Why teens lead.** Hebrews 5 ends in teaching others: "by this time you
+ought to be teachers." Jesus sent his disciples out in twos (Mark 6:7), and
+Paul told Timothy to entrust what he had received to faithful people who
+could teach others (2 Tim 2:2). The teens lead a practice, not a soul.
+Leading forms them at any stage, under the adults' covering; it is not a
+sign that they have reached the top, and deeper direction stays with the
+adults. They lead as learners. As Rich Villodas reminds the formation
+movement, Jesus sent his disciples out before they were ready: "They were
+formed in the going." Others have trusted young people this way before
+us; The Upper Room's *Devozine*, written largely by youth themselves,
+treated them as "full participants in the life of faith." These teens are
+a few years from leaving home, and one aim is that they leave able to lead
+others.
+
 With enough teens, the roles can be held by pairs or by individuals as the
 rotation allows. Teens step up as ready and willing — and they have been.
 The rotation is kept on the sign-up sheet, settled at the planning labs.
@@ -173,6 +189,23 @@ they have been troubled at night or by a sense of evil, the backstop adult
 follows [If someone reports oppression from outside](../getting-started/handbook.md#if-someone-reports-oppression-from-outside):
 pray with them in Jesus' name afterward, bring the parent in, and never
 make it a moment in the circle.
+
+**Parents go first, to a limit.** A parent who tells something true first
+gives the teens license for honesty, but the parent goes first into
+honesty, not into the deepest of their own heart work, and the safety
+adults hold that limit. The format also assumes a home safe enough for a
+teenager to be honest in. Where that is not so, the door out and the
+reporting duty on the referral list below are there for exactly that case.
+
+**Not every silence is a dry season.** The room is taught early that the
+practices will go dry, and "nothing came," told honestly, is a true
+telling. But silence that comes with withdrawal, sleeplessness or
+hopelessness is not a dry season. A parent or safety adult who sees it
+follows the referral list below, rather than offering reassurance.
+
+**The same care holds outside the evening.** Parents see every message
+between an adult and a teen, the two-adult rule holds everywhere, and the
+door out follows the school's child-safety policy.
 
 ## Who to call: the evening's referral list
 
@@ -259,7 +292,8 @@ Each session ends with a one-page take-home in four parts:
    first week, with a box to check for each day.
 2. **The end-of-week-one check-in** — at the end of week one, connect with
    the partner you named aloud at commissioning and report how it's going.
-   A text, a call, or a hallway conversation all count. You are not
+   A text, a call, or a hallway conversation all count (parents see every
+   message between an adult and a teen). You are not
    grading each other; you are *expecting* each other. If your family
    wants to do the week-one check-in together at the table as well, that
    is welcome: one family found the parents hearing each check-in was a
@@ -341,14 +375,61 @@ them in the week, which is also the likeliest reason a guest comes back.
 It is teaching others in its smallest form. Anything of weight still goes
 to an adult.
 
-## How the group is watched over
+## How the evenings are watched
 
-The [three vital signs](../shared/three-vital-signs.md) are watched as
-always. At each long break, the return round reads what held and which
-practices people chose, and the leads count the choices quietly, with no
-names, per the [measurement covenant](../shared/measurement-covenant.md)
-and the family's consent. What is measured is the health of the work —
-never the worthiness of the people.
+What is watched is the health of the work, never the worthiness of the people. We observe rather than measure, because when care and evidence pull against each other, care wins, as a standing rule and not a concession for one year. In practice it means a shepherd's eyes rather than a survey (Ezek 34:4; John 10:11–14). No one fills in a form about themselves, no one is scored, and no level is ever spoken to anyone. What is read is a practice or the room, never a person: each observation is of one practice, because internalization is uneven, and what the team sees is fruit, not root (Matt 7:16–20). An absence of fruit is never an occasion for pretense or condemnation, only a sign that the work has more to do. The team's commitments are in the [Measurement Covenant](../shared/measurement-covenant.md), and the [three vital signs](../shared/three-vital-signs.md) are watched as always.
+
+One exception is bounded. A person is discerned only when they take up a role, such as leading, and then only with their own and their family's consent. Those who hold the work discern it by several witnesses over time, and it is never given back as a grade.
+
+The watching is never done behind a family's back. The parents signed consent before the evening form began and are in the room the whole time, and each teenager has given their own assent. The elder who oversees the evenings can pause any of it, and stopping is always allowed.
+
+### The six criteria
+
+Every question and count has to earn its place. It is:
+
+1. **simple,**
+2. **quick,**
+3. **easy to collect and track;**
+4. it **asks about a practice by name**, so that it reflects the evenings rather than growing up;
+5. it is something **parents would want to do for their teens;**
+6. and it **works for a teen whose parent is not in the room.**
+
+### What is asked, when, and of whom
+
+| When | Who answers | The question |
+|---|---|---|
+| Every dinner | The parents (or, for a teen whose parent cannot take part, the check-in partner) | "Since the last evening, what did you notice at home? Anyone coming back to a practice on their own, or a reminder being used?" One follow-up if someone answers: "What was done or said?" |
+| Every dinner, from December | The same | "Since the last evening, did anyone explain or lead a practice for someone else?" |
+| Every evening, the Leader Feedback Round | The leaders, then the room | What went well, and what would you do differently? |
+| After each evening a teen leads | That teen lead | "What did leading this teach you that hearing it did not?" Asked the same way every time. |
+| After each evening, the debrief | The adult and teen leads | What went well? What should we change? What did the room seem to be telling us? |
+| At the send-off before a long break | Everyone | Each person chooses one practice and writes it in the journal; the returning rule is said aloud, and who to reach is named. |
+| At the return round after a long break | Everyone | What held? And where it slipped, did you come back to it, all by yourself, because you wanted to? Did anyone remind you? |
+| Some days after a guest's evening | The person who invited the guest | How did it land? Are you doing anything with it? (see "Newcomers, drop-ins, and guests," above) |
+| At the close of the first movement, the midpoint and the end | The team only, never in the room | The room's trust: held, known or owned ([Watching Trust Grow](../shared/watching-trust-grow.md)). |
+| About once a quarter | The room | What should we keep? What should we change? What would you tell somebody else about what this group is like? |
+| At the midpoint and the end | The parents | What have you seen in your teen this year that is just growing up, and what came from the evenings? |
+| Each season, after the commissioning | A Companion who watched the family's year | A simple check-in, with no page and no instrument. |
+
+### Why these questions
+
+- **The return.** Asked early on how they would tell whether internalization is working, the teens answered as if it would be like grading homework, which is itself a finding about where teenagers start. So the question became plain: when life interrupts the practice, do you come back to it, on your own? The long breaks give it its trial. "I didn't" is as welcome as any answer, and what people choose unassigned shows which practices carry real desire.
+- **What is seen at home.** Most of the practice lives between evenings, where no leader can see it, so the parents are asked what they see. Their weeks are full, so it is one spoken question, the same words every time, and nothing to keep.
+- **Explaining or leading for someone else.** Hebrews 5 ends in teaching others ("by this time you ought to be teachers"). Until December its only sign was the teens leading the evenings, but leading under covering forms people at any stage, so the second dinner question looks for the smaller forms, such as explaining a practice to someone who missed it.
+- **The families' own choice.** The parents set the date of each evening themselves, and families with full weeks keep making room for it. That is a plain sign of the value they put on the evenings, though it cannot say how much of that value is the practices and how much is the dinner and the company.
+- **Read together, never alone.** Every sign is read with the others. No single count stands for growth.
+
+### How the answers are handled
+
+- **Nothing is written by the family.** Answers are spoken, at the table or in the room. "Nothing this time" is a full answer, a pass is always allowed, and anyone who would rather text an answer may.
+- **John notes the answers in the debrief, for the room as a whole, with no names.** Counts are kept without names: how many chose each practice, how many came back to it, how many explained or led one for someone else.
+- **Never one person against another.** A teen's answer is never set beside a parent's, and no person is compared with another.
+- **A gap is data.** What people say of themselves is weighed beside what the leaders and parents see. When they differ, the difference is noted for the room, not held against anyone.
+- **Nothing about a person goes into the record.** No note records anyone's inner life. A concern for someone's safety or wellbeing goes to the safety adults and the referral list above, never into the observations.
+- **When a reading looks wrong,** suspect the instrument first, then the tending, and only then the room.
+- **When the watching changes,** a practice and the question that reads it never change at the same time; a changed question starts over and is never compared with the old one; and the change is logged in the [change log](CHANGELOG.md) like any other.
+
+What the observations show so far, at the level of the room, is kept in [Design Status](../readers/design-status.md).
 
 ---
 

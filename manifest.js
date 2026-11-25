@@ -36,6 +36,24 @@ window.SERIES = [
     "path": "docs/how-we-got-here.md"
   },
   {
+    "id": "readers",
+    "kind": "series",
+    "name": "For Readers",
+    "folder": "docs/readers",
+    "edition": null,
+    "index": "docs/readers/index.md",
+    "chapters": [
+      {
+        "path": "docs/readers/index.md",
+        "title": "For Readers of the Article"
+      },
+      {
+        "path": "docs/readers/design-status.md",
+        "title": "Design Status"
+      }
+    ]
+  },
+  {
     "id": "evening",
     "kind": "series",
     "name": "FotH Evening",
@@ -992,6 +1010,20 @@ window.PATH_TO_INFO = {
     "seriesName": "How we got here",
     "title": "How we got here",
     "indexPath": "docs/how-we-got-here.md"
+  },
+  "docs/readers/index.md": {
+    "seriesId": "readers",
+    "seriesName": "For Readers",
+    "title": "For Readers of the Article",
+    "indexPath": "docs/readers/index.md",
+    "next": "docs/readers/design-status.md"
+  },
+  "docs/readers/design-status.md": {
+    "seriesId": "readers",
+    "seriesName": "For Readers",
+    "title": "Design Status",
+    "indexPath": "docs/readers/index.md",
+    "prev": "docs/readers/index.md"
   },
   "docs/evening/index.md": {
     "seriesId": "evening",

@@ -60,7 +60,7 @@ The [shared](shared/index.md) materials walk alongside every expression:
 
 ## Status
 
-How the work came to this point, from one full day in 2024 to the evenings, is told in [How we got here](how-we-got-here.md).
+How the work came to this point, from one full day in 2024 to the evenings, is told in [How we got here](how-we-got-here.md). Where the evening series stands, and how its design is faring, is kept in [Design Status](readers/design-status.md), updated after each debrief; readers of the article about the design can start at [For Readers of the Article](readers/index.md).
 
 The Evening is running and is updated after each evening's debrief. The CCA
 pilot is written and waiting for its first cohort. The adult sequence is

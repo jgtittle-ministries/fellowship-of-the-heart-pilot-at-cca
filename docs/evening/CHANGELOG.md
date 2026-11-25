@@ -76,6 +76,41 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.83 — November 25, 2026 — the living record behind the article
+
+John's word (25 November). The article about the design is now a design
+framework that points to a living record on this site, so the site gains
+that record and the handbook gains what the article no longer carries.
+
+- **For Readers of the Article** (new page, with the short address
+  /readers/): the release the article describes, each section of the
+  article mapped to the current pages, how the article was checked, the
+  license and how to cite.
+- **Design Status** (new page): where the series stands, Table 1 as it
+  stands (each conjecture, what has been seen and when it is read next),
+  the change tally by period (51 from the room, 37 from John's review) and
+  the dated decisions with their reasons. Updated after each debrief, at
+  the level of the room.
+- **Evening Handbook, "How the evenings are watched"** (replaces "How the
+  group is watched over"): the six criteria; every question asked, when
+  and of whom, including the guest questions and, from December, the
+  second dinner question ("did anyone explain or lead a practice for
+  someone else?"); the trust observation at three set points; the
+  quarterly room questions and the parents' question at the midpoint and
+  the end; why these questions; and how the answers are handled. The
+  dinner bullet under "Keeping the evening to time" names the second
+  question.
+- **Back from the article to the handbook:** why teens lead (Hebrews 5,
+  "a practice, not a soul," formed in the going); parents go first, to a
+  limit; not every silence is a dry season; the same care outside the
+  evening (parents see every message between an adult and a teen, the
+  two-adult rule everywhere); and the take-home's check-in line says the
+  same about messages.
+- **How We Got Here:** the story before 2024 (the 2002 group, the letters,
+  written for children and grandchildren) and a "Where it stands" that
+  points to Design Status and For Readers.
+- **Front page** Status points to both; the menu gains "For Readers".
+
 ## v2.82 — November 23, 2026 — the verse note on the run sheet
 
 John's word (23 November). Evening 8's run sheet carries the verse note:

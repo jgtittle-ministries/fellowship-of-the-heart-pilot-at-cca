@@ -6,7 +6,9 @@ title: "How Fellowship of the Heart Got Here, 2024–2026"
 
 *From one full day to twenty-three evenings. A history of adaptation: the core held while the room, the rhythm and the length changed.*
 
-The longer history, from 2002, is in *Intentional Journey of the Heart*: [The Four Connects, a Dated History](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-2-knowing-to-doing%2Fexploration-05-appendix-four-connects-dated-history.md). This page tells the part that belongs to *Fellowship of the Heart*.
+In 2002 a small group of men met on Saturday mornings for about a year, pairing the study of Scripture with experiential prayer. In 2014 the teaching was written down as letters, each claim held at a stated level of certainty and revised as evidence came in, and the letters grew into the volumes of *Intentional Journey of the Heart*. I wrote it all down for my children and grandchildren, in the hope that they would hear the Lord speak to them personally. Rich Villodas recognizes the pattern: his Pentecostal grandfather, who never used the phrase "spiritual formation," formed him anyway, and "his bedroom was my first monastery and seminary." Formation has always run through homes and generations. The longer history is in *Intentional Journey of the Heart*: [The Four Connects, a Dated History](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/reader.html#docs%2Fvolume-2-knowing-to-doing%2Fexploration-05-appendix-four-connects-dated-history.md).
+
+This page tells the part that belongs to *Fellowship of the Heart*, which is how that teaching is put into practice: an invitation to turn head knowledge into heart transformation, to move from knowing to doing.
 
 ---
 
@@ -56,6 +58,6 @@ A second form, a semester elective at the same school, has been proposed. It wou
 
 ## Where it stands
 
-The evenings are running, and every change to them is written down with its date and its reason in the [Evening change log](evening/CHANGELOG.md). What the evenings teach flows back into the CCA Pilot and Adult FotH. The account of what this first evening cycle is teaching is being written as an action research report.
+The evenings are running, and every change to them is written down with its date and its reason in the [Evening change log](evening/CHANGELOG.md). What the evenings teach flows back into the CCA Pilot and Adult FotH. The design is being written up as an article, "If a Teenager Can Use It…: A Design Framework for a Curriculum in Hearing and Obeying God," which sets out the principles, method and decisions with their reasons. Where the series stands, how each of the design's conjectures is faring, and the dated decisions are kept in [Design Status](readers/design-status.md), and [For Readers of the Article](readers/index.md) maps the article to the current pages.
 
 The apprenticeship the prototype ended in has become the way the work is carried: by teenagers who lead.
