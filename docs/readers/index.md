@@ -24,7 +24,7 @@ Each release is a fixed copy of the whole site and its change logs. Comparing th
 
 | Article section | What is current, and where |
 |---|---|
-| **First Principles** | The teaching behind the curriculum, with its three tiers of certainty: [*Intentional Journey of the Heart*](https://intentionaljourneyoftheheart.org). The foundation article, "Measuring Spiritual Maturity in Hearing God," has its own [project page](https://intentionaljourneyoftheheart.org/reader.html#docs%2Fvolume-5-references%2Fmeasuring-spiritual-maturity-in-hearing-god.md). |
+| **First Principles** | The teaching behind the curriculum, with its three tiers of certainty: [*Intentional Journey of the Heart*](https://intentionaljourneyoftheheart.org). The foundation article, "Measuring Spiritual Maturity in Hearing God," is published in the *Journal of Spiritual Formation and Soul Care* ([doi.org/10.1177/19397909261506283](https://doi.org/10.1177/19397909261506283)) and has its own [project page](https://intentionaljourneyoftheheart.org/reader.html#docs%2Fvolume-5-references%2Fmeasuring-spiritual-maturity-in-hearing-god.md). |
 | **A Design, Not a Program** (Table 1) | [Design Status](design-status.md): each conjecture in Table 1, what has been seen of it so far, and when it is read next. |
 | **What the Curriculum Trains** | [The Four Connects](../four-connects.md), the starting place; [PROAPT: what each step is for](../shared/proapt-what-each-step-is-for.md), the hearing practice at the center. |
 | **How We Got Here** | [How Fellowship of the Heart Got Here, 2024–2026](../how-we-got-here.md), the dated history. |
@@ -51,4 +51,4 @@ Tittle, John G. *Fellowship of the Heart: A Curriculum for Formation in Hearing 
 
 ---
 
-*Last updated: 25 November 2026.*
+*Last updated: 27 November 2026.*
